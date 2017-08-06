@@ -5,7 +5,7 @@
             <h3>{{ site.organizersTitle }}</h3>
             {% for organizer in site.data.organizers %}
              <!-- <h5>{{ organizer.group }}</h5>  -->
-            <ul class="list-inline">
+            <ul class="list-inline" style="margin-bottom: 0">
                 {% for element in organizer.elements %}
                 <li {% if element.width != null %}style="width: {{ element.width }};"{% endif %}>
                     <a href="{{ element.link }}" target="_blank">
