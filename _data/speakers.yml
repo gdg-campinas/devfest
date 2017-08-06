@@ -1,5 +1,6 @@
+# Hugo Rozestraten
 - 
-  id: 1
+  id: 10
   name: "Hugo"
   surname: "Rozestraten"
   company: "Amazon Web Services"
@@ -10,94 +11,200 @@
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/hugorozestraten/"}
 
+# Kenzo Porto
 - 
-  id: 2
+  id: 11
   name: "Kenzo"
   surname: "Porto"
   company: "Google Cloud"
   title: "Cloud Program Manager"
-  bio: "<< kenzoporto.bio >>"
+  bio: ""
   thumbnailUrl: KenzoPorto.jpg
   rockstar: true
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/eduardo-kenzo-kurahayashi-porto-9424a6a/"}
 
+# Wagner Bianchi
 - 
-  id: 3
+  id: 12
   name: "Wagner"
   surname: "Bianchi"
   company: "MariaDB"
   title: "Principal Remote DBA"
-  bio: "<< wagnerbianchi.bio >>"
+  bio: ""
   thumbnailUrl: WagnerBianchi.jpg
   rockstar: true
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/wagnerbianchi/"}
-
+  
+# Andrea Sunam	https://www.linkedin.com/in/andrea-suman-00a07641/
 - 
-  id: 3
-  name: "Dawid"
-  surname: "Ostrowski"
-  company: "Google Poland"
-  title: "Developer Relations Program Manager"
-  bio: "Dawid is true technology enthusiast, who loves to work in areas where humans and machines meet to create amazing new products and services. He is experienced program manager with strong technical background, who is able to establish priorities for complex projects and execute across multiple organizations, according to long-term objectives. Dawid has worked in Poland, USA, Germany, Belgium and The Netherlands and truly values diversity of international working environment. His most visible characteristics are individualization (when dealing directly with people), ideation&intellection (inexhaustible source of new concepts) and strong communication (experienced trainer, community manager). He is also an activator constantly impatient for action."
-  thumbnailUrl: DawidOstrowski.jpg
-  rockstar: true
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
-- 
-  id: 4
-  name: "Dmytro"
-  surname: "Danylyk"
-  company: "Lemberg Solutions Limited"
-  title: "Android Developer"
-  bio: '<p>Developer. Nominated to apply for the <a href="http://goo.gl/V7qHc">Google Developer Expert Program</a>. Finalist of <a href="http://goo.gl/HO2kLf">Google Apps Developer Challenge 2012</a>. Author of open source <a href="http://goo.gl/Sp5Pel">libraries</a> 1000+ stars. Writer. When Dmytro has free time he is writing <a href="http://goo.gl/AoOVru">technical articles</a>. Speaker. Always trying to share his knowledge &amp; experience on different <a href="http://goo.gl/PNolZY">events</a>. Big fan of android, flat design, stackoverflow, git, Intellij IDEA. Eclipse IDE hater.</p>'
-  thumbnailUrl: DmytroDanylyk.jpg
+  id: 13
+  name: "Andrea"
+  surname: "Sunan"
+  company: "Itaú"
+  title: "CDO Chief Data Officer"
+  bio: ""
+  thumbnailUrl: AndreaSunan.jpg
   rockstar: false
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-    - {name: "github", link: "https://github.com/dmytrodanylyk"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/andrea-suman-00a07641/"}
+
+# Eiti Kimura
 - 
-  id: 5
-  name: "Mateusz"
-  surname: "Herych"
-  company: "Base CRM, GDG Krakow"
-  title: "Software Engineer"
-  bio: "Mateusz is an Android GDE and GDG organizer. Works as Android Developer for Base CRM where he uses his android-abracadabras to make enterprise software users more productive."
-  thumbnailUrl: MateuszHerych.jpg
+  id: 14
+  name: "Eiti"
+  surname: "Kimura"
+  company: "Movile"
+  title: "Coordenador de TI"
+  bio: "Eiti tem mais de 15 anos de experiência com desenvolvimento de software, além de mestrado em eng. elétrica com especialização em engenharia de software. Possui a certificação Apache Cassandra 2014-2015 e trabalha com o Cassandra desde a versão 0.6. Tem ampla experiência no desenvolvimento de sistemas de back-end para serviços de cobrança de operadoras de telefonia, envio de mensagens SMS em massa Hoje trabalha como Coordenador de TI e arquiteto de sistemas distribuídos de alta performance na Movile Brasil."
+  thumbnailUrl: EitiKimura.jpg
+  rockstar: false
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/eitikimura/"}
+
+# Erickson Ricci
+- 
+  id: 15
+  name: "Erickson"
+  surname: "Ricci"
+  company: "SQL Core"
+  title: "CEO & Founder"
+  bio: "Profissional com mais de 10 anos de experiência na área de banco de dados tendo atuado em grandes empresas como IBM, Microsoft, Banco Itaú, Aurea (US), entre outras.
+Além de certificações Microsoft em SQL Server, realizou o Empretec do Sebrae em 2016 e está cursando Gestão Empresarial na FGV.
+É fundador da SQLCORE, consultoria especializada em SQL Server, prestando consultoria de tuning, alta disponibilidade e administração de bancos de dados.
+"
+  thumbnailUrl: EricksonRicci.jpg
+  rockstar: false
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/ericksonricci/"}
+
+# Felipe Pereira
+- 
+  id: 16
+  name: "Felipe"
+  surname: "Pereira"
+  company: "Dextra"
+  title: "Senior Database Analyst"
+  bio: "Sou especialista em Bancos de Dados, apaixonado por aprender, com mais de 10 anos de experiência na área e com expertise em Oracle, PostgreSQL, SQL Server e MySQL. Também tenho interesse em Metodologias Ágeis, Analytics e DevOps."
+  thumbnailUrl: FelipePereira.jpg
+  rockstar: false
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/felipe-pereira-dba/"}
+
+# Fernando Ultremare
+- 
+  id: 17
+  name: "Fernando"
+  surname: "Ultremare"
+  company: "Dextra"
+  title: "Gerente de Desenvolvimento"
+  bio: ""
+  thumbnailUrl: FernandoUltremare.jpg
   rockstar: false
   ribbon: 
     - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+MateuszHerych"}
-    - {name: "twitter", link: "https://twitter.com/mherych"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/fernando-ultremare-7850459/"}
+
+# Flávio Clésio
 - 
-  id: 6
-  name: "Roman"
-  surname: "Mazur"
-  company: "Stanfy, GDG Kyiv"
-  title: "Head of Android/Java Unit"
-  bio: "Roman started his way in Android 5 years ago and fall in love with this platform. Currently he is a head of Android unit in Stanfy LLC and a co-organizer of Kyiv Google Developers Group focusing on Android development. Roman is responsible for building a strong team of Android developers inside Stanfy as well as for organizing Android professionals community in Kyiv."
-  thumbnailUrl: RomanMazur.jpg
+  id: 18
+  name: "Flávio"
+  surname: "Clésio"
+  company: "Movile"
+  title: "Core Machine Learning "
+  bio: "Flávio Clésio é especialista em Machine Learning e garantia de receita pela Movile, onde desenvolve aplicações inteligentes para exploração de oportunidades de aumento de receita, além de automação da tomada de decisão. Antes da Movile, trabalhou com Business Intelligence no mercado financeiro, especialmente no mercado de créditos não performados (Non-Performing Loans). Possuí mestrado em inteligência computacional aplicada no mercado financeiro."
+  thumbnailUrl: FlavioClesio.jpg
   rockstar: false
-  ribbon:
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+RomanMazur/"}
-    - {name: "twitter", link: "http://twitter.com/roman_mazur"}
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/flavioclesio/"}
+
+# Luciano Sabença
 - 
-  id: 7
-  name: "Valentyn"
-  surname: "Shybanov"
-  company: "Twinfield, GDG Kyiv"
-  title: "Software engineer/country manager"
-  bio: "Valentyn focuses on Polymer and Web Components. In previous roles he’s helped craft design systems for massive enterprise companies, user interfaces for console titles, and even built the occasional enchanted princess game. These days his mission is to fight for a better web and to help developers build great experiences."
-  thumbnailUrl: ValentynShybanov.jpg
+  id: 19
+  name: "Luciano"
+  surname: "Sabença"
+  company: "Movile"
+  title: "Software Engineer"
+  bio: "Luciano é Software Engineer na Movile há mais de 5 anos, atuando com na arquitetura e desenvolvimento de sistemas distribuídos e Machine Learning. Possuí interesse pelas áreas de Machine Learning, Teoria da Computação e sistemas distribuídos. É técnico em informática pelo Colégio Técnico de Campinas e bacharel, com distinção, em Ciência da Computação pelo IC/Unicamp."
+  thumbnailUrl: LucianoSabenca.jpg
   rockstar: false
-  ribbon:
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
-  social: 
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-    - {name: "site", link: "http://olostan.name/"}
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/luciano-saben%C3%A7a-9162b149/"}
+
+# Matheus Espanhol
+- 
+  id: 20
+  name: "Matheus"
+  surname: "Espanhol"
+  company: "Movile"
+  title: "Coordenador de Data Engineering"
+  bio: "Matheus Espanhol é consultor em banco de dados com 10 anos de experiência em ambientes OLTP e OLAP. Atua como arquiteto de soluções Bigdata na Movile."
+  thumbnailUrl: MatheusEspanhol.jpg
+  rockstar: false
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/matheusespanhol/"}
+
+# Matheus Oliveira
+- 
+  id: 21
+  name: "Matheus"
+  surname: "Oliveira"
+  company: "iFood"
+  title: "DBA"
+  bio: "Formado em Ciências de Computação pela USP, é apaixonado por tecnologia e
+    especificamente trabalhar com dados. Hoje é o líder técnico da equipe de
+    banco de dados no iFood, onde ajuda a empresa a suportar a demanda comum
+    de uma Black Friday em comércios online, só que todo final de semana;
+    suportando toda camada de armazenamento de dados de vários micro-serviços que
+    suportam a operação do iFood. Possui domínio de várias tecnologias de banco de
+    dados, mas tendo maior domínio e atuação com o PostgreSQL, que já trabalha há
+    vários anos, com suporte, treinamento, e até mesmo contribuição ao código
+    fonte do projeto."
+  thumbnailUrl: MatheusOliveira.jpg
+  rockstar: false
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/matheusdeoliveira/"}
+
+# Sulamita Dantas
+- 
+  id: 22
+  name: "Sulamita"
+  surname: "Dantas"
+  company: "Sulamita"
+  title: ""
+  bio: ""
+  thumbnailUrl: SulamitaDantas.jpg
+  rockstar: false
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/sulamita-dantas-21976340/"}
+
+# Thiago Caserta
+- 
+  id: 23
+  name: "Thiago"
+  surname: "Caserta"
+  company: "Ativy"
+  title: "Diretor de Produtos e Soluções"
+  bio: "Thiago Caserta é Diretor de Produtos e Soluções da Ativy, empresa brasileira com foco em Cloud Computing e IT Outsourcing. Formado em Análise de Sistemas com especialização em Management and Leadership pela FGV e Cloud Computing pela University of Illinois, IL, USA. Possui diversas certificações focadas em SQL Server. Caserta passou por empresas como T-Systems e IBM atuando como especialista em banco de dados e entre 2011 e 2016 trabalhou na Microsoft Corporation nos Estados Unidos, atuando com clientes da plataforma de dados SQL Server na adoção das soluções em nuvem da Microsoft (Azure e SQL Azure), como JP Morgan, UPS, Intel e Cisco."
+  thumbnailUrl: ThiagoCaserta.jpg
+  rockstar: false
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/thiagocaserta/"}
+
+# - 
+#   id: 99
+#   name: "Mateusz"
+#   surname: "Herych"
+#   company: "Base CRM, GDG Krakow"
+#   title: "Software Engineer"
+#   bio: "Mateusz is an Android GDE and GDG organizer. Works as Android Developer for Base CRM where he uses his android-abracadabras to make enterprise software users more productive."
+#   thumbnailUrl: MateuszHerych.jpg
+#   rockstar: false
+#   ribbon: 
+#     - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
+#     - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
+#   social: 
+#     - {name: "google-plus", link: "https://plus.google.com/+MateuszHerych"}
+#     - {name: "twitter", link: "https://twitter.com/mherych"}

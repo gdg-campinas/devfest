@@ -1,7 +1,7 @@
 - 
   group: "Main organizer"
   elements: 
-    - {name: "GDG Campinas", description: "GDG Campinas", link: "http://gdg-campinas.org", imageUrl: "gdg-campinas.svg", width: "100%"}
+    - {name: "GDG Campinas", description: "GDG Campinas", link: "https://www.meetup.com/gdgcampinas/", imageUrl: "gdg-campinas.svg", width: "100%"}
 # - 
 #   group: "Co-organizers"
 #   elements: 

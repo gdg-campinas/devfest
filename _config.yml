@@ -27,11 +27,11 @@ organizerAlternateName: "Google Developer Group Campinas"
 organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
 organizerEmail: "contato@gdg-campinas.org"
 organizerLogo: "/img/seo/organizer-logo.png"
-organizerLink: "http://lviv.gdg.org.ua/"
+organizerLink: "https://www.meetup.com/gdgcampinas/"
 
 # Head
 metaKeywords: "event, gdg, datafest, data, fest, google, programming, developers, campinas, database, sql, nosql, cloud"
-twitterAccount: "@DevFest"
+twitterAccount: "@gdgcampinas"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
@@ -43,17 +43,17 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Navigation
 navigationLinks:
- - {permalink: "/", text: "Home"}
+ - {permalink: "/", text: "Principal"}
 #  - {permalink: "/blog/", text: "Blog"}
- - {permalink: "/schedule/", text: "Agenda"}
+#  - {permalink: "/schedule/", text: "Agenda"}
  - {permalink: "/speakers/", text: "Palestrantes"}
- - {permalink: "/team/", text: "Time"}
+#  - {permalink: "/team/", text: "Time"}
 #  - {permalink: "/logistics/", text: "Logistics"}
 #  - {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
- - {link: "https://bit.ly/dfua-c4p", text: "Ingressos"}
+ - {link: "<< ticket_eventbrite_link >>", text: "Ingressos"}
 rightNavigationButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Ingressos"}
+ - {link: "<< ticket_eventbrite_link >>", text: "Ingressos"}
 
 # Hero Block
 heroImage: "datacenter.jpg"
@@ -84,7 +84,7 @@ statisticBlock:
 latestNewsTitle: "Latest news"
 
 # Rockstar Speakers Block
-rockstarSpeakersImage: "rockstar-speakers.jpg"
+rockstarSpeakersImage: "background-speakers.jpg"
 rockstarSpeakersCount: 3
 rockstarSpeakersTitle: "Destaque"
 rockstarSpeakersButtonText: "Veja todos palestrantes"
@@ -113,14 +113,15 @@ venueBigImage: "venue_campinas_0.jpg"
 venueSmallImage1: "venue_campinas_1.jpg"
 venueSmallImage2: "venue_campinas_2.jpg"
 venueSmallImage3: "venue_campinas_3.jpg"
-venueTitle: "Centro de Convenções da Unicamp"
-venueFeatures: ["venue_feature_01", "venue_feature_02", "venue_feature_03"]
+venueTitle: "Centro de Convenções"
+venueFeatures: ["Unicamp", "Cidade Universitária"]
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "Esperamos por você!"
 twitterHashTag: "datafest"
 twitterFeed: "<< twitter_feed_url >>"
+twitterHomeUrl: "https://twitter.com/gdgcampinas"
 
 # Partners Block
 organizersTitle: "Realização"
@@ -138,7 +139,7 @@ ticketsTitle: "Ingressos"
 ticketsInfo: "Os ingressos dão acesso a todas as trilhas e coffee brakes."
 ticketsOffers:
  -
-  name: "<< ticket_01_name >>"
+  name: "Early Bird"
   price: "40,00"
   priceCurrency: "R$"
   ticketsNumber: "150"
@@ -203,7 +204,7 @@ footerBlocks:
 # discusShortName: "devfestua"
 
 # Speakers List Block
-showSessions: true
+showSessions: false
 
 # Team Block
 teamBlockTitle: "About us"
