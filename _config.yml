@@ -12,7 +12,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 # Site Settings
 title: "DataFest"
 email: "devfest@gdg.org.ua"
-description: "GDG DevFest is a set of events all around the world"
+description: "O Data Fest é o maior evento do interior de São Paulo voltado para a disseminação do conhecimento a respeito de big data, armazenamento e processamento dados (data) e assuntos relacionados."
 baseurl: "/datafest"
 url: "https://gdg-campinas.github.io"
 permalink: "/blog/:title"
@@ -20,6 +20,14 @@ googleAnalyticsTrackingId: "UA-43643469-5"
 googleAnalyticsSiteUrl: "gdg-campinas.github.io"
 siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 mapsApiKey: "AIzaSyBKggjiyNZRv2LMI86wSOAu2f2yZzUXArI"
+
+aboutEvent:
+  title: "SOBRE O DATAFEST"
+  content: "O Data Fest é o maior evento do interior de São Paulo voltado para a disseminação do conhecimento a respeito de big data, armazenamento e processamento dados (data) e assuntos relacionados."
+aboutGDG:
+  title: "O QUE É O GDG?"
+  content: "O GDG Campinas é parte de um programa do Google (Google Developer Group) sendo atualmente 1 de mais de 622 comunidades espalhadas pelo mundo. 
+  <br> Possuimos o objetivo de proporcionar ambientes de compartilhamento de conhecimento sobre os mais diversos assuntos que permeiam o desenvolvimento de um produto (software), da maneira mais acessível a todos que estiverem dispostos a aprender e compartilhar conosco."
 
 # Organizer Info
 organizerName: "GDG Campinas"
@@ -51,14 +59,14 @@ navigationLinks:
 #  - {permalink: "/logistics/", text: "Logistics"}
 #  - {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
- - {link: "<< ticket_eventbrite_link >>", text: "Ingressos"}
+ - {link: "https://www.eventbrite.com.br/e/data-fest-17-tickets-36810938508", text: "Ingressos"}
 rightNavigationButtons:
- - {link: "<< ticket_eventbrite_link >>", text: "Ingressos"}
+ - {link: "https://www.eventbrite.com.br/e/data-fest-17-tickets-36810938508", text: "Ingressos"}
 
 # Hero Block
 heroImage: "datacenter.jpg"
-heroTitle: "GDG DataFest <typeout> 2017"
-eventDate: "26/Setembro/2017"
+heroTitle: "GDG <typeout> DataFest 2017"
+eventDate: "26 de Setembro de 2017"
 typeoutTextValues: '"", "Campinas"'
 typeoutFallback: "Campinas"
 heroButtons:
@@ -85,7 +93,7 @@ latestNewsTitle: "Latest news"
 
 # Rockstar Speakers Block
 rockstarSpeakersImage: "background-speakers.jpg"
-rockstarSpeakersCount: 3
+rockstarSpeakersCount: 4
 rockstarSpeakersTitle: "Destaque"
 rockstarSpeakersButtonText: "Veja todos palestrantes"
 
@@ -144,12 +152,11 @@ ticketsOffers:
   priceCurrency: "R$"
   ticketsNumber: "150"
   # ribbon: "-5%"
-  buyButtonLink: "<< ticket_eventbrite_link >>"
+  buyButtonLink: "https://www.eventbrite.com.br/e/data-fest-17-tickets-36810938508"
   buyButtonText: "Comprar"
   # ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "06/08/2017T14:00"
+  validFrom: "06/08/2017T19:30"
   validThrough: "25/09/2017T23:59"
-  disabled: true
 #  -
 #   name: "Last Chance"
 #   price: "450"
@@ -188,8 +195,9 @@ footerBlocks:
  -
   title: "Links"
   links:
-   - {link: "http://gdg-campinas.github.io/devfest/", text: "DevFest"}
-   - {link: "http://gdg-campinas.github.io/qualityfest/", text: "QualityFest"}
+   - {link: "https://www.meetup.com/gdgcampinas/", text: "Meetup"}
+   - {link: "https://www.facebook.com/groups/gdgcampinas/", text: "Grupo Facebook"}
+   - {link: "https://chat.whatsapp.com/H7KW7cqz9pVCbw9onN48qZ", text: "Whatsapp"}
  -
   title: "Contatos"
   links:

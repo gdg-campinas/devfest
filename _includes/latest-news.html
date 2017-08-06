@@ -4,23 +4,20 @@
 		<div class="col-lg-10 col-lg-offset-1">
 			<!-- <h3>{{ site.latestNewsTitle }}</h3> -->
 			<article class="row">
-				{% for post in site.posts limit:2 %}
-                    {% assign postUrl = site.baseurl | append: post.url %} 
-					<div class="post col-md-6 col-sm-6 text-left animated hiding" data-animation="fadeInDown" data-delay="500">
-						<h6>{{ post.title }}</h6>
-            <div class="post-body"
-              {% capture modulo %}{{ forloop.index0 | mod:2 }}{% endcapture %}
-              {% if modulo == '0' or forloop.first %}  
-                style="display: inline-block; padding-right: 30px" 
-              {% else %}
-                style="display: inline-block"
-              {% endif %} 
-            >
-              {{ post.content }} 
-              <!-- <a href="{{ postUrl }}">continue reading</a> -->
-            </div>
-					</div>
-        {% endfor %}
+        <div class="post col-md-6 col-sm-6 text-left animated hiding" data-animation="fadeInDown" data-delay="500">
+          <h6>{{ site.aboutEvent.title }}</h6>
+          <p class="post-body">
+            {{ site.aboutEvent.content }} 
+            <!-- <a href="{{ postUrl }}">continue reading</a> -->
+          </p>
+        </div>
+        <div class="post col-md-6 col-sm-6 text-left animated hiding" data-animation="fadeInDown" data-delay="500">
+          <h6>{{ site.aboutGDG.title }}</h6>
+          <p class="post-body">
+            {{ site.aboutGDG.content }} 
+            <!-- <a href="{{ postUrl }}">continue reading</a> -->
+          </p>
+        </div>
 			</article>
 		</div>
 	</div>

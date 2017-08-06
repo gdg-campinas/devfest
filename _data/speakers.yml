@@ -6,7 +6,7 @@
   company: "Amazon Web Services"
   title: "Solutions Architect"
   bio: "Hugo Rozestraten é Arquiteto de Soluções de Big Data e Banco de Dados na AWS América Latina. Tem 18 anos de atuação na área de Tecnologia da Informação, tendo iniciado com desenvolvimento, e por mais de uma década como DBA/ATG Oracle. Atuou na IBM, Oracle, e atualmente na Amazon Web Services (AWS) ajudando clientes no desenho de soluções e migrações para a nuvem. Se formou em Engenharia Agronômica em 1994 pela ESALQ-USP e MBA em 2001 pela FEA-USP."
-  thumbnailUrl: HugoRozestraten.jpg
+  thumbnailUrl: HugoRozestraten.jpeg
   rockstar: true
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/hugorozestraten/"}
@@ -36,19 +36,6 @@
   rockstar: true
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/wagnerbianchi/"}
-  
-# Andrea Sunam	https://www.linkedin.com/in/andrea-suman-00a07641/
-- 
-  id: 13
-  name: "Andrea"
-  surname: "Sunan"
-  company: "Itaú"
-  title: "CDO Chief Data Officer"
-  bio: ""
-  thumbnailUrl: AndreaSunan.jpg
-  rockstar: false
-  social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/andrea-suman-00a07641/"}
 
 # Eiti Kimura
 - 
@@ -58,7 +45,7 @@
   company: "Movile"
   title: "Coordenador de TI"
   bio: "Eiti tem mais de 15 anos de experiência com desenvolvimento de software, além de mestrado em eng. elétrica com especialização em engenharia de software. Possui a certificação Apache Cassandra 2014-2015 e trabalha com o Cassandra desde a versão 0.6. Tem ampla experiência no desenvolvimento de sistemas de back-end para serviços de cobrança de operadoras de telefonia, envio de mensagens SMS em massa Hoje trabalha como Coordenador de TI e arquiteto de sistemas distribuídos de alta performance na Movile Brasil."
-  thumbnailUrl: EitiKimura.jpg
+  thumbnailUrl: EitiKimura.png
   rockstar: false
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/eitikimura/"}
@@ -115,7 +102,7 @@ Além de certificações Microsoft em SQL Server, realizou o Empretec do Sebrae 
   company: "Movile"
   title: "Core Machine Learning "
   bio: "Flávio Clésio é especialista em Machine Learning e garantia de receita pela Movile, onde desenvolve aplicações inteligentes para exploração de oportunidades de aumento de receita, além de automação da tomada de decisão. Antes da Movile, trabalhou com Business Intelligence no mercado financeiro, especialmente no mercado de créditos não performados (Non-Performing Loans). Possuí mestrado em inteligência computacional aplicada no mercado financeiro."
-  thumbnailUrl: FlavioClesio.jpg
+  thumbnailUrl: FlavioClesio.jpeg
   rockstar: false
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/flavioclesio/"}
@@ -141,7 +128,7 @@ Além de certificações Microsoft em SQL Server, realizou o Empretec do Sebrae 
   company: "Movile"
   title: "Coordenador de Data Engineering"
   bio: "Matheus Espanhol é consultor em banco de dados com 10 anos de experiência em ambientes OLTP e OLAP. Atua como arquiteto de soluções Bigdata na Movile."
-  thumbnailUrl: MatheusEspanhol.jpg
+  thumbnailUrl: MatheusEspanhol.jpeg
   rockstar: false
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/matheusespanhol/"}
@@ -163,7 +150,7 @@ Além de certificações Microsoft em SQL Server, realizou o Empretec do Sebrae 
     vários anos, com suporte, treinamento, e até mesmo contribuição ao código
     fonte do projeto."
   thumbnailUrl: MatheusOliveira.jpg
-  rockstar: false
+  rockstar: true
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/matheusdeoliveira/"}
 
@@ -188,7 +175,7 @@ Além de certificações Microsoft em SQL Server, realizou o Empretec do Sebrae 
   company: "Ativy"
   title: "Diretor de Produtos e Soluções"
   bio: "Thiago Caserta é Diretor de Produtos e Soluções da Ativy, empresa brasileira com foco em Cloud Computing e IT Outsourcing. Formado em Análise de Sistemas com especialização em Management and Leadership pela FGV e Cloud Computing pela University of Illinois, IL, USA. Possui diversas certificações focadas em SQL Server. Caserta passou por empresas como T-Systems e IBM atuando como especialista em banco de dados e entre 2011 e 2016 trabalhou na Microsoft Corporation nos Estados Unidos, atuando com clientes da plataforma de dados SQL Server na adoção das soluções em nuvem da Microsoft (Azure e SQL Azure), como JP Morgan, UPS, Intel e Cisco."
-  thumbnailUrl: ThiagoCaserta.jpg
+  thumbnailUrl: ThiagoCaserta.png
   rockstar: false
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/thiagocaserta/"}
