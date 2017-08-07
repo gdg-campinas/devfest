@@ -18,7 +18,7 @@
   surname: "Porto"
   company: "Google Cloud"
   title: "Cloud Program Manager"
-  bio: ""
+  bio: "Kenzo Porto é bacharel em Ciência da Computação pela UFRGS e tem um MBA em Gestão Empresarial pela FGV. Possui mais de 15 anos de experiência em gerenciamento de projetos, desenvolvimento de software e arquitetura de sistemas. Há 5 anos trabalha na Google e atuou nos cargos de Sales Engineer de Google Maps, Partner Operations Manager de Maps e Search Enterprise, Deployment Engineer de G Suite e atualmente é Cloud Program Manager."
   thumbnailUrl: KenzoPorto.jpg
   rockstar: true
   social: 
@@ -59,8 +59,7 @@
   title: "CEO & Founder"
   bio: "Profissional com mais de 10 anos de experiência na área de banco de dados tendo atuado em grandes empresas como IBM, Microsoft, Banco Itaú, Aurea (US), entre outras.
 Além de certificações Microsoft em SQL Server, realizou o Empretec do Sebrae em 2016 e está cursando Gestão Empresarial na FGV.
-É fundador da SQLCORE, consultoria especializada em SQL Server, prestando consultoria de tuning, alta disponibilidade e administração de bancos de dados.
-"
+É fundador da SQLCORE, consultoria especializada em SQL Server, prestando consultoria de tuning, alta disponibilidade e administração de bancos de dados."
   thumbnailUrl: EricksonRicci.jpg
   rockstar: false
   social: 
@@ -134,7 +133,7 @@ Além de certificações Microsoft em SQL Server, realizou o Empretec do Sebrae 
     - {name: "linkedin", link: "https://www.linkedin.com/in/matheusespanhol/"}
 
 # Matheus Oliveira
-- 
+-
   id: 21
   name: "Matheus"
   surname: "Oliveira"
@@ -155,13 +154,13 @@ Além de certificações Microsoft em SQL Server, realizou o Empretec do Sebrae 
     - {name: "linkedin", link: "https://www.linkedin.com/in/matheusdeoliveira/"}
 
 # Sulamita Dantas
-- 
+-
   id: 22
   name: "Sulamita"
   surname: "Dantas"
   company: "Sulamita"
   title: ""
-  bio: ""
+  bio: "Formada em Ciência da Computação. Possui experiência como DBA SQL Server, Analista Protheus e atualmente trabalha com  BI. Participa da comunidade Técnica SQL Server. Palestrante e voluntária em vários eventos. Conselheira Fiscal da ONG MTAC. Co-Líder Local Group SQL BH"
   thumbnailUrl: SulamitaDantas.jpg
   rockstar: false
   social:
