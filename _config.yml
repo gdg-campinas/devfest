@@ -83,7 +83,7 @@ heroButtons:
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "150", specialCharacter: "+", info: "participantes", detail: "de Campinas e região"}
+ - {count: "200", specialCharacter: "+", info: "participantes", detail: "de Campinas e região"}
  - {count: "8", specialCharacter: "+", info: "horas", detail: "de muito networking e conteúdo de altíssima qualidade"}
  - {count: "13", specialCharacter: "", info: "palestrantes", detail: "referências no assunto"}
  - {count: "2", specialCharacter: "", info: "trilhas", detail: "simultâneas"}
@@ -150,7 +150,7 @@ ticketsOffers:
   name: "Early Bird"
   price: "40,00"
   priceCurrency: "R$"
-  ticketsNumber: "150"
+  ticketsNumber: "200"
   # ribbon: "-5%"
   buyButtonLink: "https://www.eventbrite.com.br/e/data-fest-17-tickets-36810938508"
   buyButtonText: "Comprar"
