@@ -127,7 +127,7 @@ venueFeatures: ["Unicamp", "Cidade Universitária"]
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "Esperamos por você!"
-twitterHashTag: "datafest"
+twitterHashTag: "gdgdatafest"
 twitterFeed: "<< twitter_feed_url >>"
 twitterHomeUrl: "https://twitter.com/gdgcampinas"
 
