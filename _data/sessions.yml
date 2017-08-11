@@ -1,59 +1,154 @@
 -
-  id: 307
-  title: "Coffee Break"
-  place: "Hall"
+  id: 100
+  title: "Credenciamento"
+  place: ""
   service: true
-  description: "The best time to talk with speakers and attendees"
+  description: ""
 -
-  id: 503
-  title: "Lunch Break"
-  place: "Dining room"
+  id: 200
+  title: "Apresentação GDG Campinas + Informações"
+  place: ""
   service: true
+  description: ""
 -
-  id: 001
-  title: "Material design: Visual style and imagery"
-  description: "This session will reveal the invisible structures behind the material design system. Designers will show how to use the new color systems, typographic strategies, and the underlying grids that hold it together. They will show how imagery and the new framework material rendering can make apps more interesting and communicate more quickly."
-  subtype: workshop
-  speakers: [3, 6]
-  language: en
-  complexity: "Intermediate"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
--
-  id: 002
-  title: "Building Cloud-powered wearable Apps"
-  description: "I will speak and show how to:<br>- Respond to touch events in your views with touch feedback animations.<br>- Hide and show views with reveal effect animations.<br>- Switch between activities with custom activity transition animations.<br>- Create more natural animations with curved motion.<br>- Animate changes in one or more view properties with view state change animations.<br>- Create icon morphing transition"
-  subtype: presentation
-  speakers: [4, 5]
-  language: en
-  complexity: "Intermediate" 
-  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
--
-  id: 003
-  title: "Android L Animation"
-  description: "More than ever before, developing for global audience is a necessity than a luxury in today's world. Are you ready ... where to start? what does it entail? how do I do it? how to promote in local markets? This talk will address above questions for android, chrome and web developers. In our journey of the where, what and how, we will take an in-depth look at various internationalization and localization tools & strategies available to you."
-  subtype: presentation
-  speakers: [4]
-  language: en
-  complexity: "Intermediate" 
-  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
--
-  id: 004
-  title: "Polymer: Interacting with Google Services using nothing but HTML"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
+  id: 300
+  title: "Keynote"
+  place: ""
+  # service: true
   subtype: keynote
-  speakers: [6]
-  language: uk
-  complexity: "Beginner"
-  presentation: "https://speakerdeck.com/gdglviv/mateusz-herych-guava-beyond-collections"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  description: ""
 -
-  id: 005
-  title: "Test: Interacting with Google Services using nothing but HTML"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
-  subtype: keynote
-  speakers: [7]
-  language: en
-  complexity: "Expert"
-  presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  id: 600
+  title: "Almoço"
+  place: ""
+  service: true
+  description: ""
+-
+  id: 900
+  title: "Coffee"
+  place: ""
+  service: true
+  description: "Momento para networking"
+-
+  id: 1200
+  title: "Encerramento"
+  place: ""
+  service: true
+  description: ""
+
+# Espanhol - Data Lake
+-
+  id: 401
+  title: "A jornada para implementação de um Data Lake"
+  description: "Através de uma abordagem prática com exemplos reais, serão comentados os pontos fortes e fracos dos serviços Google BigQuery, Amazon EMR com Presto e Amazon Athena. O objetivo é compartilhar com o espectador a experiência com esses serviços, mostrando como eles podem viabilizar análises com o melhor custo-benefício para ambientes de todos os tamanhos."
+  subtype: presentation
+  speakers: [20]
+# Eiti - NoSQL
+-
+  id: 402
+  title: "Apache Cassandra no Desenvolvimento de Sistemas de Alto Desempenho"
+  description: "Quando seus negócios crescem, seus sistemas chave não suportam mais o volume de informação inserido, não respondem mais requisições dos seus clientes, a quem chamar? Como resolver? Conheça o Apache Cassandra e como foi fundamental para evoluir nossos sistemas e alavancar o crescimento dos nossos negócios, aplicado no desenvolvimento de sistemas distribuídos de alto desempenho para aplicativos móveis"
+  subtype: presentation
+  speakers: [14] 
+
+# Hugo - Big Data
+-
+  id: 501
+  title: "Arquitetura Lambda para alto volume de dados e rápida resposta ao Negócio."
+  description: "Atendendo às necessidades de Tempo Real e análises profundas com uma arquitetura Lambda. Utilizando de ferramentas de ingestão e análise, ElasticSearch e Kibana e Ecossistema do Hadoop."
+  subtype: presentation
+  speakers: [10]
+# Thiago - SQL Server e Oracle
+-
+  id: 502
+  title: "Microsoft SQL Server vs. Oracle: Quem tem a melhor plataforma de dados do mercado corporativo?"
+  description: "Oracle e SQL Server figuram como líderes absolutos no quadrante mágico do Gartner para sistemas gerenciadores de banco de dados (SGDB). Mas qual delas realmente é a melhor? O objetivo dessa palestra é mostrar as diferenças técnicas e comerciais das duas plataformas de dados mais utilizadas no mundo. Quem vence essa batalha?"
+  subtype: presentation
+  speakers: [23] 
+
+# Clésio + Luciano - Machine Learning
+-
+  id: 701
+  title: "Monitorando Plataformas de Alto Desempenho Com Machine Learning"
+  description: "Com  o rápido desenvolvimento e evolução das aplicações, altos volumes de influxo de dados e usuários cada mais exigentes, verificou-se a necessidade de desenvolvimento de sistemas inteligentes capazes de auxiliar na análise de dados e de auxiliar em tomadas de decisão.
+Nos últimos anos tem-se falado muito sobre Machine Learning e sobre as mais diversas aplicações nos negócios, que passam desde linguagem de processamento natural até mesmo em reconhecimento facial e outras aplicações. 
+O objetivo da talk é compartilhar um pouco sobre a experiência do nosso time de Core Machine Learning na Movile sobre como utilizamos ferramentas simples, open source, e algoritmos 'on the shelf' para implementar na nossa plataforma um sistema de monitoramento de machine learning que já ajudou a evitar perdas na ordem de 3 milhões de dólares. Também mostraremos as evoluções que fizemos nas plataformas: a migração para usar os recursos do Spark 2.0 e a mudança para uma arquitetura baseada em microserviços."
+  subtype: presentation
+  speakers: [18, 19]
+# Fernando - Big Data
+-
+  id: 702
+  title: "Processamento de dados em tempo real com Cloud Dataflow"
+  description: "Gostaria de saber como processar grandes volumes de dados em tempo real para criar novas experiências e soluções para jogos, aplicativos ou para o emergente universo de sensores IoT?
+Então venha participar dessa sessão onde iremos realizar um deep dive nas arquiteturas e tecnologias do Google Cloud que podem simplificar bastante nossa vida na hora de lidar com esse desafio.
+Através da apresentação de conceitos, código e demos, os  participantes poderão conhecer com mais detalhes as tecnologias de Big Data do GCP, como:
+Cloud Dataflow
+Pub/Sub
+BigQuery"
+  subtype: presentation
+  speakers: [17]
+
+# Felipe - DevOps
+-
+  id: 801
+  title: "Agile DBA - Como ser um DBA em plena revolução ágil?"
+  description: "O mundo do desenvolvimento de software evoluiu, mas as práticas de administração e desenvolvimento em bancos de dados parecem ter parado na idade das trevas. Como fazer para que o DBA se integre ao Desenvolvimento Ágil de software e ao mundo DevOps, tornando seus processos e ferramentas mais iterativos e evolutivos?"
+  subtype: presentation
+  speakers: [16]
+# Erickson - SQL Server
+-
+  id: 802
+  title: "Alta disponibilidade com SQL Server no Linux"
+  description: "Como utilizar o tradicional banco de dados SQL Server no Linux para obter uma Alta Disponibilidade em seu ambiente."
+  subtype: presentation
+  speakers: [15]
+
+# Oliveira - Microservices
+-
+  id: 1001
+  title: "Gerenciamento de dados com micro-serviços e a experiência do iFood"
+  description: "Arquiteturas com micro-serviços está cada vez sendo mais usada, mas a parte
+    de gerenciamento de dados entre os micro-serviços ainda é um tema complexo.
+    Outra dificuldade é como fazer a movimentação de uma arquitetura monolítica
+    para micro-seviços. Nesta palestra vou apresentar a experiência do iFood, e
+    como a divisão em micro-serviços tem nos ajudado a escalar o ambiente desse
+    negócio que já está fazendo mais de 4 milhões de pedidos por mês, e vem
+    crescendo quase exponencialmente. Vamos falar um pouco dos desafios e problemas
+    que enfrentamos, como fazer _deploy_ sem _downtime_ (mesmo com bancos de dados
+    relacionais), como gerenciar troca e duplicidade de dados entre serviços e
+    também um pouco sobre persistência poliglota."
+  subtype: presentation
+  speakers: [21]
+# Kenzo - Big Data
+-
+  id: 1002
+  title: ""
+  description: ""
+  subtype: presentation
+  speakers: [11]
+
+# Sulamita 
+-
+  id: 1101
+  title: ""
+  description: ""
+  subtype: presentation
+  speakers: [22]
+# Wagner - MySQL
+-
+  id: 1102
+  title: ""
+  description: ""
+  subtype: presentation
+  speakers: [12]
+
+# -
+#   id: 002
+#   title: "Building Cloud-powered wearable Apps"
+#   description: "I will speak and show how to:<br>- Respond to touch events in your views with touch feedback animations.<br>- Hide and show views with reveal effect animations.<br>- Switch between activities with custom activity transition animations.<br>- Create more natural animations with curved motion.<br>- Animate changes in one or more view properties with view state change animations.<br>- Create icon morphing transition"
+#   subtype: presentation
+#   speakers: [4, 5]
+#   language: en
+#   complexity: "Intermediate" 
+#   presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+#   video: "//www.youtube.com/embed/v3SCiUqI1yQ"

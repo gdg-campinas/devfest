@@ -53,7 +53,7 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 navigationLinks:
  - {permalink: "/", text: "Principal"}
 #  - {permalink: "/blog/", text: "Blog"}
-#  - {permalink: "/schedule/", text: "Agenda"}
+ - {permalink: "/schedule/", text: "Grade"}
  - {permalink: "/speakers/", text: "Palestrantes"}
 #  - {permalink: "/team/", text: "Time"}
 #  - {permalink: "/logistics/", text: "Logistics"}
@@ -213,7 +213,7 @@ footerBlocks:
 # discusShortName: "devfestua"
 
 # Speakers List Block
-showSessions: false
+showSessions: true
 
 # Team Block
 teamBlockTitle: "About us"
