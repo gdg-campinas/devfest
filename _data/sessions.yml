@@ -43,13 +43,13 @@
   description: "Através de uma abordagem prática com exemplos reais, serão comentados os pontos fortes e fracos dos serviços Google BigQuery, Amazon EMR com Presto e Amazon Athena. O objetivo é compartilhar com o espectador a experiência com esses serviços, mostrando como eles podem viabilizar análises com o melhor custo-benefício para ambientes de todos os tamanhos."
   subtype: presentation
   speakers: [20]
-# Eiti - NoSQL
+# Erickson - SQL Server
 -
   id: 402
-  title: "Apache Cassandra no Desenvolvimento de Sistemas de Alto Desempenho"
-  description: "Quando seus negócios crescem, seus sistemas chave não suportam mais o volume de informação inserido, não respondem mais requisições dos seus clientes, a quem chamar? Como resolver? Conheça o Apache Cassandra e como foi fundamental para evoluir nossos sistemas e alavancar o crescimento dos nossos negócios, aplicado no desenvolvimento de sistemas distribuídos de alto desempenho para aplicativos móveis"
+  title: "Alta disponibilidade com SQL Server no Linux"
+  description: "Como utilizar o tradicional banco de dados SQL Server no Linux para obter uma Alta Disponibilidade em seu ambiente."
   subtype: presentation
-  speakers: [14] 
+  speakers: [15] 
 
 # Hugo - Big Data
 -
@@ -95,13 +95,13 @@ BigQuery"
   description: "O mundo do desenvolvimento de software evoluiu, mas as práticas de administração e desenvolvimento em bancos de dados parecem ter parado na idade das trevas. Como fazer para que o DBA se integre ao Desenvolvimento Ágil de software e ao mundo DevOps, tornando seus processos e ferramentas mais iterativos e evolutivos?"
   subtype: presentation
   speakers: [16]
-# Erickson - SQL Server
+# Eiti - NoSQL
 -
   id: 802
-  title: "Alta disponibilidade com SQL Server no Linux"
-  description: "Como utilizar o tradicional banco de dados SQL Server no Linux para obter uma Alta Disponibilidade em seu ambiente."
+  title: "Apache Cassandra no Desenvolvimento de Sistemas de Alto Desempenho"
+  description: "Quando seus negócios crescem, seus sistemas chave não suportam mais o volume de informação inserido, não respondem mais requisições dos seus clientes, a quem chamar? Como resolver? Conheça o Apache Cassandra e como foi fundamental para evoluir nossos sistemas e alavancar o crescimento dos nossos negócios, aplicado no desenvolvimento de sistemas distribuídos de alto desempenho para aplicativos móveis"
   subtype: presentation
-  speakers: [15]
+  speakers: [14] 
 
 # Oliveira - Microservices
 -
