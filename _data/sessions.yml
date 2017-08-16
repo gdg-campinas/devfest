@@ -137,8 +137,10 @@ BigQuery"
 # Wagner - MySQL
 -
   id: 1102
-  title: ""
-  description: ""
+  title: "Feature Engineering: Extraindo o potencial máximo dos dados para modelos preditivos"
+  description: "Feature Engineering é o processo de extrair e selecionar, a partir de dados brutos, características que possam ser utilizadas de forma efetiva em modelos preditivos. Como a qualidade das features influencia muito a qualidade dos resultados, conhecer as principais técnicas e armadilhas lhe ajudarão a ter sucesso na utilização de machine learning em seus projetos.
+
+Nesta palestra, serão apresentados métodos e técnicas que permitem extrair o potencial máximo das features de um dataset, aumentando flexibilidade, simplicidade e acurácia dos modelos. Serão apresentados exemplos em Python para os frameworks Pandas, Scikit-learn, Spark SQL e Tensorflow."
   subtype: presentation
   speakers: [12]
 

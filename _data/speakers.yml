@@ -24,18 +24,18 @@
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/eduardo-kenzo-kurahayashi-porto-9424a6a/"}
 
-# Wagner Bianchi
+# Gabriel Moreira
 - 
   id: 12
-  name: "Wagner"
-  surname: "Bianchi"
-  company: "MariaDB"
-  title: "Principal Remote DBA"
-  bio: "É especialista em MySQL e outros servidores de bancos de dados relacionais, como Oracle e SQL Server. Atualmente é MySQL DBA na The Pythian Group, Inc do Canadá. Formado em Gerenciamento de Bancos de Dados, com MBA em Administração de Empresas pela Fundação Getúlio Vargas e Pós-Graduando em Bancos de Dados pela Universidade Gama Filho do Distrito Federal. Possui várias certificações, entre elas a SCMA, SCMDEV, SCMDBA e SCMCDBA."
-  thumbnailUrl: WagnerBianchi.jpg
-  rockstar: true
+  name: "Gabriel"
+  surname: "Moreira"
+  company: "Ci&T"
+  title: "Data Scientist"
+  bio: "Gabriel é Lead Data Scientist CI&T. Possui bacharelado em Ciência da Computação e Mestrado pelo ITA, onde atualmente cursa Doutorado, com ênfase em Sistemas de Recomendação e Deep Learning. Possui mais de 15 anos de experiência em desenvolvimento de software, soluções de machine learning, data mining e big data."
+  thumbnailUrl: GabrielMoreira.png
+  rockstar: false
   social:
-    - {name: "linkedin", link: "https://www.linkedin.com/in/wagnerbianchi/"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/gabrielspmoreira/"}
 
 # Eiti Kimura
 - 
@@ -46,7 +46,7 @@
   title: "Coordenador de TI"
   bio: "Eiti tem mais de 15 anos de experiência com desenvolvimento de software, além de mestrado em eng. elétrica com especialização em engenharia de software. Possui a certificação Apache Cassandra 2014-2015 e trabalha com o Cassandra desde a versão 0.6. Tem ampla experiência no desenvolvimento de sistemas de back-end para serviços de cobrança de operadoras de telefonia, envio de mensagens SMS em massa Hoje trabalha como Coordenador de TI e arquiteto de sistemas distribuídos de alta performance na Movile Brasil."
   thumbnailUrl: EitiKimura.png
-  rockstar: false
+  rockstar: true
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/eitikimura/"}
 
