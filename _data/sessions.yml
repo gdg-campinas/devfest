@@ -130,8 +130,9 @@ BigQuery"
 # Sulamita 
 -
   id: 1101
-  title: ""
-  description: ""
+  title: "Monitorando os recursos e processos do Servidor, através do Power BI"
+  description: "Monitorar os recursos e processos físicos do servidor com o Power BI. 
+Através da configuração de alguns contadores do perfmon e da rotina de Relog, será criado um dashboard no Power BI para acompanhar por exemplo: desempenho da CPU, quantidade de memória e vários outros recursos específicos do SQL Server."
   subtype: presentation
   speakers: [22]
 # Wagner - MySQL

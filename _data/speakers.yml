@@ -158,9 +158,14 @@ Além de certificações Microsoft em SQL Server, realizou o Empretec do Sebrae 
   id: 22
   name: "Sulamita"
   surname: "Dantas"
-  company: "Sulamita"
-  title: ""
-  bio: "Formada em Ciência da Computação. Possui experiência como DBA SQL Server, Analista Protheus e atualmente trabalha com  BI. Participa da comunidade Técnica SQL Server. Palestrante e voluntária em vários eventos. Conselheira Fiscal da ONG MTAC. Co-Líder Local Group SQL BH"
+  company: "AlmaViva do Brasil"
+  title: "Analista BI"
+  bio: "Formada em Ciência da Computação.
+Possui experiência como DBA SQL Server, Analista Protheus e atualmente trabalha com  BI.
+Participa da comunidade Técnica SQL Server.
+Palestrante e voluntária em vários eventos.
+Conselheira Fiscal da ONG MTAC
+Co-Líder Local Group SQL BH"
   thumbnailUrl: SulamitaDantas.jpg
   rockstar: false
   social:
