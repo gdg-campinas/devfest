@@ -17,6 +17,7 @@
   # service: true
   subtype: keynote
   description: ""
+  speakers: [24]
 -
   id: 600
   title: "Almoço"
