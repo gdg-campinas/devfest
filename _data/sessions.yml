@@ -120,7 +120,7 @@ BigQuery"
     também um pouco sobre persistência poliglota."
   subtype: presentation
   speakers: [21]
-# Kenzo - Big Data
+# Kenzo + Marcelo - Big Data
 -
   id: 1002
   title: "Usando BigQuery para analisar petabytes de informação"
