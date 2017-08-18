@@ -15,7 +15,7 @@
 							{% endif %}
 							{% if ticketsOffer.disabled != true %}
 							{% assign ticketValidTo = ticketsOffer.validThrough | split: "T" %}
-								 <span class="ticket-additional-info">Até {{ ticketValidTo[0] | date: "%d/%m/%Y"}} <!-- {{ ticketValidTo[1] }} --> ou {{ ticketsOffer.ticketsNumber }} ingressos</span> 
+								 <span class="ticket-additional-info">Até {{ ticketValidTo[0] | date: "%d/%m/%Y"}} <!-- {{ ticketValidTo[1] }} --> ou se esgotarem <!-- {{ ticketsOffer.ticketsNumber }} ingressos --></span> 
 							{% endif %}
 						</div>
 						<div class="col-sm-3 col-xs-12">
