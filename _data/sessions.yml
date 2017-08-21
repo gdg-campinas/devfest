@@ -59,13 +59,13 @@
   description: "Atendendo às necessidades de Tempo Real e análises profundas com uma arquitetura Lambda. Utilizando de ferramentas de ingestão e análise, ElasticSearch e Kibana e Ecossistema do Hadoop."
   subtype: presentation
   speakers: [10]
-# Thiago - SQL Server e Oracle
+# Thiago + Marcelo - SQL Server e Oracle
 -
   id: 502
   title: "Microsoft SQL Server vs. Oracle: Quem tem a melhor plataforma de dados do mercado corporativo?"
   description: "Oracle e SQL Server figuram como líderes absolutos no quadrante mágico do Gartner para sistemas gerenciadores de banco de dados (SGDB). Mas qual delas realmente é a melhor? O objetivo dessa palestra é mostrar as diferenças técnicas e comerciais das duas plataformas de dados mais utilizadas no mundo. Quem vence essa batalha?"
   subtype: presentation
-  speakers: [23] 
+  speakers: [23, 25] 
 
 # Clésio + Luciano - Machine Learning
 -
@@ -120,13 +120,13 @@ BigQuery"
     também um pouco sobre persistência poliglota."
   subtype: presentation
   speakers: [21]
-# Kenzo + Marcelo - Big Data
+# Kenzo - Big Data
 -
   id: 1002
   title: "Usando BigQuery para analisar petabytes de informação"
   description: "Uma solução de Data Warehouse completamente gerenciada, capaz de lidar com petabytes de dados com alto desempenho e baixo custo. Parece muito bom para ser verdade, não é mesmo? Venha conhecer o BigQuery e saber como você pode começar a utilizá-lo. Não se preocupe, o primeiro terabyte de dados processados/mês é por nossa conta!"
   subtype: presentation
-  speakers: [11, 25]
+  speakers: [11]
 
 # Sulamita 
 -
