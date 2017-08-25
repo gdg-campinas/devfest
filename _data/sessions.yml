@@ -14,7 +14,6 @@
   id: 300
   title: "Keynote"
   place: ""
-  # service: true
   subtype: keynote
   description: ""
   speakers: [24]
