@@ -6,7 +6,7 @@
   company: "Amazon Web Services"
   title: "Solutions Architect"
   bio: "Hugo Rozestraten é Arquiteto de Soluções de Big Data e Banco de Dados na AWS América Latina. Tem 18 anos de atuação na área de Tecnologia da Informação, tendo iniciado com desenvolvimento, e por mais de uma década como DBA/ATG Oracle. Atuou na IBM, Oracle, e atualmente na Amazon Web Services (AWS) ajudando clientes no desenho de soluções e migrações para a nuvem. Se formou em Engenharia Agronômica em 1994 pela ESALQ-USP e MBA em 2001 pela FEA-USP."
-  thumbnailUrl: HugoRozestraten.jpeg
+  thumbnailUrl: HugoRozestraten.jpg
   rockstar: true
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/hugorozestraten/"}
@@ -208,6 +208,18 @@ Co-Líder Local Group SQL BH"
   rockstar: false
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/marcelo-cauduro-7a04891b"}
+
+- 
+  id: 26
+  name: "Eduardo"
+  surname: "Hruschka"
+  company: "Itaú-Unibanco"
+  title: "Superintendente de Ciência de Dados"
+  bio: "Eduardo Hruschka é superintendente de ciência de dados do Itaú-Unibanco. Entre 2013-2016, foi cientista-chefe da startup “Big Data”. Concluiu seu doutorado em 2001 no Programa Interdisciplinar de Computação de Alto Desempenho da COPPE/UFRJ. Realizou pós-doutoramento em ciência de dados na University of Texas at Austin, entre 2010-2012. Obteve seu título de Livre-Docente em Ciências de Computação pela USP em 2012. É professor do Departamento de Ciências da Computação do ICMC/USP, atualmente contribuindo apenas com a pós graduação. Foi Jovem Pesquisador da FAPESP e é pesquisador nível 1-D do CNPq. Foi editor associado do periódico científico Information Sciences, da editora Elsevier. Tem atuado na área de ciência de dados, com particular ênfase em desenvolver, aperfeiçoar e aplicar algoritmos para aprendizado de máquina, desde 1996. Publicou mais de 100 artigos científicos, os quais receberam mais de 2.700 citações."
+  thumbnailUrl: EduardoHruschka.jpg
+  rockstar: false
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/eduardo-hruschka-b113448/"}
 
 # - 
 #   id: 99

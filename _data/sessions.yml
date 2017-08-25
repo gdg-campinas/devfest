@@ -31,6 +31,13 @@
   description: "Momento para networking"
 -
   id: 1200
+  title: "Keynote de Fechamento"
+  place: ""
+  subtype: keynote
+  description: "Jornada e Aplicação de Analytics em bancos"
+  speakers: [26]
+-
+  id: 1300
   title: "Encerramento"
   place: ""
   service: true
