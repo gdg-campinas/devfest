@@ -29,6 +29,7 @@
   place: ""
   service: true
   description: "Momento para networking"
+# Eduardo Hruschka
 -
   id: 1200
   title: "Keynote de Fechamento"
