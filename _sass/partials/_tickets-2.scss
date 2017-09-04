@@ -6,6 +6,10 @@ $border-color: rgba(51, 51, 51, .6);
         font-size: 32px;
         font-weight: $light;
         line-height: 39px;
+
+        &.featured {
+          font-weight: bolder;
+        }
     }
     .price {
         @extend .ticket-text;

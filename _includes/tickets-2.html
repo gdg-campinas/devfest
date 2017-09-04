@@ -9,7 +9,7 @@
 	            <div class="tickets-row animated hiding" data-animation="fadeInDown" data-delay="{{ animationDelay }}">
 	            	<div class="row">
 						<div class="col-sm-6 col-xs-12">
-							<p class="title">{{ ticketsOffer.name }}</p>
+							<p class="title {% if ticketsOffer.featured == true %}featured{% endif %}">{{ ticketsOffer.name }}</p>
 							{% if ticketsOffer.additionalInfo != null %}
 								<span class="ticket-additional-info">{{ ticketsOffer.additionalInfo }}</span>
 							{% endif %}
@@ -19,14 +19,16 @@
 							{% endif %}
 						</div>
 						<div class="col-sm-3 col-xs-12">
-							<p class="price">{{ ticketsOffer.priceCurrency }} {{ ticketsOffer.price }}</p>
+							<p class="price {% if ticketsOffer.featured == true %}featured{% endif %}">{{ ticketsOffer.priceCurrency }} {{ ticketsOffer.price }}</p>
 						</div>
 						<div class="col-sm-3 col-xs-12">
 							{% if ticketsOffer.soldOut == true %}
 							<p class="ticket-sold-out">{{ ticketsOffer.soldOutText }}</p>
 							{% elsif ticketsOffer.disabled != true %}
 							<span class="bordered dark-border button">
-								<a href="{{ ticketsOffer.buyButtonLink }}" class="waves-effect waves-button" target="_blank">{{ ticketsOffer.buyButtonText }}</a>
+								<a href="{{ ticketsOffer.buyButtonLink }}" class="waves-effect waves-button" target="_blank" style="font-weight: bold;">
+                  {{ ticketsOffer.buyButtonText }}
+                </a>
 							</span>
 							{% else %}
 		           			{% assign ticketValidFrom = ticketsOffer.validFrom | split: "T" %}
