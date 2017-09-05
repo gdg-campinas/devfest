@@ -2,7 +2,7 @@
   id: 0
   name: "Thaissa"
   surname: "Candella"
-  title: "Wonder Woman"
+  title: "Direção Geral (Wonder Woman)"
   thumbnailUrl: ThaissaCandella.jpeg
   team: true
   ribbon: 
@@ -14,7 +14,7 @@
   id: 1
   name: "Henrique"
   surname: "Candella"
-  title: "Operacional"
+  title: "Operacional (LeBron James)"
   thumbnailUrl: HenriqueCandella.jpg
   team: true
   ribbon: 
@@ -35,7 +35,7 @@
   id: 3
   name: "Rodrigo"
   surname: "Botti"
-  title: "Website"
+  title: "Website (Tony Stark)"
   thumbnailUrl: RodrigoBotti.jpeg
   team: true
   social:
