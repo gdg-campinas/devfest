@@ -24,15 +24,6 @@
     - {name: "facebook", link: "https://www.facebook.com/profile.php?id=100014317275586"}
 - 
   id: 2
-  name: "Felipe"
-  surname: "Pereira"
-  title: "Curadoria"
-  thumbnailUrl: FelipePereira.jpg
-  team: true
-  social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/felipe-pereira-dba/"}
-- 
-  id: 3
   name: "Rodrigo"
   surname: "Botti"
   title: "Website (Tony Stark)"
@@ -42,7 +33,7 @@
     - {name: "linkedin", link: "https://www.linkedin.com/in/rodrigo-botti/"}
     - {name: "facebook", link: "https://www.facebook.com/rodrigo.botti.9"}    
 - 
-  id: 4
+  id: 3
   name: "Renato"
   surname: "Freire"
   title: "Website (Aragorn)"

@@ -2,5 +2,4 @@
   group: "Patrocínio"
   elements:
     - {name: "HBSIS", description: "HBSIS", link: "http://www.hbsis.com.br/", imageUrl: "hbsis.png"}
-    - {name: "iFood", description: "iFood", link: "https://www.ifood.com.br", imageUrl: "ifood.png", width: "80%"}
-    - {name: "InfoQ", description: "InfoQ", link: " http://bit.ly/infoqbr-gdg-datafest", imageUrl: "infoq.png"}
+    - {name: "Dextra", description: "Dextra", link: "http://dextra.com.br/", imageUrl: "dextra.png"}

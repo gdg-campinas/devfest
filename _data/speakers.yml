@@ -1,227 +1,54 @@
-# Hugo Rozestraten
-- 
-  id: 10
-  name: "Hugo"
-  surname: "Rozestraten"
-  company: "Amazon Web Services"
-  title: "Solutions Architect"
-  bio: "Hugo Rozestraten é Arquiteto de Soluções de Big Data e Banco de Dados na AWS América Latina. Tem 18 anos de atuação na área de Tecnologia da Informação, tendo iniciado com desenvolvimento, e por mais de uma década como DBA/ATG Oracle. Atuou na IBM, Oracle, e atualmente na Amazon Web Services (AWS) ajudando clientes no desenho de soluções e migrações para a nuvem. Se formou em Engenharia Agronômica em 1994 pela ESALQ-USP e MBA em 2001 pela FEA-USP."
-  thumbnailUrl: HugoRozestraten.jpg
-  rockstar: true
-  social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/hugorozestraten/"}
-
-# Kenzo Porto
-- 
-  id: 11
-  name: "Kenzo"
-  surname: "Porto"
-  company: "Google Cloud"
-  title: "Cloud Program Manager"
-  bio: "Kenzo Porto é bacharel em Ciência da Computação pela UFRGS e tem um MBA em Gestão Empresarial pela FGV. Possui mais de 15 anos de experiência em gerenciamento de projetos, desenvolvimento de software e arquitetura de sistemas. Há 5 anos trabalha na Google e atuou nos cargos de Sales Engineer de Google Maps, Partner Operations Manager de Maps e Search Enterprise, Deployment Engineer de G Suite e atualmente é Cloud Program Manager."
-  thumbnailUrl: KenzoPorto.jpg
-  rockstar: true
-  social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/eduardo-kenzo-kurahayashi-porto-9424a6a/"}
-
-# Gabriel Moreira
-- 
-  id: 12
-  name: "Gabriel"
-  surname: "Moreira"
-  company: "Ci&T"
-  title: "Data Scientist"
-  bio: "Gabriel é Lead Data Scientist CI&T. Possui bacharelado em Ciência da Computação e Mestrado pelo ITA, onde atualmente cursa Doutorado, com ênfase em Sistemas de Recomendação e Deep Learning. Possui mais de 15 anos de experiência em desenvolvimento de software, soluções de machine learning, data mining e big data."
-  thumbnailUrl: GabrielMoreira.png
-  rockstar: false
-  social:
-    - {name: "linkedin", link: "https://www.linkedin.com/in/gabrielspmoreira/"}
-
-# Eiti Kimura
-- 
-  id: 14
-  name: "Eiti"
-  surname: "Kimura"
-  company: "Movile"
-  title: "Coordenador de TI"
-  bio: "Eiti tem mais de 15 anos de experiência com desenvolvimento de software, além de mestrado em eng. elétrica com especialização em engenharia de software. Possui a certificação Apache Cassandra 2014-2015 e trabalha com o Cassandra desde a versão 0.6. Tem ampla experiência no desenvolvimento de sistemas de back-end para serviços de cobrança de operadoras de telefonia, envio de mensagens SMS em massa Hoje trabalha como Coordenador de TI e arquiteto de sistemas distribuídos de alta performance na Movile Brasil."
-  thumbnailUrl: EitiKimura.png
-  rockstar: true
-  social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/eitikimura/"}
-
-# Erickson Ricci
-- 
-  id: 15
-  name: "Erickson"
-  surname: "Ricci"
-  company: "SQL Core"
-  title: "CEO & Founder"
-  bio: "Profissional com mais de 10 anos de experiência na área de banco de dados tendo atuado em grandes empresas como IBM, Microsoft, Banco Itaú, Aurea (US), entre outras.
-Além de certificações Microsoft em SQL Server, realizou o Empretec do Sebrae em 2016 e está cursando Gestão Empresarial na FGV.
-É fundador da SQLCORE, consultoria especializada em SQL Server, prestando consultoria de tuning, alta disponibilidade e administração de bancos de dados."
-  thumbnailUrl: EricksonRicci.jpg
-  rockstar: false
-  social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/ericksonricci/"}
-
-# Felipe Pereira
-- 
-  id: 16
-  name: "Felipe"
-  surname: "Pereira"
-  company: "Dextra"
-  title: "Senior Database Analyst"
-  bio: "Sou especialista em Bancos de Dados, apaixonado por aprender, com mais de 10 anos de experiência na área e com expertise em Oracle, PostgreSQL, SQL Server e MySQL. Também tenho interesse em Metodologias Ágeis, Analytics e DevOps."
-  thumbnailUrl: FelipePereira.jpg
-  rockstar: false
-  social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/felipe-pereira-dba/"}
-
 # Fernando Ultremare
 - 
-  id: 17
+  id: 201601
   name: "Fernando"
   surname: "Ultremare"
   company: "Dextra"
   title: "Gerente de Desenvolvimento"
   bio: ""
   thumbnailUrl: FernandoUltremare.jpg
-  rockstar: false
+  rockstar: true
   ribbon: 
     - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/fernando-ultremare-7850459/"}
-
-# Flávio Clésio
 - 
-  id: 18
-  name: "Flávio"
-  surname: "Clésio"
-  company: "Movile"
-  title: "Core Machine Learning "
-  bio: "Flávio Clésio é especialista em Machine Learning e garantia de receita pela Movile, onde desenvolve aplicações inteligentes para exploração de oportunidades de aumento de receita, além de automação da tomada de decisão. Antes da Movile, trabalhou com Business Intelligence no mercado financeiro, especialmente no mercado de créditos não performados (Non-Performing Loans). Possuí mestrado em inteligência computacional aplicada no mercado financeiro."
-  thumbnailUrl: FlavioClesio.jpeg
-  rockstar: false
-  social:
-    - {name: "linkedin", link: "https://www.linkedin.com/in/flavioclesio/"}
-
-# Luciano Sabença
-- 
-  id: 19
-  name: "Luciano"
-  surname: "Sabença"
-  company: "Movile"
+  id: 201602
+  name: "Ubiratan"
+  surname: "Soares"
+  company: "Magazine Luiza"
   title: "Software Engineer"
-  bio: "Luciano é Software Engineer na Movile há mais de 5 anos, atuando com na arquitetura e desenvolvimento de sistemas distribuídos e Machine Learning. Possuí interesse pelas áreas de Machine Learning, Teoria da Computação e sistemas distribuídos. É técnico em informática pelo Colégio Técnico de Campinas e bacharel, com distinção, em Ciência da Computação pelo IC/Unicamp."
-  thumbnailUrl: LucianoSabenca.jpg
-  rockstar: false
-  social:
-    - {name: "linkedin", link: "https://www.linkedin.com/in/luciano-saben%C3%A7a-9162b149/"}
-
-# Matheus Espanhol
-- 
-  id: 20
-  name: "Matheus"
-  surname: "Espanhol"
-  company: "Movile"
-  title: "Coordenador de Data Engineering"
-  bio: "Matheus Espanhol é consultor em banco de dados com 10 anos de experiência em ambientes OLTP e OLAP. Atua como arquiteto de soluções Bigdata na Movile."
-  thumbnailUrl: MatheusEspanhol.jpeg
-  rockstar: false
-  social:
-    - {name: "linkedin", link: "https://www.linkedin.com/in/matheusespanhol/"}
-
-# Matheus Oliveira
--
-  id: 21
-  name: "Matheus"
-  surname: "Oliveira"
-  company: "iFood"
-  title: "DBA"
-  bio: "Formado em Ciências de Computação pela USP, é apaixonado por tecnologia e
-    especificamente trabalhar com dados. Hoje é o líder técnico da equipe de
-    banco de dados no iFood, onde ajuda a empresa a suportar a demanda comum
-    de uma Black Friday em comércios online, só que todo final de semana;
-    suportando toda camada de armazenamento de dados de vários micro-serviços que
-    suportam a operação do iFood. Possui domínio de várias tecnologias de banco de
-    dados, mas tendo maior domínio e atuação com o PostgreSQL, que já trabalha há
-    vários anos, com suporte, treinamento, e até mesmo contribuição ao código
-    fonte do projeto."
-  thumbnailUrl: MatheusOliveira.jpg
+  bio: "Ubiratan Soares é Engenheiro de Software, formado pela Universidade de São Paulo, atualmente colaborador do Luizalabs, divisão de inovação do Magazine Luiza em São Paulo. Trabalha com mobilidade há mais de seis anos e é especialista em desenvolvimento para Android, tendo participação direta na construção de alguns dos maiores aplicativos nacionais hoje online. Também é co-organizador do GDG São Paulo e palestrante frequente nos maiores eventos de tecnologia do país. Faz parte do programa Google Developer Experts para Android, bem como da iniciativa da Intel Software Innovator para Android."
+  thumbnailUrl: UbiratanSoares.jpg
   rockstar: true
-  social:
-    - {name: "linkedin", link: "https://www.linkedin.com/in/matheusdeoliveira/"}
-
-# Sulamita Dantas
--
-  id: 22
-  name: "Sulamita"
-  surname: "Dantas"
-  company: "AlmaViva do Brasil"
-  title: "Analista BI"
-  bio: "Formada em Ciência da Computação.
-Possui experiência como DBA SQL Server, Analista Protheus e atualmente trabalha com  BI.
-Participa da comunidade Técnica SQL Server.
-Palestrante e voluntária em vários eventos.
-Conselheira Fiscal da ONG MTAC
-Co-Líder Local Group SQL BH"
-  thumbnailUrl: SulamitaDantas.jpg
-  rockstar: false
-  social:
-    - {name: "linkedin", link: "https://www.linkedin.com/in/sulamita-dantas-21976340/"}
-
-# Thiago Caserta
+  ribbon: 
+    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/ubiratanfsoares/"}
 - 
-  id: 23
-  name: "Thiago"
-  surname: "Caserta"
-  company: "Ativy"
-  title: "Diretor de Produtos e Soluções"
-  bio: "Thiago Caserta é Diretor de Produtos e Soluções da Ativy, empresa brasileira com foco em Cloud Computing e IT Outsourcing. Formado em Análise de Sistemas com especialização em Management and Leadership pela FGV e Cloud Computing pela University of Illinois, IL, USA. Possui diversas certificações focadas em SQL Server. Caserta passou por empresas como T-Systems e IBM atuando como especialista em banco de dados e entre 2011 e 2016 trabalhou na Microsoft Corporation nos Estados Unidos, atuando com clientes da plataforma de dados SQL Server na adoção das soluções em nuvem da Microsoft (Azure e SQL Azure), como JP Morgan, UPS, Intel e Cisco."
-  thumbnailUrl: ThiagoCaserta.png
-  rockstar: false
-  social:
-    - {name: "linkedin", link: "https://www.linkedin.com/in/thiagocaserta/"}
-
-# Thiago Caserta
-- 
-  id: 24
-  name: "Sérgio"
-  surname: "Gama"
-  company: "IBM"
-  title: "Developer Advocate Leader for Latin America"
+  id: 201603
+  name: "Alline"
+  surname: "Oliveira"
+  company: "CreBit"
+  title: "CTO"
   bio: ""
-  thumbnailUrl: SergioGama.jpg
-  rockstar: false
-  social:
-    - {name: "linkedin", link: "https://br.linkedin.com/in/sergiogama"}
-
-# Marcelo Cauduro
+  thumbnailUrl: AllineOliveira.jpg
+  rockstar: true
+  ribbon: 
+    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/allineo/"}
 - 
-  id: 25
-  name: "Marcelo"
-  surname: "Cauduro"
-  company: "Ativy | High Performance Cloud"
-  title: "Diretor de Tecnologia"
-  bio: "Marcelo Cauduro é CTO da Ativy, empresa brasileira com foco em Cloud Computing e IT Outsourcing. Com experiência de mais de 15 anos no mercado de Tecnologia da Informação, Marcelo teve passagens por grandes empresas tais como Motorola, MATERA Systems, IBM e Inmetrics. Nos ultimos anos atuou a frente do time de banco de dados da Redecard Itaú e atualmente é responsável por todo parque tecnológico da Ativy e está a frente da inovação dos produtos e serviços. Marcelo é formado em Análise de Sistemas pela PUC Campinas."
-  thumbnailUrl: MarceloCauduro.jpg
-  rockstar: false
-  social:
-    - {name: "linkedin", link: "https://www.linkedin.com/in/marcelo-cauduro-7a04891b"}
-
-# Eduardo Hruschka
-- 
-  id: 26
-  name: "Eduardo"
-  surname: "Hruschka"
-  company: "Itaú-Unibanco"
-  title: "Superintendente de Ciência de Dados"
-  bio: "Eduardo Hruschka é superintendente de ciência de dados do Itaú-Unibanco. Entre 2013-2016, foi cientista-chefe da startup “Big Data”. Concluiu seu doutorado em 2001 no Programa Interdisciplinar de Computação de Alto Desempenho da COPPE/UFRJ. Realizou pós-doutoramento em ciência de dados na University of Texas at Austin, entre 2010-2012. Obteve seu título de Livre-Docente em Ciências de Computação pela USP em 2012. É professor do Departamento de Ciências da Computação do ICMC/USP, atualmente contribuindo apenas com a pós graduação. Foi Jovem Pesquisador da FAPESP e é pesquisador nível 1-D do CNPq. Foi editor associado do periódico científico Information Sciences, da editora Elsevier. Tem atuado na área de ciência de dados, com particular ênfase em desenvolver, aperfeiçoar e aplicar algoritmos para aprendizado de máquina, desde 1996. Publicou mais de 100 artigos científicos, os quais receberam mais de 2.700 citações."
-  thumbnailUrl: EduardoHruschka.jpg
-  rockstar: false
-  social:
-    - {name: "linkedin", link: "https://www.linkedin.com/in/eduardo-hruschka-b113448/"}
+  id: 201604
+  name: "Everaldo"
+  surname: "Coelho"
+  company: "99Taxis"
+  title: "Product UX Director"
+  bio: ""
+  thumbnailUrl: EveraldoCoelho.jpg
+  rockstar: true
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/everaldocoelho/"}
 
 # - 
 #   id: 99
