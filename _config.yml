@@ -64,7 +64,7 @@ rightNavigationButtons:
  - {link: "<tickets>", text: "Ingressos"}
 
 # Hero Block
-heroImage: "hero_demo.png"
+heroImage: "devfest.png"
 heroTitle: "DevFest <typeout> 2017"
 eventDate: "4 de Novembro de 2017"
 typeoutTextValues: '"", "Campinas"'
