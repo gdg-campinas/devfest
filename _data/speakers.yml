@@ -34,7 +34,18 @@
   rockstar: false
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/raphael-moraes-26951821/"}
-
+# Camila Moura
+- 
+  id: 004
+  name: "Camila"
+  surname: "Moura"
+  company: "Google"
+  title: "Especialista em Programas de Recrutamento"
+  bio: "Formada em Administração pela Universidade Federal de Minas Gerais e com MBA em Gestão de Pessoas pelo IBMEC, trabalhou em multinacionais do ramo de engenharia, TI e mineração/siderurgia até entrar no Google em 2015. Tem experiência com Gestão da Qualidade, Controladoria e Recursos Humanos, tendo atuado com Recrutamento e Seleção, Treinamento e Desenvolvimento, Gestão de Desempenho, Gestão de Clima, entre outras áreas de RH. Atualmente trabalha com recrutamento para Engenharia de Software e Relações com Universidades para Brasil, Argentina e Colômbia. É lotada no escritório do Google em Belo Horizonte aonde é também responsável pelo programa de treinamentos internos, além de ser co-líder de eventos externos do Comitê de Mulheres."
+  thumbnailUrl: CamilaMoura.jpg
+  rockstar: false
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/raphael-moraes-26951821/"}
 # ****************************
 # ** 2016 rockstar speakers **
 # ****************************
