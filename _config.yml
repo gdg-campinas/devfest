@@ -12,7 +12,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 # Site Settings
 title: "DevFest Campinas"
 email: "contato@gdg-campinas.org"
-description: "O DevFest é <description>."
+description: "O DevFest é uma conferência te tecnlogia voltada para interessados no assunto de Campinas e região."
 baseurl: "/devfest"
 url: "https://gdg-campinas.github.io"
 permalink: "/blog/:title"
@@ -23,10 +23,10 @@ mapsApiKey: "AIzaSyBKggjiyNZRv2LMI86wSOAu2f2yZzUXArI"
 
 aboutEvent:
   title: "SOBRE O DEVFEST"
-  content: "O DevFest é <aboutEvent.content>"
+  content: "O DevFest é uma conferência te tecnlogia voltada para interessados no assunto de Campinas e região."
 aboutGDG:
   title: "O QUE É O GDG?"
-  content: "O GDG Campinas é parte de um programa do Google (Google Developer Group) sendo atualmente 1 de mais de 666 comunidades espalhadas pelo mundo. 
+  content: "O GDG Campinas é parte de um programa do Google (Google Developer Group) sendo atualmente 1 de mais de 675 comunidades espalhadas pelo mundo. 
   <br> Possuimos o objetivo de proporcionar ambientes de compartilhamento de conhecimento sobre os mais diversos assuntos que permeiam o desenvolvimento de um produto (software), da maneira mais acessível a todos que estiverem dispostos a aprender e compartilhar."
 
 # Organizer Info
@@ -59,9 +59,11 @@ navigationLinks:
 #  - {permalink: "/logistics/", text: "Logistics"}
 #  - {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
- - {link: "<tickets>", text: "Ingressos"}
+ - {link: "https://www.eventbrite.com.br/e/devfest-campinas-2017-tickets-38297336364
+", text: "Ingressos"}
 rightNavigationButtons:
- - {link: "<tickets>", text: "Ingressos"}
+ - {link: "https://www.eventbrite.com.br/e/devfest-campinas-2017-tickets-38297336364
+", text: "Ingressos"}
 
 # Hero Block
 heroImage: "devfest.png"
@@ -146,43 +148,43 @@ ticketsTitle: "Ingressos"
 ticketsInfo: "Os ingressos dão acesso a todas as trilhas e coffee breaks."
 ticketsOffers:
  -
-  name: "Early Bird"
-  price: "80,00"
+  name: "Ligeirinho"
+  price: "95,00"
   priceCurrency: "R$"
   ticketsNumber: "TBD"
   # ribbon: "-5%"
-  buyButtonLink: "<ticket>"
+  buyButtonLink: "https://www.eventbrite.com.br/e/devfest-campinas-2017-tickets-38297336364"
   buyButtonText: "Comprar"
   # ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "16/09/2017T09:00"
-  validThrough: "TBD"
+  validFrom: "26/09/2017T17:00"
+  validThrough: "08/10/2017T00:00"
   soldOut: false
   soldOutText: "Esgotado"
   featured: true
  -
-  name: "Ticket"
-  price: "TBD"
+  name: "Lebre"
+  price: "115,00"
   priceCurrency: "R$"
   ticketsNumber: "TBD"
   # ribbon: "-20%"
   # featured: true
-  buyButtonLink: "<ticket>"
+  buyButtonLink: "https://www.eventbrite.com.br/e/devfest-campinas-2017-tickets-38297336364"
   buyButtonText: "Comprar"
   # ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "TBD"
-  validThrough: "TBD"
+  validFrom: "08/10/2017T00:00"
+  validThrough: "29/10/2017T00:00"
   disabled: true
  -
-  name: "Late Bird"
+  name: "Tartaruga"
   price: "TBD"
   priceCurrency: "R$"
   ticketsNumber: "TBD"
-  buyButtonLink: "<ticket>"
+  buyButtonLink: "https://www.eventbrite.com.br/e/devfest-campinas-2017-tickets-38297336364"
   buyButtonText: "Comprar"
   # additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
   # ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "TBD"
-  validThrough: "TBD"
+  validFrom: "29/10/2017T00:00"
+  validThrough: "04/11/2017T00:00"
   disabled: true
   # soldOut: true
   # soldOutText: "Sold Out"
@@ -221,7 +223,7 @@ showSessions: false
 
 # Team Block
 teamBlockTitle: "Quem somos"
-aboutUs: "O GDG Campinas é parte de um programa do Google (Google Developer Group) sendo atualmente 1 de mais de 666 comunidades espalhadas pelo mundo. 
+aboutUs: "O GDG Campinas é parte de um programa do Google (Google Developer Group) sendo atualmente 1 de mais de 675 comunidades espalhadas pelo mundo. 
   <br> Possuimos o objetivo de proporcionar ambientes de compartilhamento de conhecimento sobre os mais diversos assuntos que permeiam o desenvolvimento de um produto (software), da maneira mais acessível a todos que estiverem dispostos a aprender e compartilhar."
 teamOrganizerTitle: "Organizadores"
 
