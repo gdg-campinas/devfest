@@ -1,5 +1,7 @@
 -
   group: "Patrocínio"
   elements:
-    - {name: "HBSIS", description: "HBSIS", link: "http://www.hbsis.com.br/", imageUrl: "hbsis.png"}
+    - {name: "Google", description: "Google", link: "https://www.google.com.br/", imageUrl: "google.png"}
+    - {name: "HBSIS", description: "HBSIS", link: "http://www.hbsis.com.br/", imageUrl: "hbsis.png", width: "80%"}
     - {name: "Dextra", description: "Dextra", link: "http://dextra.com.br/", imageUrl: "dextra.png"}
+    - {name: "CI&T", description: "CI&T", link: "http://www.ciandt.com/br-pt", imageUrl: "ciet.png", width: "80%"}

@@ -85,7 +85,7 @@ statisticBlockImage: "statistic.jpg"
 statisticBlock:
  - {count: "350", specialCharacter: "+", info: "participantes", detail: "de Campinas e região"}
  - {count: "9", specialCharacter: "+", info: "horas", detail: "de muito networking e conteúdo de altíssima qualidade"}
- - {count: "20", specialCharacter: "", info: "palestrantes", detail: "referências nos assuntos"}
+ - {count: "28", specialCharacter: "", info: "palestrantes", detail: "referências nos assuntos"}
  - {count: "4", specialCharacter: "", info: "trilhas", detail: "simultâneas"}
 
 # Latest News Block
