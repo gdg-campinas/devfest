@@ -62,20 +62,7 @@ Specialties: Web applications and Backend Services with high availability, auto 
   rockstar: false
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/gffranco/"}
-- 
-  id: 006
-  name: "Fernando"
-  surname: "Ultremare"
-  company: "Dextra"
-  title: "Gerente de Desenvolvimento"
-  bio: ""
-  thumbnailUrl: FernandoUltremare.jpg
-  rockstar: true
-  from2016: true
-  ribbon: 
-    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
-  social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/fernando-ultremare-7850459/"}
+
 # Eiti Kimura
 - 
   id: 007
