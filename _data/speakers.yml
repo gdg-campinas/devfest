@@ -9,7 +9,7 @@
   thumbnailUrl: EvertonGago.jpg
   rockstar: false
   social: 
-    # - {name: "linkedin", link: "https://www.linkedin.com/in/fernando-ultremare-7850459/"}
+    
 # Flávio Clésio
 - 
   id: 002
@@ -22,6 +22,7 @@
   rockstar: false
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/flavioclesio/"}
+
 # Raphael Moraes
 - 
   id: 003
@@ -34,6 +35,7 @@
   rockstar: false
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/raphael-moraes-26951821/"}
+
 # Camila Moura
 - 
   id: 004
@@ -46,6 +48,7 @@
   rockstar: false
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/camila-moura-58153046/"}
+
 # Gabriel Franco
 - 
   id: 005
@@ -65,16 +68,81 @@ Specialties: Web applications and Backend Services with high availability, auto 
 
 # Eiti Kimura
 - 
-  id: 007
+  id: 006
   name: "Eiti"
   surname: "Kimura"
   company: "Movile"
   title: "Coordenador de TI"
   bio: "Eiti tem mais de 15 anos de experiência com desenvolvimento de software, além de mestrado em eng. elétrica com especialização em engenharia de software. Possui a certificação Apache Cassandra 2014-2015 e trabalha com o Cassandra desde a versão 0.6. Tem ampla experiência no desenvolvimento de sistemas de back-end para serviços de cobrança de operadoras de telefonia, envio de mensagens SMS em massa Hoje trabalha como Coordenador de TI e arquiteto de sistemas distribuídos de alta performance na Movile Brasil."
   thumbnailUrl: EitiKimura.png
-  rockstar: true
+  rockstar: false
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/eitikimura/"}
+
+# Fernando Ultremare
+- 
+  id: 007
+  name: "Fernando"
+  surname: "Ultremare"
+  company: "Dextra"
+  title: "Gerente de Desenvolvimento"
+  bio: "Fernando is a passionate software craftsman who's worked for a wide range of industries and projects. He is an open source developer, technical writer and conference speaker.
+At Dextra, he blends his technical and management skills to lead and help teams that are building awesome software products for startups, technology, media, manufacturing, financial and other types of companies.
+He is the creator of the YAWP! Framework, a Java/Javascript framework that helps developers to easily create scalable REST APIs over the Google Cloud Platform.
+He lives in Brazil and studied Computer Science at the University of Campinas. He loves the countryside where he enjoys riding horses and playing his guitar loud."
+  thumbnailUrl: FernandoUltremare.jpg
+  rockstar: false
+  ribbon: 
+    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/fernando-ultremare-7850459/"}
+
+# Richard de Jesus
+- 
+  id: 008
+  name: "Richard"
+  surname: "de Jesus"
+  company: "SpartansClub"
+  title: "Co-Founder"
+  bio: "Senior UX Designer, apaixonado pela tecnologia, especialista em conectar pessoas e negócios através de excelente experiencia de usário (UX)"
+  thumbnailUrl: RichardJesus.jpeg
+  rockstar: false
+  ribbon: 
+    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/richardrx/"}
+
+# Alline Oliveira
+- 
+  id: 009
+  name: "Alline"
+  surname: "Oliveira"
+  company: "CreBit"
+  title: "CTO"
+  bio: "Alline Oliveira is a computer programmer, currently CTO of Crebit.com.br and a Google Developer Expert for the Google Cloud Platform. Has been working with Startups and JAVA programming for more than 15 years and WEB technologies for more than 10 years.
+In the last 20 years, she has worked in various jobs including Qualcomm, Nike Inc, Citibank, University of California at San Diego (UCSD), System Analyst at Tata Consultancy Services. 
+Alline was also Lead Instructor for the Startup Weekend NEXT program, a Certified Scrum Master (CSM) and a Certified Scrum Product Owner (CSPO) by Scrum Alliance; an Agile Specialist at the University of California, San Diego; Activist at Lean Startup and Customer Development in San Diego, in AgileSanDiego.org and the AgileHackathon.com organizer.
+Alline graduated with a degree in Computer Science from the University of Brasília, Brazil."
+  thumbnailUrl: AllineOliveira.jpg
+  rockstar: false
+  ribbon: 
+    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/allineo/"}
+
+# Douglas Drummond
+- 
+  id: 010
+  name: "Douglas"
+  surname: "Drummond"
+  company: "99"
+  title: "Mobile Software Engineer"
+  bio: "Experienced Android Developer with a demonstrated history of working in the computer software industry. Skilled in Embedded Software, Bash, Java, Android Development, and Vim. Strong engineering professional with a Bachelor in Computer Science from UNICAMP - Universidade Estadual de Campinas."
+  thumbnailUrl: DouglasDrummond.jpg
+  rockstar: false
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/douglasdrumond/"}
+
 # ****************************
 # ** 2016 rockstar speakers **
 # ****************************

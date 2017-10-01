@@ -66,7 +66,7 @@ rightNavigationButtons:
 ", text: "Ingressos"}
 
 # Hero Block
-heroImage: "devfest.png"
+heroImage: "hero.png"
 heroTitle: "DevFest <typeout> 2017"
 eventDate: "4 de Novembro de 2017"
 typeoutTextValues: '"", "Campinas"'
@@ -88,7 +88,7 @@ statisticBlock:
  - {count: "350", specialCharacter: "+", info: "participantes", detail: "de Campinas e região"}
  - {count: "9", specialCharacter: "+", info: "horas", detail: "de muito networking e conteúdo de altíssima qualidade"}
  - {count: "28", specialCharacter: "", info: "palestrantes", detail: "referências nos assuntos"}
- - {count: "4", specialCharacter: "", info: "trilhas", detail: "simultâneas"}
+ - {count: "5", specialCharacter: "", info: "trilhas", detail: "simultâneas"}
 
 # Latest News Block
 latestNewsTitle: "Latest news"
@@ -97,8 +97,8 @@ latestNewsTitle: "Latest news"
 rockstarSpeakersImage: "background-speakers.jpg"
 rockstarSpeakersCount: 4
 rockstarSpeakersTitle: "Destaques DevFest 2016"
-rockstarLinkEnabled: false
-rockstarSpeakersButtonText: "Veja todos palestrantes"
+rockstarLinkEnabled: true
+rockstarSpeakersButtonText: "Veja os palestrantes de 2017"
 
 # Location Block
 locationBlockTitle: "Localização"
@@ -145,7 +145,8 @@ partnersC4sponsorsButton: "Torne-se um patrocinador"
 
 # Tickets Block
 ticketsTitle: "Ingressos"
-ticketsInfo: "Os ingressos dão acesso a todas as trilhas e coffee breaks."
+ticketsInfo: "Os ingressos dão acesso a todas as trilhas, coffee breaks, camiseta do evento e brindes.<br>
+Membros do GDG Campinas tem desconto de 20% em todos os lotes."
 ticketsOffers:
  -
   name: "Ligeirinho"

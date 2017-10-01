@@ -1,7 +1,30 @@
 -
-  group: "Patrocínio"
+  group: "Master"
   elements:
     - {name: "Google", description: "Google", link: "https://www.google.com.br/", imageUrl: "google.png"}
+
+# - 
+#   group: "Especialista"
+#   elements:
+#     - {}
+
+# - 
+#   group: "Senior"
+#   elements:
+#     - {}
+
+# - 
+#   group: "Pleno"
+#   elements:
+#     - {}
+
+- 
+  group: "Junior"
+  elements:
     - {name: "HBSIS", description: "HBSIS", link: "http://www.hbsis.com.br/", imageUrl: "hbsis.png", width: "80%"}
     - {name: "Dextra", description: "Dextra", link: "http://dextra.com.br/", imageUrl: "dextra.png"}
+
+-
+  group: "Intern"
+  elements:
     - {name: "CI&T", description: "CI&T", link: "http://www.ciandt.com/br-pt", imageUrl: "ciet.png", width: "80%"}

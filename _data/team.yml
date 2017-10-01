@@ -14,7 +14,7 @@
   id: 1
   name: "Henrique"
   surname: "Candella"
-  title: "Operacional (LeBron James)"
+  title: "Operacional/Design (LeBron James)"
   thumbnailUrl: HenriqueCandella.jpg
   team: true
   ribbon: 
@@ -42,3 +42,13 @@
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/renatorfr/"}
     - {name: "facebook", link: "https://www.facebook.com/renatorfr"}
+- 
+  id: 4
+  name: "Erick"
+  surname: "Augusto"
+  title: "Design"
+  thumbnailUrl: ErickAugusto.jpg
+  team: true
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/erickaugustor/"}
+    - {name: "facebook", link: "https://www.facebook.com/Erick.augustor"}
