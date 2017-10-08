@@ -7,7 +7,7 @@
   title: "Especialista em Data Science"
   bio: "Everton Gago é Doutorando e Mestre em Engenharia Elétrica na Unicamp. Atualmente pesquisa e desenvolve algoritmos matemáticos que reproduzem de forma artificial os aspectos biológicos de aprendizado e auto-organização. Seus principais interesses são: Aprendizado de máquina, processamento digital de sinais e computação evolutiva"
   thumbnailUrl: EvertonGago.jpg
-  rockstar: false
+  rockstar: true
   social: 
     
 # Flávio Clésio
@@ -45,7 +45,7 @@
   title: "Especialista em Programas de Recrutamento"
   bio: "Formada em Administração pela Universidade Federal de Minas Gerais e com MBA em Gestão de Pessoas pelo IBMEC, trabalhou em multinacionais do ramo de engenharia, TI e mineração/siderurgia até entrar no Google em 2015. Tem experiência com Gestão da Qualidade, Controladoria e Recursos Humanos, tendo atuado com Recrutamento e Seleção, Treinamento e Desenvolvimento, Gestão de Desempenho, Gestão de Clima, entre outras áreas de RH. Atualmente trabalha com recrutamento para Engenharia de Software e Relações com Universidades para Brasil, Argentina e Colômbia. É lotada no escritório do Google em Belo Horizonte aonde é também responsável pelo programa de treinamentos internos, além de ser co-líder de eventos externos do Comitê de Mulheres."
   thumbnailUrl: CamilaMoura.jpg
-  rockstar: false
+  rockstar: true
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/camila-moura-58153046/"}
 
@@ -62,7 +62,7 @@ Worked at KNBS for 2 years, a Research and Development company, as the main deve
 Graduated in 2003 with a Bachelors degree in Computer Science at PUC Minas, campus Poços de Caldas with 2 best grade awards (2000 and 2002).
 Specialties: Web applications and Backend Services with high availability, auto scale and high throughput. Performance Analysis, Software Architecture and development."
   thumbnailUrl: GabrielFranco.jpg
-  rockstar: false
+  rockstar: true
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/gffranco/"}
 
@@ -75,7 +75,7 @@ Specialties: Web applications and Backend Services with high availability, auto 
   title: "Coordenador de TI"
   bio: "Eiti tem mais de 15 anos de experiência com desenvolvimento de software, além de mestrado em eng. elétrica com especialização em engenharia de software. Possui a certificação Apache Cassandra 2014-2015 e trabalha com o Cassandra desde a versão 0.6. Tem ampla experiência no desenvolvimento de sistemas de back-end para serviços de cobrança de operadoras de telefonia, envio de mensagens SMS em massa Hoje trabalha como Coordenador de TI e arquiteto de sistemas distribuídos de alta performance na Movile Brasil."
   thumbnailUrl: EitiKimura.png
-  rockstar: false
+  rockstar: true
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/eitikimura/"}
 
@@ -106,7 +106,7 @@ He lives in Brazil and studied Computer Science at the University of Campinas. H
   title: "Co-Founder"
   bio: "Senior UX Designer, apaixonado pela tecnologia, especialista em conectar pessoas e negócios através de excelente experiencia de usário (UX)"
   thumbnailUrl: RichardJesus.jpeg
-  rockstar: false
+  rockstar: true
   ribbon: 
     - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
   social: 
@@ -142,82 +142,3 @@ Alline graduated with a degree in Computer Science from the University of Brasí
   rockstar: false
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/douglasdrumond/"}
-
-# ****************************
-# ** 2016 rockstar speakers **
-# ****************************
-
-# Fernando Ultremare
-- 
-  id: 201601
-  name: "Fernando"
-  surname: "Ultremare"
-  company: "Dextra"
-  title: "Gerente de Desenvolvimento"
-  bio: ""
-  thumbnailUrl: FernandoUltremare.jpg
-  rockstar: true
-  from2016: true
-  ribbon: 
-    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
-  social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/fernando-ultremare-7850459/"}
-# Ubiratan Soares
-- 
-  id: 201602
-  name: "Ubiratan"
-  surname: "Soares"
-  company: "Magazine Luiza"
-  title: "Software Engineer"
-  bio: "Ubiratan Soares é Engenheiro de Software, formado pela Universidade de São Paulo, atualmente colaborador do Luizalabs, divisão de inovação do Magazine Luiza em São Paulo. Trabalha com mobilidade há mais de seis anos e é especialista em desenvolvimento para Android, tendo participação direta na construção de alguns dos maiores aplicativos nacionais hoje online. Também é co-organizador do GDG São Paulo e palestrante frequente nos maiores eventos de tecnologia do país. Faz parte do programa Google Developer Experts para Android, bem como da iniciativa da Intel Software Innovator para Android."
-  thumbnailUrl: UbiratanSoares.jpg
-  rockstar: true
-  from2016: true
-  ribbon: 
-    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
-  social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/ubiratanfsoares/"}
-# Alline Oliveira
-- 
-  id: 201603
-  name: "Alline"
-  surname: "Oliveira"
-  company: "CreBit"
-  title: "CTO"
-  bio: ""
-  thumbnailUrl: AllineOliveira.jpg
-  rockstar: true
-  from2016: true
-  ribbon: 
-    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
-  social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/allineo/"}
-# Everaldo Coelho
-- 
-  id: 201604
-  name: "Everaldo"
-  surname: "Coelho"
-  company: "99"
-  title: "Product UX Director"
-  bio: ""
-  thumbnailUrl: EveraldoCoelho.jpg
-  rockstar: true
-  from2016: true
-  social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/everaldocoelho/"}
-
-# - 
-#   id: 99
-#   name: "Mateusz"
-#   surname: "Herych"
-#   company: "Base CRM, GDG Krakow"
-#   title: "Software Engineer"
-#   bio: "Mateusz is an Android GDE and GDG organizer. Works as Android Developer for Base CRM where he uses his android-abracadabras to make enterprise software users more productive."
-#   thumbnailUrl: MateuszHerych.jpg
-#   rockstar: false
-#   ribbon: 
-#     - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
-#     - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
-#   social: 
-#     - {name: "google-plus", link: "https://plus.google.com/+MateuszHerych"}
-#     - {name: "twitter", link: "https://twitter.com/mherych"}
