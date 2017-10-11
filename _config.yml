@@ -57,9 +57,11 @@ navigationLinks:
 #  - {permalink: "/blog/", text: "Blog"}
 #  - {permalink: "/schedule/", text: "Grade"}
  - {permalink: "/speakers/", text: "Palestrantes"}
- - {permalink: "/team/", text: "Time"}
 #  - {permalink: "/logistics/", text: "Logistics"}
 #  - {permalink: "/hackathon/", text: "Hackathon"}
+ - {link: "https://goo.gl/forms/giwSyQAtqV4kUgHC3", text: "Torne-se um membro"}
+ - {permalink: "/team/", text: "Time"}
+ 
 bottomNavigationLinks:
  - {link: "https://www.eventbrite.com.br/e/devfest-campinas-2017-tickets-38297336364
 ", text: "Ingressos"}

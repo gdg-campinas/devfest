@@ -29,8 +29,8 @@
   name: "Raphael"
   surname: "Moraes"
   company: "Movile"
-  title: "Software Engineer"
-  bio: ""
+  title: "Frontend Engineer"
+  bio: "Engenheiro de Computação formando pela PUC-Campinas finalizando a bi-titulação em Engenharia de Software e Gestão, Marketing e Empreendedorismo, atualmente trabalha como Engenheiro de Frontend para a Movile Brasil tendo grande experiencia na stack de interface, sendo um evangelista do Javascript."
   thumbnailUrl: RaphaelMoraes.jpg
   rockstar: false
   social:
@@ -119,10 +119,7 @@ He lives in Brazil and studied Computer Science at the University of Campinas. H
   surname: "Oliveira"
   company: "CreBit"
   title: "CTO"
-  bio: "Alline Oliveira is a computer programmer, currently CTO of Crebit.com.br and a Google Developer Expert for the Google Cloud Platform. Has been working with Startups and JAVA programming for more than 15 years and WEB technologies for more than 10 years.
-In the last 20 years, she has worked in various jobs including Qualcomm, Nike Inc, Citibank, University of California at San Diego (UCSD), System Analyst at Tata Consultancy Services. 
-Alline was also Lead Instructor for the Startup Weekend NEXT program, a Certified Scrum Master (CSM) and a Certified Scrum Product Owner (CSPO) by Scrum Alliance; an Agile Specialist at the University of California, San Diego; Activist at Lean Startup and Customer Development in San Diego, in AgileSanDiego.org and the AgileHackathon.com organizer.
-Alline graduated with a degree in Computer Science from the University of Brasília, Brazil."
+  bio: "Alline Oliveira é uma das poucas mulheres no mundo certificada como Google Developer Expert, devido a seu trabalho em Cloud Computing. Já desenvolveu para Nike, Citibank, Qualcomm, Departamento de Defesa Americano, Universidade da California, TAM, Anatel, Serpro, dentre outros. Hoje é a CTO da fintech Crebit."
   thumbnailUrl: AllineOliveira.jpg
   rockstar: false
   ribbon: 
@@ -142,3 +139,109 @@ Alline graduated with a degree in Computer Science from the University of Brasí
   rockstar: false
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/douglasdrumond/"}
+
+# Kenzo Porto
+- 
+  id: 011
+  name: "Kenzo"
+  surname: "Porto"
+  company: "Google Cloud"
+  title: "Cloud Program Manager"
+  bio: "Kenzo Porto é bacharel em Ciência da Computação pela UFRGS e tem um MBA em Gestão Empresarial pela FGV. Possui mais de 15 anos de experiência em gerenciamento de projetos, desenvolvimento de software e arquitetura de sistemas. Há 5 anos trabalha na Google e atuou nos cargos de Sales Engineer de Google Maps, Partner Operations Manager de Maps e Search Enterprise, Deployment Engineer de G Suite e atualmente é Cloud Program Manager."
+  thumbnailUrl: KenzoPorto.jpg
+  rockstar: false
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/eduardo-kenzo-kurahayashi-porto-9424a6a/"}
+
+# Ana Paula Batista
+- 
+  id: 012
+  name: "Ana Paula"
+  surname: "Batista"
+  company: "Sparck"
+  title: "UX/Product Designer"
+  bio: "Qual o tamanho que vc precisa? tenho essa:
+Formada em Multimídia Digital, tem 17 anos de experiência no planejamento e projeto de produtos digitais. Uma das primeiras Google Experts em UX/UI no Brasil, teve oportunidade de participar da primeira turma de Design Sprint Master Academy, oferecido pelo Google em Mountain View - CA - USA, em 2015. Já planejou e aplicou Design Sprint para mais de 25 empresas diferentes, tendo grandes resultados que se tornaram cases em palestras internacionais.
+Teve oportunidade também em ser mentora das duas primeiras classes do programa de aceleração global do Google - o Google Launchpad Accelerator Program de 2016. Neste programa, atuou diretamente com 48 startups da Índia, Indonésia, México e Brasil. Além disto, já deu mentoria para mais de 50 startups e palestras em diferentes cidades do Brasil, em programas de comunidades independentes ou relacionados ao Google BR.
+Já teve passagens no AppProva, B2W Digital, UOL, Terraforum (atual Globant), entre outras. É também líder do capítulo local da UXPA-SP - comunidade sem fins lucrativos que tem como objetivo divulgar e fortalecer a profissão e disciplina do Design de Experiência do Usuário."
+  thumbnailUrl: AnaBatista.png
+  rockstar: false
+  ribbon: 
+    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/anabatista/"}  
+
+# Nelson Vasconcelos
+- 
+  id: 013
+  name: "Nelson"
+  surname: "Vasconcelos"
+  company: "Mokriya"
+  title: "Senior UI/UX Designer"
+  bio: "Nelson has been working with design for over 10 years in a broad range of digital projects such as Websites, Rich Internet Applications, Games and Mobile Apps, from startups to big companies.
+
+His skills and focus are from obsessing with crafting simple, intuitive, and delightful user experiences and designs, to creating beautiful pixel-perfect designs and icons.
+
+He is proficient with Sketch, Photoshop and Interaction Design tools such as Pixate and Origami, Android’s Material Design and extensive experience on responsive HTML5/CSS3 and JS, and currently focused on creating prototypes and A/B tests.
+
+Nelson is currently focused on creating Prototypes and A/B Tests, working with data analysis and data-led goals, user interviewing, and information architecture skills such as Wireframing, User Flows, User Journeys and Personas."
+  thumbnailUrl: NelsonVasconcelos.jpg
+  rockstar: false
+  ribbon: 
+    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/nelsonvasconcelos/"}
+
+# Ubiratan Soares		
+-
+  id: 014		
+  name: "Ubiratan"		
+  surname: "Soares"		
+  company: "Magazine Luiza"		
+  title: "Software Engineer"		
+  bio: "Ubiratan Soares é Engenheiro de Software, formado pela Universidade de São Paulo, atualmente colaborador do Luizalabs, divisão de inovação do Magazine Luiza em São Paulo. Trabalha com mobilidade há mais de seis anos e é especialista em desenvolvimento para Android, tendo participação direta na construção de alguns dos maiores aplicativos nacionais hoje online. Também é co-organizador do GDG São Paulo e palestrante frequente nos maiores eventos de tecnologia do país. Faz parte do programa Google Developer Experts para Android, bem como da iniciativa da Intel Software Innovator para Android."		
+  thumbnailUrl: UbiratanSoares.jpg		
+  rockstar: false		
+  ribbon:
+    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
+  social: 		
+    - {name: "linkedin", link: "https://www.linkedin.com/in/ubiratanfsoares/"}
+
+# Jeff Prestes
+- 
+  id: 015
+  name: "Jeff"
+  surname: "Prestes"
+  company: "Novatrix"
+  title: "CTO"
+  bio: ""
+  thumbnailUrl: JeffPrestes.jpg
+  rockstar: false
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/jeffprestes/"}
+
+# Daniela Petruzalek
+- 
+  id: 016
+  name: "Daniela"
+  surname: "Petruzalek"
+  company: "Globo.com"
+  title: "Senior Software Engineer"
+  bio: ""
+  thumbnailUrl: DanielaPetruzalek.jpg
+  rockstar: false
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/petruzalek/"}
+
+# Luiz Gustavo Martins
+- 
+  id: 017
+  name: "Luiz Gustavo"
+  surname: "Martins"
+  company: "Google"
+  title: "Developer Advocate"
+  bio: ""
+  thumbnailUrl: LuizMartins.jpg
+  rockstar: false
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/petruzalek/"}
