@@ -134,7 +134,7 @@ He lives in Brazil and studied Computer Science at the University of Campinas. H
   surname: "Drummond"
   company: "99"
   title: "Mobile Software Engineer"
-  bio: "Experienced Android Developer with a demonstrated history of working in the computer software industry. Skilled in Embedded Software, Bash, Java, Android Development, and Vim. Strong engineering professional with a Bachelor in Computer Science from UNICAMP - Universidade Estadual de Campinas."
+  bio: "Bacharel em Ciência da Computação pela Unicamp e Mobile Software Engineer III na 99. Trabalha com Android desde 2010, mas já teve experiência variada, de sistemas desktop a web, em empresas de diversos portes, desde startups de 3 funcionários, inclusive já tendo fundado e fechado a própria startup, a empresas maiores como Movile e IBM. Adora o ambiente dinâmico de startups e triunfa nele. Quando não está com uma câmera na mão, está lendo alguma coisa nerd."
   thumbnailUrl: DouglasDrummond.jpg
   rockstar: false
   social: 
@@ -196,15 +196,17 @@ Nelson is currently focused on creating Prototypes and A/B Tests, working with d
   id: 014		
   name: "Ubiratan"		
   surname: "Soares"		
-  company: "Magazine Luiza"		
-  title: "Software Engineer"		
-  bio: "Ubiratan Soares é Engenheiro de Software, formado pela Universidade de São Paulo, atualmente colaborador do Luizalabs, divisão de inovação do Magazine Luiza em São Paulo. Trabalha com mobilidade há mais de seis anos e é especialista em desenvolvimento para Android, tendo participação direta na construção de alguns dos maiores aplicativos nacionais hoje online. Também é co-organizador do GDG São Paulo e palestrante frequente nos maiores eventos de tecnologia do país. Faz parte do programa Google Developer Experts para Android, bem como da iniciativa da Intel Software Innovator para Android."		
+  company: ""		
+  title: "Consultor Independente"		
+  bio: "Software Engineer, curious guy, messing with Android development"	
   thumbnailUrl: UbiratanSoares.jpg		
   rockstar: false		
   ribbon:
     - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
   social: 		
     - {name: "linkedin", link: "https://www.linkedin.com/in/ubiratanfsoares/"}
+    - {name: "twitter", link: "https://twitter.com/ubiratanfsoares"}
+    - {name: "github", link: "https://github.com/ubiratansoares"}    
 
 # Jeff Prestes
 - 

@@ -50,14 +50,29 @@
   description: "MVP funcional com máxima flexibilidade e mínimo código possível."
   subtype: presentation
   speakers: [009]
+
 # Raphael - PWA
 -
   id: 402
   title: "Progressive Web Apps e o futuro do Frontend"
   description: "Apresentar os conceitos de PWA, tendencias de mercado e o que podemos esperar do futuro de um desenvolvedor web"
   subtype: presentation
-  level: "Intermediário"
+  complexity: "Intermediário"
   speakers: [003]
+
+# Ubiratan - Architecture Components
+-
+  id: 403
+  title: "Architecture Components Distilled"
+  description: "LifecycleOwner? Lifecycle? LiveData? ViewModel? Transformations?
+
+Seus problemas acabaram! (ou não :P)
+
+Nessa palestra nós vamos entender a fundo Architecture Components, tanto do ponto de vista de fundamento quanto do ponto de vista de aplicações práticas! Venha aprender como essa nova proposta para arquitetura trazida pelo Google pode ser encaixada no seu projeto, quais os desafios ao adotar, quais os problemas que esses componentes não resolvem e como essas APIs conversam com outros paradigmas de arquitetura e/ou frameworks (como RxJava) amplamente adotados no mercado."
+  subtype: presentation
+  speakers: [014]
+  complexity: "Avançado"
+
 # -
 #   id: 002
 #   title: "Building Cloud-powered wearable Apps"

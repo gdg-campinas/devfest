@@ -149,7 +149,7 @@ partnersC4sponsorsButton: "Torne-se um patrocinador"
 
 # Tickets Block
 ticketsTitle: "Ingressos"
-ticketsInfo: "Os ingressos dão acesso a todas as trilhas, coffee breaks, camiseta do evento e brindes.<br>
+ticketsInfo: "Incluso: Acesso as 5 trilhas de conteúdo, estandes, sorteios, camiseta exclusiva do evento e coffees.<br>
 Membros do GDG Campinas tem desconto de 20% em todos os lotes."
 ticketsOffers:
  -
@@ -163,9 +163,9 @@ ticketsOffers:
   # ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
   validFrom: "26/09/2017T17:00"
   validThrough: "08/10/2017T00:00"
-  soldOut: false
+  soldOut: true
   soldOutText: "Esgotado"
-  featured: true
+  disabled: true
  -
   name: "Lebre"
   price: "115,00"
@@ -178,10 +178,10 @@ ticketsOffers:
   # ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
   validFrom: "08/10/2017T00:00"
   validThrough: "29/10/2017T00:00"
-  disabled: true
+  featured: true
  -
   name: "Tartaruga"
-  price: "TBD"
+  price: "135,00"
   priceCurrency: "R$"
   ticketsNumber: "TBD"
   buyButtonLink: "https://www.eventbrite.com.br/e/devfest-campinas-2017-tickets-38297336364"
@@ -189,7 +189,7 @@ ticketsOffers:
   # additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
   # ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
   validFrom: "29/10/2017T00:00"
-  validThrough: "04/11/2017T00:00"
+  validThrough: "30/11/2017T00:00"
   disabled: true
   # soldOut: true
   # soldOutText: "Sold Out"
