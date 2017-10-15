@@ -1,27 +1,32 @@
-# Everton Gago
+# Ubiratan Soares
+-
+  id: 014		
+  name: "Ubiratan"		
+  surname: "Soares"		
+  company: ""		
+  title: "Consultor Independente"		
+  bio: "Software Engineer, curious guy, messing with Android development"	
+  thumbnailUrl: UbiratanSoares.jpg		
+  rockstar: false		
+  ribbon:
+    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
+  social: 		
+    - {name: "linkedin", link: "https://www.linkedin.com/in/ubiratanfsoares/"}
+    - {name: "twitter", link: "https://twitter.com/ubiratanfsoares"}
+    - {name: "github", link: "https://github.com/ubiratansoares"}    
+
+# Kenzo Porto
 - 
-  id: 001
-  name: "Everton"
-  surname: "Gago"
-  company: "iFood"
-  title: "Especialista em Data Science"
-  bio: "Everton Gago é Doutorando e Mestre em Engenharia Elétrica na Unicamp. Atualmente pesquisa e desenvolve algoritmos matemáticos que reproduzem de forma artificial os aspectos biológicos de aprendizado e auto-organização. Seus principais interesses são: Aprendizado de máquina, processamento digital de sinais e computação evolutiva"
-  thumbnailUrl: EvertonGago.jpg
-  rockstar: true
-  social: 
-    
-# Flávio Clésio
-- 
-  id: 002
-  name: "Flávio"
-  surname: "Clésio"
-  company: "Movile"
-  title: "Core Machine Learning "
-  bio: "Flávio Clésio é especialista em Machine Learning e garantia de receita pela Movile, onde desenvolve aplicações inteligentes para exploração de oportunidades de aumento de receita, além de automação da tomada de decisão. Antes da Movile, trabalhou com Business Intelligence no mercado financeiro, especialmente no mercado de créditos não performados (Non-Performing Loans). Possuí mestrado em inteligência computacional aplicada no mercado financeiro."
-  thumbnailUrl: FlavioClesio.jpeg
+  id: 011
+  name: "Kenzo"
+  surname: "Porto"
+  company: "Google Cloud"
+  title: "Cloud Program Manager"
+  bio: "Kenzo Porto é bacharel em Ciência da Computação pela UFRGS e tem um MBA em Gestão Empresarial pela FGV. Possui mais de 15 anos de experiência em gerenciamento de projetos, desenvolvimento de software e arquitetura de sistemas. Há 5 anos trabalha na Google e atuou nos cargos de Sales Engineer de Google Maps, Partner Operations Manager de Maps e Search Enterprise, Deployment Engineer de G Suite e atualmente é Cloud Program Manager."
+  thumbnailUrl: KenzoPorto.jpg
   rockstar: false
-  social:
-    - {name: "linkedin", link: "https://www.linkedin.com/in/flavioclesio/"}
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/eduardo-kenzo-kurahayashi-porto-9424a6a/"}
 
 # Raphael Moraes
 - 
@@ -35,49 +40,6 @@
   rockstar: false
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/raphael-moraes-26951821/"}
-
-# Camila Moura
-- 
-  id: 004
-  name: "Camila"
-  surname: "Moura"
-  company: "Google"
-  title: "Especialista em Programas de Recrutamento"
-  bio: "Formada em Administração pela Universidade Federal de Minas Gerais e com MBA em Gestão de Pessoas pelo IBMEC, trabalhou em multinacionais do ramo de engenharia, TI e mineração/siderurgia até entrar no Google em 2015. Tem experiência com Gestão da Qualidade, Controladoria e Recursos Humanos, tendo atuado com Recrutamento e Seleção, Treinamento e Desenvolvimento, Gestão de Desempenho, Gestão de Clima, entre outras áreas de RH. Atualmente trabalha com recrutamento para Engenharia de Software e Relações com Universidades para Brasil, Argentina e Colômbia. É lotada no escritório do Google em Belo Horizonte aonde é também responsável pelo programa de treinamentos internos, além de ser co-líder de eventos externos do Comitê de Mulheres."
-  thumbnailUrl: CamilaMoura.jpg
-  rockstar: true
-  social:
-    - {name: "linkedin", link: "https://www.linkedin.com/in/camila-moura-58153046/"}
-
-# Gabriel Franco
-- 
-  id: 005
-  name: "Gabriel"
-  surname: "Franco"
-  company: "Spotify"
-  title: "Engineering Manager (Chapter Lead)"
-  bio: "Worked for Movile as a Technology Manager and Platform Leader. Responsible for the development, improvement and definition of the mobile application backend platform (BaaS) which includes functionalities like user engagement, user event analytics, a/b testing, remote configuration, app data storage.
-Worked at Ci&T for almost 6 years responsible for System Analysis, Requirement Analysis, System Architecture definition. Also managing a team of Software Architects and a main technical escalation point for a major contract.
-Worked at KNBS for 2 years, a Research and Development company, as the main developer for softwares applications, embedded systems, data analysis for some Power Supply clients. Projects included data mining, telecommunications protocols and business knowledge management.
-Graduated in 2003 with a Bachelors degree in Computer Science at PUC Minas, campus Poços de Caldas with 2 best grade awards (2000 and 2002).
-Specialties: Web applications and Backend Services with high availability, auto scale and high throughput. Performance Analysis, Software Architecture and development."
-  thumbnailUrl: GabrielFranco.jpg
-  rockstar: true
-  social:
-    - {name: "linkedin", link: "https://www.linkedin.com/in/gffranco/"}
-
-# Eiti Kimura
-- 
-  id: 006
-  name: "Eiti"
-  surname: "Kimura"
-  company: "Movile"
-  title: "Coordenador de TI"
-  bio: "Eiti tem mais de 15 anos de experiência com desenvolvimento de software, além de mestrado em eng. elétrica com especialização em engenharia de software. Possui a certificação Apache Cassandra 2014-2015 e trabalha com o Cassandra desde a versão 0.6. Tem ampla experiência no desenvolvimento de sistemas de back-end para serviços de cobrança de operadoras de telefonia, envio de mensagens SMS em massa Hoje trabalha como Coordenador de TI e arquiteto de sistemas distribuídos de alta performance na Movile Brasil."
-  thumbnailUrl: EitiKimura.png
-  rockstar: true
-  social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/eitikimura/"}
 
 # Fernando Ultremare
 - 
@@ -127,6 +89,87 @@ He lives in Brazil and studied Computer Science at the University of Campinas. H
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/allineo/"}
 
+# Lucas Trindade
+- 
+  id: 019
+  name: "Lucas"
+  surname: "Trindade"
+  company: "Stone Pagamentos"
+  title: "Desenvolvedor Front-End"
+  bio: "Graduando em Sistemas de Informação e Front-end Developer na Stone Pagamentos. Sou também um dos organizadores do GDG Duque de Caxias, Frontend RJ e RioCSS. E um curioso por novas tecnologias e principalmente pela web!"
+  thumbnailUrl: LucasTrindade.jpg
+  rockstar: false
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/lucassilvatrindade/"}
+
+# Everton Gago
+- 
+  id: 001
+  name: "Everton"
+  surname: "Gago"
+  company: "iFood"
+  title: "Especialista em Data Science"
+  bio: "Everton Gago é Doutorando e Mestre em Engenharia Elétrica na Unicamp. Atualmente pesquisa e desenvolve algoritmos matemáticos que reproduzem de forma artificial os aspectos biológicos de aprendizado e auto-organização. Seus principais interesses são: Aprendizado de máquina, processamento digital de sinais e computação evolutiva"
+  thumbnailUrl: EvertonGago.jpg
+  rockstar: true
+  social: 
+    
+# Flávio Clésio
+- 
+  id: 002
+  name: "Flávio"
+  surname: "Clésio"
+  company: "Movile"
+  title: "Core Machine Learning "
+  bio: "Flávio Clésio é especialista em Machine Learning e garantia de receita pela Movile, onde desenvolve aplicações inteligentes para exploração de oportunidades de aumento de receita, além de automação da tomada de decisão. Antes da Movile, trabalhou com Business Intelligence no mercado financeiro, especialmente no mercado de créditos não performados (Non-Performing Loans). Possuí mestrado em inteligência computacional aplicada no mercado financeiro."
+  thumbnailUrl: FlavioClesio.jpeg
+  rockstar: false
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/flavioclesio/"}
+
+# Camila Moura
+- 
+  id: 004
+  name: "Camila"
+  surname: "Moura"
+  company: "Google"
+  title: "Especialista em Programas de Recrutamento"
+  bio: "Formada em Administração pela Universidade Federal de Minas Gerais e com MBA em Gestão de Pessoas pelo IBMEC, trabalhou em multinacionais do ramo de engenharia, TI e mineração/siderurgia até entrar no Google em 2015. Tem experiência com Gestão da Qualidade, Controladoria e Recursos Humanos, tendo atuado com Recrutamento e Seleção, Treinamento e Desenvolvimento, Gestão de Desempenho, Gestão de Clima, entre outras áreas de RH. Atualmente trabalha com recrutamento para Engenharia de Software e Relações com Universidades para Brasil, Argentina e Colômbia. É lotada no escritório do Google em Belo Horizonte aonde é também responsável pelo programa de treinamentos internos, além de ser co-líder de eventos externos do Comitê de Mulheres."
+  thumbnailUrl: CamilaMoura.jpg
+  rockstar: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/camila-moura-58153046/"}
+
+# Gabriel Franco
+- 
+  id: 005
+  name: "Gabriel"
+  surname: "Franco"
+  company: "Spotify"
+  title: "Engineering Manager (Chapter Lead)"
+  bio: "Worked for Movile as a Technology Manager and Platform Leader. Responsible for the development, improvement and definition of the mobile application backend platform (BaaS) which includes functionalities like user engagement, user event analytics, a/b testing, remote configuration, app data storage.
+Worked at Ci&T for almost 6 years responsible for System Analysis, Requirement Analysis, System Architecture definition. Also managing a team of Software Architects and a main technical escalation point for a major contract.
+Worked at KNBS for 2 years, a Research and Development company, as the main developer for softwares applications, embedded systems, data analysis for some Power Supply clients. Projects included data mining, telecommunications protocols and business knowledge management.
+Graduated in 2003 with a Bachelors degree in Computer Science at PUC Minas, campus Poços de Caldas with 2 best grade awards (2000 and 2002).
+Specialties: Web applications and Backend Services with high availability, auto scale and high throughput. Performance Analysis, Software Architecture and development."
+  thumbnailUrl: GabrielFranco.jpg
+  rockstar: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/gffranco/"}
+
+# Eiti Kimura
+- 
+  id: 006
+  name: "Eiti"
+  surname: "Kimura"
+  company: "Movile"
+  title: "Coordenador de TI"
+  bio: "Eiti tem mais de 15 anos de experiência com desenvolvimento de software, além de mestrado em eng. elétrica com especialização em engenharia de software. Possui a certificação Apache Cassandra 2014-2015 e trabalha com o Cassandra desde a versão 0.6. Tem ampla experiência no desenvolvimento de sistemas de back-end para serviços de cobrança de operadoras de telefonia, envio de mensagens SMS em massa Hoje trabalha como Coordenador de TI e arquiteto de sistemas distribuídos de alta performance na Movile Brasil."
+  thumbnailUrl: EitiKimura.png
+  rockstar: true
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/eitikimura/"}
+
 # Douglas Drummond
 - 
   id: 010
@@ -139,19 +182,6 @@ He lives in Brazil and studied Computer Science at the University of Campinas. H
   rockstar: false
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/douglasdrumond/"}
-
-# Kenzo Porto
-- 
-  id: 011
-  name: "Kenzo"
-  surname: "Porto"
-  company: "Google Cloud"
-  title: "Cloud Program Manager"
-  bio: "Kenzo Porto é bacharel em Ciência da Computação pela UFRGS e tem um MBA em Gestão Empresarial pela FGV. Possui mais de 15 anos de experiência em gerenciamento de projetos, desenvolvimento de software e arquitetura de sistemas. Há 5 anos trabalha na Google e atuou nos cargos de Sales Engineer de Google Maps, Partner Operations Manager de Maps e Search Enterprise, Deployment Engineer de G Suite e atualmente é Cloud Program Manager."
-  thumbnailUrl: KenzoPorto.jpg
-  rockstar: false
-  social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/eduardo-kenzo-kurahayashi-porto-9424a6a/"}
 
 # Ana Paula Batista
 - 
@@ -191,23 +221,6 @@ Nelson is currently focused on creating Prototypes and A/B Tests, working with d
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/nelsonvasconcelos/"}
 
-# Ubiratan Soares		
--
-  id: 014		
-  name: "Ubiratan"		
-  surname: "Soares"		
-  company: ""		
-  title: "Consultor Independente"		
-  bio: "Software Engineer, curious guy, messing with Android development"	
-  thumbnailUrl: UbiratanSoares.jpg		
-  rockstar: false		
-  ribbon:
-    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
-  social: 		
-    - {name: "linkedin", link: "https://www.linkedin.com/in/ubiratanfsoares/"}
-    - {name: "twitter", link: "https://twitter.com/ubiratanfsoares"}
-    - {name: "github", link: "https://github.com/ubiratansoares"}    
-
 # Jeff Prestes
 - 
   id: 015
@@ -215,7 +228,7 @@ Nelson is currently focused on creating Prototypes and A/B Tests, working with d
   surname: "Prestes"
   company: "Novatrix"
   title: "CTO"
-  bio: ""
+  bio: "Jeff tem mais de 20 anos de experiência com Desenvolvimento de Software, trabalhando desde 1999 com Internet. Hoje, Go, Internet das Coisas e Machine Learning são suas novas paixões. Ele participa de várias comunidades de desenvolvedores e trabalhou diversos anos como Evangelista, ministrando diversas palestras no Brasil e no Exterior bem como organizando Hackathons de níveis globais como Battlehack (battlehack.org). Tem sua empresa, a Novatrix, onde alia tecnicas de Design Thinking e de Lean Startup a novas tecnologias para ajudar empresas a Inovar e gerar negócios."
   thumbnailUrl: JeffPrestes.jpg
   rockstar: false
   social: 
@@ -246,3 +259,16 @@ Nelson is currently focused on creating Prototypes and A/B Tests, working with d
   rockstar: false
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/luiz-gustavo-martins-64ab5891/"}
+
+# Felipe Ribeiro
+- 
+  id: 018
+  name: "Felipe"
+  surname: "Ribeiro"
+  company: "Spotify"
+  title: "Lead Software Engineer"
+  bio: "BSc. em Ciencia da Computação e primeiro Software Engineer brasileiro no Spotify"
+  thumbnailUrl: FelipeRibeiro.jpg
+  rockstar: false
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/felipernb/"}

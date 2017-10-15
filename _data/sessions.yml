@@ -45,7 +45,7 @@
 
 # Alline - Lean
 -
-  id: 401
+  id: 9991
   title: "Arquitetura Lean"
   description: "MVP funcional com máxima flexibilidade e mínimo código possível."
   subtype: presentation
@@ -53,7 +53,7 @@
 
 # Raphael - PWA
 -
-  id: 402
+  id: 9992
   title: "Progressive Web Apps e o futuro do Frontend"
   description: "Apresentar os conceitos de PWA, tendencias de mercado e o que podemos esperar do futuro de um desenvolvedor web"
   subtype: presentation
@@ -62,7 +62,7 @@
 
 # Ubiratan - Architecture Components
 -
-  id: 403
+  id: 9993
   title: "Architecture Components Distilled"
   description: "LifecycleOwner? Lifecycle? LiveData? ViewModel? Transformations?
 
@@ -73,6 +73,38 @@ Nessa palestra nós vamos entender a fundo Architecture Components, tanto do pon
   speakers: [014]
   complexity: "Avançado"
 
+# Richard - Interfaces de texto e chatbot
+-
+  id: 9994
+  title: "Interfaces de texto e chatbot"
+  description: ""
+  subtype: presentation
+  speakers: [008]
+
+# Kenzo - BigQuery
+-
+  id: 9995
+  title: "Usando BigQuery para analisar petabytes de informação"
+  description: "Uma solução de Data Warehouse completamente gerenciada, capaz de lidar com petabytes de dados com alto desempenho e baixo custo. Parece muito bom para ser verdade, não é mesmo? Venha conhecer o BigQuery e saber como você pode começar a utilizá-lo. Não se preocupe, o primeiro terabyte de dados processados/mês é por nossa conta!"
+  subtype: presentation
+  speakers: [011]
+
+# Fernando - Serverless Machine Learning
+-
+  id: 9996
+  title: "Serverless Machine Learning on Google Cloud"
+  description: ""
+  subtype: presentation
+  speakers: [007]
+
+# Lucas - Trindade
+-
+  id: 9997
+  title: "Callbacks, Promises e Async&Await"
+  description: "Esta talk tem a intenção de mostrar as pessoas o porquê da criação de novas formas de tratar uma request. E mostrar qual o problema que cada uma visa resolver, e deixando claro que uma não anula outra."
+  subtype: presentation
+  speakers: [019]
+  complexity: "Básico"
 # -
 #   id: 002
 #   title: "Building Cloud-powered wearable Apps"

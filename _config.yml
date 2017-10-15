@@ -224,7 +224,8 @@ footerBlocks:
 # discusShortName: "devfestua"
 
 # Speakers List Block
-showSessions: false
+showSessions: true
+emptySessionTitle: "A definir"
 
 # Team Block
 teamBlockTitle: "Quem somos"
