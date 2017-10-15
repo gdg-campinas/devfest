@@ -147,11 +147,7 @@ He lives in Brazil and studied Computer Science at the University of Campinas. H
   surname: "Franco"
   company: "Spotify"
   title: "Engineering Manager (Chapter Lead)"
-  bio: "Worked for Movile as a Technology Manager and Platform Leader. Responsible for the development, improvement and definition of the mobile application backend platform (BaaS) which includes functionalities like user engagement, user event analytics, a/b testing, remote configuration, app data storage.
-Worked at Ci&T for almost 6 years responsible for System Analysis, Requirement Analysis, System Architecture definition. Also managing a team of Software Architects and a main technical escalation point for a major contract.
-Worked at KNBS for 2 years, a Research and Development company, as the main developer for softwares applications, embedded systems, data analysis for some Power Supply clients. Projects included data mining, telecommunications protocols and business knowledge management.
-Graduated in 2003 with a Bachelors degree in Computer Science at PUC Minas, campus Poços de Caldas with 2 best grade awards (2000 and 2002).
-Specialties: Web applications and Backend Services with high availability, auto scale and high throughput. Performance Analysis, Software Architecture and development."
+  bio: "Trabalhando atualmente como Engineering Manager no Spotify em Stockholm, possui mais de 10 anos de experiência gerenciando times técnicos, focado no desenvolvimento, atração e retenção de talentos em empresas como Ci&T, Movile, iFood, Ingresso Rápido e outras. Também desenvolve em seu tempo livre e se auto descreve como 'Coder by heart, manager by fate'."
   thumbnailUrl: GabrielFranco.jpg
   rockstar: true
   social:
