@@ -102,6 +102,19 @@ He lives in Brazil and studied Computer Science at the University of Campinas. H
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/lucassilvatrindade/"}
 
+# Gabriel Franco
+- 
+  id: 005
+  name: "Gabriel"
+  surname: "Franco"
+  company: "Spotify"
+  title: "Engineering Manager (Chapter Lead)"
+  bio: "Trabalhando atualmente como Engineering Manager no Spotify em Stockholm, possui mais de 10 anos de experiência gerenciando times técnicos, focado no desenvolvimento, atração e retenção de talentos em empresas como Ci&T, Movile, iFood, Ingresso Rápido e outras. Também desenvolve em seu tempo livre e se auto descreve como 'Coder by heart, manager by fate'."
+  thumbnailUrl: GabrielFranco.jpg
+  rockstar: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/gffranco/"}
+
 # Everton Gago
 - 
   id: 001
@@ -139,19 +152,6 @@ He lives in Brazil and studied Computer Science at the University of Campinas. H
   rockstar: true
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/camila-moura-58153046/"}
-
-# Gabriel Franco
-- 
-  id: 005
-  name: "Gabriel"
-  surname: "Franco"
-  company: "Spotify"
-  title: "Engineering Manager (Chapter Lead)"
-  bio: "Trabalhando atualmente como Engineering Manager no Spotify em Stockholm, possui mais de 10 anos de experiência gerenciando times técnicos, focado no desenvolvimento, atração e retenção de talentos em empresas como Ci&T, Movile, iFood, Ingresso Rápido e outras. Também desenvolve em seu tempo livre e se auto descreve como 'Coder by heart, manager by fate'."
-  thumbnailUrl: GabrielFranco.jpg
-  rockstar: true
-  social:
-    - {name: "linkedin", link: "https://www.linkedin.com/in/gffranco/"}
 
 # Eiti Kimura
 - 
