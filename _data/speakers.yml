@@ -126,19 +126,6 @@ He lives in Brazil and studied Computer Science at the University of Campinas. H
   thumbnailUrl: EvertonGago.jpg
   rockstar: true
   social: 
-    
-# Flávio Clésio
-- 
-  id: 002
-  name: "Flávio"
-  surname: "Clésio"
-  company: "Movile"
-  title: "Core Machine Learning "
-  bio: "Flávio Clésio é especialista em Machine Learning e garantia de receita pela Movile, onde desenvolve aplicações inteligentes para exploração de oportunidades de aumento de receita, além de automação da tomada de decisão. Antes da Movile, trabalhou com Business Intelligence no mercado financeiro, especialmente no mercado de créditos não performados (Non-Performing Loans). Possuí mestrado em inteligência computacional aplicada no mercado financeiro."
-  thumbnailUrl: FlavioClesio.jpeg
-  rockstar: false
-  social:
-    - {name: "linkedin", link: "https://www.linkedin.com/in/flavioclesio/"}
 
 # Camila Moura
 - 
@@ -153,18 +140,46 @@ He lives in Brazil and studied Computer Science at the University of Campinas. H
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/camila-moura-58153046/"}
 
-# Eiti Kimura
+# Walmyr Carvalho
 - 
-  id: 006
-  name: "Eiti"
-  surname: "Kimura"
-  company: "Movile"
-  title: "Coordenador de TI"
-  bio: "Eiti tem mais de 15 anos de experiência com desenvolvimento de software, além de mestrado em eng. elétrica com especialização em engenharia de software. Possui a certificação Apache Cassandra 2014-2015 e trabalha com o Cassandra desde a versão 0.6. Tem ampla experiência no desenvolvimento de sistemas de back-end para serviços de cobrança de operadoras de telefonia, envio de mensagens SMS em massa Hoje trabalha como Coordenador de TI e arquiteto de sistemas distribuídos de alta performance na Movile Brasil."
-  thumbnailUrl: EitiKimura.png
-  rockstar: true
+  id: 021
+  name: "Walmyr"
+  surname: "Carvalho"
+  company: "99"
+  title: "Desenvolvedor Android"
+  bio: "Desenvolvedor de software de origem em Brasília mas atualmente morando em São Paulo, trabalha como desenvolvedor Android há mais de 7 anos. Já trabalhou em projetos de diversos tamanhos para empresas como CI&T, Hotel Urbano e Cielo, e atualmente trabalha como desenvolvedor Android na 99. No seu tempo livre, adora estar perto da comunidade Android em geral. É um dos ex-organizadores do GDG Rio de Janeiro, organizador e administrador do Android Meetup Rio de Janeiro, Kotlin Meetup São Paulo, Android Dev BR (a maior comunidade brasileira de profissionais Android no Slack, com mais de 3500 membros) e, recentemente, foi nomeado como Google Developer Expert de Android no Brasil."
+  thumbnailUrl: WalmyrCarvalho.jpg
+  rockstar: false
+  ribbon: 
+    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/walmyrcarvalho/"}
+
+# Luiz Gustavo Martins
+- 
+  id: 017
+  name: "Luiz Gustavo"
+  surname: "Martins"
+  company: "Google"
+  title: "Developer Advocate"
+  bio: ""
+  thumbnailUrl: LuizMartins.jpg
+  rockstar: false
   social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/eitikimura/"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/luiz-gustavo-martins-64ab5891/"}
+
+# Felipe Ribeiro
+- 
+  id: 018
+  name: "Felipe"
+  surname: "Ribeiro"
+  company: "Spotify"
+  title: "Lead Software Engineer"
+  bio: "BSc. em Ciencia da Computação e primeiro Software Engineer brasileiro no Spotify"
+  thumbnailUrl: FelipeRibeiro.jpg
+  rockstar: false
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/felipernb/"}
 
 # Douglas Drummond
 - 
@@ -178,6 +193,102 @@ He lives in Brazil and studied Computer Science at the University of Campinas. H
   rockstar: false
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/douglasdrumond/"}
+
+# Keilla Menezes Fernandes
+- 
+  id: 022
+  name: "Keilla Menezes"
+  surname: "Fernandes"
+  company: "Daitan Group"
+  title: "Desenvolvedora Front-End"
+  bio: "Programadora de software há mais de 10 anos. Trabalhei com muitas tecnologias nesse tempo, mas encontrei na área de front-end uma paixão, especialmente em projetos em Angular. Espero que meu trabalho seja capaz de ajudar as pessoas das mais diversas formas possíveis através de uma experiência agradável, atingindo o objetivo que ele pretende."
+  thumbnailUrl: KeillaFernandes.jpg
+  rockstar: false
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/keilla-menezes/"}
+
+# Walter Neto
+- 
+  id: 023
+  name: "Walter de Souza"
+  surname: "Neto"
+  company: "Aleph-bit"
+  title: "Consultor / Desenvolvedor"
+  bio: "Fundador do BUG (BSD Users Group) Campinas, Engenheiro de Computação. Experiência em desenvolvimento de software à partir dos 12 anos de idade. Apaixonado por sistemas operacionais BSD. Especializações como desenvolvedor: Comunicação serial, protocolos de rede, web crawler, processamento digital de imagens, sistema de arquivos, kernel hacking (OpenBSD), otimização e performance."
+  thumbnailUrl: WalterNeto.jpg
+  rockstar: false
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/wneto/"}
+
+# Luciano Sabença
+- 
+  id: 024
+  name: "Luciano"
+  surname: "Sabença"
+  company: "Movile"
+  title: "Senior Software Developer"
+  bio: "Luciano é desenvolvedor backend na Movile, onde trabalha há mais de 5 anos. Atua principalmente com arquitetura e desenvolvimento de sistemas de alta-performance. Seus interesses são em sistemas distribuídos, Machine Learning e teoria da Computação. Luciano é bacharel, com distinção, em Ciência da Computação pelo Instituto de Computação da Unicamp."
+  thumbnailUrl: LucianoSabenca.jpg
+  rockstar: false
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/luciano-saben%C3%A7a-9162b149/"}
+
+# Yan Magalhaes
+- 
+  id: 025
+  name: "Yan"
+  surname: "Magalhães"
+  company: "4YouSee Digital Signage"
+  title: "Full Stack Web Developer"
+  bio: "Yan Magalhães é full stack developer e graduado em Ciências da Computação. Apaixonado pela web, está sempre acompanhando as novas tecnologias e tendências. Participa sempre que pode dos eventos e encontros promovidos pela comunidade, e é um dos organizadores do GDG-BH e do FEMUG-MG. Procura contribuir em projetos Open Source e acredita muito no poder que as soluções desenvolvidas por nós, desenvolvedores, que podem mudar o dia-a-dia das pessoas. Adora uma boa conversa acompanhada de café e pão de queijo."
+  thumbnailUrl: YanMagalhaes.jpg
+  rockstar: false
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/yanmagalhaes/"}
+
+# Fabio Fogliarini Brolesi
+- 
+  id: 026
+  name: "Fabio Fogliarini"
+  surname: "Brolesi"
+  company: "CI&T"
+  title: "Desenvolvedor"
+  bio: "Sou graduado em Matemática pela UNICAMP e possuo especialização em didática e metodologia do Ensino Superior.
+Com mais de 10 anos na área de desenvolvimento de software (focado principalmente em front-end) possuo certificação em CSS, HTML e Javascript."
+  thumbnailUrl: FabioBrolesi.jpg
+  rockstar: false
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/fogliarinibrolesi/"}
+
+# ************************
+# ** NO SESSION CONTENT **
+# ************************
+
+# Flávio Clésio
+- 
+  id: 002
+  name: "Flávio"
+  surname: "Clésio"
+  company: "Movile"
+  title: "Core Machine Learning "
+  bio: "Flávio Clésio é especialista em Machine Learning e garantia de receita pela Movile, onde desenvolve aplicações inteligentes para exploração de oportunidades de aumento de receita, além de automação da tomada de decisão. Antes da Movile, trabalhou com Business Intelligence no mercado financeiro, especialmente no mercado de créditos não performados (Non-Performing Loans). Possuí mestrado em inteligência computacional aplicada no mercado financeiro."
+  thumbnailUrl: FlavioClesio.jpeg
+  rockstar: false
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/flavioclesio/"}
+
+# Eiti Kimura
+- 
+  id: 006
+  name: "Eiti"
+  surname: "Kimura"
+  company: "Movile"
+  title: "Coordenador de TI"
+  bio: "Eiti tem mais de 15 anos de experiência com desenvolvimento de software, além de mestrado em eng. elétrica com especialização em engenharia de software. Possui a certificação Apache Cassandra 2014-2015 e trabalha com o Cassandra desde a versão 0.6. Tem ampla experiência no desenvolvimento de sistemas de back-end para serviços de cobrança de operadoras de telefonia, envio de mensagens SMS em massa Hoje trabalha como Coordenador de TI e arquiteto de sistemas distribuídos de alta performance na Movile Brasil."
+  thumbnailUrl: EitiKimura.png
+  rockstar: true
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/eitikimura/"}
 
 # Ana Paula Batista
 - 
@@ -217,18 +328,18 @@ Nelson is currently focused on creating Prototypes and A/B Tests, working with d
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/nelsonvasconcelos/"}
 
-# Jeff Prestes
-- 
-  id: 015
-  name: "Jeff"
-  surname: "Prestes"
-  company: "Novatrix"
-  title: "CTO"
-  bio: "Jeff tem mais de 20 anos de experiência com Desenvolvimento de Software, trabalhando desde 1999 com Internet. Hoje, Go, Internet das Coisas e Machine Learning são suas novas paixões. Ele participa de várias comunidades de desenvolvedores e trabalhou diversos anos como Evangelista, ministrando diversas palestras no Brasil e no Exterior bem como organizando Hackathons de níveis globais como Battlehack (battlehack.org). Tem sua empresa, a Novatrix, onde alia tecnicas de Design Thinking e de Lean Startup a novas tecnologias para ajudar empresas a Inovar e gerar negócios."
-  thumbnailUrl: JeffPrestes.jpg
-  rockstar: false
-  social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/jeffprestes/"}
+# # Jeff Prestes
+# - 
+#   id: 015
+#   name: "Jeff"
+#   surname: "Prestes"
+#   company: "Novatrix"
+#   title: "CTO"
+#   bio: "Jeff tem mais de 20 anos de experiência com Desenvolvimento de Software, trabalhando desde 1999 com Internet. Hoje, Go, Internet das Coisas e Machine Learning são suas novas paixões. Ele participa de várias comunidades de desenvolvedores e trabalhou diversos anos como Evangelista, ministrando diversas palestras no Brasil e no Exterior bem como organizando Hackathons de níveis globais como Battlehack (battlehack.org). Tem sua empresa, a Novatrix, onde alia tecnicas de Design Thinking e de Lean Startup a novas tecnologias para ajudar empresas a Inovar e gerar negócios."
+#   thumbnailUrl: JeffPrestes.jpg
+#   rockstar: false
+#   social: 
+#     - {name: "linkedin", link: "https://www.linkedin.com/in/jeffprestes/"}
 
 # Daniela Petruzalek
 - 
@@ -242,32 +353,6 @@ Nelson is currently focused on creating Prototypes and A/B Tests, working with d
   rockstar: false
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/petruzalek/"}
-
-# Luiz Gustavo Martins
-- 
-  id: 017
-  name: "Luiz Gustavo"
-  surname: "Martins"
-  company: "Google"
-  title: "Developer Advocate"
-  bio: ""
-  thumbnailUrl: LuizMartins.jpg
-  rockstar: false
-  social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/luiz-gustavo-martins-64ab5891/"}
-
-# Felipe Ribeiro
-- 
-  id: 018
-  name: "Felipe"
-  surname: "Ribeiro"
-  company: "Spotify"
-  title: "Lead Software Engineer"
-  bio: "BSc. em Ciencia da Computação e primeiro Software Engineer brasileiro no Spotify"
-  thumbnailUrl: FelipeRibeiro.jpg
-  rockstar: false
-  social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/felipernb/"}
 
 # Fellipe Caetano (Jozinho)
 - 

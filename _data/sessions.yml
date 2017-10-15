@@ -50,6 +50,7 @@
   description: "MVP funcional com máxima flexibilidade e mínimo código possível."
   subtype: presentation
   speakers: [009]
+  complexity: "Básico"
 
 # Raphael - PWA
 -
@@ -100,8 +101,8 @@ Nessa palestra nós vamos entender a fundo Architecture Components, tanto do pon
 # Lucas - Trindade
 -
   id: 9997
-  title: "Callbacks, Promises e Async&Await"
-  description: "Esta talk tem a intenção de mostrar as pessoas o porquê da criação de novas formas de tratar uma request. E mostrar qual o problema que cada uma visa resolver, e deixando claro que uma não anula outra."
+  title: "Callbacks, Promises, Observables e Async&Await"
+  description: "Nesta talk tenho a intenção de mostrar a evolução na forma de tratar dados assíncronos. Dando um overview sobre Observables e Async&Await."
   subtype: presentation
   speakers: [019]
   complexity: "Básico"
@@ -114,6 +115,109 @@ Nessa palestra nós vamos entender a fundo Architecture Components, tanto do pon
   subtype: presentation
   speakers: [005]
   complexity: "Geral"
+
+# Felipe Ribeiro - Optimizing Code for Humans
+-
+  id: 9999
+  title: "Optimizing Code for Humans"
+  description: ""
+  subtype: presentation
+  speakers: [018]
+  complexity: "Geral"
+
+# Camila - Painel sobre minorias e mulheres em TI
+-
+  id: 99910
+  title: "Painel sobre minorias e mulheres em TI"
+  description: ""
+  subtype: presentation
+  speakers: [004]
+  complexity: "Geral"
+
+# Gago - Recomendação de Conteúdo
+-
+  id: 99911
+  title: "Recomendação de Conteúdo"
+  description: "Machine Learning têm sido o grande trunfo das organizações para otimizar tarefas e maximizar lucros. Quando o assunto é aumentar as vendas ou visitas, os recomendadores de conteúdo fazem muito sucesso nos portais de comércio eletrônico, aplicativos e portais de conteúdo. Esta palestra vai apresentar a Filtragem Colaborativa, uma das técnicas de recomendação de conteúdos mais utilizadas pelo mercado, além de abordar as melhores práticas do mercado para construir e avaliar um recomendador."
+  subtype: presentation
+  speakers: [001]
+  complexity: "Intermediário"
+
+# Walmyr - Flutter
+-
+  id: 99912
+  title: "Flutter.io: Desenvolvendo aplicações pra Android e iOS com Dart"
+  description: "Há um tempo o Google criou um SDK de desenvolvimento de aplicações móveis para Android e iOS, chamado Flutter.io. O objetivo do Flutter é que o desenvolvimento mobile se torne rápido e eficiente, com features como hot reload, UIs rodando a 60fps, integrações prontas com o Firebase e APIs nativas e interoperabilidade com códigos existentes em Java, Kotlin, Swift e Objective-C!
+Agora mais maduro, o projeto está ganhando bastante tração e além de ser usado pelo Google, ele foi utilizado no desenvolvimento do aplicativo oficial do musical Hamilton, um dos maiores musicais do mundo, com milhares de downloads no iOS e no Android! 
+Nesse talk vamos aprender a configuração básica do Flutter, uma leve introdução a linguagem Dart e como começar a trabalhar com esse SDK tão poderoso!"
+  subtype: presentation
+  speakers: [021]
+  complexity: "Intermediário"
+
+# Luiz Gustavo - Android + Machine Learning + Firebase
+-
+  id: 99913
+  title: "Android + Machine Learning + Firebase = <3"
+  description: "A popularização das câmeras facilitou a obtenção de imagens a qualquer hora e em qualquer lugar, mudando a forma como as armazenamos e utilizamos. Muitas aplicações se baseiam no processamento das imagens para reconhecimento de padrões e elementos a fim de identificar a presença de objetos, gerar eventos de segurança, ou dirigir carros autonomos. Nessa palestra vou mostrar como podemos utilizar Machine learning executando em um dispositivo movel e integrando ferramentas existentes como Firebase e Google Cloud ML para obter bons resultados a um baixo custo, de forma eficiente tanto do ponto de vista de processador quanto bateria e memória."
+  subtype: presentation
+  speakers: [017]
+  # complexity: ""
+
+# Douglas - Android Tensorflow
+-
+  id: 99914
+  title: "IA no bolso com TensorFlow"
+  description: "Quem assistir sairá sabendo como integrar facilmente inteligência artificial no aplicativo, rodando localmente sem depender de cloud. Será apresentado como usar a biblioteca TensorFlow no aplicativo e como treinar o modelo a ser utilizado."
+  subtype: presentation
+  speakers: [010]
+  complexity: "Básico"
+
+# Keilla Menezes - Angular performance
+-
+  id: 99915
+  title: "Melhorando a perfomance de aplicações Angular"
+  description: "Implementar a compilação AOT (Ahead of time), arquitetura de módulos e lazy-loading para melhorar a performance de aplicações Angular robustas"
+  subtype: presentation
+  speakers: [022]
+  complexity: "Intermediário"
+
+# Walter Neto - Segurança
+-
+  id: 99916
+  title: "Código com Segurança Proativa"
+  description: "Gostaria de compartilhar sobre 'auditoria de segurança', nesta talk apresento a cultura de desenvolvimento de software utilizada pelo sistema operacional OpenBSD, com foco em segurança de código, e que fez com que ele fosse um sistema reconhecido pela comunidade de desenvolvimento opensource e por comunidades de peso em segurança como o BUGTRAQ."
+  subtype: presentation
+  speakers: [023]
+  complexity: "Intermediário"
+
+# Luciano Sabença - Escalando
+-
+  id: 99917
+  title: "Escalando Aplicações Distribuídas Usando Estruturas de Dados Probabilísticas"
+  description: "A construção de sistemas de armazenamento tem evoluido rapidamente, os data lakes tem sido uma buzz word no mercado de Dados, mas o que é ? como são feitos ? quais estruturas seu Data Lake deve ter ?
+Quais técnologias ?"
+  subtype: presentation
+  speakers: [024]
+  complexity: "Avançado"
+
+# Yan Magalhães - Polymer
+-
+  id: 99918
+  title: "#UseThePlatform - Levando suas aplicações ao próximo nível com Polymer"
+  description: "Bibliotecas como React e VueJS tem mostrado muitas vantagens que podemos agregar em nosso projeto, trabalhando com componentes web e de uma forma desacomplada. O Ecossistema fornecido por cada uma delas e por toda a comunidade JS tornaram possível criarmos aplicações web muito poderosas, utilizando bibliotecas que criam componentes web. Mas e o Polymer, será que ele também esta preparado para criarmos projetos baseados em Web Components? Nesta palestra, faremos todo um overview pela versão 2.0 do Polymer lançada no Google I/O deste ano, ver todo o ciclo de desenvolvimento de um aplicação web, como fazer testes, como criar PWAs, como podemos utilizar bibliotecas modernas de gerenciamento de estado, como Redux, e várias outras bibliotecas JS. Também iremos ver quais as mudanças estão para acontecer no Polymer 3.0 e ver quais empresas já estão utilizando Polymer em seus projetos. Vamos descobrir juntos todo o poder que o browser ja nos oferece para a criação de Web Components, e ver como o Polymer pode nos ajudar a criar projetos melhores."
+  subtype: presentation
+  speakers: [025]
+  complexity: "Intermediário"
+
+# Fabio Brolsi - Vue
+-
+  id: 99919
+  title: "SPA com VueJS"
+  description: "Mostraremos uma aplicação básica feita com VueJS, montando do zero."
+  subtype: presentation
+  speakers: [026]
+  complexity: "Básico"
+
 # -
 #   id: 002
 #   title: "Building Cloud-powered wearable Apps"
