@@ -162,7 +162,10 @@ He lives in Brazil and studied Computer Science at the University of Campinas. H
   surname: "Martins"
   company: "Google"
   title: "Developer Advocate"
-  bio: ""
+  bio: "Por mais de 15 anos, Gus foi desde desenvolvedor para o mercado financeiro até Apps Android 
+e jogos. Hoje ele trabalha como Developer Advocate no Google onde ajuda outros desenvolvedores
+a criarem aplicativos ainda melhores usando Firebase e ML. Quando não esta no teclado, talvez 
+você o encontre ensinando Capoeira."
   thumbnailUrl: LuizMartins.jpg
   rockstar: false
   social: 
@@ -260,22 +263,25 @@ Com mais de 10 anos na área de desenvolvimento de software (focado principalmen
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/fogliarinibrolesi/"}
 
+# Fellipe Caetano (Jozinho)
+- 
+  id: 020
+  name: "Fellipe"
+  surname: "Caetano"
+  company: "Sympla"
+  title: "Desenvolvedor iOS"
+  bio: "Fellipe Caetano é um desenvolvedor iOS especializado em construir apps de forma altamente testável com código de qualidade. É entusiasta de desenvolvimento web e acredita que as comunidades de desenvolvimento nativo tem muito o que aprender com quem resolve problemas complexos de UI há muito mais tempo. Atua desde 2016 como desenvolvedor sênior na Sympla, tendo trabalhado desde 2010 em empresas como Movile e Dextra entregando soluções mobile tailor-made para finanças, mídia, eventos, gestão de projetos, esportes e negócios O2O."
+  thumbnailUrl: FellipeCaetano.jpg
+  rockstar: false
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/fellipecaetano/"}
+    - {name: "github", link: "https://github.com/fellipecaetano/"}
+    - {name: "twitter", link: "https://twitter.com/fellipecaetano_"}
+    - {name: "email", link: "fellipe.caetano@sympla.com.br"}
+
 # ************************
 # ** NO SESSION CONTENT **
 # ************************
-
-# Flávio Clésio
-- 
-  id: 002
-  name: "Flávio"
-  surname: "Clésio"
-  company: "Movile"
-  title: "Core Machine Learning "
-  bio: "Flávio Clésio é especialista em Machine Learning e garantia de receita pela Movile, onde desenvolve aplicações inteligentes para exploração de oportunidades de aumento de receita, além de automação da tomada de decisão. Antes da Movile, trabalhou com Business Intelligence no mercado financeiro, especialmente no mercado de créditos não performados (Non-Performing Loans). Possuí mestrado em inteligência computacional aplicada no mercado financeiro."
-  thumbnailUrl: FlavioClesio.jpeg
-  rockstar: false
-  social:
-    - {name: "linkedin", link: "https://www.linkedin.com/in/flavioclesio/"}
 
 # Eiti Kimura
 - 
@@ -328,19 +334,6 @@ Nelson is currently focused on creating Prototypes and A/B Tests, working with d
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/nelsonvasconcelos/"}
 
-# # Jeff Prestes
-# - 
-#   id: 015
-#   name: "Jeff"
-#   surname: "Prestes"
-#   company: "Novatrix"
-#   title: "CTO"
-#   bio: "Jeff tem mais de 20 anos de experiência com Desenvolvimento de Software, trabalhando desde 1999 com Internet. Hoje, Go, Internet das Coisas e Machine Learning são suas novas paixões. Ele participa de várias comunidades de desenvolvedores e trabalhou diversos anos como Evangelista, ministrando diversas palestras no Brasil e no Exterior bem como organizando Hackathons de níveis globais como Battlehack (battlehack.org). Tem sua empresa, a Novatrix, onde alia tecnicas de Design Thinking e de Lean Startup a novas tecnologias para ajudar empresas a Inovar e gerar negócios."
-#   thumbnailUrl: JeffPrestes.jpg
-#   rockstar: false
-#   social: 
-#     - {name: "linkedin", link: "https://www.linkedin.com/in/jeffprestes/"}
-
 # Daniela Petruzalek
 - 
   id: 016
@@ -354,19 +347,28 @@ Nelson is currently focused on creating Prototypes and A/B Tests, working with d
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/petruzalek/"}
 
-# Fellipe Caetano (Jozinho)
-- 
-  id: 020
-  name: "Fellipe"
-  surname: "Caetano"
-  company: "Sympla"
-  title: "Desenvolvedor iOS"
-  bio: "Fellipe Caetano é um desenvolvedor iOS especializado em construir apps de forma altamente testável com código de qualidade. É entusiasta de desenvolvimento web e acredita que as comunidades de desenvolvimento nativo tem muito o que aprender com quem resolve problemas complexos de UI há muito mais tempo. Atua desde 2016 como desenvolvedor sênior na Sympla, tendo trabalhado desde 2010 em empresas como Movile e Dextra entregando soluções mobile tailor-made para finanças, mídia, eventos, gestão de projetos, esportes e negócios O2O."
-  thumbnailUrl: FellipeCaetano.jpg
-  rockstar: false
-  social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/fellipecaetano/"}
-    - {name: "github", link: "https://github.com/fellipecaetano/"}
-    - {name: "twitter", link: "https://twitter.com/fellipecaetano_"}
-    - {name: "email", link: "fellipe.caetano@sympla.com.br"}
-    
+# Flávio Clésio
+# - 
+#   id: 002
+#   name: "Flávio"
+#   surname: "Clésio"
+#   company: "Movile"
+#   title: "Core Machine Learning "
+#   bio: "Flávio Clésio é especialista em Machine Learning e garantia de receita pela Movile, onde desenvolve aplicações inteligentes para exploração de oportunidades de aumento de receita, além de automação da tomada de decisão. Antes da Movile, trabalhou com Business Intelligence no mercado financeiro, especialmente no mercado de créditos não performados (Non-Performing Loans). Possuí mestrado em inteligência computacional aplicada no mercado financeiro."
+#   thumbnailUrl: FlavioClesio.jpeg
+#   rockstar: false
+#   social:
+#     - {name: "linkedin", link: "https://www.linkedin.com/in/flavioclesio/"}
+
+# Jeff Prestes
+# - 
+#   id: 015
+#   name: "Jeff"
+#   surname: "Prestes"
+#   company: "Novatrix"
+#   title: "CTO"
+#   bio: "Jeff tem mais de 20 anos de experiência com Desenvolvimento de Software, trabalhando desde 1999 com Internet. Hoje, Go, Internet das Coisas e Machine Learning são suas novas paixões. Ele participa de várias comunidades de desenvolvedores e trabalhou diversos anos como Evangelista, ministrando diversas palestras no Brasil e no Exterior bem como organizando Hackathons de níveis globais como Battlehack (battlehack.org). Tem sua empresa, a Novatrix, onde alia tecnicas de Design Thinking e de Lean Startup a novas tecnologias para ajudar empresas a Inovar e gerar negócios."
+#   thumbnailUrl: JeffPrestes.jpg
+#   rockstar: false
+#   social: 
+#     - {name: "linkedin", link: "https://www.linkedin.com/in/jeffprestes/"}

@@ -157,11 +157,13 @@ Nesse talk vamos aprender a configuração básica do Flutter, uma leve introdu�
 # Luiz Gustavo - Android + Machine Learning + Firebase
 -
   id: 99913
-  title: "Android + Machine Learning + Firebase = <3"
-  description: "A popularização das câmeras facilitou a obtenção de imagens a qualquer hora e em qualquer lugar, mudando a forma como as armazenamos e utilizamos. Muitas aplicações se baseiam no processamento das imagens para reconhecimento de padrões e elementos a fim de identificar a presença de objetos, gerar eventos de segurança, ou dirigir carros autonomos. Nessa palestra vou mostrar como podemos utilizar Machine learning executando em um dispositivo movel e integrando ferramentas existentes como Firebase e Google Cloud ML para obter bons resultados a um baixo custo, de forma eficiente tanto do ponto de vista de processador quanto bateria e memória."
+  title: "Firebase + ML = S2, O Retorno!"
+  description: "Nessa palestra vou mostrar como podemos utilizar Machine learning executando em um dispositivo movel
+e integrando ferramentas existentes como Firebase e Google Cloud ML para obter bons resultados
+a um baixo custo, de forma eficiente tanto do ponto de vista de processador quanto bateria e memória."
   subtype: presentation
   speakers: [017]
-  # complexity: ""
+  complexity: "Intermediario"
 
 # Douglas - Android Tensorflow
 -
@@ -217,6 +219,15 @@ Quais técnologias ?"
   subtype: presentation
   speakers: [026]
   complexity: "Básico"
+
+# Fellipe Caetano (Jozinho) - rxswift
+-
+  id: 99920
+  title: "Usando RxSwift para construir UIs simplesmente testáveis"
+  description: "Um live-coding experimental que vai construir um view controller do zero usando RxSwift, view models e um padrão arquitetural baseado em fronteiras em vez de camadas. Focaremos todos os nossos esforços em escrever código que seja testável de forma simples, usando um pouco de TDD e evitando mocks profundos."
+  subtype: presentation
+  speakers: [020]
+  complexity: "Avançado"
 
 # -
 #   id: 002
