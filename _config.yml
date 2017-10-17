@@ -55,7 +55,7 @@ c4sponsorsUrl: "https://docs.google.com/presentation/d/1IyQCkhEZjP_dpwPdm61BaqXH
 navigationLinks:
  - {permalink: "/", text: "Principal"}
 #  - {permalink: "/blog/", text: "Blog"}
-#  - {permalink: "/schedule/", text: "Grade"}
+ - {permalink: "/schedule/", text: "Grade"}
  - {permalink: "/speakers/", text: "Palestrantes"}
 #  - {permalink: "/logistics/", text: "Logistics"}
 #  - {permalink: "/hackathon/", text: "Hackathon"}
@@ -226,6 +226,7 @@ footerBlocks:
 # Speakers List Block
 showSessions: true
 emptySessionTitle: "A definir"
+scheduleWarning: "A grade está sujeita a mudanças sem aviso prévio"
 
 # Team Block
 teamBlockTitle: "Quem somos"

@@ -1,72 +1,89 @@
 - 
-  date: "2017-09-26"
-  dateReadable: "26 de Setembro"
+  date: "2017-11-04"
+  dateReadable: "04 de Novembro"
   tracks: 
-    - {title: "Solution Talks", color: "#90be4e"}
-    - {title: "Tech Talks", color: "#03a9f4"}
+    - {title: "Front-end", color: "#4285F4"}
+    - {title: "Back-end", color: "#EA4335"}
+    # - {title: "Mobile", color: "#34A853"}
+    # - {title: "Mentoring & Growth", color: "#FBBC05"}
   timeslots:
-    - { 
-      startTime: "08:40",
-      endTime: "09:10",
+    - {
+      startTime: "08:00",
+      endTime: "08:20",
       sessionIds: [100]
     }
-    - { 
-      startTime: "09:10",
-      endTime: "09:30",
+    - {
+      startTime: "08:20",
+      endTime: "08:40",
       sessionIds: [200]
     }
-    - { 
-      startTime: "09:30",
-      endTime: "10:20",
+    - {
+      startTime: "08:40",
+      endTime: "09:20",
       sessionIds: [300]
     }
-    - { 
-      startTime: "10:20",
-      endTime: "11:10",
-      sessionIds: [401, 402]
-    }
-    - { 
-      startTime: "11:10",
-      endTime: "12:00",
-      sessionIds: [501, 502]
-    }
-    - { 
-      startTime: "12:00",
-      endTime: "12:55",
-      sessionIds: [600]
-    }
-    - { 
-      startTime: "12:55",
-      endTime: "13:45",
-      sessionIds: [701, 702]
-    }
-    - { 
-      startTime: "13:45",
-      endTime: "14:30",
-      sessionIds: [801, 802]
-    }
-    - { 
-      startTime: "14:30",
-      endTime: "14:45",
-      sessionIds: [900]
-    }
-    - { 
-      startTime: "14:45",
-      endTime: "15:35",
-      sessionIds: [1001, 1002]
-    }
-    - { 
-      startTime: "15:35",
-      endTime: "16:20",
-      sessionIds: [1101, 1102]
-    }
-    - { 
-      startTime: "16:20",
-      endTime: "17:05",
-      sessionIds: [1200]
+    - {
+      startTime: "09:20",
+      endTime: "09:50",
+      sessionIds: [400]
     }
     - {
-      startTime: "17:05",
-      endTime: "17:15",
+      startTime: "09:50",
+      endTime: "10:40",
+      sessionIds: [501, 502, 503, 504]
+    }
+    - {
+      startTime: "10:40",
+      endTime: "11:25",
+      sessionIds: [601, 602, 603, 604]
+    }
+    - {
+      startTime: "11:25",
+      endTime: "12:10",
+      sessionIds: [701, 702, 703, 704]
+    }
+    - {
+      startTime: "12:10",
+      endTime: "13:50",
+      sessionIds: [800]
+    }
+    - {
+      startTime: "13:50",
+      endTime: "14:30",
+      sessionIds: [901, 902, 903, 904]
+    }
+    - {
+      startTime: "14:30",
+      endTime: "15:05",
+      sessionIds: [1001, 902, 903, 904]
+    }
+    - {
+      startTime: "15:05",
+      endTime: "15:50",
+      sessionIds: [1101, 1002, 1003, 1004]
+    }
+    - {
+      startTime: "15:50",
+      endTime: "16:30",
+      sessionIds: [1201, 1102, 1103, 1104]
+    }
+    - {
+      startTime: "16:30",
+      endTime: "16:55",
       sessionIds: [1300]
+    }
+    - {
+      startTime: "16:55",
+      endTime: "17:40",
+      sessionIds: [1401, 1402, 1403, 1404]
+    }
+    - {
+      startTime: "17:40",
+      endTime: "18:30",
+      sessionIds: [1501, 1502, 1503, 1504]
+    }
+    - {
+      startTime: "18:30",
+      endTime: "19:00",
+      sessionIds: [1600]
     }

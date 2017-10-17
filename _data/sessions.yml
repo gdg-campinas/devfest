@@ -6,7 +6,7 @@
   description: ""
 -
   id: 200
-  title: "Apresentação GDG Campinas + Informações"
+  title: "Abertura GDG Campinas"
   place: ""
   service: true
   description: ""
@@ -17,49 +17,209 @@
   subtype: keynote
   description: ""
   speakers: []
+  service: true # remove when it has content
 -
-  id: 600
+  id: 400
+  title: "Coffee"
+  place: ""
+  service: true
+  description: ""
+-
+  id: 800
   title: "Almoço"
   place: ""
   service: true
   description: ""
 -
-  id: 900
+  id: 1300
   title: "Coffee"
   place: ""
   service: true
   description: "Momento para networking"
 -
-  id: 1200
-  title: "Keynote de Fechamento"
-  place: ""
-  subtype: keynote
-  description: ""
-  speakers: []
--
-  id: 1300
-  title: "Encerramento"
+  id: 1600
+  title: "Encerramento e sorteios"
   place: ""
   service: true
   description: ""
 
+# ***************
+# ** Front-end **
+# *************** 
+
+# Eduardo Matos - A definir
+-
+  id: 501
+  title: "A definir"
+  description: "A definir"
+  subtype: presentation
+  speakers: []
+  # complexity: ""
+
+# Keilla Menezes - Angular performance
+-
+  id: 601
+  title: "Melhorando a perfomance de aplicações Angular"
+  description: "Implementar a compilação AOT (Ahead of time), arquitetura de módulos e lazy-loading para melhorar a performance de aplicações Angular robustas"
+  subtype: presentation
+  speakers: [022]
+  complexity: "Intermediário"
+
+# Fabio Brolsi - Vue
+-
+  id: 701
+  title: "SPA com VueJS"
+  description: "Mostraremos uma aplicação básica feita com VueJS, montando do zero."
+  subtype: presentation
+  speakers: [026]
+  complexity: "Básico"
+
+# Lucas Trindade - callbacks
+-
+  id: 901
+  title: "Callbacks, Promises, Observables e Async&Await"
+  description: "Nesta talk tenho a intenção de mostrar a evolução na forma de tratar dados assíncronos. Dando um overview sobre Observables e Async&Await."
+  subtype: presentation
+  speakers: [019]
+  complexity: "Básico"
+
+# Gabriel Ribeiro + Victor Miguez - A definir
+-
+  id: 1001
+  title: "A definir"
+  description: "A definir"
+  subtype: presentation
+  speakers: []
+  # complexity: ""
+
+# Raphael - PWA
+-
+  id: 1101
+  title: "Progressive Web Apps e o futuro do Frontend"
+  description: "Apresentar os conceitos de PWA, tendencias de mercado e o que podemos esperar do futuro de um desenvolvedor web"
+  subtype: presentation
+  complexity: "Intermediário"
+  speakers: [003]
+
+# Yan Magalhães - Polymer
+-
+  id: 1201
+  title: "#UseThePlatform - Levando suas aplicações ao próximo nível com Polymer"
+  description: "Bibliotecas como React e VueJS tem mostrado muitas vantagens que podemos agregar em nosso projeto, trabalhando com componentes web e de uma forma desacomplada. O Ecossistema fornecido por cada uma delas e por toda a comunidade JS tornaram possível criarmos aplicações web muito poderosas, utilizando bibliotecas que criam componentes web. Mas e o Polymer, será que ele também esta preparado para criarmos projetos baseados em Web Components? Nesta palestra, faremos todo um overview pela versão 2.0 do Polymer lançada no Google I/O deste ano, ver todo o ciclo de desenvolvimento de um aplicação web, como fazer testes, como criar PWAs, como podemos utilizar bibliotecas modernas de gerenciamento de estado, como Redux, e várias outras bibliotecas JS. Também iremos ver quais as mudanças estão para acontecer no Polymer 3.0 e ver quais empresas já estão utilizando Polymer em seus projetos. Vamos descobrir juntos todo o poder que o browser ja nos oferece para a criação de Web Components, e ver como o Polymer pode nos ajudar a criar projetos melhores."
+  subtype: presentation
+  speakers: [025]
+  complexity: "Intermediário"
+
+# Keuller Magalhães - React+Redux
+-
+  id: 1401
+  title: "React and Redux"
+  description: "Componentes ? Reducers ? Estado Global ? Se você tem interesse em entender como e porquê gerenciar estado global da uma SPA é tão importante, nessa talk vamos conversar sobre tudo isso e muito mais. Mostrar um pouco de código, e ver como isso pode ser feito utilizando React e Redux. Vamos lá trocar idéias."
+  subtype: presentation
+  speakers: [029]
+  complexity: "Intermediário"
+
+# Igor Luiz - Vue Reatividade
+-
+  id: 1501
+  title: "Como funciona a reatividade no Vue.js"
+  description: ""
+  subtype: presentation
+  speakers: [030]
+  complexity: "Intermediário"
+
+# **************
+# ** Back-end **
+# **************
+
+# Kenzo - BigQuery
+-
+  id: 502
+  title: "Usando BigQuery para analisar petabytes de informação"
+  description: "Uma solução de Data Warehouse completamente gerenciada, capaz de lidar com petabytes de dados com alto desempenho e baixo custo. Parece muito bom para ser verdade, não é mesmo? Venha conhecer o BigQuery e saber como você pode começar a utilizá-lo. Não se preocupe, o primeiro terabyte de dados processados/mês é por nossa conta!"
+  subtype: presentation
+  speakers: [011]
+
+# Gago - Recomendação de Conteúdo
+-
+  id: 602
+  title: "Recomendação de Conteúdo (Parte 1)"
+  description: "Machine Learning têm sido o grande trunfo das organizações para otimizar tarefas e maximizar lucros. Quando o assunto é aumentar as vendas ou visitas, os recomendadores de conteúdo fazem muito sucesso nos portais de comércio eletrônico, aplicativos e portais de conteúdo. Esta palestra vai apresentar a Filtragem Colaborativa, uma das técnicas de recomendação de conteúdos mais utilizadas pelo mercado, além de abordar as melhores práticas do mercado para construir e avaliar um recomendador."
+  subtype: presentation
+  speakers: [001]
+  complexity: "Intermediário"
+
+# Gago - Recomendação de Conteúdo
+-
+  id: 702
+  title: "Recomendação de Conteúdo (Parte 2)"
+  description: "Machine Learning têm sido o grande trunfo das organizações para otimizar tarefas e maximizar lucros. Quando o assunto é aumentar as vendas ou visitas, os recomendadores de conteúdo fazem muito sucesso nos portais de comércio eletrônico, aplicativos e portais de conteúdo. Esta palestra vai apresentar a Filtragem Colaborativa, uma das técnicas de recomendação de conteúdos mais utilizadas pelo mercado, além de abordar as melhores práticas do mercado para construir e avaliar um recomendador."
+  subtype: presentation
+  speakers: [001]
+  complexity: "Intermediário"
+
 # Alline - Lean
 -
-  id: 9991
+  id: 902
   title: "Arquitetura Lean. MVP funcional com máxima flexibilidade e mínimo código possível."
   description: "Como desenvolver um Mínimo Produto Viável (MVP) que seja super flexível, utilizando o mínimo de código possível em sua construção. Tecnologias como Ionic, PWA, Cloud Endpoints, ZeroOps e BigData estão aí para facilitar em muito essa tarefa de simplificação com eficiência."
   subtype: presentation
   speakers: [009]
   complexity: "Básico"
 
-# Raphael - PWA
+# Walter Neto - Segurança
 -
-  id: 9992
-  title: "Progressive Web Apps e o futuro do Frontend"
-  description: "Apresentar os conceitos de PWA, tendencias de mercado e o que podemos esperar do futuro de um desenvolvedor web"
+  id: 1002
+  title: "Código com Segurança Proativa"
+  description: "Gostaria de compartilhar sobre 'auditoria de segurança', nesta talk apresento a cultura de desenvolvimento de software utilizada pelo sistema operacional OpenBSD, com foco em segurança de código, e que fez com que ele fosse um sistema reconhecido pela comunidade de desenvolvimento opensource e por comunidades de peso em segurança como o BUGTRAQ."
   subtype: presentation
+  speakers: [023]
   complexity: "Intermediário"
-  speakers: [003]
+
+# Akita - Elixir
+-
+  id: 1102
+  title: "A definir"
+  description: "A definir"
+  subtype: presentation
+  speakers: []
+  # complexity: ""
+
+# Douglas de Siqueira Silva - bots com api.ai
+-
+  id: 1202
+  title: "Criando seu BOT em minutos com o API.AI"
+  description: "Criar bots nunca foi tão facil! API.AI revolucionando o mundo dos bots."
+  subtype: presentation
+  speakers: [028]
+  complexity: "Básico"
+
+# Fernando - Serverless Machine Learning
+-
+  id: 1402
+  title: "Serverless Machine Learning on Google Cloud"
+  description: ""
+  subtype: presentation
+  speakers: [007]
+
+# Luciano Sabença - Escalando
+-
+  id: 1502
+  title: "Escalando Aplicações Distribuídas Usando Estruturas de Dados Probabilísticas"
+  description: "A construção de sistemas de armazenamento tem evoluido rapidamente, os data lakes tem sido uma buzz word no mercado de Dados, mas o que é ? como são feitos ? quais estruturas seu Data Lake deve ter ?
+Quais técnologias ?"
+  subtype: presentation
+  speakers: [024]
+  complexity: "Avançado"
+
+# ************
+# ** Mobile **
+# ************
+
+# ***********
+# ** M & G **
+# ***********
+
 
 # Ubiratan - Architecture Components
 -
@@ -82,31 +242,6 @@ Nessa palestra nós vamos entender a fundo Architecture Components, tanto do pon
   subtype: presentation
   speakers: [008]
   complexity: "Intermediário"
-
-# Kenzo - BigQuery
--
-  id: 9995
-  title: "Usando BigQuery para analisar petabytes de informação"
-  description: "Uma solução de Data Warehouse completamente gerenciada, capaz de lidar com petabytes de dados com alto desempenho e baixo custo. Parece muito bom para ser verdade, não é mesmo? Venha conhecer o BigQuery e saber como você pode começar a utilizá-lo. Não se preocupe, o primeiro terabyte de dados processados/mês é por nossa conta!"
-  subtype: presentation
-  speakers: [011]
-
-# Fernando - Serverless Machine Learning
--
-  id: 9996
-  title: "Serverless Machine Learning on Google Cloud"
-  description: ""
-  subtype: presentation
-  speakers: [007]
-
-# Lucas - Trindade
--
-  id: 9997
-  title: "Callbacks, Promises, Observables e Async&Await"
-  description: "Nesta talk tenho a intenção de mostrar a evolução na forma de tratar dados assíncronos. Dando um overview sobre Observables e Async&Await."
-  subtype: presentation
-  speakers: [019]
-  complexity: "Básico"
 
 # Gabriel Franco - gerente desnecessário
 -
@@ -134,15 +269,6 @@ Nessa palestra nós vamos entender a fundo Architecture Components, tanto do pon
   subtype: presentation
   speakers: [004]
   complexity: "Geral"
-
-# Gago - Recomendação de Conteúdo
--
-  id: 99911
-  title: "Recomendação de Conteúdo"
-  description: "Machine Learning têm sido o grande trunfo das organizações para otimizar tarefas e maximizar lucros. Quando o assunto é aumentar as vendas ou visitas, os recomendadores de conteúdo fazem muito sucesso nos portais de comércio eletrônico, aplicativos e portais de conteúdo. Esta palestra vai apresentar a Filtragem Colaborativa, uma das técnicas de recomendação de conteúdos mais utilizadas pelo mercado, além de abordar as melhores práticas do mercado para construir e avaliar um recomendador."
-  subtype: presentation
-  speakers: [001]
-  complexity: "Intermediário"
 
 # Walmyr - Flutter
 -
@@ -175,52 +301,6 @@ a um baixo custo, de forma eficiente tanto do ponto de vista de processador quan
   speakers: [010]
   complexity: "Básico"
 
-# Keilla Menezes - Angular performance
--
-  id: 99915
-  title: "Melhorando a perfomance de aplicações Angular"
-  description: "Implementar a compilação AOT (Ahead of time), arquitetura de módulos e lazy-loading para melhorar a performance de aplicações Angular robustas"
-  subtype: presentation
-  speakers: [022]
-  complexity: "Intermediário"
-
-# Walter Neto - Segurança
--
-  id: 99916
-  title: "Código com Segurança Proativa"
-  description: "Gostaria de compartilhar sobre 'auditoria de segurança', nesta talk apresento a cultura de desenvolvimento de software utilizada pelo sistema operacional OpenBSD, com foco em segurança de código, e que fez com que ele fosse um sistema reconhecido pela comunidade de desenvolvimento opensource e por comunidades de peso em segurança como o BUGTRAQ."
-  subtype: presentation
-  speakers: [023]
-  complexity: "Intermediário"
-
-# Luciano Sabença - Escalando
--
-  id: 99917
-  title: "Escalando Aplicações Distribuídas Usando Estruturas de Dados Probabilísticas"
-  description: "A construção de sistemas de armazenamento tem evoluido rapidamente, os data lakes tem sido uma buzz word no mercado de Dados, mas o que é ? como são feitos ? quais estruturas seu Data Lake deve ter ?
-Quais técnologias ?"
-  subtype: presentation
-  speakers: [024]
-  complexity: "Avançado"
-
-# Yan Magalhães - Polymer
--
-  id: 99918
-  title: "#UseThePlatform - Levando suas aplicações ao próximo nível com Polymer"
-  description: "Bibliotecas como React e VueJS tem mostrado muitas vantagens que podemos agregar em nosso projeto, trabalhando com componentes web e de uma forma desacomplada. O Ecossistema fornecido por cada uma delas e por toda a comunidade JS tornaram possível criarmos aplicações web muito poderosas, utilizando bibliotecas que criam componentes web. Mas e o Polymer, será que ele também esta preparado para criarmos projetos baseados em Web Components? Nesta palestra, faremos todo um overview pela versão 2.0 do Polymer lançada no Google I/O deste ano, ver todo o ciclo de desenvolvimento de um aplicação web, como fazer testes, como criar PWAs, como podemos utilizar bibliotecas modernas de gerenciamento de estado, como Redux, e várias outras bibliotecas JS. Também iremos ver quais as mudanças estão para acontecer no Polymer 3.0 e ver quais empresas já estão utilizando Polymer em seus projetos. Vamos descobrir juntos todo o poder que o browser ja nos oferece para a criação de Web Components, e ver como o Polymer pode nos ajudar a criar projetos melhores."
-  subtype: presentation
-  speakers: [025]
-  complexity: "Intermediário"
-
-# Fabio Brolsi - Vue
--
-  id: 99919
-  title: "SPA com VueJS"
-  description: "Mostraremos uma aplicação básica feita com VueJS, montando do zero."
-  subtype: presentation
-  speakers: [026]
-  complexity: "Básico"
-
 # Fellipe Caetano (Jozinho) - rxswift
 -
   id: 99920
@@ -248,33 +328,6 @@ Quais técnologias ?"
   speakers: [027]
   complexity: "Básico"
 
-# Douglas de Siqueira Silva - bots com api.ai
--
-  id: 99923
-  title: "Criando seu BOT em minutos com o API.AI"
-  description: "Criar bots nunca foi tão facil! API.AI revolucionando o mundo dos bots."
-  subtype: presentation
-  speakers: [028]
-  complexity: "Básico"
-
-# Keuller Magalhães - React+Redux
--
-  id: 99924
-  title: "React and Redux"
-  description: "Componentes ? Reducers ? Estado Global ? Se você tem interesse em entender como e porquê gerenciar estado global da uma SPA é tão importante, nessa talk vamos conversar sobre tudo isso e muito mais. Mostrar um pouco de código, e ver como isso pode ser feito utilizando React e Redux. Vamos lá trocar idéias."
-  subtype: presentation
-  speakers: [029]
-  complexity: "Intermediário"
-
-# Igor Luiz - Vue Reatividade
--
-  id: 99925
-  title: "Como funciona a reatividade no Vue.js"
-  description: ""
-  subtype: presentation
-  speakers: [030]
-  # complexity: ""
-
 # Luís Felipe - Reactive Native
 -
   id: 99926
@@ -293,19 +346,18 @@ Quais técnologias ?"
   speakers: [032]
   complexity: "Intermediário"
 
-# ************************
-# ** NO SESSION CONTENT **
-# ************************
-
-# Nelson Vasconcelos - A definir
+# Nelson Vasconcelos - Onboarding
 -
   id: 99928
-  title: "A definir"
-  description: "A definir"
+  title: "Onboarding - Uma questão de sobrevivência"
+  description: "O primeiro uso é desproporcionalmente importante para que você tenha um aplicativo de sucesso. É aqui que os mínimos detalhes mais importam e podem criar uma ótima impressão, evitando que seu app seja um dos 70% que são desinstalados após o primeiro uso."
   subtype: presentation
   speakers: [013]
   # complexity: ""
 
+# ************************
+# ** NO SESSION CONTENT **
+# ************************
 
 # -
 #   id: 002
