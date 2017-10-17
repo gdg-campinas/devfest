@@ -55,17 +55,17 @@
     - {
       startTime: "14:30",
       endTime: "15:05",
-      sessionIds: [1001, 902, 903, 904]
+      sessionIds: [1001, 1002, 1003, 904]
     }
     - {
       startTime: "15:05",
       endTime: "15:50",
-      sessionIds: [1101, 1002, 1003, 1004]
+      sessionIds: [1101, 1102, 1103, 1104]
     }
     - {
       startTime: "15:50",
       endTime: "16:30",
-      sessionIds: [1201, 1102, 1103, 1104]
+      sessionIds: [1201, 1202, 1203, 1204]
     }
     - {
       startTime: "16:30",
