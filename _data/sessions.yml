@@ -23,7 +23,7 @@
   title: "Coffee"
   place: ""
   service: true
-  description: ""
+  description: "Momento para networking"
 -
   id: 800
   title: "Almoço"
@@ -309,45 +309,71 @@ Nessa palestra nós vamos entender a fundo Architecture Components, tanto do pon
 # ** M & G **
 # ***********
 
-# Gabriel Franco - gerente desnecessário
--
-  id: 9998
-  title: "Como tornar seu gerente (quase) desnecessário"
-  description: "Lições aprendidas por um desenvolvedor que acabou nas trincheiras da gestão de equipes e que podem te ajudar a evitar as armadilhas das empresas na carreira técnica e alcançar seus próprios objetivos."
-  subtype: presentation
-  speakers: [005]
-  complexity: "Geral"
-
 # Felipe Ribeiro - Optimizing Code for Humans
 -
-  id: 9999
+  id: 504
   title: "Optimizing Code for Humans"
   description: ""
   subtype: presentation
   speakers: [018]
   complexity: "Geral"
 
-# Camila - Painel sobre minorias e mulheres em TI
+# Gabriel Franco - gerente desnecessário
 -
-  id: 99910
-  title: "Painel sobre minorias e mulheres em TI"
-  description: ""
+  id: 604
+  title: "Como tornar seu gerente (quase) desnecessário"
+  description: "Lições aprendidas por um desenvolvedor que acabou nas trincheiras da gestão de equipes e que podem te ajudar a evitar as armadilhas das empresas na carreira técnica e alcançar seus próprios objetivos."
   subtype: presentation
-  speakers: [004]
+  speakers: [005]
   complexity: "Geral"
+
+# Google - Monetização
+-
+  id: 704
+  title: "A definir"
+  description: "A definir"
+  subtype: presentation
+  speakers: []
+  # complexity: ""
+
+# Ju - Growth Hacking
+-
+  id: 904
+  title: "A definir"
+  description: "A definir"
+  subtype: presentation
+  speakers: []
+  # complexity: ""
+
+# Sessão Mentoria
+-
+  id: 1004
+  title: "Sessão de Mentoria"
+  description: "Sessão de Mentoria"
+  subtype: presentation
+
 
 # Ana Paula Baptista - Produto
 -
-  id: 99921
+  id: 1104
   title: "Construindo um produto - da ideia ao desenvolvimento"
   description: "Ter uma super ideia não é só o que basta para desenvolver um produto de sucesso. Vamos explorar algumas das formas de tirar sua ideia da cabeça e como estrutura-la antes de iniciar o desenvolvimento."
   subtype: presentation
   speakers: [012]
   complexity: "Básico"
 
+# Camila - Painel sobre minorias e mulheres em TI
+-
+  id: 1204
+  title: "Painel sobre minorias e mulheres em TI"
+  description: ""
+  subtype: presentation
+  speakers: [004]
+  complexity: "Geral"
+
 # Nilton Kazuyuki Ueda - Analytics
 -
-  id: 99922
+  id: 1404
   title: "Google Big Query e Google Analytics + Tableau BI Analytics"
   description: "Você quer conhecer o que faz um BI Analyst ou Data Scientist? Quais são os desafios do dia a dia? Nessa palestra vou demonstrar de maneira pratica, sem blablabla ou mimimi, como você pode usar os dados de maneira inteligente!"
   subtype: presentation
@@ -356,7 +382,7 @@ Nessa palestra nós vamos entender a fundo Architecture Components, tanto do pon
 
 # Nelson Vasconcelos - Onboarding
 -
-  id: 99928
+  id: 1504
   title: "Onboarding - Uma questão de sobrevivência"
   description: "O primeiro uso é desproporcionalmente importante para que você tenha um aplicativo de sucesso. É aqui que os mínimos detalhes mais importam e podem criar uma ótima impressão, evitando que seu app seja um dos 70% que são desinstalados após o primeiro uso."
   subtype: presentation

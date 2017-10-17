@@ -1,5 +1,5 @@
 <!-- Begin Schedule Section -->
-<section id="schedule" class="schedule">
+<section id="schedule" class="schedule" {% if site.scheduleWarning != null %}style="padding-bottom: 0"{% endif %}>
     <div class="content-wrapper">
         {% for day in site.data.schedule %}
         <div class="schedule-table col-lg-8 col-md-10 col-md-offset-1">
@@ -81,3 +81,8 @@
     </div>
 </section>
 <!-- End Schedule Section -->
+{% if site.scheduleWarning != null %}
+<div style="text-align: center; padding-bottom: 60px">
+  <p>{{ site.scheduleWarning }}</p>
+</div>
+{% endif %}
