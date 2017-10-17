@@ -266,6 +266,47 @@ Quais técnologias ?"
   speakers: [029]
   complexity: "Intermediário"
 
+# Igor Luiz - Vue Reatividade
+-
+  id: 99925
+  title: "Como funciona a reatividade no Vue.js"
+  description: ""
+  subtype: presentation
+  speakers: [030]
+  # complexity: ""
+
+# Luís Felipe - Reactive Native
+-
+  id: 99926
+  title: "Desenvolvendo aplicativos nativos com React Native"
+  description: " Falarei sobre as principais diferenças entre o desenvolvimento de aplicativos móveis usando React Native e outros formas de desenvolver Apps. E também vou mostrar a semelhança entre React Native e o desenvolvimento web"
+  subtype: presentation
+  speakers: [031]
+  complexity: "Básico"
+
+# Alvaro Viebrantz - Android Things
+-
+  id: 99927
+  title: "Android Things, a plataforma IoT para todos"
+  description: "Uma introdução a nova plataforma de internet das coisas do Google, o Android Things, e como fazer dispositivos mais inteligentes e poderosos com ela, aliado de ferramentas de Machine Learning. O objetivo é cobrir o básico de como começar com a plataforma e apresentar alguns projetos que podem ser feito com a plataforma. Em especial será mostrado um projeto de máquina de doces inteligente, que utiliza o poder do Android Things, aliado com APIs de Machine Learning do Google, como a Cloud Vision API e o Tensorflow, para reconhecer imagens e que dar aos usuários doces se eles mostrarem os objetos corretos para a máquina."
+  subtype: presentation
+  speakers: [032]
+  complexity: "Intermediário"
+
+# ************************
+# ** NO SESSION CONTENT **
+# ************************
+
+# Nelson Vasconcelos - A definir
+-
+  id: 99928
+  title: "A definir"
+  description: "A definir"
+  subtype: presentation
+  speakers: [013]
+  # complexity: ""
+
+
 # -
 #   id: 002
 #   title: "Building Cloud-powered wearable Apps"

@@ -335,22 +335,56 @@ Já teve passagens no AppProva, B2W Digital, UOL, Terraforum (atual Globant), en
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/keuller-magalh%C3%A3es-86329b9/"}
 
+# Igor Luiz
+- 
+  id: 030
+  name: "Igor"
+  surname: "Luiz"
+  company: "Horizon Four"
+  title: "Full Stack Developer"
+  bio: "Hello, my name’s Igor Luíz and I’m a Full Stack Developer , although the inner child still remains in front-end, I really like javascript, share the knowledge you know and contribute to free software, currently I live in Sao Paulo, Brazil (but I’m RJ root).
+JavaScript, NodeJs, HTML, CSS, Ruby, Design, UX, Python and good coffee, are part of my daily life. In my free time, I spend time on YouTube and study new technologies."
+  thumbnailUrl: IgorLuiz.jpg
+  rockstar: false
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/igorhalfeld/"}
+    - {name: "site", link: "http://igorluiz.me"}
+
+# Luis Felipe
+- 
+  id: 031
+  name: "Luís"
+  surname: "Felipe"
+  company: "Magnetis Investimentos"
+  title: "Front-End Developer"
+  bio: "Desenvolvedor Front-end desde 2010, hoje trabalho na Magnetis e sou organizador do Meetup Design Campinas. Gosto de tudo que envolve os produtos digitais, desde UX até o código. Sou fã de comunidades!"
+  thumbnailUrl: LuisFelipe.jpg
+  rockstar: false
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/luisfmsouza/"}
+    - {name: "twitter", link: "http://twitter.com/luisfmsouz"}
+    - {name: "site", link: "https://medium.com/@luisfmsouza"}
+
+# Alvaro Viebrantz
+- 
+  id: 032
+  name: "Alvaro"
+  surname: "Viebrantz"
+  company: "GDG Cuiabá"
+  title: "Community Manager"
+  bio: "Organizador do grupo DevMT e do Google Developers Group Cuiabá. Já ministrou diversos cursos e palestras sobre diversos assuntos, em especial sobre desenvolvimento mobile com Ionic e React Native e também sobre Google Cloud e Internet das Coisas. Agora mantém um blog sobre sobre automação e internet das coisas. Tem experiência como desenvolvedor na startup Procurix e no Estuda.com. Formado em Ciência da Computação pela UFMT. Atualmente Analista de TI na SEFAZ-MT."
+  thumbnailUrl: AlvaroViebrantz.jpg
+  rockstar: false
+  social: 
+    - {name: "linkedin", link: "https://br.linkedin.com/in/alvaro-viebrantz-55119048"}
+    - {name: "github", link: "https://github.com/alvarowolfx"}
+    - {name: "twitter", link: "https://twitter.com/alvaroviebrantz"}
+    - {name: "facebook", link: "https://facebook.com/alvarowolfx"}
+    - {name: "site", link: "https://aviebrantz.com.br/"}
+
 # ************************
 # ** NO SESSION CONTENT **
 # ************************
-
-# Eiti Kimura
-- 
-  id: 006
-  name: "Eiti"
-  surname: "Kimura"
-  company: "Movile"
-  title: "Coordenador de TI"
-  bio: "Eiti tem mais de 15 anos de experiência com desenvolvimento de software, além de mestrado em eng. elétrica com especialização em engenharia de software. Possui a certificação Apache Cassandra 2014-2015 e trabalha com o Cassandra desde a versão 0.6. Tem ampla experiência no desenvolvimento de sistemas de back-end para serviços de cobrança de operadoras de telefonia, envio de mensagens SMS em massa Hoje trabalha como Coordenador de TI e arquiteto de sistemas distribuídos de alta performance na Movile Brasil."
-  thumbnailUrl: EitiKimura.png
-  rockstar: true
-  social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/eitikimura/"}
 
 # Nelson Vasconcelos
 - 
@@ -369,6 +403,19 @@ Nelson is currently focused on creating Prototypes and A/B Tests, working with d
     - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/nelsonvasconcelos/"}
+
+# Eiti Kimura
+# - 
+#   id: 006
+#   name: "Eiti"
+#   surname: "Kimura"
+#   company: "Movile"
+#   title: "Coordenador de TI"
+#   bio: "Eiti tem mais de 15 anos de experiência com desenvolvimento de software, além de mestrado em eng. elétrica com especialização em engenharia de software. Possui a certificação Apache Cassandra 2014-2015 e trabalha com o Cassandra desde a versão 0.6. Tem ampla experiência no desenvolvimento de sistemas de back-end para serviços de cobrança de operadoras de telefonia, envio de mensagens SMS em massa Hoje trabalha como Coordenador de TI e arquiteto de sistemas distribuídos de alta performance na Movile Brasil."
+#   thumbnailUrl: EitiKimura.png
+#   rockstar: true
+#   social: 
+#     - {name: "linkedin", link: "https://www.linkedin.com/in/eitikimura/"}
 
 # Daniela Petruzalek
 # - 
