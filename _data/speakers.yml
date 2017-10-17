@@ -7,7 +7,7 @@
   title: "Consultor Independente"		
   bio: "Software Engineer, curious guy, messing with Android development"	
   thumbnailUrl: UbiratanSoares.jpg		
-  rockstar: false		
+  rockstar: true		
   ribbon:
     - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
   social: 		
@@ -24,7 +24,7 @@
   title: "Cloud Program Manager"
   bio: "Kenzo Porto é bacharel em Ciência da Computação pela UFRGS e tem um MBA em Gestão Empresarial pela FGV. Possui mais de 15 anos de experiência em gerenciamento de projetos, desenvolvimento de software e arquitetura de sistemas. Há 5 anos trabalha na Google e atuou nos cargos de Sales Engineer de Google Maps, Partner Operations Manager de Maps e Search Enterprise, Deployment Engineer de G Suite e atualmente é Cloud Program Manager."
   thumbnailUrl: KenzoPorto.jpg
-  rockstar: false
+  rockstar: true
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/eduardo-kenzo-kurahayashi-porto-9424a6a/"}
 
@@ -53,7 +53,7 @@ Na Dextra, ele mistura suas habilidades técnicas e de gerenciamento para lidera
 Ele é o criador do YAWP! Framework, um framework Java/Javascript que ajuda os desenvolvedores a criarem facilmente APIs REST escaláveis sobre a plataforma Google Cloud.
 Ele mora no Brasil e estudou ciência da computação na Universidade de Campinas. Ele adora o interior onde ele gosta de montar cavalos e tocar sua guitarra alto."
   thumbnailUrl: FernandoUltremare.jpg
-  rockstar: false
+  rockstar: true
   ribbon: 
     - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
   social: 
@@ -160,14 +160,14 @@ Ele mora no Brasil e estudou ciência da computação na Universidade de Campina
   id: 017
   name: "Luiz Gustavo"
   surname: "Martins"
-  company: "Google"
+  company: "Google London"
   title: "Developer Advocate"
   bio: "Por mais de 15 anos, Gus foi desde desenvolvedor para o mercado financeiro até Apps Android 
 e jogos. Hoje ele trabalha como Developer Advocate no Google onde ajuda outros desenvolvedores
 a criarem aplicativos ainda melhores usando Firebase e ML. Quando não esta no teclado, talvez 
 você o encontre ensinando Capoeira."
   thumbnailUrl: LuizMartins.jpg
-  rockstar: false
+  rockstar: true
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/luiz-gustavo-martins-64ab5891/"}
 
@@ -193,7 +193,7 @@ você o encontre ensinando Capoeira."
   title: "Mobile Software Engineer"
   bio: "Bacharel em Ciência da Computação pela Unicamp e Mobile Software Engineer III na 99. Trabalha com Android desde 2010, mas já teve experiência variada, de sistemas desktop a web, em empresas de diversos portes, desde startups de 3 funcionários, inclusive já tendo fundado e fechado a própria startup, a empresas maiores como Movile e IBM. Adora o ambiente dinâmico de startups e triunfa nele. Quando não está com uma câmera na mão, está lendo alguma coisa nerd."
   thumbnailUrl: DouglasDrummond.jpg
-  rockstar: false
+  rockstar: true
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/douglasdrumond/"}
 
@@ -272,7 +272,7 @@ Com mais de 10 anos na área de desenvolvimento de software (focado principalmen
   title: "Desenvolvedor iOS"
   bio: "Fellipe Caetano é um desenvolvedor iOS especializado em construir apps de forma altamente testável com código de qualidade. É entusiasta de desenvolvimento web e acredita que as comunidades de desenvolvimento nativo tem muito o que aprender com quem resolve problemas complexos de UI há muito mais tempo. Atua desde 2016 como desenvolvedor sênior na Sympla, tendo trabalhado desde 2010 em empresas como Movile e Dextra entregando soluções mobile tailor-made para finanças, mídia, eventos, gestão de projetos, esportes e negócios O2O."
   thumbnailUrl: FellipeCaetano.jpg
-  rockstar: false
+  rockstar: true
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/fellipecaetano/"}
     - {name: "github", link: "https://github.com/fellipecaetano/"}
