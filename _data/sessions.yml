@@ -216,14 +216,85 @@ Quais técnologias ?"
 # ** Mobile **
 # ************
 
-# ***********
-# ** M & G **
-# ***********
+# Walmyr - Flutter
+-
+  id: 503
+  title: "Flutter.io: Desenvolvendo aplicações pra Android e iOS com Dart"
+  description: "Há um tempo o Google criou um SDK de desenvolvimento de aplicações móveis para Android e iOS, chamado Flutter.io. O objetivo do Flutter é que o desenvolvimento mobile se torne rápido e eficiente, com features como hot reload, UIs rodando a 60fps, integrações prontas com o Firebase e APIs nativas e interoperabilidade com códigos existentes em Java, Kotlin, Swift e Objective-C!
+Agora mais maduro, o projeto está ganhando bastante tração e além de ser usado pelo Google, ele foi utilizado no desenvolvimento do aplicativo oficial do musical Hamilton, um dos maiores musicais do mundo, com milhares de downloads no iOS e no Android! 
+Nesse talk vamos aprender a configuração básica do Flutter, uma leve introdução a linguagem Dart e como começar a trabalhar com esse SDK tão poderoso!"
+  subtype: presentation
+  speakers: [021]
+  complexity: "Intermediário"
 
+# Luís Felipe - Reactive Native
+-
+  id: 603
+  title: "Desenvolvendo aplicativos nativos com React Native"
+  description: " Falarei sobre as principais diferenças entre o desenvolvimento de aplicativos móveis usando React Native e outros formas de desenvolver Apps. E também vou mostrar a semelhança entre React Native e o desenvolvimento web"
+  subtype: presentation
+  speakers: [031]
+  complexity: "Básico"
+
+# Fellipe Caetano (Jozinho) - rxswift
+-
+  id: 703
+  title: "Usando RxSwift para construir UIs simplesmente testáveis"
+  description: "Um live-coding experimental que vai construir um view controller do zero usando RxSwift, view models e um padrão arquitetural baseado em fronteiras em vez de camadas. Focaremos todos os nossos esforços em escrever código que seja testável de forma simples, usando um pouco de TDD e evitando mocks profundos."
+  subtype: presentation
+  speakers: [020]
+  complexity: "Avançado"
+
+# Richard - Interfaces de texto e chatbot
+-
+  id: 903
+  title: "Interfaces de texto e chatbot"
+  description: ""
+  subtype: presentation
+  speakers: [008]
+  complexity: "Intermediário"
+
+# Juliana Salgado - Acessibilidade
+-
+  id: 1003
+  title: "A definir"
+  description: "A definir"
+  subtype: presentation
+  speakers: []
+  # complexity: ""
+
+# Luiz Gustavo - Android + Machine Learning + Firebase
+-
+  id: 1103
+  title: "Firebase + ML = S2, O Retorno!"
+  description: "Nessa palestra vou mostrar como podemos utilizar Machine learning executando em um dispositivo movel
+e integrando ferramentas existentes como Firebase e Google Cloud ML para obter bons resultados
+a um baixo custo, de forma eficiente tanto do ponto de vista de processador quanto bateria e memória."
+  subtype: presentation
+  speakers: [017]
+  complexity: "Intermediario"
+
+# Alvaro Viebrantz - Android Things
+-
+  id: 1203
+  title: "Android Things, a plataforma IoT para todos"
+  description: "Uma introdução a nova plataforma de internet das coisas do Google, o Android Things, e como fazer dispositivos mais inteligentes e poderosos com ela, aliado de ferramentas de Machine Learning. O objetivo é cobrir o básico de como começar com a plataforma e apresentar alguns projetos que podem ser feito com a plataforma. Em especial será mostrado um projeto de máquina de doces inteligente, que utiliza o poder do Android Things, aliado com APIs de Machine Learning do Google, como a Cloud Vision API e o Tensorflow, para reconhecer imagens e que dar aos usuários doces se eles mostrarem os objetos corretos para a máquina."
+  subtype: presentation
+  speakers: [032]
+  complexity: "Intermediário"
+
+# Douglas - Android Tensorflow
+-
+  id: 1403
+  title: "IA no bolso com TensorFlow"
+  description: "Quem assistir sairá sabendo como integrar facilmente inteligência artificial no aplicativo, rodando localmente sem depender de cloud. Será apresentado como usar a biblioteca TensorFlow no aplicativo e como treinar o modelo a ser utilizado."
+  subtype: presentation
+  speakers: [010]
+  complexity: "Básico"
 
 # Ubiratan - Architecture Components
 -
-  id: 9993
+  id: 1503
   title: "Architecture Components Distilled"
   description: "LifecycleOwner? Lifecycle? LiveData? ViewModel? Transformations?
 
@@ -234,14 +305,9 @@ Nessa palestra nós vamos entender a fundo Architecture Components, tanto do pon
   speakers: [014]
   complexity: "Avançado"
 
-# Richard - Interfaces de texto e chatbot
--
-  id: 9994
-  title: "Interfaces de texto e chatbot"
-  description: ""
-  subtype: presentation
-  speakers: [008]
-  complexity: "Intermediário"
+# ***********
+# ** M & G **
+# ***********
 
 # Gabriel Franco - gerente desnecessário
 -
@@ -270,46 +336,6 @@ Nessa palestra nós vamos entender a fundo Architecture Components, tanto do pon
   speakers: [004]
   complexity: "Geral"
 
-# Walmyr - Flutter
--
-  id: 99912
-  title: "Flutter.io: Desenvolvendo aplicações pra Android e iOS com Dart"
-  description: "Há um tempo o Google criou um SDK de desenvolvimento de aplicações móveis para Android e iOS, chamado Flutter.io. O objetivo do Flutter é que o desenvolvimento mobile se torne rápido e eficiente, com features como hot reload, UIs rodando a 60fps, integrações prontas com o Firebase e APIs nativas e interoperabilidade com códigos existentes em Java, Kotlin, Swift e Objective-C!
-Agora mais maduro, o projeto está ganhando bastante tração e além de ser usado pelo Google, ele foi utilizado no desenvolvimento do aplicativo oficial do musical Hamilton, um dos maiores musicais do mundo, com milhares de downloads no iOS e no Android! 
-Nesse talk vamos aprender a configuração básica do Flutter, uma leve introdução a linguagem Dart e como começar a trabalhar com esse SDK tão poderoso!"
-  subtype: presentation
-  speakers: [021]
-  complexity: "Intermediário"
-
-# Luiz Gustavo - Android + Machine Learning + Firebase
--
-  id: 99913
-  title: "Firebase + ML = S2, O Retorno!"
-  description: "Nessa palestra vou mostrar como podemos utilizar Machine learning executando em um dispositivo movel
-e integrando ferramentas existentes como Firebase e Google Cloud ML para obter bons resultados
-a um baixo custo, de forma eficiente tanto do ponto de vista de processador quanto bateria e memória."
-  subtype: presentation
-  speakers: [017]
-  complexity: "Intermediario"
-
-# Douglas - Android Tensorflow
--
-  id: 99914
-  title: "IA no bolso com TensorFlow"
-  description: "Quem assistir sairá sabendo como integrar facilmente inteligência artificial no aplicativo, rodando localmente sem depender de cloud. Será apresentado como usar a biblioteca TensorFlow no aplicativo e como treinar o modelo a ser utilizado."
-  subtype: presentation
-  speakers: [010]
-  complexity: "Básico"
-
-# Fellipe Caetano (Jozinho) - rxswift
--
-  id: 99920
-  title: "Usando RxSwift para construir UIs simplesmente testáveis"
-  description: "Um live-coding experimental que vai construir um view controller do zero usando RxSwift, view models e um padrão arquitetural baseado em fronteiras em vez de camadas. Focaremos todos os nossos esforços em escrever código que seja testável de forma simples, usando um pouco de TDD e evitando mocks profundos."
-  subtype: presentation
-  speakers: [020]
-  complexity: "Avançado"
-
 # Ana Paula Baptista - Produto
 -
   id: 99921
@@ -327,24 +353,6 @@ a um baixo custo, de forma eficiente tanto do ponto de vista de processador quan
   subtype: presentation
   speakers: [027]
   complexity: "Básico"
-
-# Luís Felipe - Reactive Native
--
-  id: 99926
-  title: "Desenvolvendo aplicativos nativos com React Native"
-  description: " Falarei sobre as principais diferenças entre o desenvolvimento de aplicativos móveis usando React Native e outros formas de desenvolver Apps. E também vou mostrar a semelhança entre React Native e o desenvolvimento web"
-  subtype: presentation
-  speakers: [031]
-  complexity: "Básico"
-
-# Alvaro Viebrantz - Android Things
--
-  id: 99927
-  title: "Android Things, a plataforma IoT para todos"
-  description: "Uma introdução a nova plataforma de internet das coisas do Google, o Android Things, e como fazer dispositivos mais inteligentes e poderosos com ela, aliado de ferramentas de Machine Learning. O objetivo é cobrir o básico de como começar com a plataforma e apresentar alguns projetos que podem ser feito com a plataforma. Em especial será mostrado um projeto de máquina de doces inteligente, que utiliza o poder do Android Things, aliado com APIs de Machine Learning do Google, como a Cloud Vision API e o Tensorflow, para reconhecer imagens e que dar aos usuários doces se eles mostrarem os objetos corretos para a máquina."
-  subtype: presentation
-  speakers: [032]
-  complexity: "Intermediário"
 
 # Nelson Vasconcelos - Onboarding
 -

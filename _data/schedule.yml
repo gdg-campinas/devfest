@@ -4,7 +4,7 @@
   tracks: 
     - {title: "Front-end", color: "#4285F4"}
     - {title: "Back-end", color: "#EA4335"}
-    # - {title: "Mobile", color: "#34A853"}
+    - {title: "Mobile", color: "#34A853"}
     # - {title: "Mentoring & Growth", color: "#FBBC05"}
   timeslots:
     - {
