@@ -48,10 +48,10 @@
   surname: "Ultremare"
   company: "Dextra"
   title: "Gerente de Desenvolvimento"
-  bio: "Fernando is a passionate software craftsman who's worked for a wide range of industries and projects. He is an open source developer, technical writer and conference speaker.
-At Dextra, he blends his technical and management skills to lead and help teams that are building awesome software products for startups, technology, media, manufacturing, financial and other types of companies.
-He is the creator of the YAWP! Framework, a Java/Javascript framework that helps developers to easily create scalable REST APIs over the Google Cloud Platform.
-He lives in Brazil and studied Computer Science at the University of Campinas. He loves the countryside where he enjoys riding horses and playing his guitar loud."
+  bio: "Fernando é um artesão de software apaixonado que trabalhou para uma ampla gama de indústrias e projetos. Ele é um desenvolvedor de código open source, escritor técnico e palestrante.
+Na Dextra, ele mistura suas habilidades técnicas e de gerenciamento para liderar e ajudar as equipes que estão criando produtos de software incríveis para startups, empresas de tecnologia, mídia, fabricação, financeiras e outros tipos de empresas.
+Ele é o criador do YAWP! Framework, um framework Java/Javascript que ajuda os desenvolvedores a criarem facilmente APIs REST escaláveis sobre a plataforma Google Cloud.
+Ele mora no Brasil e estudou ciência da computação na Universidade de Campinas. Ele adora o interior onde ele gosta de montar cavalos e tocar sua guitarra alto."
   thumbnailUrl: FernandoUltremare.jpg
   rockstar: false
   ribbon: 
@@ -279,6 +279,62 @@ Com mais de 10 anos na área de desenvolvimento de software (focado principalmen
     - {name: "twitter", link: "https://twitter.com/fellipecaetano_"}
     - {name: "email", link: "fellipe.caetano@sympla.com.br"}
 
+# Ana Paula Batista
+- 
+  id: 012
+  name: "Ana Paula"
+  surname: "Batista"
+  company: "Sparck"
+  title: "UX/Product Designer"
+  bio: "Formada em Multimídia Digital, tem 17 anos de experiência no planejamento e projeto de produtos digitais. Uma das primeiras Google Experts em UX/UI no Brasil, teve oportunidade de participar da primeira turma de Design Sprint Master Academy, oferecido pelo Google em Mountain View - CA - USA, em 2015. Já planejou e aplicou Design Sprint para mais de 25 empresas diferentes, tendo grandes resultados que se tornaram cases em palestras internacionais.
+Teve oportunidade também em ser mentora das duas primeiras classes do programa de aceleração global do Google - o Google Launchpad Accelerator Program de 2016. Neste programa, atuou diretamente com 48 startups da Índia, Indonésia, México e Brasil. Além disto, já deu mentoria para mais de 50 startups e palestras em diferentes cidades do Brasil, em programas de comunidades independentes ou relacionados ao Google BR.
+Já teve passagens no AppProva, B2W Digital, UOL, Terraforum (atual Globant), entre outras. É também líder do capítulo local da UXPA-SP - comunidade sem fins lucrativos que tem como objetivo divulgar e fortalecer a profissão e disciplina do Design de Experiência do Usuário."
+  thumbnailUrl: AnaBatista.png
+  rockstar: false
+  ribbon: 
+    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/anabatista/"}
+
+# Nilton Kazuyuki Ueda
+- 
+  id: 027
+  name: "Nilton Kazuyuki"
+  surname: "Ueda"
+  company: "Vidi"
+  title: "Analista de BI Sênior"
+  bio: "Nilton Kazuyuki Ueda tem 21 anos e é Arquiteto de Solução de BI especializado em TABLEAU. Atua com criação e desenvolvimento de painéis gerenciais para grandes empresas nacionais e multi-nacionais usando suas habilidades para extrair o máximo de valor dos dados e facilitar as tomadas de decisão."
+  thumbnailUrl: NiltonUeda.jpg
+  rockstar: false
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/niltonkazuyukiueda/"}
+
+# Douglas de Siqueira Silva
+- 
+  id: 028
+  name: "Douglas de Siqueira"
+  surname: "Silva"
+  company: "CI&T"
+  title: "Desenvolvedor"
+  bio: "Douglas Siqueira formado em Ciência da Computação pela Unip, pós graduado em Marketing Digital e cursando Machine learning. Trabalha com desenvolvimento web desde 2011 trabalhando em algumas startups e hoje focado em intraempreendedorismo."
+  thumbnailUrl: DouglasSilva.jpg
+  rockstar: false
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/douglas-siqueira-silva-46776424/"}
+
+# Keuller Magalhães
+- 
+  id: 029
+  name: "Keuller"
+  surname: "Magalhães"
+  company: "PagSeguro"
+  title: "Software Engineer Specialist"
+  bio: "Software engineer, fullstack developer, father, hamburguer fan, movie addicted and gamer."
+  thumbnailUrl: KeullerMagalhaes.jpg
+  rockstar: false
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/keuller-magalh%C3%A3es-86329b9/"}
+
 # ************************
 # ** NO SESSION CONTENT **
 # ************************
@@ -296,23 +352,6 @@ Com mais de 10 anos na área de desenvolvimento de software (focado principalmen
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/eitikimura/"}
 
-# Ana Paula Batista
-- 
-  id: 012
-  name: "Ana Paula"
-  surname: "Batista"
-  company: "Sparck"
-  title: "UX/Product Designer"
-  bio: "Formada em Multimídia Digital, tem 17 anos de experiência no planejamento e projeto de produtos digitais. Uma das primeiras Google Experts em UX/UI no Brasil, teve oportunidade de participar da primeira turma de Design Sprint Master Academy, oferecido pelo Google em Mountain View - CA - USA, em 2015. Já planejou e aplicou Design Sprint para mais de 25 empresas diferentes, tendo grandes resultados que se tornaram cases em palestras internacionais.
-Teve oportunidade também em ser mentora das duas primeiras classes do programa de aceleração global do Google - o Google Launchpad Accelerator Program de 2016. Neste programa, atuou diretamente com 48 startups da Índia, Indonésia, México e Brasil. Além disto, já deu mentoria para mais de 50 startups e palestras em diferentes cidades do Brasil, em programas de comunidades independentes ou relacionados ao Google BR.
-Já teve passagens no AppProva, B2W Digital, UOL, Terraforum (atual Globant), entre outras. É também líder do capítulo local da UXPA-SP - comunidade sem fins lucrativos que tem como objetivo divulgar e fortalecer a profissão e disciplina do Design de Experiência do Usuário."
-  thumbnailUrl: AnaBatista.png
-  rockstar: false
-  ribbon: 
-    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
-  social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/anabatista/"}  
-
 # Nelson Vasconcelos
 - 
   id: 013
@@ -321,11 +360,8 @@ Já teve passagens no AppProva, B2W Digital, UOL, Terraforum (atual Globant), en
   company: "Mokriya"
   title: "Senior UI/UX Designer"
   bio: "Nelson has been working with design for over 10 years in a broad range of digital projects such as Websites, Rich Internet Applications, Games and Mobile Apps, from startups to big companies.
-
 His skills and focus are from obsessing with crafting simple, intuitive, and delightful user experiences and designs, to creating beautiful pixel-perfect designs and icons.
-
 He is proficient with Sketch, Photoshop and Interaction Design tools such as Pixate and Origami, Android’s Material Design and extensive experience on responsive HTML5/CSS3 and JS, and currently focused on creating prototypes and A/B tests.
-
 Nelson is currently focused on creating Prototypes and A/B Tests, working with data analysis and data-led goals, user interviewing, and information architecture skills such as Wireframing, User Flows, User Journeys and Personas."
   thumbnailUrl: NelsonVasconcelos.jpg
   rockstar: false
@@ -335,17 +371,17 @@ Nelson is currently focused on creating Prototypes and A/B Tests, working with d
     - {name: "linkedin", link: "https://www.linkedin.com/in/nelsonvasconcelos/"}
 
 # Daniela Petruzalek
-- 
-  id: 016
-  name: "Daniela"
-  surname: "Petruzalek"
-  company: "Globo.com"
-  title: "Senior Software Engineer"
-  bio: ""
-  thumbnailUrl: DanielaPetruzalek.jpg
-  rockstar: false
-  social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/petruzalek/"}
+# - 
+#   id: 016
+#   name: "Daniela"
+#   surname: "Petruzalek"
+#   company: "Globo.com"
+#   title: "Senior Software Engineer"
+#   bio: ""
+#   thumbnailUrl: DanielaPetruzalek.jpg
+#   rockstar: false
+#   social: 
+#     - {name: "linkedin", link: "https://www.linkedin.com/in/petruzalek/"}
 
 # Flávio Clésio
 # - 

@@ -46,8 +46,8 @@
 # Alline - Lean
 -
   id: 9991
-  title: "Arquitetura Lean"
-  description: "MVP funcional com máxima flexibilidade e mínimo código possível."
+  title: "Arquitetura Lean. MVP funcional com máxima flexibilidade e mínimo código possível."
+  description: "Como desenvolver um Mínimo Produto Viável (MVP) que seja super flexível, utilizando o mínimo de código possível em sua construção. Tecnologias como Ionic, PWA, Cloud Endpoints, ZeroOps e BigData estão aí para facilitar em muito essa tarefa de simplificação com eficiência."
   subtype: presentation
   speakers: [009]
   complexity: "Básico"
@@ -81,6 +81,7 @@ Nessa palestra nós vamos entender a fundo Architecture Components, tanto do pon
   description: ""
   subtype: presentation
   speakers: [008]
+  complexity: "Intermediário"
 
 # Kenzo - BigQuery
 -
@@ -228,6 +229,42 @@ Quais técnologias ?"
   subtype: presentation
   speakers: [020]
   complexity: "Avançado"
+
+# Ana Paula Baptista - Produto
+-
+  id: 99921
+  title: "Construindo um produto - da ideia ao desenvolvimento"
+  description: "Ter uma super ideia não é só o que basta para desenvolver um produto de sucesso. Vamos explorar algumas das formas de tirar sua ideia da cabeça e como estrutura-la antes de iniciar o desenvolvimento."
+  subtype: presentation
+  speakers: [012]
+  complexity: "Introdutório"
+
+# Nilton Kazuyuki Ueda - Analytics
+-
+  id: 99922
+  title: "Google Big Query e Google Analytics + Tableau BI Analytics"
+  description: "Você quer conhecer o que faz um BI Analyst ou Data Scientist? Quais são os desafios do dia a dia? Nessa palestra vou demonstrar de maneira pratica, sem blablabla ou mimimi, como você pode usar os dados de maneira inteligente!"
+  subtype: presentation
+  speakers: [027]
+  complexity: "Básico"
+
+# Douglas de Siqueira Silva - bots com api.ai
+-
+  id: 99923
+  title: "Criando seu BOT em minutos com o API.AI"
+  description: "Criar bots nunca foi tão facil! API.AI revolucionando o mundo dos bots."
+  subtype: presentation
+  speakers: [028]
+  complexity: "Básico"
+
+# Keuller Magalhães - React+Redux
+-
+  id: 99924
+  title: "React and Redux"
+  description: "Componentes ? Reducers ? Estado Global ? Se você tem interesse em entender como e porquê gerenciar estado global da uma SPA é tão importante, nessa talk vamos conversar sobre tudo isso e muito mais. Mostrar um pouco de código, e ver como isso pode ser feito utilizando React e Redux. Vamos lá trocar idéias."
+  subtype: presentation
+  speakers: [029]
+  complexity: "Intermediário"
 
 # -
 #   id: 002
