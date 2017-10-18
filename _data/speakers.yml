@@ -340,10 +340,9 @@ Já teve passagens no AppProva, B2W Digital, UOL, Terraforum (atual Globant), en
   id: 030
   name: "Igor"
   surname: "Luiz"
-  company: "Horizon Four"
-  title: "Full Stack Developer"
-  bio: "Hello, my name’s Igor Luíz and I’m a Full Stack Developer , although the inner child still remains in front-end, I really like javascript, share the knowledge you know and contribute to free software, currently I live in Sao Paulo, Brazil (but I’m RJ root).
-JavaScript, NodeJs, HTML, CSS, Ruby, Design, UX, Python and good coffee, are part of my daily life. In my free time, I spend time on YouTube and study new technologies."
+  company: "Stored"
+  title: "Senior Front-end Engineer"
+  bio: "Desenvolvedor Full Stack, apesar de que a criança interior ainda permanece no front, curte muito javascript, compartilhar os paranauês que sabe e contribuir com software livre :D"
   thumbnailUrl: IgorLuiz.jpg
   rockstar: false
   social: 
