@@ -122,8 +122,8 @@
 # Igor Luiz - Vue Reatividade
 -
   id: 1501
-  title: "Como funciona a reatividade no Vue.js"
-  description: ""
+  title: "Vue.js Reactive System"
+  description: "Entender o funcionamento das libs e frameworks que você usa, é fundamental pra fazer implementações melhores e aumentar a facilidade de resolver problemas, nessa talk você vai entender como funciona toda a reatividade do Vue.js, como ela vai ser no futuro e como se aproveitar dela hoje."
   subtype: presentation
   speakers: [030]
   complexity: "Intermediário"
