@@ -72,7 +72,7 @@
   description: "Mostraremos uma aplicação básica feita com VueJS, montando do zero."
   subtype: presentation
   speakers: [026]
-  complexity: "Básico"
+  complexity: "Introdutório"
 
 # Lucas Trindade - callbacks
 -
@@ -81,16 +81,17 @@
   description: "Nesta talk tenho a intenção de mostrar a evolução na forma de tratar dados assíncronos. Dando um overview sobre Observables e Async&Await."
   subtype: presentation
   speakers: [019]
-  complexity: "Básico"
+  complexity: "Introdutório"
 
-# Gabriel Ribeiro + Victor Miguez - A definir
+# Gabriel Ribeiro + Victor Miguez - Clean JS
 -
   id: 1001
-  title: "A definir"
-  description: "A definir"
+  title: "Clean code: Escrevendo Javascript profissional"
+  description: "Queremos mostrar que escrever código limpo não é um bicho de sete cabeças, e até quem está começando consegue aplicá-lo no dia a dia.
+Nesta talk vamos explicar conceitos básicos de código limpo aplicado ao Javascript, com uma abordagem prática para que os exemplos mostrados fiquem próximos da realidade."
   subtype: presentation
-  speakers: []
-  # complexity: ""
+  speakers: [036, 037]
+  complexity: "Intermediário"
 
 # Raphael - PWA
 -
@@ -165,7 +166,7 @@
   description: "Como desenvolver um Mínimo Produto Viável (MVP) que seja super flexível, utilizando o mínimo de código possível em sua construção. Tecnologias como Ionic, PWA, Cloud Endpoints, ZeroOps e BigData estão aí para facilitar em muito essa tarefa de simplificação com eficiência."
   subtype: presentation
   speakers: [009]
-  complexity: "Básico"
+  complexity: "Introdutório"
 
 # Walter Neto - Segurança
 -
@@ -192,7 +193,7 @@
   description: "Criar bots nunca foi tão facil! API.AI revolucionando o mundo dos bots."
   subtype: presentation
   speakers: [028]
-  complexity: "Básico"
+  complexity: "Introdutório"
 
 # Fernando - Serverless Machine Learning
 -
@@ -234,7 +235,7 @@ Nesse talk vamos aprender a configuração básica do Flutter, uma leve introdu�
   description: " Falarei sobre as principais diferenças entre o desenvolvimento de aplicativos móveis usando React Native e outros formas de desenvolver Apps. E também vou mostrar a semelhança entre React Native e o desenvolvimento web"
   subtype: presentation
   speakers: [031]
-  complexity: "Básico"
+  complexity: "Introdutório"
 
 # Fellipe Caetano (Jozinho) - rxswift
 -
@@ -262,7 +263,7 @@ Nesse talk vamos aprender a configuração básica do Flutter, uma leve introdu�
 Nesta palestra, Juliana Salgado, vai mostrar da perspectiva de um deficiente visual como é utilizar um produto que não é acessível e mostrar que é possível, com algumas linhas de código, aumentar o seu número de usuários e ainda mudar muitas vidas sem grandes esforços!"
   subtype: presentation
   speakers: [033]
-  complexity: "Básico"
+  complexity: "Introdutório"
 
 # Luiz Gustavo - Android + Machine Learning + Firebase
 -
@@ -291,7 +292,7 @@ a um baixo custo, de forma eficiente tanto do ponto de vista de processador quan
   description: "Quem assistir sairá sabendo como integrar facilmente inteligência artificial no aplicativo, rodando localmente sem depender de cloud. Será apresentado como usar a biblioteca TensorFlow no aplicativo e como treinar o modelo a ser utilizado."
   subtype: presentation
   speakers: [010]
-  complexity: "Básico"
+  complexity: "Introdutório"
 
 # Ubiratan - Architecture Components
 -
@@ -340,10 +341,10 @@ Nessa palestra nós vamos entender a fundo Architecture Components, tanto do pon
 # Ju - Growth Hacking
 -
   id: 904
-  title: "A definir"
+  title: "Growth Hacking"
   description: "A definir"
   subtype: presentation
-  speakers: []
+  speakers: [035]
   # complexity: ""
 
 # Sessão Mentoria
@@ -361,7 +362,7 @@ Nessa palestra nós vamos entender a fundo Architecture Components, tanto do pon
   description: "Ter uma super ideia não é só o que basta para desenvolver um produto de sucesso. Vamos explorar algumas das formas de tirar sua ideia da cabeça e como estrutura-la antes de iniciar o desenvolvimento."
   subtype: presentation
   speakers: [012]
-  complexity: "Básico"
+  complexity: "Introdutório"
 
 # Camila - Painel sobre minorias e mulheres em TI
 -
@@ -379,7 +380,7 @@ Nessa palestra nós vamos entender a fundo Architecture Components, tanto do pon
   description: "Você quer conhecer o que faz um BI Analyst ou Data Scientist? Quais são os desafios do dia a dia? Nessa palestra vou demonstrar de maneira pratica, sem blablabla ou mimimi, como você pode usar os dados de maneira inteligente!"
   subtype: presentation
   speakers: [027]
-  complexity: "Básico"
+  complexity: "Introdutório"
 
 # Nelson Vasconcelos - Onboarding
 -

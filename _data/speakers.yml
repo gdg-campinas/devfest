@@ -408,7 +408,7 @@ Nelson is currently focused on creating Prototypes and A/B Tests, working with d
   title: "CTO"
   bio: "Co-fundador da butique de software CodeMiner 42. Fundador do 1o evento internacional de tecnologia no Brasil, a THE CONF. Co-fundador e organizador até 2016 de 9 Rubyconfs Brasil. Blogueiro de tecnologia em akitaonrails.com."
   thumbnailUrl: FabioAkita.jpg
-  rockstar: false
+  rockstar: true
   social: 
     - {name: "site", link: "http://akitaonrails.com"}
     - {nem: "site", link: "http://codeminer42.com"}
@@ -426,6 +426,43 @@ Nelson is currently focused on creating Prototypes and A/B Tests, working with d
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/julianasalgado/"}
     - {name: "twitter", link: "https://twitter.com/jusalt"}
+
+# Juliano Marques
+- 
+  id: 035
+  name: "Juliano"
+  surname: "Marques"
+  company: "Weme / Kolab School"
+  title: "Business Strategist Hacker / CEO and Co Founder"
+  bio: ""
+  thumbnailUrl: JulianoMarques.jpg
+  rockstar: false
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/julianom87/"}
+
+# Gabriel Ribeiro
+- 
+  id: 036
+  name: "Gabriel"
+  surname: "Ribeiro"
+  company: "Ingresso Rápido"
+  title: "Desenvolvedor Front-End"
+  bio: "Oi eu sou o Gabriel! Sou desenvolvedor web e curto compartilhar conhecimento."
+  thumbnailUrl: GabrielRibeiro.jpg
+  rockstar: false
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/bielribeiro/"}
+
+# Victor Miguez
+- 
+  id: 037
+  name: "Victor"
+  surname: "Miguez"
+  company: "UPX Technologies"
+  title: "Desenvolvedor Front-End"
+  bio: "Desenvolvedor front-end, coorganizador do Campinas Front-end e amante de code review."
+  thumbnailUrl: VictorMiguez.jpg
+  rockstar: false
 
 # Eiti Kimura
 # - 
