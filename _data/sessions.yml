@@ -143,7 +143,7 @@
 # Gago - Recomendação de Conteúdo
 -
   id: 602
-  title: "Recomendação de Conteúdo (Parte 1)"
+  title: "Machine Learning na Recomendação de Conteúdo (Parte 1)"
   description: "Machine Learning têm sido o grande trunfo das organizações para otimizar tarefas e maximizar lucros. Quando o assunto é aumentar as vendas ou visitas, os recomendadores de conteúdo fazem muito sucesso nos portais de comércio eletrônico, aplicativos e portais de conteúdo. Esta palestra vai apresentar a Filtragem Colaborativa, uma das técnicas de recomendação de conteúdos mais utilizadas pelo mercado, além de abordar as melhores práticas do mercado para construir e avaliar um recomendador."
   subtype: presentation
   speakers: [001]
@@ -152,7 +152,7 @@
 # Gago - Recomendação de Conteúdo
 -
   id: 702
-  title: "Recomendação de Conteúdo (Parte 2)"
+  title: "Machine Learning na Recomendação de Conteúdo (Parte 2)"
   description: "Machine Learning têm sido o grande trunfo das organizações para otimizar tarefas e maximizar lucros. Quando o assunto é aumentar as vendas ou visitas, os recomendadores de conteúdo fazem muito sucesso nos portais de comércio eletrônico, aplicativos e portais de conteúdo. Esta palestra vai apresentar a Filtragem Colaborativa, uma das técnicas de recomendação de conteúdos mais utilizadas pelo mercado, além de abordar as melhores práticas do mercado para construir e avaliar um recomendador."
   subtype: presentation
   speakers: [001]
@@ -179,11 +179,11 @@
 # Akita - Elixir
 -
   id: 1102
-  title: "A definir"
-  description: "A definir"
+  title: "Elixir - Tolerância a Falhas para Adultos"
+  description: "Muito se fala em alta escalabilidade, concorrência, paralelismo. Mas o que pouca gente entende é que, para qualquer linguagem, é muito simples, beirando o trivial, fazer alta concorrência. Porém é completamente diferente o assunto de 'controlar' essa alta concorrência. Nenhuma outra linguagem do mercado atualmente consegue combinar alta-concorrência e alta-disponibilidade num único pacote. Seja Node.js. Seja Go. Seja Scala. Ou qualquer outra coisa. E vamos entender porque Elixir consegue."
   subtype: presentation
-  speakers: []
-  # complexity: ""
+  speakers: [034]
+  complexity: "Intermediário"
 
 # Douglas de Siqueira Silva - bots com api.ai
 -
@@ -257,11 +257,12 @@ Nesse talk vamos aprender a configuração básica do Flutter, uma leve introdu�
 # Juliana Salgado - Acessibilidade
 -
   id: 1003
-  title: "A definir"
-  description: "A definir"
+  title: "Alcançando novos usuários através da acessibilidade no iOS"
+  description: "Há aproximadamente 285 milhões de pessoas com dificuldade visual no mundo. Aproximadamente 1 em cada 12 homens (8%) e 1 em cada 200 mulheres (0.5%) sofre de daltonismo. Ainda há diversas deficiências que afetam a população. Você já se perguntou se os serviços são acessíveis a essas pessoas? 
+Nesta palestra, Juliana Salgado, vai mostrar da perspectiva de um deficiente visual como é utilizar um produto que não é acessível e mostrar que é possível, com algumas linhas de código, aumentar o seu número de usuários e ainda mudar muitas vidas sem grandes esforços!"
   subtype: presentation
   speakers: [033]
-  # complexity: ""
+  complexity: "Básico"
 
 # Luiz Gustavo - Android + Machine Learning + Firebase
 -

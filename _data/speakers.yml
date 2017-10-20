@@ -399,9 +399,19 @@ Nelson is currently focused on creating Prototypes and A/B Tests, working with d
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/nelsonvasconcelos/"}
 
-# ************************
-# ** NO SESSION CONTENT **
-# ************************
+# Fabio Akita
+- 
+  id: 034
+  name: "Fabio"
+  surname: "Akita"
+  company: "CodeMiner 42"
+  title: "CTO"
+  bio: "Co-fundador da butique de software CodeMiner 42. Fundador do 1o evento internacional de tecnologia no Brasil, a THE CONF. Co-fundador e organizador até 2016 de 9 Rubyconfs Brasil. Blogueiro de tecnologia em akitaonrails.com."
+  thumbnailUrl: FabioAkita.jpg
+  rockstar: false
+  social: 
+    - {name: "site", link: "http://akitaonrails.com"}
+    - {nem: "site", link: "http://codeminer42.com"}
 
 # Juliana Salgado
 -
@@ -410,11 +420,12 @@ Nelson is currently focused on creating Prototypes and A/B Tests, working with d
   surname: "Salgado"
   company: "iFood"
   title: "Product Owner"
-  bio: "Juliana Salgado é graduada em Sistemas de Informação pela PUC-Campinas. Na graduação teve oportunidade de participar de um projeto de iniciação científica na área de acessibilidade e desde então é embaixadora do tema.
-  Concluiu o curso de especialização em parceria com a Apple, o BEPiD, e foi premiada por três anos consecutivos no WWDC Scholarship, concurso internacional em que 350 pessoas no mundo ao submeter um aplicativo concorrem a um ticket para a conferência anual da Apple.
-  Atualmente é Product Owner no iFood, na empresa foi quem conduziu as iniciativas de acessibilidade e atua no seu dia a dia em um produto impactando a vida de milhões de usuários."
+  bio: "Juliana Salgado é graduada em Sistemas de Informação pela PUC-Campinas. Na graduação teve oportunidade de participar de um projeto de iniciação científica na área de acessibilidade e desde então é embaixadora do tema. Concluiu o curso de especialização em parceria com a Apple, o BEPiD, e foi premiada por três anos consecutivos no WWDC Scholarship, concurso internacional em que 350 pessoas no mundo ao submeter um aplicativo concorrem a um ticket para a conferência anual da Apple. Atualmente é Product Owner no iFood, na empresa foi quem conduziu as iniciativas de acessibilidade e atua no seu dia a dia em um produto impactando a vida de milhões de usuários."
   thumbnailUrl: JulianaSalgado.jpg
   rockstar: false
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/julianasalgado/"}
+    - {name: "twitter", link: "https://twitter.com/jusalt"}
 
 # Eiti Kimura
 # - 
