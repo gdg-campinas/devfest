@@ -133,14 +133,14 @@ Nesta talk vamos explicar conceitos básicos de código limpo aplicado ao Javasc
 # ** Back-end **
 # **************
 
-# Kenzo - BigQuery
+# Kenzo - Kubernetes
 -
   id: 502
-  title: "Usando BigQuery para analisar petabytes de informação"
-  description: "Uma solução de Data Warehouse completamente gerenciada, capaz de lidar com petabytes de dados com alto desempenho e baixo custo. Parece muito bom para ser verdade, não é mesmo? Venha conhecer o BigQuery e saber como você pode começar a utilizá-lo. Não se preocupe, o primeiro terabyte de dados processados/mês é por nossa conta!"
+  title: "Kubernetes"
+  description: ""
   subtype: presentation
   speakers: [011]
-  complexity: "Introdutório"
+  complexity: "Intermediário"
 
 # Gago - Recomendação de Conteúdo
 -
