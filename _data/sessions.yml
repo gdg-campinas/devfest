@@ -47,14 +47,14 @@
 # ** Front-end **
 # *************** 
 
-# Eduardo Matos - A definir
+# Eduardo Matos - monolitico stack front
 -
   id: 501
-  title: "A definir"
-  description: "A definir"
+  title: "Desafios de Migrar um Monolítico para uma Stack Front-end"
+  description: "Você sente que o processo de desenvolvimento front-end começou a ficar improdutivo num monolítico? Nessa palestra vamos pontuar vários aspectos que nos ajudaram a decidir que a hora de partir pra outra stack tinha chegado. Veremos como é o impacto de uma migração desse tipo, quais alternativas e como escolher uma nova abordagem, considerando o aprendizado e bagagem que o back-end tem."
   subtype: presentation
-  speakers: []
-  # complexity: ""
+  speakers: [038]
+  complexity: "Intermediário"
 
 # Keilla Menezes - Angular performance
 -
@@ -213,6 +213,19 @@ Quais técnologias ?"
   subtype: presentation
   speakers: [024]
   complexity: "Avançado"
+
+# Eiti + Clesio - Spark
+-
+  id: 9992
+  title: "Apache Spark: Casos de Uso e Escalabilidade"
+  description: "Imagine uma forma de resolver os problemas de consolidação e processamento de grandes volumes de dados utilizando processamento distribuído, streams, sintaxe SQL ANSI, altamente escalável horizontalmente, com alto desempenho, podendo escolher a linguagem que você quiser trabalhar: Java, Scala ou Python! Lhes apresento: Apache Spark!
+
+Nós iremos mostrar o que é o Apache Spark, como pode ser utilizado para resolver seus problemas, alguns casos de uso e principalmente mostrar os pontos fortes e pontos fracos para implementação em produção em ambientes que demandam um alto volume de dados e necessitem de escalabilidade. 
+
+Vamos falar também sobre o que aprendemos no Spark Summit EU 2017, e compartilhar alguns pontos de vista do que será apresentado de mais novo nessa conferência incrível que vamos ter a oportunidade de participar."
+  subtype: presentation
+  speakers: [006, 002]
+  complexity: "Intermediário"
 
 # ************
 # ** Mobile **
