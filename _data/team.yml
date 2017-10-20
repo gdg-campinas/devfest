@@ -34,16 +34,6 @@
     - {name: "facebook", link: "https://www.facebook.com/rodrigo.botti.9"}    
 - 
   id: 3
-  name: "Renato"
-  surname: "Freire"
-  title: "Website (Aragorn)"
-  thumbnailUrl: RenatoFreire.jpg
-  team: true
-  social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/renatorfr/"}
-    - {name: "facebook", link: "https://www.facebook.com/renatorfr"}
-- 
-  id: 4
   name: "Erick"
   surname: "Augusto"
   title: "Design"
