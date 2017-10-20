@@ -140,6 +140,7 @@ Nesta talk vamos explicar conceitos básicos de código limpo aplicado ao Javasc
   description: "Uma solução de Data Warehouse completamente gerenciada, capaz de lidar com petabytes de dados com alto desempenho e baixo custo. Parece muito bom para ser verdade, não é mesmo? Venha conhecer o BigQuery e saber como você pode começar a utilizá-lo. Não se preocupe, o primeiro terabyte de dados processados/mês é por nossa conta!"
   subtype: presentation
   speakers: [011]
+  complexity: "Introdutório"
 
 # Gago - Recomendação de Conteúdo
 -
