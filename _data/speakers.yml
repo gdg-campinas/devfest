@@ -473,7 +473,7 @@ Nelson is currently focused on creating Prototypes and A/B Tests, working with d
   title: "Coordenador de TI"
   bio: "Eiti tem mais de 15 anos de experiência com desenvolvimento de software, além de mestrado em eng. elétrica com especialização em engenharia de software. Possui a certificação Apache Cassandra 2014-2015 e trabalha com o Cassandra desde a versão 0.6. Tem ampla experiência no desenvolvimento de sistemas de back-end para serviços de cobrança de operadoras de telefonia, envio de mensagens SMS em massa Hoje trabalha como Coordenador de TI e arquiteto de sistemas distribuídos de alta performance na Movile Brasil."
   thumbnailUrl: EitiKimura.png
-  rockstar: true
+  rockstar: false
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/eitikimura/"}
 
@@ -504,6 +504,21 @@ Nelson is currently focused on creating Prototypes and A/B Tests, working with d
     - {name: "linkedin", link: "https://www.linkedin.com/in/eduardojmatos"}
     - {name: "twitter", link: "https://www.twitter.com/eduardojmatos"}
     - {name: "github", link: "https://www.github.com/eduardojmatos"}
+
+# Daniel Furtado
+- 
+  id: 039
+  name: "Daniel"
+  surname: "Furtado"
+  company: "Wezen"
+  title: "Designer"
+  bio: "Fundador da Wezen (estúdio de design de interação e experiência do usuário) e com 20 anos de experiência em design, acredita que produtos e serviços poderiam ser bem melhores do que são. 
+Criou o canal UXNOW para explicar sobre UX, Design Centrado no Usuário e Arquitetura da Informação. 
+Como professor, lecionou em diversas disciplinas relacionadas à design e UX (IBTA/Metrocamp/Véris, PeopleTec, Iladec, Faculdade Impacta Tecnologia, entre outros)."
+  thumbnailUrl: DanielFurtado.jpg
+  rockstar: false
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/danielfurtado/"}
 
 # Daniela Petruzalek
 # - 

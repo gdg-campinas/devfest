@@ -405,6 +405,16 @@ Nessa palestra nós vamos entender a fundo Architecture Components, tanto do pon
   speakers: [013]
   # complexity: ""
 
+# Daniel Furtado - Design centrado no usuário
+-
+  id: 9994
+  title: "Você não é o usuário. Sério. Não é."
+  description: "Qual a diferença entre Design Centrado no Usuário e outras abordagens de design? Quão distante é o seu conhecimento de tecnologia vs o conhecimento dos usuários médios?"
+  subtype: presentation
+  speakers: [039]
+  complexity: "Intermediário"
+
+
 # ************************
 # ** NO SESSION CONTENT **
 # ************************
