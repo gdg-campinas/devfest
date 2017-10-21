@@ -47,45 +47,27 @@
 # ** Front-end **
 # *************** 
 
-# Eduardo Matos - monolitico stack front
+# Keuller Magalhães - React+Redux
 -
   id: 501
-  title: "Desafios de Migrar um Monolítico para uma Stack Front-end"
-  description: "Você sente que o processo de desenvolvimento front-end começou a ficar improdutivo num monolítico? Nessa palestra vamos pontuar vários aspectos que nos ajudaram a decidir que a hora de partir pra outra stack tinha chegado. Veremos como é o impacto de uma migração desse tipo, quais alternativas e como escolher uma nova abordagem, considerando o aprendizado e bagagem que o back-end tem."
+  title: "React and Redux"
+  description: "Componentes ? Reducers ? Estado Global ? Se você tem interesse em entender como e porquê gerenciar estado global da uma SPA é tão importante, nessa talk vamos conversar sobre tudo isso e muito mais. Mostrar um pouco de código, e ver como isso pode ser feito utilizando React e Redux. Vamos lá trocar idéias."
   subtype: presentation
-  speakers: [038]
+  speakers: [029]
   complexity: "Intermediário"
 
-# Keilla Menezes - Angular performance
+# Erick Wendel - Testes front??
 -
   id: 601
-  title: "Melhorando a perfomance de aplicações Angular"
-  description: "Implementar a compilação AOT (Ahead of time), arquitetura de módulos e lazy-loading para melhorar a performance de aplicações Angular robustas"
+  title: "A definir"
+  description: "A definir"
   subtype: presentation
-  speakers: [022]
-  complexity: "Intermediário"
-
-# Fabio Brolsi - Vue
--
-  id: 701
-  title: "SPA com VueJS"
-  description: "Mostraremos uma aplicação básica feita com VueJS, montando do zero."
-  subtype: presentation
-  speakers: [026]
-  complexity: "Introdutório"
-
-# Lucas Trindade - callbacks
--
-  id: 901
-  title: "Callbacks, Promises, Observables e Async&Await"
-  description: "Nesta talk tenho a intenção de mostrar a evolução na forma de tratar dados assíncronos. Dando um overview sobre Observables e Async&Await."
-  subtype: presentation
-  speakers: [019]
-  complexity: "Introdutório"
+  speakers: []
+  # complexity: ""
 
 # Gabriel Ribeiro + Victor Miguez - Clean JS
 -
-  id: 1001
+  id: 701
   title: "Clean code: Escrevendo Javascript profissional"
   description: "Queremos mostrar que escrever código limpo não é um bicho de sete cabeças, e até quem está começando consegue aplicá-lo no dia a dia.
 Nesta talk vamos explicar conceitos básicos de código limpo aplicado ao Javascript, com uma abordagem prática para que os exemplos mostrados fiquem próximos da realidade."
@@ -93,14 +75,32 @@ Nesta talk vamos explicar conceitos básicos de código limpo aplicado ao Javasc
   speakers: [036, 037]
   complexity: "Intermediário"
 
+# Igor Luiz - Vue Reatividade
+-
+  id: 901
+  title: "Vue.js Reactive System"
+  description: "Entender o funcionamento das libs e frameworks que você usa, é fundamental pra fazer implementações melhores e aumentar a facilidade de resolver problemas, nessa talk você vai entender como funciona toda a reatividade do Vue.js, como ela vai ser no futuro e como se aproveitar dela hoje."
+  subtype: presentation
+  speakers: [030]
+  complexity: "Intermediário"
+
 # Raphael - PWA
 -
-  id: 1101
+  id: 1001
   title: "Progressive Web Apps e o futuro do Frontend"
   description: "Apresentar os conceitos de PWA, tendencias de mercado e o que podemos esperar do futuro de um desenvolvedor web"
   subtype: presentation
   complexity: "Intermediário"
   speakers: [003]
+
+# Lucas Trindade - callbacks
+-
+  id: 1101
+  title: "Callbacks, Promises, Observables e Async&Await"
+  description: "Nesta talk tenho a intenção de mostrar a evolução na forma de tratar dados assíncronos. Dando um overview sobre Observables e Async&Await."
+  subtype: presentation
+  speakers: [019]
+  complexity: "Introdutório"
 
 # Yan Magalhães - Polymer
 -
@@ -111,59 +111,49 @@ Nesta talk vamos explicar conceitos básicos de código limpo aplicado ao Javasc
   speakers: [025]
   complexity: "Intermediário"
 
-# Keuller Magalhães - React+Redux
+-
+  id: 12012
+  title: "[Continuação] #UseThePlatform - Levando suas aplicações ao próximo nível com Polymer"
+  description: "Continuação"
+  subtype: presentation
+  speakers: [025]
+  complexity: "Intermediário"
+
+# Keilla Menezes - Angular performance
 -
   id: 1401
-  title: "React and Redux"
-  description: "Componentes ? Reducers ? Estado Global ? Se você tem interesse em entender como e porquê gerenciar estado global da uma SPA é tão importante, nessa talk vamos conversar sobre tudo isso e muito mais. Mostrar um pouco de código, e ver como isso pode ser feito utilizando React e Redux. Vamos lá trocar idéias."
+  title: "Melhorando a perfomance de aplicações Angular"
+  description: "Implementar a compilação AOT (Ahead of time), arquitetura de módulos e lazy-loading para melhorar a performance de aplicações Angular robustas"
   subtype: presentation
-  speakers: [029]
+  speakers: [022]
   complexity: "Intermediário"
 
-# Igor Luiz - Vue Reatividade
+# Fabio Brolsi - Vue
 -
   id: 1501
-  title: "Vue.js Reactive System"
-  description: "Entender o funcionamento das libs e frameworks que você usa, é fundamental pra fazer implementações melhores e aumentar a facilidade de resolver problemas, nessa talk você vai entender como funciona toda a reatividade do Vue.js, como ela vai ser no futuro e como se aproveitar dela hoje."
+  title: "SPA com VueJS"
+  description: "Mostraremos uma aplicação básica feita com VueJS, montando do zero."
   subtype: presentation
-  speakers: [030]
-  complexity: "Intermediário"
+  speakers: [026]
+  complexity: "Introdutório"
 
-# A definir - A definir
+# Eduardo Matos - monolitico stack front
 -
   id: 1601
-  title: "A definir"
-  description: "A definir"
+  title: "Desafios de Migrar um Monolítico para uma Stack Front-end"
+  description: "Você sente que o processo de desenvolvimento front-end começou a ficar improdutivo num monolítico? Nessa palestra vamos pontuar vários aspectos que nos ajudaram a decidir que a hora de partir pra outra stack tinha chegado. Veremos como é o impacto de uma migração desse tipo, quais alternativas e como escolher uma nova abordagem, considerando o aprendizado e bagagem que o back-end tem."
   subtype: presentation
-  speakers: [1601]
-  # complexity: ""
+  speakers: [038]
+  complexity: "Intermediário"
 
 # **************
 # ** Back-end **
 # **************
 
-# Kenzo - Kubernetes
--
-  id: 502
-  title: "Kubernetes"
-  description: ""
-  subtype: presentation
-  speakers: [011]
-  complexity: "Intermediário"
-
 # Gago - Recomendação de Conteúdo
 -
-  id: 602
+  id: 501
   title: "Machine Learning na Recomendação de Conteúdo (Parte 1)"
-  description: "Machine Learning têm sido o grande trunfo das organizações para otimizar tarefas e maximizar lucros. Quando o assunto é aumentar as vendas ou visitas, os recomendadores de conteúdo fazem muito sucesso nos portais de comércio eletrônico, aplicativos e portais de conteúdo. Esta palestra vai apresentar a Filtragem Colaborativa, uma das técnicas de recomendação de conteúdos mais utilizadas pelo mercado, além de abordar as melhores práticas do mercado para construir e avaliar um recomendador."
-  subtype: presentation
-  speakers: [001]
-  complexity: "Intermediário"
-
-# Gago - Recomendação de Conteúdo
--
-  id: 702
-  title: "Machine Learning na Recomendação de Conteúdo (Parte 2)"
   description: "Machine Learning têm sido o grande trunfo das organizações para otimizar tarefas e maximizar lucros. Quando o assunto é aumentar as vendas ou visitas, os recomendadores de conteúdo fazem muito sucesso nos portais de comércio eletrônico, aplicativos e portais de conteúdo. Esta palestra vai apresentar a Filtragem Colaborativa, uma das técnicas de recomendação de conteúdos mais utilizadas pelo mercado, além de abordar as melhores práticas do mercado para construir e avaliar um recomendador."
   subtype: presentation
   speakers: [001]
@@ -171,7 +161,7 @@ Nesta talk vamos explicar conceitos básicos de código limpo aplicado ao Javasc
 
 # Alline - Lean
 -
-  id: 902
+  id: 602
   title: "Arquitetura Lean. MVP funcional com máxima flexibilidade e mínimo código possível."
   description: "Como desenvolver um Mínimo Produto Viável (MVP) que seja super flexível, utilizando o mínimo de código possível em sua construção. Tecnologias como Ionic, PWA, Cloud Endpoints, ZeroOps e BigData estão aí para facilitar em muito essa tarefa de simplificação com eficiência."
   subtype: presentation
@@ -180,42 +170,16 @@ Nesta talk vamos explicar conceitos básicos de código limpo aplicado ao Javasc
 
 # Walter Neto - Segurança
 -
-  id: 1002
+  id: 702
   title: "Código com Segurança Proativa"
   description: "Gostaria de compartilhar sobre 'auditoria de segurança', nesta talk apresento a cultura de desenvolvimento de software utilizada pelo sistema operacional OpenBSD, com foco em segurança de código, e que fez com que ele fosse um sistema reconhecido pela comunidade de desenvolvimento opensource e por comunidades de peso em segurança como o BUGTRAQ."
   subtype: presentation
   speakers: [023]
   complexity: "Intermediário"
 
-# Akita - Elixir
--
-  id: 1102
-  title: "Elixir - Tolerância a Falhas para Adultos"
-  description: "Muito se fala em alta escalabilidade, concorrência, paralelismo. Mas o que pouca gente entende é que, para qualquer linguagem, é muito simples, beirando o trivial, fazer alta concorrência. Porém é completamente diferente o assunto de 'controlar' essa alta concorrência. Nenhuma outra linguagem do mercado atualmente consegue combinar alta-concorrência e alta-disponibilidade num único pacote. Seja Node.js. Seja Go. Seja Scala. Ou qualquer outra coisa. E vamos entender porque Elixir consegue."
-  subtype: presentation
-  speakers: [034]
-  complexity: "Intermediário"
-
-# Douglas de Siqueira Silva - bots com api.ai
--
-  id: 1202
-  title: "Criando seu BOT em minutos com o API.AI"
-  description: "Criar bots nunca foi tão facil! API.AI revolucionando o mundo dos bots."
-  subtype: presentation
-  speakers: [028]
-  complexity: "Introdutório"
-
-# Fernando - Serverless Machine Learning
--
-  id: 1402
-  title: "Serverless Machine Learning on Google Cloud"
-  description: ""
-  subtype: presentation
-  speakers: [007]
-
 # Luciano Sabença - Escalando
 -
-  id: 1502
+  id: 902
   title: "Escalando Aplicações Distribuídas Usando Estruturas de Dados Probabilísticas"
   description: "A construção de sistemas de armazenamento tem evoluido rapidamente, os data lakes tem sido uma buzz word no mercado de Dados, mas o que é ? como são feitos ? quais estruturas seu Data Lake deve ter ?
 Quais técnologias ?"
@@ -223,9 +187,44 @@ Quais técnologias ?"
   speakers: [024]
   complexity: "Avançado"
 
+# Douglas de Siqueira Silva - bots com api.ai
+-
+  id: 1002
+  title: "Criando seu BOT em minutos com o API.AI"
+  description: "Criar bots nunca foi tão facil! API.AI revolucionando o mundo dos bots."
+  subtype: presentation
+  speakers: [028]
+  complexity: "Introdutório"
+
+# Jeff Prestes - Go
+-
+  id: 1102
+  title: "Golang - Você usa e não sabe"
+  description: "Se você usa docker, kubernetes ou tem seu time no CartolaFC, você utiliza uma aplicação feita com Go.
+Nessa palestra Jeff Prestes vai mostrar porque o Google criou uma nova linguagem e porque voce tambem deve usá-la para criar sua proxima API"
+  subtype: presentation
+  speakers: [015]
+  complexity: "Introdutório"
+
+# Fernando - Serverless Machine Learning
+-
+  id: 1202
+  title: "Serverless Machine Learning on Google Cloud"
+  description: ""
+  subtype: presentation
+  speakers: [007]
+
+# Fernando - Serverless Machine Learning
+-
+  id: 12022
+  title: "[Continuação] Serverless Machine Learning on Google Cloud"
+  description: "Continuação"
+  subtype: presentation
+  speakers: [007]
+
 # Eiti + Clesio - Spark
 -
-  id: 9992
+  id: 1402
   title: "Apache Spark: Casos de Uso e Escalabilidade"
   description: "Imagine uma forma de resolver os problemas de consolidação e processamento de grandes volumes de dados utilizando processamento distribuído, streams, sintaxe SQL ANSI, altamente escalável horizontalmente, com alto desempenho, podendo escolher a linguagem que você quiser trabalhar: Java, Scala ou Python! Lhes apresento: Apache Spark!
 
@@ -236,57 +235,69 @@ Vamos falar também sobre o que aprendemos no Spark Summit EU 2017, e compartilh
   speakers: [006, 002]
   complexity: "Intermediário"
 
-# Jeff Prestes - Go
+# Kenzo - Kubernetes
+-
+  id: 1502
+  title: "Kubernetes"
+  description: ""
+  subtype: presentation
+  speakers: [011]
+  complexity: "Intermediário"
+
+# Akita - Elixir
 -
   id: 1602
-  title: "Golang - Você usa e não sabe"
-  description: "Se você usa docker, kubernetes ou tem seu time no CartolaFC, você utiliza uma aplicação feita com Go.
-Nessa palestra Jeff Prestes vai mostrar porque o Google criou uma nova linguagem e porque voce tambem deve usá-la para criar sua proxima API"
+  title: "Elixir - Tolerância a Falhas para Adultos"
+  description: "Muito se fala em alta escalabilidade, concorrência, paralelismo. Mas o que pouca gente entende é que, para qualquer linguagem, é muito simples, beirando o trivial, fazer alta concorrência. Porém é completamente diferente o assunto de 'controlar' essa alta concorrência. Nenhuma outra linguagem do mercado atualmente consegue combinar alta-concorrência e alta-disponibilidade num único pacote. Seja Node.js. Seja Go. Seja Scala. Ou qualquer outra coisa. E vamos entender porque Elixir consegue."
   subtype: presentation
-  speakers: [015]
-  complexity: "Introdutório"
+  speakers: [034]
+  complexity: "Intermediário"
 
 # ************
 # ** Mobile **
 # ************
 
-# Walmyr - Flutter
+# Antoine - iOS
 -
   id: 503
-  title: "Flutter.io: Desenvolvendo aplicações pra Android e iOS com Dart"
-  description: "Há um tempo o Google criou um SDK de desenvolvimento de aplicações móveis para Android e iOS, chamado Flutter.io. O objetivo do Flutter é que o desenvolvimento mobile se torne rápido e eficiente, com features como hot reload, UIs rodando a 60fps, integrações prontas com o Firebase e APIs nativas e interoperabilidade com códigos existentes em Java, Kotlin, Swift e Objective-C!
-Agora mais maduro, o projeto está ganhando bastante tração e além de ser usado pelo Google, ele foi utilizado no desenvolvimento do aplicativo oficial do musical Hamilton, um dos maiores musicais do mundo, com milhares de downloads no iOS e no Android! 
-Nesse talk vamos aprender a configuração básica do Flutter, uma leve introdução a linguagem Dart e como começar a trabalhar com esse SDK tão poderoso!"
+  title: "A definir"
+  description: "A definir"
   subtype: presentation
-  speakers: [021]
-  complexity: "Intermediário"
+  speakers: []
+  # complexity: ""
 
-# Luís Felipe - Reactive Native
+# Luiz Gustavo - Android + Machine Learning + Firebase
 -
   id: 603
-  title: "Desenvolvendo aplicativos nativos com React Native"
-  description: " Falarei sobre as principais diferenças entre o desenvolvimento de aplicativos móveis usando React Native e outros formas de desenvolver Apps. E também vou mostrar a semelhança entre React Native e o desenvolvimento web"
+  title: "Firebase + ML = S2, O Retorno!"
+  description: "Nessa palestra vou mostrar como podemos utilizar Machine learning executando em um dispositivo movel
+e integrando ferramentas existentes como Firebase e Google Cloud ML para obter bons resultados
+a um baixo custo, de forma eficiente tanto do ponto de vista de processador quanto bateria e memória."
   subtype: presentation
-  speakers: [031]
-  complexity: "Introdutório"
-
-# Fellipe Caetano (Jozinho) - rxswift
--
-  id: 703
-  title: "Usando RxSwift para construir UIs simplesmente testáveis"
-  description: "Um live-coding experimental que vai construir um view controller do zero usando RxSwift, view models e um padrão arquitetural baseado em fronteiras em vez de camadas. Focaremos todos os nossos esforços em escrever código que seja testável de forma simples, usando um pouco de TDD e evitando mocks profundos."
-  subtype: presentation
-  speakers: [020]
-  complexity: "Avançado"
+  speakers: [017]
+  complexity: "Intermediario"
 
 # Richard - Interfaces de texto e chatbot
 -
-  id: 903
+  id: 703
   title: "Interfaces de texto e chatbot"
   description: ""
   subtype: presentation
   speakers: [008]
   complexity: "Intermediário"
+
+# Ubiratan - Architecture Components
+-
+  id: 903
+  title: "Architecture Components Distilled"
+  description: "LifecycleOwner? Lifecycle? LiveData? ViewModel? Transformations?
+
+Seus problemas acabaram! (ou não :P)
+
+Nessa palestra nós vamos entender a fundo Architecture Components, tanto do ponto de vista de fundamento quanto do ponto de vista de aplicações práticas! Venha aprender como essa nova proposta para arquitetura trazida pelo Google pode ser encaixada no seu projeto, quais os desafios ao adotar, quais os problemas que esses componentes não resolvem e como essas APIs conversam com outros paradigmas de arquitetura e/ou frameworks (como RxJava) amplamente adotados no mercado."
+  subtype: presentation
+  speakers: [014]
+  complexity: "Avançado"
 
 # Juliana Salgado - Acessibilidade
 -
@@ -298,20 +309,47 @@ Nesta palestra, Juliana Salgado, vai mostrar da perspectiva de um deficiente vis
   speakers: [033]
   complexity: "Introdutório"
 
-# Luiz Gustavo - Android + Machine Learning + Firebase
+# Walmyr - Flutter
 -
   id: 1103
-  title: "Firebase + ML = S2, O Retorno!"
-  description: "Nessa palestra vou mostrar como podemos utilizar Machine learning executando em um dispositivo movel
-e integrando ferramentas existentes como Firebase e Google Cloud ML para obter bons resultados
-a um baixo custo, de forma eficiente tanto do ponto de vista de processador quanto bateria e memória."
+  title: "Flutter.io: Desenvolvendo aplicações pra Android e iOS com Dart"
+  description: "Há um tempo o Google criou um SDK de desenvolvimento de aplicações móveis para Android e iOS, chamado Flutter.io. O objetivo do Flutter é que o desenvolvimento mobile se torne rápido e eficiente, com features como hot reload, UIs rodando a 60fps, integrações prontas com o Firebase e APIs nativas e interoperabilidade com códigos existentes em Java, Kotlin, Swift e Objective-C!
+Agora mais maduro, o projeto está ganhando bastante tração e além de ser usado pelo Google, ele foi utilizado no desenvolvimento do aplicativo oficial do musical Hamilton, um dos maiores musicais do mundo, com milhares de downloads no iOS e no Android! 
+Nesse talk vamos aprender a configuração básica do Flutter, uma leve introdução a linguagem Dart e como começar a trabalhar com esse SDK tão poderoso!"
   subtype: presentation
-  speakers: [017]
-  complexity: "Intermediario"
+  speakers: [021]
+  complexity: "Intermediário"
+
+# Fellipe Caetano (Jozinho) - rxswift
+-
+  id: 1203
+  title: "Usando RxSwift para construir UIs simplesmente testáveis"
+  description: "Um live-coding experimental que vai construir um view controller do zero usando RxSwift, view models e um padrão arquitetural baseado em fronteiras em vez de camadas. Focaremos todos os nossos esforços em escrever código que seja testável de forma simples, usando um pouco de TDD e evitando mocks profundos."
+  subtype: presentation
+  speakers: [020]
+  complexity: "Avançado"
+
+# Fellipe Caetano (Jozinho) - rxswift
+-
+  id: 12032
+  title: "[Continução] Usando RxSwift para construir UIs simplesmente testáveis"
+  description: "Continuação"
+  subtype: presentation
+  speakers: [020]
+  complexity: "Avançado"
+
+# Luís Felipe - Reactive Native
+-
+  id: 1403
+  title: "Desenvolvendo aplicativos nativos com React Native"
+  description: " Falarei sobre as principais diferenças entre o desenvolvimento de aplicativos móveis usando React Native e outros formas de desenvolver Apps. E também vou mostrar a semelhança entre React Native e o desenvolvimento web"
+  subtype: presentation
+  speakers: [031]
+  complexity: "Introdutório"
 
 # Alvaro Viebrantz - Android Things
 -
-  id: 1203
+  id: 1503
   title: "Android Things, a plataforma IoT para todos"
   description: "Uma introdução a nova plataforma de internet das coisas do Google, o Android Things, e como fazer dispositivos mais inteligentes e poderosos com ela, aliado de ferramentas de Machine Learning. O objetivo é cobrir o básico de como começar com a plataforma e apresentar alguns projetos que podem ser feito com a plataforma. Em especial será mostrado um projeto de máquina de doces inteligente, que utiliza o poder do Android Things, aliado com APIs de Machine Learning do Google, como a Cloud Vision API e o Tensorflow, para reconhecer imagens e que dar aos usuários doces se eles mostrarem os objetos corretos para a máquina."
   subtype: presentation
@@ -320,34 +358,12 @@ a um baixo custo, de forma eficiente tanto do ponto de vista de processador quan
 
 # Douglas - Android Tensorflow
 -
-  id: 1403
+  id: 1603
   title: "IA no bolso com TensorFlow"
   description: "Quem assistir sairá sabendo como integrar facilmente inteligência artificial no aplicativo, rodando localmente sem depender de cloud. Será apresentado como usar a biblioteca TensorFlow no aplicativo e como treinar o modelo a ser utilizado."
   subtype: presentation
   speakers: [010]
   complexity: "Introdutório"
-
-# Ubiratan - Architecture Components
--
-  id: 1503
-  title: "Architecture Components Distilled"
-  description: "LifecycleOwner? Lifecycle? LiveData? ViewModel? Transformations?
-
-Seus problemas acabaram! (ou não :P)
-
-Nessa palestra nós vamos entender a fundo Architecture Components, tanto do ponto de vista de fundamento quanto do ponto de vista de aplicações práticas! Venha aprender como essa nova proposta para arquitetura trazida pelo Google pode ser encaixada no seu projeto, quais os desafios ao adotar, quais os problemas que esses componentes não resolvem e como essas APIs conversam com outros paradigmas de arquitetura e/ou frameworks (como RxJava) amplamente adotados no mercado."
-  subtype: presentation
-  speakers: [014]
-  complexity: "Avançado"
-
-# A definir - A definir
--
-  id: 1603
-  title: "A definir"
-  description: "A definir"
-  subtype: presentation
-  speakers: [1601]
-  # complexity: ""
 
 # ***********
 # ** M & G **
@@ -459,6 +475,15 @@ Nessa palestra nós vamos entender a fundo Architecture Components, tanto do pon
   subtype: presentation
   speakers: [041]
   complexity: "Geral"
+
+# blah - A definir
+-
+  id: 12042
+  title: "A definir"
+  description: "A definir"
+  subtype: presentation
+  speakers: []
+  # complexity: ""
 
 # -
 #   id: 002
