@@ -149,7 +149,7 @@ partnersC4sponsorsButton: "Torne-se um patrocinador"
 
 # Tickets Block
 ticketsTitle: "Ingressos"
-ticketsInfo: "Incluso: Acesso as 5 trilhas de conteúdo, estandes, sorteios, camiseta exclusiva do evento e coffees.<br>
+ticketsInfo: "Incluso: Acesso as 5 trilhas de conteúdo, estandes, sorteios, camiseta exclusiva do evento (exceto nos lotes indicados) e coffees.<br>
 Membros do GDG Campinas tem desconto de 20% em todos os lotes."
 ticketsOffers:
  -
@@ -169,6 +169,19 @@ ticketsOffers:
  -
   name: "Lebre"
   price: "115,00"
+  priceCurrency: "R$"
+  ticketsNumber: "TBD"
+  # ribbon: "-20%"
+  # featured: true
+  buyButtonLink: "https://www.eventbrite.com.br/e/devfest-campinas-2017-tickets-38297336364"
+  buyButtonText: "Comprar"
+  # ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+  validFrom: "08/10/2017T00:00"
+  validThrough: "29/10/2017T00:00"
+  featured: true
+ -
+  name: "Lebre (Sem Camiseta)"
+  price: "80,00"
   priceCurrency: "R$"
   ticketsNumber: "TBD"
   # ribbon: "-20%"
