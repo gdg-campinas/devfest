@@ -296,19 +296,6 @@ Já teve passagens no AppProva, B2W Digital, UOL, Terraforum (atual Globant), en
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/anabatista/"}
 
-# Nilton Kazuyuki Ueda
-- 
-  id: 027
-  name: "Nilton Kazuyuki"
-  surname: "Ueda"
-  company: "Vidi"
-  title: "Analista de BI Sênior"
-  bio: "Nilton Kazuyuki Ueda tem 21 anos e é Arquiteto de Solução de BI especializado em TABLEAU. Atua com criação e desenvolvimento de painéis gerenciais para grandes empresas nacionais e multi-nacionais usando suas habilidades para extrair o máximo de valor dos dados e facilitar as tomadas de decisão."
-  thumbnailUrl: NiltonUeda.jpg
-  rockstar: false
-  social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/niltonkazuyukiueda/"}
-
 # Douglas de Siqueira Silva
 - 
   id: 028
@@ -558,6 +545,19 @@ Como professor, lecionou em diversas disciplinas relacionadas à design e UX (IB
   rockstar: false
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/jeffprestes/"}
+
+# Nilton Kazuyuki Ueda
+# - 
+#   id: 027
+#   name: "Nilton Kazuyuki"
+#   surname: "Ueda"
+#   company: "Vidi"
+#   title: "Analista de BI Sênior"
+#   bio: "Nilton Kazuyuki Ueda tem 21 anos e é Arquiteto de Solução de BI especializado em TABLEAU. Atua com criação e desenvolvimento de painéis gerenciais para grandes empresas nacionais e multi-nacionais usando suas habilidades para extrair o máximo de valor dos dados e facilitar as tomadas de decisão."
+#   thumbnailUrl: NiltonUeda.jpg
+#   rockstar: false
+#   social: 
+#     - {name: "linkedin", link: "https://www.linkedin.com/in/niltonkazuyukiueda/"}
 
 # Daniela Petruzalek
 # - 

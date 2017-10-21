@@ -443,14 +443,14 @@ Nesse talk vamos aprender a configuração básica do Flutter, uma leve introdu�
   speakers: [041]
   complexity: "Geral"
 
-# Nilton Kazuyuki Ueda - Analytics
+# Google - Ads
 -
   id: 1404
-  title: "Google Big Query e Google Analytics + Tableau BI Analytics"
-  description: "Você quer conhecer o que faz um BI Analyst ou Data Scientist? Quais são os desafios do dia a dia? Nessa palestra vou demonstrar de maneira pratica, sem blablabla ou mimimi, como você pode usar os dados de maneira inteligente!"
+  title: "A definir"
+  description: "A definir"
   subtype: presentation
-  speakers: [027]
-  complexity: "Introdutório"
+  speakers: []
+  # complexity: "Introdutório"
 
 # Nelson Vasconcelos - Onboarding
 -
