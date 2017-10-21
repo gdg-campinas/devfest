@@ -153,7 +153,7 @@ Nesta talk vamos explicar conceitos básicos de código limpo aplicado ao Javasc
 # Gago - Recomendação de Conteúdo
 -
   id: 501
-  title: "Machine Learning na Recomendação de Conteúdo (Parte 1)"
+  title: "Machine Learning na Recomendação de Conteúdo"
   description: "Machine Learning têm sido o grande trunfo das organizações para otimizar tarefas e maximizar lucros. Quando o assunto é aumentar as vendas ou visitas, os recomendadores de conteúdo fazem muito sucesso nos portais de comércio eletrônico, aplicativos e portais de conteúdo. Esta palestra vai apresentar a Filtragem Colaborativa, uma das técnicas de recomendação de conteúdos mais utilizadas pelo mercado, além de abordar as melhores práticas do mercado para construir e avaliar um recomendador."
   subtype: presentation
   speakers: [001]
@@ -213,6 +213,7 @@ Nessa palestra Jeff Prestes vai mostrar porque o Google criou uma nova linguagem
   description: ""
   subtype: presentation
   speakers: [007]
+  complexity: "Intermediário"
 
 # Fernando - Serverless Machine Learning
 -
@@ -221,6 +222,7 @@ Nessa palestra Jeff Prestes vai mostrar porque o Google criou uma nova linguagem
   description: "Continuação"
   subtype: presentation
   speakers: [007]
+  complexity: "Intermediário"
 
 # Eiti + Clesio - Spark
 -
@@ -369,62 +371,45 @@ Nesse talk vamos aprender a configuração básica do Flutter, uma leve introdu�
 # ** M & G **
 # ***********
 
-# Felipe Ribeiro - Optimizing Code for Humans
--
-  id: 504
-  title: "Optimizing Code for Humans"
-  description: ""
-  subtype: presentation
-  speakers: [018]
-  complexity: "Geral"
-
 # Gabriel Franco - gerente desnecessário
 -
-  id: 604
+  id: 504
   title: "Como tornar seu gerente (quase) desnecessário"
   description: "Lições aprendidas por um desenvolvedor que acabou nas trincheiras da gestão de equipes e que podem te ajudar a evitar as armadilhas das empresas na carreira técnica e alcançar seus próprios objetivos."
   subtype: presentation
   speakers: [005]
   complexity: "Geral"
 
-# Daniel Furtado - Design centrado no usuário
+# Felipe Ribeiro - Optimizing Code for Humans
 -
-  id: 704
-  title: "Você não é o usuário. Sério. Não é."
-  description: "Qual a diferença entre Design Centrado no Usuário e outras abordagens de design? Quão distante é o seu conhecimento de tecnologia vs o conhecimento dos usuários médios?"
+  id: 604
+  title: "Optimizing Code for Humans"
+  description: ""
   subtype: presentation
-  speakers: [039]
-  complexity: "Intermediário"
-
-# Google - Monetização
--
-  id: 9994
-  title: "A definir"
-  description: "A definir"
-  subtype: presentation
-  speakers: []
-  # complexity: ""
+  speakers: [018]
+  complexity: "Geral"
 
 # Ju - Growth Hacking
 -
-  id: 904
+  id: 704
   title: "Growth Hacking"
   description: "A definir"
   subtype: presentation
   speakers: [035]
   # complexity: ""
 
-# Sessão Mentoria
+# Daniel Furtado - Design centrado no usuário
 -
-  id: 1004
-  title: "Sessão de Mentoria"
-  description: "Sessão de Mentoria"
+  id: 904
+  title: "Você não é o usuário. Sério. Não é."
+  description: "Qual a diferença entre Design Centrado no Usuário e outras abordagens de design? Quão distante é o seu conhecimento de tecnologia vs o conhecimento dos usuários médios?"
   subtype: presentation
-
+  speakers: [039]
+  complexity: "Intermediário"
 
 # Ana Paula Baptista - Produto
 -
-  id: 1104
+  id: 1004
   title: "Construindo um produto - da ideia ao desenvolvimento"
   description: "Ter uma super ideia não é só o que basta para desenvolver um produto de sucesso. Vamos explorar algumas das formas de tirar sua ideia da cabeça e como estrutura-la antes de iniciar o desenvolvimento."
   subtype: presentation
@@ -433,11 +418,29 @@ Nesse talk vamos aprender a configuração básica do Flutter, uma leve introdu�
 
 # Camila - Painel sobre minorias e mulheres em TI
 -
-  id: 1204
+  id: 1104
   title: "Painel sobre minorias e mulheres em TI"
   description: ""
   subtype: presentation
   speakers: [004]
+  complexity: "Geral"
+
+# Victor Perin - Blockchain
+-
+  id: 1204
+  title: "Blockchain - Uma introdução"
+  description: "Blockchain é a tecnologia mais disruptiva da atualidade. Que subistitui a necessidade de confiança em terceiros."
+  subtype: presentation
+  speakers: [040]
+  complexity: "Básico"
+
+# Matheus Candido - Processos Seletivos
+-
+  id: 12042
+  title: "Desmistificando processos seletivos: como estar preparado pra conquistar seu próximo emprego/estágio"
+  description: "Se você está em busca de um emprego ou estágio e não conhece ou tem medo de processos seletivos longos e temidos, essa talk é pra você. Eu e Ana pesquisamos sobre o assunto e conversamos com alguns recrutadores para entender o que mais conta na hora da seleção. Falaremos como conseguir uma entrevista, sobre as fases mais comuns dos processos, sobre o que estudar/preparar e apontaremos recursos úteis para sua preparação."
+  subtype: presentation
+  speakers: [041]
   complexity: "Geral"
 
 # Nilton Kazuyuki Ueda - Analytics
@@ -458,27 +461,9 @@ Nesse talk vamos aprender a configuração básica do Flutter, uma leve introdu�
   speakers: [013]
   # complexity: ""
 
-# Victor Perin - Blockchain
--
-  id: 16041
-  title: "Blockchain - Uma introdução"
-  description: "Blockchain é a tecnologia mais disruptiva da atualidade. Que subistitui a necessidade de confiança em terceiros."
-  subtype: presentation
-  speakers: [040]
-  complexity: "Básico"
-
-# Matheus Candido - Processos Seletivos
+# Google - Monetização
 -
   id: 1604
-  title: "Desmistificando processos seletivos: como estar preparado pra conquistar seu próximo emprego/estágio"
-  description: "Se você está em busca de um emprego ou estágio e não conhece ou tem medo de processos seletivos longos e temidos, essa talk é pra você. Eu e Ana pesquisamos sobre o assunto e conversamos com alguns recrutadores para entender o que mais conta na hora da seleção. Falaremos como conseguir uma entrevista, sobre as fases mais comuns dos processos, sobre o que estudar/preparar e apontaremos recursos úteis para sua preparação."
-  subtype: presentation
-  speakers: [041]
-  complexity: "Geral"
-
-# blah - A definir
--
-  id: 12042
   title: "A definir"
   description: "A definir"
   subtype: presentation
