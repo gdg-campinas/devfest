@@ -520,6 +520,45 @@ Como professor, lecionou em diversas disciplinas relacionadas à design e UX (IB
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/danielfurtado/"}
 
+# Victor Perin
+- 
+  id: 040
+  name: "Victor"
+  surname: "Perin"
+  company: "InGaia"
+  title: "Desenvolvedor NodeJS"
+  bio: "Desenvolvedor NodeJS que ama Open Source, Sistemas Distribuidos e Criptografia."
+  thumbnailUrl: VictorPerin.jpg
+  rockstar: false
+  # social: 
+  #   - {name: "linkedin", link: ""}
+
+# Matheus Candido
+- 
+  id: 041
+  name: "Matheus Cassiano"
+  surname: "Candido"
+  company: "Concrete"
+  title: "Desenvolvedor Android"
+  bio: "Matheus é formado em Ciência da Computação pela PUC-MG e apaixonado por Desenvolvimento Android. Hoje trabalha fazendo apps para o robozinho verde na Concrete. Ana é mineira e formada em Ciência da Computação. Trabalha na área de TI há 6 anos e desenvolve Android e Web. Hoje em dia, também se aventura no mundo do empreendedorismo."
+  thumbnailUrl: MatheusCandido.jpg
+  rockstar: false
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/matheuscassiano/"}
+
+# Jeff Prestes
+- 
+  id: 015
+  name: "Jeff"
+  surname: "Prestes"
+  company: "Novatrix"
+  title: "CTO"
+  bio: "Jeff tem mais de 20 anos de experiência com Desenvolvimento de Software, trabalhando desde 1999 com Internet. Hoje, Go, Internet das Coisas e Machine Learning são suas novas paixões. Ele participa de várias comunidades de desenvolvedores e trabalhou diversos anos como Evangelista, ministrando diversas palestras no Brasil e no Exterior bem como organizando Hackathons de níveis globais como Battlehack (battlehack.org). Tem sua empresa, a Novatrix, onde alia tecnicas de Design Thinking e de Lean Startup a novas tecnologias para ajudar empresas a Inovar e gerar negócios."
+  thumbnailUrl: JeffPrestes.jpg
+  rockstar: false
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/jeffprestes/"}
+
 # Daniela Petruzalek
 # - 
 #   id: 016
@@ -532,16 +571,3 @@ Como professor, lecionou em diversas disciplinas relacionadas à design e UX (IB
 #   rockstar: false
 #   social: 
 #     - {name: "linkedin", link: "https://www.linkedin.com/in/petruzalek/"}
-
-# Jeff Prestes
-# - 
-#   id: 015
-#   name: "Jeff"
-#   surname: "Prestes"
-#   company: "Novatrix"
-#   title: "CTO"
-#   bio: "Jeff tem mais de 20 anos de experiência com Desenvolvimento de Software, trabalhando desde 1999 com Internet. Hoje, Go, Internet das Coisas e Machine Learning são suas novas paixões. Ele participa de várias comunidades de desenvolvedores e trabalhou diversos anos como Evangelista, ministrando diversas palestras no Brasil e no Exterior bem como organizando Hackathons de níveis globais como Battlehack (battlehack.org). Tem sua empresa, a Novatrix, onde alia tecnicas de Design Thinking e de Lean Startup a novas tecnologias para ajudar empresas a Inovar e gerar negócios."
-#   thumbnailUrl: JeffPrestes.jpg
-#   rockstar: false
-#   social: 
-#     - {name: "linkedin", link: "https://www.linkedin.com/in/jeffprestes/"}

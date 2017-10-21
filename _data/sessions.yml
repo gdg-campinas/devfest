@@ -37,7 +37,7 @@
   service: true
   description: "Momento para networking"
 -
-  id: 1600
+  id: 1700
   title: "Encerramento e sorteios"
   place: ""
   service: true
@@ -128,6 +128,15 @@ Nesta talk vamos explicar conceitos básicos de código limpo aplicado ao Javasc
   subtype: presentation
   speakers: [030]
   complexity: "Intermediário"
+
+# A definir - A definir
+-
+  id: 1601
+  title: "A definir"
+  description: "A definir"
+  subtype: presentation
+  speakers: [1601]
+  # complexity: ""
 
 # **************
 # ** Back-end **
@@ -227,6 +236,16 @@ Vamos falar também sobre o que aprendemos no Spark Summit EU 2017, e compartilh
   speakers: [006, 002]
   complexity: "Intermediário"
 
+# Jeff Prestes - Go
+-
+  id: 1602
+  title: "Golang - Você usa e não sabe"
+  description: "Se você usa docker, kubernetes ou tem seu time no CartolaFC, você utiliza uma aplicação feita com Go.
+Nessa palestra Jeff Prestes vai mostrar porque o Google criou uma nova linguagem e porque voce tambem deve usá-la para criar sua proxima API"
+  subtype: presentation
+  speakers: [015]
+  complexity: "Introdutório"
+
 # ************
 # ** Mobile **
 # ************
@@ -321,6 +340,15 @@ Nessa palestra nós vamos entender a fundo Architecture Components, tanto do pon
   speakers: [014]
   complexity: "Avançado"
 
+# A definir - A definir
+-
+  id: 1603
+  title: "A definir"
+  description: "A definir"
+  subtype: presentation
+  speakers: [1601]
+  # complexity: ""
+
 # ***********
 # ** M & G **
 # ***********
@@ -343,9 +371,18 @@ Nessa palestra nós vamos entender a fundo Architecture Components, tanto do pon
   speakers: [005]
   complexity: "Geral"
 
-# Google - Monetização
+# Daniel Furtado - Design centrado no usuário
 -
   id: 704
+  title: "Você não é o usuário. Sério. Não é."
+  description: "Qual a diferença entre Design Centrado no Usuário e outras abordagens de design? Quão distante é o seu conhecimento de tecnologia vs o conhecimento dos usuários médios?"
+  subtype: presentation
+  speakers: [039]
+  complexity: "Intermediário"
+
+# Google - Monetização
+-
+  id: 9994
   title: "A definir"
   description: "A definir"
   subtype: presentation
@@ -405,19 +442,23 @@ Nessa palestra nós vamos entender a fundo Architecture Components, tanto do pon
   speakers: [013]
   # complexity: ""
 
-# Daniel Furtado - Design centrado no usuário
+# Victor Perin - Blockchain
 -
-  id: 9994
-  title: "Você não é o usuário. Sério. Não é."
-  description: "Qual a diferença entre Design Centrado no Usuário e outras abordagens de design? Quão distante é o seu conhecimento de tecnologia vs o conhecimento dos usuários médios?"
+  id: 16041
+  title: "Blockchain - Uma introdução"
+  description: "Blockchain é a tecnologia mais disruptiva da atualidade. Que subistitui a necessidade de confiança em terceiros."
   subtype: presentation
-  speakers: [039]
-  complexity: "Intermediário"
+  speakers: [040]
+  complexity: "Básico"
 
-
-# ************************
-# ** NO SESSION CONTENT **
-# ************************
+# Matheus Candido - Processos Seletivos
+-
+  id: 1604
+  title: "Desmistificando processos seletivos: como estar preparado pra conquistar seu próximo emprego/estágio"
+  description: "Se você está em busca de um emprego ou estágio e não conhece ou tem medo de processos seletivos longos e temidos, essa talk é pra você. Eu e Ana pesquisamos sobre o assunto e conversamos com alguns recrutadores para entender o que mais conta na hora da seleção. Falaremos como conseguir uma entrevista, sobre as fases mais comuns dos processos, sobre o que estudar/preparar e apontaremos recursos úteis para sua preparação."
+  subtype: presentation
+  speakers: [041]
+  complexity: "Geral"
 
 # -
 #   id: 002
