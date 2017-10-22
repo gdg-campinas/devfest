@@ -152,7 +152,7 @@ Nesta talk vamos explicar conceitos básicos de código limpo aplicado ao Javasc
 
 # Gago - Recomendação de Conteúdo
 -
-  id: 501
+  id: 502
   title: "Machine Learning na Recomendação de Conteúdo"
   description: "Machine Learning têm sido o grande trunfo das organizações para otimizar tarefas e maximizar lucros. Quando o assunto é aumentar as vendas ou visitas, os recomendadores de conteúdo fazem muito sucesso nos portais de comércio eletrônico, aplicativos e portais de conteúdo. Esta palestra vai apresentar a Filtragem Colaborativa, uma das técnicas de recomendação de conteúdos mais utilizadas pelo mercado, além de abordar as melhores práticas do mercado para construir e avaliar um recomendador."
   subtype: presentation
