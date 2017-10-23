@@ -8,6 +8,7 @@
   bio: "Software Engineer, curious guy, messing with Android development"	
   thumbnailUrl: UbiratanSoares.jpg		
   rockstar: true		
+  mentor: true
   ribbon:
     - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
   social: 		
@@ -38,6 +39,7 @@
   bio: "Engenheiro de Computação formado pela PUC-Campinas finalizando a bi-titulação em Engenharia de Software e Gestão, Marketing e Empreendedorismo, atualmente trabalha como Engenheiro de Frontend para a Movile Brasil tendo grande experiencia na stack de interface, sendo um evangelista do Javascript."
   thumbnailUrl: RaphaelMoraes.jpg
   rockstar: false
+  mentor: true
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/raphael-moraes-26951821/"}
 
@@ -125,6 +127,7 @@ Ele mora no Brasil e estudou ciência da computação na Universidade de Campina
   bio: "Everton Gago é Doutorando e Mestre em Engenharia Elétrica na Unicamp. Atualmente pesquisa e desenvolve algoritmos matemáticos que reproduzem de forma artificial os aspectos biológicos de aprendizado e auto-organização. Seus principais interesses são: Aprendizado de máquina, processamento digital de sinais e computação evolutiva"
   thumbnailUrl: EvertonGago.jpg
   rockstar: true
+  mentor: true
   social: 
 
 # Camila Moura
@@ -291,6 +294,7 @@ Teve oportunidade também em ser mentora das duas primeiras classes do programa 
 Já teve passagens no AppProva, B2W Digital, UOL, Terraforum (atual Globant), entre outras. É também líder do capítulo local da UXPA-SP - comunidade sem fins lucrativos que tem como objetivo divulgar e fortalecer a profissão e disciplina do Design de Experiência do Usuário."
   thumbnailUrl: AnaBatista.png
   rockstar: false
+  mentor: true
   ribbon: 
     - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
   social: 
