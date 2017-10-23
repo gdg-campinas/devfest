@@ -1,0 +1,232 @@
+# Daniel Furtado
+- 
+  id: 1
+  name: "Daniel"
+  surname: "Furtado"
+  company: "Wezen"
+  title: "Designer"
+  bio: "Fundador da Wezen (estúdio de design de interação e experiência do usuário) e com 20 anos de experiência em design, acredita que produtos e serviços poderiam ser bem melhores do que são. 
+Criou o canal UXNOW para explicar sobre UX, Design Centrado no Usuário e Arquitetura da Informação. 
+Como professor, lecionou em diversas disciplinas relacionadas à design e UX (IBTA/Metrocamp/Véris, PeopleTec, Iladec, Faculdade Impacta Tecnologia, entre outros)."
+  thumbnailUrl: DanielFurtado.jpg
+  rockstar: false
+  mentor: true
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/danielfurtado/"}
+
+
+# Walmyr Carvalho
+- 
+  id: 2
+  name: "Walmyr"
+  surname: "Carvalho"
+  company: "99"
+  title: "Desenvolvedor Android"
+  bio: "Desenvolvedor de software de origem em Brasília mas atualmente morando em São Paulo, trabalha como desenvolvedor Android há mais de 7 anos. Já trabalhou em projetos de diversos tamanhos para empresas como CI&T, Hotel Urbano e Cielo, e atualmente trabalha como desenvolvedor Android na 99. No seu tempo livre, adora estar perto da comunidade Android em geral. É um dos ex-organizadores do GDG Rio de Janeiro, organizador e administrador do Android Meetup Rio de Janeiro, Kotlin Meetup São Paulo, Android Dev BR (a maior comunidade brasileira de profissionais Android no Slack, com mais de 3500 membros) e, recentemente, foi nomeado como Google Developer Expert de Android no Brasil."
+  thumbnailUrl: WalmyrCarvalho.jpg
+  rockstar: false
+  mentor: true
+  ribbon: 
+    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/walmyrcarvalho/"}
+
+
+# Igor Luiz
+- 
+  id: 3
+  name: "Igor"
+  surname: "Luiz"
+  company: "Stored"
+  title: "Senior Front-end Engineer"
+  bio: "Desenvolvedor Full Stack, apesar de que a criança interior ainda permanece no front, curte muito javascript, compartilhar os paranauês que sabe e contribuir com software livre :D"
+  thumbnailUrl: IgorLuiz.jpg
+  rockstar: false
+  mentor: true
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/igorhalfeld/"}
+    - {name: "site", link: "http://igorluiz.me"}
+
+# Matheus Candido
+- 
+  id: 4
+  name: "Matheus"
+  surname: "Candido"
+  company: "Concrete"
+  title: "Desenvolvedor Android"
+  bio: "Matheus é formado em Ciência da Computação pela PUC-MG e apaixonado por Desenvolvimento Android. Hoje trabalha fazendo apps para o robozinho verde na Concrete. Ana é mineira e formada em Ciência da Computação. Trabalha na área de TI há 6 anos e desenvolve Android e Web. Hoje em dia, também se aventura no mundo do empreendedorismo."
+  thumbnailUrl: MatheusCandido.jpg
+  rockstar: false
+  mentor: true
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/matheuscassiano/"}
+
+
+# Bruno Henrique Orlandi
+- 
+  id: 5
+  name: "Bruno Henrique"
+  surname: "Orlandi"
+  company: "UPX Technologies"
+  title: "Desenvolvedor Frontend"
+  bio: "Bruno Orlandi, é Desenvolvedor de Software, formado em Ciências de Computação. Fã de Star Wars e grande ouvinte de podcasts. Estuda sobre criatividade, inovação e empreendedorismo e relaciona isto com o seu trabalho pois a tecnologia tem sido a maior plataforma para as próximas grandes inovações da humanidade. Criou um site de Star Wars acessado por milhares de pessoas no mundo diariamente."
+  thumbnailUrl: BrunoOrlandi.jpg
+  rockstar: false
+  mentor: true
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/brorlandi"}
+
+
+# Yan Magalhaes
+- 
+  id: 025
+  name: "Yan"
+  surname: "Magalhães"
+  company: "4YouSee Digital Signage"
+  title: "Full Stack Web Developer"
+  bio: "Yan Magalhães é full stack developer e graduado em Ciências da Computação. Apaixonado pela web, está sempre acompanhando as novas tecnologias e tendências. Participa sempre que pode dos eventos e encontros promovidos pela comunidade, e é um dos organizadores do GDG-BH e do FEMUG-MG. Procura contribuir em projetos Open Source e acredita muito no poder que as soluções desenvolvidas por nós, desenvolvedores, que podem mudar o dia-a-dia das pessoas. Adora uma boa conversa acompanhada de café e pão de queijo."
+  thumbnailUrl: YanMagalhaes.jpg
+  rockstar: false
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/yanmagalhaes/"}
+
+
+# Marcel Vitorino
+- 
+  id: 6
+  name: "Marcel"
+  surname: "Vitorino"
+  company: "uDataTools"
+  title: "Founder da uDataTools"
+  bio: "Paulistano, formado em Administração de Empresas e cursando um MBA em Marketing com ênfase em Tendências e Inovação. 20 anos de experiência em multinacionais de bens de consumo, trilhando uma carreira nas áreas de vendas, marketing e TI. Atualmente Gerente de Desenvolvimento de negócios em uma consultoria de tecnologia e fundador da uDataTools, uma StartUp de Inteligência Cognitiva e BigData as a Service. Amante de música de boa qualidade, de praticar esportes, estar com a família e com os filhos. Devorador de conteúdo online, especialmente canais no YouTube e Podcasts, que se tornaram as maiores fontes de informação, atualização e aprendizado."
+  thumbnailUrl: MarcelVitorino.jpg
+  rockstar: false
+  social: 
+    - {name: "linkedin", link: "https://linkedin.com/in/marcelvitorino"}
+
+
+# Thiago Caserta
+- 
+  id: 6
+  name: "Thiago"
+  surname: "Caserta"
+  company: "Ativy | High Performance Cloud"
+  title: "Diretor de Produtos e Soluções"
+  bio: "Thiago Caserta é Diretor de Produtos e Soluções da Ativy, empresa brasileira com foco em Cloud Computing e IT Outsourcing. Formado em Análise de Sistemas com especialização em Management and Leadership pela FGV e Cloud Computing pela University of Illinois, IL, USA. Possui diversas certificações focadas em SQL Server. Caserta passou por empresas como T-Systems e IBM atuando como especialista em banco de dados e entre 2011 e 2016 trabalhou na Microsoft Corporation nos Estados Unidos, atuando com clientes da plataforma de dados SQL Server na adoção das soluções em nuvem da Microsoft (Azure e SQL Azure), como JP Morgan, UPS, Intel e Cisco. Fundou a Rheeno em 2016, startup focada em serviços de banco de dados e ofertas de DevOps, empresa que foi adquirida pela Ativy em Junho de 2017, após rápido crescimento no mercado enterprise."
+  thumbnailUrl: ThiagoCaserta.jpg
+  rockstar: false
+  social: 
+    - {name: "linkedin", link: "http://linkedin.com/in/thiagocaserta"}
+
+
+# Daniel Takaki 
+- 
+  id: 6
+  name: "Daniel"
+  surname: "Takaki"
+  company: "Grupo Nippak, Aquos Cosmeticos"
+  title: "Empreendedor"
+  bio: "Sócio e diretor do Grupo Nippak. Presidente da APRI - Associação Paulista de Relações Internacionais. Secretário do IDT-CEMA (Instituto de desenvolvimento, turismo, cultura e meio ambiente). Diretor de Marketing da CBMMA - Confederação Brasileira de MMA, diretor do Instituto Muda Vidas . Sócio de diversas empresas atuando nas áreas de comunicação, marketing e eventos, alimentação, turismo, tecnologia, economia criativa e startups. Atualmente, dedicado ao processo de auxiliar na criação de ecossistemas de empreendedorismo e inovação em diversos municípios do Brasil, através da criação de  empresas e startups. Atua como voluntário em diversas entidades e possui projetos na área de educação, desenvolvimento social, meio ambiente, esporte e Turismo."
+  thumbnailUrl: DanielTakaki.jpg
+  rockstar: false
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/danieltakaki"}
+
+
+# Amanda Vilela
+- 
+  id: 6
+  name: "Amanda"
+  surname: "Vilela"
+  company: "IBM"
+  title: "Desenvolvedora front-end"
+  bio: "Desenvolvedora front-end e UI designer há mais de 5 anos, adora tudo sobre tecnologia, principalmente sobre UX. Organizadora do GDG Sorocaba, SorocabaCSS, Rails Girls Sorocaba e CodePen Meetup Brazil, adora compartilhar conhecimento e se envolver em projetos que trazem mais pessoas para a área de tecnologia. "
+  thumbnailUrl: AmandaVilela.jpg
+  rockstar: false
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/amanda-vilela"}
+
+
+# Marco Garcia
+- 
+  id: 6
+  name: "Marco"
+  surname: "Garcia"
+  company: "Cetax Consultoria"
+  title: "Arquiteto"
+  bio: "CTO e Arquiteto de Dados na Cetax Consultoria, +20 anos trabalhando com dados, +4 com BigData e Hadoop, profissional Certificado Hortonworks"
+  thumbnailUrl: MarcoGarcia.jpg
+  rockstar: false
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/mgarciacetax/"}
+
+
+# Walmyr Carvalho
+- 
+  id: 021
+  name: "Walmyr"
+  surname: "Carvalho"
+  company: "99"
+  title: "Desenvolvedor Android"
+  bio: "Desenvolvedor de software de origem em Brasília mas atualmente morando em São Paulo, trabalha como desenvolvedor Android há mais de 7 anos. Já trabalhou em projetos de diversos tamanhos para empresas como CI&T, Hotel Urbano e Cielo, e atualmente trabalha como desenvolvedor Android na 99. No seu tempo livre, adora estar perto da comunidade Android em geral. É um dos ex-organizadores do GDG Rio de Janeiro, organizador e administrador do Android Meetup Rio de Janeiro, Kotlin Meetup São Paulo, Android Dev BR (a maior comunidade brasileira de profissionais Android no Slack, com mais de 3500 membros) e, recentemente, foi nomeado como Google Developer Expert de Android no Brasil."
+  thumbnailUrl: WalmyrCarvalho.jpg
+  rockstar: false
+  ribbon: 
+    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/walmyrcarvalho/"}
+
+
+# Virgílio Solano Silva Magalhães
+- 
+  id: 6
+  name: "Virgílio"
+  surname: "Magalhães"
+  company: "CI&T"
+  title: "Engenheiro de software"
+  bio: "Engenheiro de Software na CI&T, trabalha com Android há mais de 5 anos, possui experiência em contratos nacionais e internacionais."
+  thumbnailUrl: VirgilioSolano.jpg
+  rockstar: false
+  social: 
+    - {name: "linkedin", link: "https://br.linkedin.com/in/virgiliosolano"}
+
+# Igor Luiz
+- 
+  id: 030
+  name: "Igor"
+  surname: "Luiz"
+  company: "Stored"
+  title: "Senior Front-end Engineer"
+  bio: "Desenvolvedor Full Stack, apesar de que a criança interior ainda permanece no front, curte muito javascript, compartilhar os paranauês que sabe e contribuir com software livre :D"
+  thumbnailUrl: IgorLuiz.jpg
+  rockstar: false
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/igorhalfeld/"}
+    - {name: "site", link: "http://igorluiz.me"}
+
+# Eduardo Vicente Gonçalves
+- 
+  id: 030
+  name: "Eduardo"
+  surname: "Gonçalves"
+  company: "Operação Serenata de Amor"
+  title: "Sociólogo"
+  bio: "Cuducos é um dos fundadores da Operação Serenata de Amor e doutorando em sociologia (Universidade de Essex, Reino Unido). Ele é um geek apaixonado por código aberto, cultura e política — usa a tecnologia como voz política. Na Serenata ele atua como gestor de comunidade e desenvolvedor."
+  thumbnailUrl: Cuducos.jpeg
+  rockstar: false
+  social: 
+    - {name: "site", link: "http://cuducos.me/"}
+
+
+# Lucas Nascimento Arruda
+- 
+  id: 030
+  name: "Lucas"
+  surname: "Arruda"
+  company: "CI&T"
+  title: "Software Architect"
+  bio: "Lucas é Google Developer Expert, Authorized Trainer e Certified Architect em Google Cloud Platform. Especialista no tema há cerca de 4 anos, trabalha como Arquiteto de Software na CI&T e já treinou mais de 200 developers no assunto. Atualmente lidera um projeto de Big Data e processamento de dados para fins analíticos, utilizando GCP como diferencial na arquitetura da plataforma sendo construída. Também é palestrante há alguns anos em eventos nacionais e internacionais e evangelista Open-Source."
+  thumbnailUrl: LucasArruda.jpg
+  rockstar: false
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/larruda"}
