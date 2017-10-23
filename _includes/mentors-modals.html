@@ -12,7 +12,7 @@
 							</svg>
 							<div class="close-mask" data-dismiss="modal"></div>
 						</div>
-						{% if site.showSessions %}
+						{% if site.showMentorSessions %}
 							{% for session in site.data.mentorsessions %}
 								{% for session_speaker in session.speakers %}
 									{% if session_speaker == speaker.id %}
