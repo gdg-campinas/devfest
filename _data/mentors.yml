@@ -160,23 +160,6 @@ Como professor, lecionou em diversas disciplinas relacionadas à design e UX (IB
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/mgarciacetax/"}
 
-
-# Walmyr Carvalho
-- 
-  id: 021
-  name: "Walmyr"
-  surname: "Carvalho"
-  company: "99"
-  title: "Desenvolvedor Android"
-  bio: "Desenvolvedor de software de origem em Brasília mas atualmente morando em São Paulo, trabalha como desenvolvedor Android há mais de 7 anos. Já trabalhou em projetos de diversos tamanhos para empresas como CI&T, Hotel Urbano e Cielo, e atualmente trabalha como desenvolvedor Android na 99. No seu tempo livre, adora estar perto da comunidade Android em geral. É um dos ex-organizadores do GDG Rio de Janeiro, organizador e administrador do Android Meetup Rio de Janeiro, Kotlin Meetup São Paulo, Android Dev BR (a maior comunidade brasileira de profissionais Android no Slack, com mais de 3500 membros) e, recentemente, foi nomeado como Google Developer Expert de Android no Brasil."
-  thumbnailUrl: WalmyrCarvalho.jpg
-  rockstar: false
-  ribbon: 
-    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
-  social:
-    - {name: "linkedin", link: "https://www.linkedin.com/in/walmyrcarvalho/"}
-
-
 # Virgílio Solano Silva Magalhães
 - 
   id: 6
