@@ -32,24 +32,9 @@ Como professor, lecionou em diversas disciplinas relacionadas à design e UX (IB
     - {name: "linkedin", link: "https://www.linkedin.com/in/walmyrcarvalho/"}
 
 
-# Igor Luiz
-- 
-  id: 3
-  name: "Igor"
-  surname: "Luiz"
-  company: "Stored"
-  title: "Senior Front-end Engineer"
-  bio: "Desenvolvedor Full Stack, apesar de que a criança interior ainda permanece no front, curte muito javascript, compartilhar os paranauês que sabe e contribuir com software livre :D"
-  thumbnailUrl: IgorLuiz.jpg
-  rockstar: false
-  mentor: true
-  social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/igorhalfeld/"}
-    - {name: "site", link: "http://igorluiz.me"}
-
 # Matheus Candido
 - 
-  id: 4
+  id: 3
   name: "Matheus"
   surname: "Candido"
   company: "Concrete"
@@ -64,7 +49,7 @@ Como professor, lecionou em diversas disciplinas relacionadas à design e UX (IB
 
 # Bruno Henrique Orlandi
 - 
-  id: 5
+  id: 4
   name: "Bruno Henrique"
   surname: "Orlandi"
   company: "UPX Technologies"
@@ -79,7 +64,7 @@ Como professor, lecionou em diversas disciplinas relacionadas à design e UX (IB
 
 # Yan Magalhaes
 - 
-  id: 025
+  id: 5
   name: "Yan"
   surname: "Magalhães"
   company: "4YouSee Digital Signage"
@@ -107,7 +92,7 @@ Como professor, lecionou em diversas disciplinas relacionadas à design e UX (IB
 
 # Thiago Caserta
 - 
-  id: 6
+  id: 7
   name: "Thiago"
   surname: "Caserta"
   company: "Ativy | High Performance Cloud"
@@ -121,7 +106,7 @@ Como professor, lecionou em diversas disciplinas relacionadas à design e UX (IB
 
 # Daniel Takaki 
 - 
-  id: 6
+  id: 8
   name: "Daniel"
   surname: "Takaki"
   company: "Grupo Nippak, Aquos Cosmeticos"
@@ -135,7 +120,7 @@ Como professor, lecionou em diversas disciplinas relacionadas à design e UX (IB
 
 # Amanda Vilela
 - 
-  id: 6
+  id: 9
   name: "Amanda"
   surname: "Vilela"
   company: "IBM"
@@ -149,7 +134,7 @@ Como professor, lecionou em diversas disciplinas relacionadas à design e UX (IB
 
 # Marco Garcia
 - 
-  id: 6
+  id: 10
   name: "Marco"
   surname: "Garcia"
   company: "Cetax Consultoria"
@@ -162,7 +147,7 @@ Como professor, lecionou em diversas disciplinas relacionadas à design e UX (IB
 
 # Virgílio Solano Silva Magalhães
 - 
-  id: 6
+  id: 11
   name: "Virgílio"
   surname: "Magalhães"
   company: "CI&T"
@@ -175,7 +160,7 @@ Como professor, lecionou em diversas disciplinas relacionadas à design e UX (IB
 
 # Igor Luiz
 - 
-  id: 030
+  id: 12
   name: "Igor"
   surname: "Luiz"
   company: "Stored"
@@ -189,7 +174,7 @@ Como professor, lecionou em diversas disciplinas relacionadas à design e UX (IB
 
 # Eduardo Vicente Gonçalves
 - 
-  id: 030
+  id: 13
   name: "Eduardo"
   surname: "Gonçalves"
   company: "Operação Serenata de Amor"
@@ -203,7 +188,7 @@ Como professor, lecionou em diversas disciplinas relacionadas à design e UX (IB
 
 # Lucas Nascimento Arruda
 - 
-  id: 030
+  id: 14
   name: "Lucas"
   surname: "Arruda"
   company: "CI&T"
