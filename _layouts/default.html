@@ -24,8 +24,12 @@ layout: compress
         </div>
     </div>
 
-    {% if page.modal != null %} 
-    	{% include speakers-modals.html %} 
+    {% if page.modal != null %}
+      {% if page.permalink == '/mentors/' %}
+        {% include mentors-modals.html %}
+      {% else %} 
+        {% include speakers-modals.html %} 
+      {% endif %}
     {% endif %} 
 
     {% if page.permalink == '/schedule/' %}
