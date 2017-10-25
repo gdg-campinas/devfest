@@ -176,7 +176,7 @@ Como professor, lecionou em diversas disciplinas relacionadas à design e UX (IB
 - 
   id: 13
   name: "Eduardo"
-  surname: "Gonçalves"
+  surname: "Cuducos"
   company: "Operação Serenata de Amor"
   title: "Sociólogo"
   bio: "Cuducos é um dos fundadores da Operação Serenata de Amor e doutorando em sociologia (Universidade de Essex, Reino Unido). Ele é um geek apaixonado por código aberto, cultura e política — usa a tecnologia como voz política. Na Serenata ele atua como gestor de comunidade e desenvolvedor."
@@ -184,7 +184,6 @@ Como professor, lecionou em diversas disciplinas relacionadas à design e UX (IB
   rockstar: false
   social: 
     - {name: "site", link: "http://cuducos.me/"}
-
 
 # Lucas Nascimento Arruda
 - 
@@ -198,3 +197,19 @@ Como professor, lecionou em diversas disciplinas relacionadas à design e UX (IB
   rockstar: false
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/larruda"}
+
+# Fellipe Caetano (Jozinho)
+- 
+  id: 015
+  name: "Fellipe"
+  surname: "Caetano"
+  company: "Sympla"
+  title: "Desenvolvedor iOS"
+  bio: "Fellipe Caetano é um desenvolvedor iOS especializado em construir apps de forma altamente testável com código de qualidade. É entusiasta de desenvolvimento web e acredita que as comunidades de desenvolvimento nativo tem muito o que aprender com quem resolve problemas complexos de UI há muito mais tempo. Atua desde 2016 como desenvolvedor sênior na Sympla, tendo trabalhado desde 2010 em empresas como Movile e Dextra entregando soluções mobile tailor-made para finanças, mídia, eventos, gestão de projetos, esportes e negócios O2O."
+  thumbnailUrl: FellipeCaetano.jpg
+  rockstar: true
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/fellipecaetano/"}
+    - {name: "github", link: "https://github.com/fellipecaetano/"}
+    - {name: "twitter", link: "https://twitter.com/fellipecaetano_"}
+    - {name: "email", link: "fellipe.caetano@sympla.com.br"}

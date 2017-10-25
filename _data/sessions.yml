@@ -6,24 +6,24 @@
   description: ""
 -
   id: 200
+  title: "Coffee"
+  place: ""
+  service: true
+  description: "Momento para networking"
+-
+  id: 300
   title: "Abertura GDG Campinas"
   place: ""
   service: true
   description: ""
 -
-  id: 300
+  id: 400
   title: "Keynote"
   place: ""
   subtype: keynote
   description: ""
   speakers: []
   service: true # remove when it has content
--
-  id: 400
-  title: "Coffee"
-  place: ""
-  service: true
-  description: "Momento para networking"
 -
   id: 800
   title: "Almoço"

@@ -22,7 +22,8 @@
   group: "Junior"
   elements:
     - {name: "Dextra", description: "Dextra", link: "http://dextra.com.br/", imageUrl: "dextra.png"}
-    - {name: "Venturus", description: "Venturus", link: "http://www.venturus.org.br/site/", imageUrl: "venturus.png", width: "70%"}
+    - {name: "Venturus", description: "Venturus", link: "http://www.venturus.org.br/site/", imageUrl: "venturus.png", width: "60%"}
+    - {name: "Ctrl+Play", description: "Ctrl+Play", link: "http://www.ctrlplay.com.br/", imageUrl: "ctrlplay.png"}
 -
   group: "Intern"
   elements:
