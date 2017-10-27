@@ -1,7 +1,7 @@
 -
   group: "Master"
   elements:
-    - {name: "Google", description: "Google", link: "https://www.google.com.br/", imageUrl: "google.png"}
+    - {name: "Google Developers", description: "Google Developers", link: "https://developers.google.com/", imageUrl: "googledevelopers.png"}
 
 # - 
 #   group: "Especialista"
