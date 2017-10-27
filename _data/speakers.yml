@@ -181,11 +181,13 @@ você o encontre ensinando Capoeira."
   surname: "Ribeiro"
   company: "Spotify"
   title: "Lead Software Engineer"
-  bio: "BSc. em Ciencia da Computação e primeiro Software Engineer brasileiro no Spotify"
+  bio: "Graduado em Ciência da Computação pela UFCG, trabalha há 6 anos no Spotify em Estocolmo, Suécia. Onde já trabalhou e liderou o desenvolvimento de diversos projetos, entre eles o aplicativo desktop do Spotify, o Spotify Web Player, e atualmente na stack responsável pela reprodução de conteúdo do Spotify em dispositivos Web (Web Player, Chromecast, Google Home, TVs, etc...) "
   thumbnailUrl: FelipeRibeiro.jpg
   rockstar: false
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/felipernb/"}
+    - {name: "twitter", link: "https://twitter.com/felipernb"}
+    - {name: "github", link: "https://github.com/felipernb"}
 
 # Douglas Drumond
 - 

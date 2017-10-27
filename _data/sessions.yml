@@ -210,7 +210,12 @@ Nessa palestra Jeff Prestes vai mostrar porque o Google criou uma nova linguagem
 -
   id: 1202
   title: "Serverless Machine Learning on Google Cloud"
-  description: ""
+  description: 'Num primeiro momento, Machine Learning pode assustar qualquer um... "Isso é coisa de PhD", por exemplo, "Você precisa de uma infra gigante, uma infinidade de dados, etc etc etc", são expressões que ouvimos muitas vezes.
+Nesse talk iremos conversar sobre como ML está cada vez mais acessível e democrática. Como é possível criar aplicações muito "inteligentes" utilizando modelos sofisticados e arquiteturas altamente escaláveis se preocupando zero com gestão de infra.<br>
+Serão apresentados temas, tecnologias e live-demos envolvendo:<br>
+Serverless: Firebase, Cloud Functions, BigQuery<br>
+Aplicações práticas de ML: Text to Speech, Natural Language, entre outros.
+'
   subtype: presentation
   speakers: [007]
   complexity: "Intermediário"
@@ -384,7 +389,8 @@ Nesse talk vamos aprender a configuração básica do Flutter, uma leve introdu�
 -
   id: 604
   title: "Optimizing Code for Humans"
-  description: ""
+  description: "Desenvolver software não é fácil. Programadores costumam passar mais tempo lendo do que escrevendo código e para que sejamos produtivos é necessário focar em simplicidade e legibilidade.
+Essa palestra explora os fatores que costumam adicionar complexidade desnecessária aos nossos softwares e formas de tentar diminuir esse problema."
   subtype: presentation
   speakers: [018]
   complexity: "Geral"

@@ -200,7 +200,7 @@ Como professor, lecionou em diversas disciplinas relacionadas à design e UX (IB
 
 # Fellipe Caetano (Jozinho)
 - 
-  id: 015
+  id: 15
   name: "Fellipe"
   surname: "Caetano"
   company: "Sympla"
@@ -213,3 +213,16 @@ Como professor, lecionou em diversas disciplinas relacionadas à design e UX (IB
     - {name: "github", link: "https://github.com/fellipecaetano/"}
     - {name: "twitter", link: "https://twitter.com/fellipecaetano_"}
     - {name: "email", link: "fellipe.caetano@sympla.com.br"}
+
+# Daniela Chieppe
+- 
+  id: 16
+  name: "Daniela Cais"
+  surname: "Chieppe"
+  company: "Omelete Inteligência"
+  title: "Communication Trainer & Business Consultant."
+  bio: "Especialista em Comunicação Interpessoal e Profissional, Mestre em Fonoaudiologia, atua como Consultora de Comunicação e Novos Negócios na Omelete Inteligência e Treinamentos em Comunicação."
+  thumbnailUrl: DanielaChieppe.jpg
+  rockstar: false
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/daniela-cais-chieppe-3a08ab/detail/recent-activity/shares/"}
