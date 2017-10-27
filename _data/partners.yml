@@ -23,9 +23,10 @@
   elements:
     - {name: "Dextra", description: "Dextra", link: "http://dextra.com.br/", imageUrl: "dextra.png"}
     - {name: "Venturus", description: "Venturus", link: "http://www.venturus.org.br/site/", imageUrl: "venturus.png", width: "60%"}
-    - {name: "Ctrl+Play", description: "Ctrl+Play", link: "http://www.ctrlplay.com.br/", imageUrl: "ctrlplay.png"}
+
 -
   group: "Intern"
   elements:
     - {name: "HBSIS", description: "HBSIS", link: "http://www.hbsis.com.br/", imageUrl: "hbsis.png", width: "80%"}
     - {name: "CI&T", description: "CI&T", link: "http://www.ciandt.com/br-pt", imageUrl: "ciet.png", width: "80%"}
+    - {name: "Ctrl+Play", description: "Ctrl+Play", link: "http://www.ctrlplay.com.br/", imageUrl: "ctrlplay.png"}
