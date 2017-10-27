@@ -284,3 +284,16 @@ Como professor, lecionou em diversas disciplinas relacionadas à design e UX (IB
   rockstar: false
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/daniela-cais-chieppe-3a08ab/detail/recent-activity/shares/"}
+
+# Thaissa Candella
+- 
+  id: 99921
+  name: "Thaíssa"
+  surname: "Candella"
+  company: "Weme"
+  title: "IT Strategy Transformation Analyst"
+  bio: "Thaíssa Candella é IT Strategy Analyst na Weme, uma empresa de inovação e empreendedorismo. Atua também como software developer com experiência em Android, iOS nativos e nodejs (backend), participou do desenvolvimento de projetos para Google, Nextel, C&A e Marisa em sua jornada na Dextra Digital. Técnica em informática pelo Colégio Técnico da Unicamp (Cotuca) e graduanda em Matemática Aplicada Computacional na Unicamp. É lead organizer das comunidades Facebook Developer Circles, Google Women Techmakers Campinas e Google Developer Group Campinas (GDG Campinas) onde é responsável pela estratégia e logística de eventos, gestão de conteúdos, comunicação e aquisição de novos parceiros."
+  thumbnailUrl: ThaissaCandella.jpeg
+  rockstar: false
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/thaissacandella/"}

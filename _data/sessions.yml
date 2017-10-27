@@ -267,11 +267,11 @@ Vamos falar também sobre o que aprendemos no Spark Summit EU 2017, e compartilh
 # Antoine - iOS
 -
   id: 503
-  title: "A definir"
-  description: "A definir"
+  title: "Melhore sua produtividade com Playground"
+  description: "Com o lançamento do Swift, a Apple liberou o Playground - uma ferramenta ótima para aprender ou ensinar esta linguagem. Mas, ela pode ser também, uma poderosa aliado no seu dia dia!"
   subtype: presentation
-  speakers: []
-  # complexity: ""
+  speakers: [043]
+  complexity: "Intermediário"
 
 # Luiz Gustavo - Android + Machine Learning + Firebase
 -

@@ -565,6 +565,19 @@ Como professor, lecionou em diversas disciplinas relacionadas à design e UX (IB
   # social: 
   #   - {name: "linkedin", link: ""}
 
+# Antoine Barrault
+- 
+  id: 043
+  name: "Antoine"
+  surname: "Barrault"
+  company: "Dextra"
+  title: "Desenvolvedor iOS"
+  bio: "Mestre em computação gráfica formado pela Universidade de Limoges, França. Atualmente trabalha na Dextra como desenvolvedor iOS, ajudando nossos clientes a criar as melhores experiências mobile para os usuários deles. Desenvolvendo para iOS desde o iPhone OS 3.0."
+  thumbnailUrl: AntoineBarrault.jpg
+  rockstar: false
+  social: 
+    - {name: "site", link: "http://dextra.com.br"}
+
 # Nilton Kazuyuki Ueda
 # - 
 #   id: 027
