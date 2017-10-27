@@ -198,7 +198,7 @@ ticketsOffers:
   featured: true
  -
   name: "Kids (Sem Camiseta)"
-  price: "35,00"
+  price: "38,00"
   priceCurrency: "R$"
   ticketsNumber: "TBD"
   # ribbon: "-20%"
