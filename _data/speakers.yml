@@ -533,7 +533,7 @@ Como professor, lecionou em diversas disciplinas relacionadas à design e UX (IB
   surname: "Candido"
   company: "Concrete"
   title: "Desenvolvedor Android"
-  bio: "Matheus é formado em Ciência da Computação pela PUC-MG e apaixonado por Desenvolvimento Android. Hoje trabalha fazendo apps para o robozinho verde na Concrete. Ana é mineira e formada em Ciência da Computação. Trabalha na área de TI há 6 anos e desenvolve Android e Web. Hoje em dia, também se aventura no mundo do empreendedorismo."
+  bio: "Matheus é formado em Ciência da Computação pela PUC-MG e apaixonado por Desenvolvimento Android. Hoje trabalha fazendo apps para o robozinho verde na Concrete."
   thumbnailUrl: MatheusCandido.jpg
   rockstar: false
   social: 
@@ -551,6 +551,19 @@ Como professor, lecionou em diversas disciplinas relacionadas à design e UX (IB
   rockstar: false
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/jeffprestes/"}
+
+# Ana Coimbra
+- 
+  id: 042
+  name: "Ana"
+  surname: "Coimbra"
+  company: ""
+  title: ""
+  bio: "Ana é mineira e formada em Ciência da Computação. Trabalha na área de TI há 6 anos e desenvolve Android e Web. Hoje em dia, também se aventura no mundo do empreendedorismo."
+  thumbnailUrl: AnaCoimbra.jpg
+  rockstar: false
+  # social: 
+  #   - {name: "linkedin", link: ""}
 
 # Nilton Kazuyuki Ueda
 # - 

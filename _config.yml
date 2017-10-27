@@ -60,6 +60,7 @@ navigationLinks:
  - {permalink: "/schedule/", text: "Grade"}
  - {permalink: "/speakers/", text: "Palestrantes"}
  - {permalink: "/mentors/", text: "Mentoria"}
+ - {permalink: "/kids/", text: "Trilha Kids"}
 #  - {permalink: "/logistics/", text: "Logistics"}
 #  - {permalink: "/hackathon/", text: "Hackathon"}
  - {link: "https://goo.gl/forms/giwSyQAtqV4kUgHC3", text: "Torne-se um membro"}

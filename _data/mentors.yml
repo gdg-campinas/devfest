@@ -1,6 +1,80 @@
+# Everton Gago
+- 
+  id: 99917
+  name: "Everton"
+  surname: "Gago"
+  company: "iFood"
+  title: "Especialista em Data Science"
+  bio: "Everton Gago é Doutorando e Mestre em Engenharia Elétrica na Unicamp. Atualmente pesquisa e desenvolve algoritmos matemáticos que reproduzem de forma artificial os aspectos biológicos de aprendizado e auto-organização. Seus principais interesses são: Aprendizado de máquina, processamento digital de sinais e computação evolutiva"
+  thumbnailUrl: EvertonGago.jpg
+  rockstar: true
+  mentor: true
+  social: 
+
+# Raphael Moraes
+- 
+  id: 99918
+  name: "Raphael"
+  surname: "Moraes"
+  company: "Movile"
+  title: "Frontend Engineer"
+  bio: "Engenheiro de Computação formado pela PUC-Campinas finalizando a bi-titulação em Engenharia de Software e Gestão, Marketing e Empreendedorismo, atualmente trabalha como Engenheiro de Frontend para a Movile Brasil tendo grande experiencia na stack de interface, sendo um evangelista do Javascript."
+  thumbnailUrl: RaphaelMoraes.jpg
+  rockstar: false
+  mentor: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/raphael-moraes-26951821/"}
+
+# Gabriel Franco
+- 
+  id: 99919
+  name: "Gabriel"
+  surname: "Franco"
+  company: "Spotify"
+  title: "Engineering Manager (Chapter Lead)"
+  bio: "Trabalhando atualmente como Engineering Manager no Spotify em Stockholm, possui mais de 10 anos de experiência gerenciando times técnicos, focado no desenvolvimento, atração e retenção de talentos em empresas como Ci&T, Movile, iFood, Ingresso Rápido e outras. Também desenvolve em seu tempo livre e se auto descreve como 'Coder by heart, manager by fate'."
+  thumbnailUrl: GabrielFranco.jpg
+  rockstar: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/gffranco/"}
+
+# Ubiratan Soares
+-
+  id: 99920		
+  name: "Ubiratan"		
+  surname: "Soares"		
+  company: ""		
+  title: "Consultor Independente"		
+  bio: "Software Engineer, curious guy, messing with Android development"	
+  thumbnailUrl: UbiratanSoares.jpg		
+  rockstar: true		
+  mentor: true
+  ribbon:
+    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
+  social: 		
+    - {name: "linkedin", link: "https://www.linkedin.com/in/ubiratanfsoares/"}
+    - {name: "twitter", link: "https://twitter.com/ubiratanfsoares"}
+    - {name: "github", link: "https://github.com/ubiratansoares"}    
+
+# Fellipe Caetano (Jozinho)
+- 
+  id: 99915
+  name: "Fellipe"
+  surname: "Caetano"
+  company: "Sympla"
+  title: "Desenvolvedor iOS"
+  bio: "Fellipe Caetano é um desenvolvedor iOS especializado em construir apps de forma altamente testável com código de qualidade. É entusiasta de desenvolvimento web e acredita que as comunidades de desenvolvimento nativo tem muito o que aprender com quem resolve problemas complexos de UI há muito mais tempo. Atua desde 2016 como desenvolvedor sênior na Sympla, tendo trabalhado desde 2010 em empresas como Movile e Dextra entregando soluções mobile tailor-made para finanças, mídia, eventos, gestão de projetos, esportes e negócios O2O."
+  thumbnailUrl: FellipeCaetano.jpg
+  rockstar: true
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/fellipecaetano/"}
+    - {name: "github", link: "https://github.com/fellipecaetano/"}
+    - {name: "twitter", link: "https://twitter.com/fellipecaetano_"}
+    - {name: "email", link: "fellipe.caetano@sympla.com.br"}
+
 # Daniel Furtado
 - 
-  id: 1
+  id: 9991
   name: "Daniel"
   surname: "Furtado"
   company: "Wezen"
@@ -17,7 +91,7 @@ Como professor, lecionou em diversas disciplinas relacionadas à design e UX (IB
 
 # Walmyr Carvalho
 - 
-  id: 2
+  id: 9992
   name: "Walmyr"
   surname: "Carvalho"
   company: "99"
@@ -34,7 +108,7 @@ Como professor, lecionou em diversas disciplinas relacionadas à design e UX (IB
 
 # Matheus Candido
 - 
-  id: 3
+  id: 9993
   name: "Matheus"
   surname: "Candido"
   company: "Concrete"
@@ -49,7 +123,7 @@ Como professor, lecionou em diversas disciplinas relacionadas à design e UX (IB
 
 # Bruno Henrique Orlandi
 - 
-  id: 4
+  id: 9994
   name: "Bruno Henrique"
   surname: "Orlandi"
   company: "UPX Technologies"
@@ -64,7 +138,7 @@ Como professor, lecionou em diversas disciplinas relacionadas à design e UX (IB
 
 # Yan Magalhaes
 - 
-  id: 5
+  id: 9995
   name: "Yan"
   surname: "Magalhães"
   company: "4YouSee Digital Signage"
@@ -78,7 +152,7 @@ Como professor, lecionou em diversas disciplinas relacionadas à design e UX (IB
 
 # Marcel Vitorino
 - 
-  id: 6
+  id: 9996
   name: "Marcel"
   surname: "Vitorino"
   company: "uDataTools"
@@ -92,7 +166,7 @@ Como professor, lecionou em diversas disciplinas relacionadas à design e UX (IB
 
 # Thiago Caserta
 - 
-  id: 7
+  id: 9997
   name: "Thiago"
   surname: "Caserta"
   company: "Ativy | High Performance Cloud"
@@ -106,7 +180,7 @@ Como professor, lecionou em diversas disciplinas relacionadas à design e UX (IB
 
 # Daniel Takaki 
 - 
-  id: 8
+  id: 9998
   name: "Daniel"
   surname: "Takaki"
   company: "Grupo Nippak, Aquos Cosmeticos"
@@ -120,7 +194,7 @@ Como professor, lecionou em diversas disciplinas relacionadas à design e UX (IB
 
 # Amanda Vilela
 - 
-  id: 9
+  id: 9999
   name: "Amanda"
   surname: "Vilela"
   company: "IBM"
@@ -134,7 +208,7 @@ Como professor, lecionou em diversas disciplinas relacionadas à design e UX (IB
 
 # Marco Garcia
 - 
-  id: 10
+  id: 99910
   name: "Marco"
   surname: "Garcia"
   company: "Cetax Consultoria"
@@ -147,7 +221,7 @@ Como professor, lecionou em diversas disciplinas relacionadas à design e UX (IB
 
 # Virgílio Solano Silva Magalhães
 - 
-  id: 11
+  id: 99911
   name: "Virgílio"
   surname: "Magalhães"
   company: "CI&T"
@@ -160,7 +234,7 @@ Como professor, lecionou em diversas disciplinas relacionadas à design e UX (IB
 
 # Igor Luiz
 - 
-  id: 12
+  id: 99912
   name: "Igor"
   surname: "Luiz"
   company: "Stored"
@@ -174,7 +248,7 @@ Como professor, lecionou em diversas disciplinas relacionadas à design e UX (IB
 
 # Eduardo Vicente Gonçalves
 - 
-  id: 13
+  id: 99913
   name: "Eduardo"
   surname: "Cuducos"
   company: "Operação Serenata de Amor"
@@ -187,7 +261,7 @@ Como professor, lecionou em diversas disciplinas relacionadas à design e UX (IB
 
 # Lucas Nascimento Arruda
 - 
-  id: 14
+  id: 99914
   name: "Lucas"
   surname: "Arruda"
   company: "CI&T"
@@ -198,25 +272,9 @@ Como professor, lecionou em diversas disciplinas relacionadas à design e UX (IB
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/larruda"}
 
-# Fellipe Caetano (Jozinho)
-- 
-  id: 15
-  name: "Fellipe"
-  surname: "Caetano"
-  company: "Sympla"
-  title: "Desenvolvedor iOS"
-  bio: "Fellipe Caetano é um desenvolvedor iOS especializado em construir apps de forma altamente testável com código de qualidade. É entusiasta de desenvolvimento web e acredita que as comunidades de desenvolvimento nativo tem muito o que aprender com quem resolve problemas complexos de UI há muito mais tempo. Atua desde 2016 como desenvolvedor sênior na Sympla, tendo trabalhado desde 2010 em empresas como Movile e Dextra entregando soluções mobile tailor-made para finanças, mídia, eventos, gestão de projetos, esportes e negócios O2O."
-  thumbnailUrl: FellipeCaetano.jpg
-  rockstar: true
-  social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/fellipecaetano/"}
-    - {name: "github", link: "https://github.com/fellipecaetano/"}
-    - {name: "twitter", link: "https://twitter.com/fellipecaetano_"}
-    - {name: "email", link: "fellipe.caetano@sympla.com.br"}
-
 # Daniela Chieppe
 - 
-  id: 16
+  id: 99916
   name: "Daniela Cais"
   surname: "Chieppe"
   company: "Omelete Inteligência"

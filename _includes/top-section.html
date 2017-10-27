@@ -1,5 +1,13 @@
 <!-- Begin Top Section -->
-<section id="top-section" class="top-section image-section {% if page.image %}enable-overlay{% endif %}" style="{% if page.image %}background-image: url('{{ site.baseurl }}/img/sections-background/{{ page.image }}');{% elsif page.color %}background: {{ page.color }}{% endif %}">
+<section id="top-section" class="top-section image-section {% if page.image %}enable-overlay{% endif %}" 
+  style="
+    {% if page.image and page.darkenimage %}
+      background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url('{{ site.baseurl }}/img/sections-background/{{ page.image }}');
+    {% elsif page.image %}
+      background-image: url('{{ site.baseurl }}/img/sections-background/{{ page.image }}');
+    {% elsif page.color %}
+      background: {{ page.color }};
+    {% endif %}">
     <div class="overlay gradient-overlay"></div>
 
     {% include navigation.html %}

@@ -1,0 +1,87 @@
+-
+  id: 100
+  title: "Credenciamento"
+  place: ""
+  service: true
+  description: ""
+-
+  id: 200
+  title: "Coffee"
+  place: ""
+  service: true
+  description: "Momento para networking"
+-
+  id: 300
+  title: "Abertura GDG Campinas"
+  place: ""
+  service: true
+  description: ""
+-
+  id: 400
+  title: "Keynote"
+  place: ""
+  subtype: keynote
+  description: ""
+  speakers: []
+  service: true # remove when it has content
+-
+  id: 800
+  title: "Almoço"
+  place: ""
+  service: true
+  description: ""
+-
+  id: 1300
+  title: "Coffee"
+  place: ""
+  service: true
+  description: "Momento para networking"
+-
+  id: 1700
+  title: "Encerramento e sorteios"
+  place: ""
+  service: true
+  description: ""
+
+# **********
+# ** Kids **
+# **********
+
+# Oficina Games - Ctrl+Play
+-
+  id: 505
+  title: "Oficina de Criação de Games"
+  description: ""
+  subtype: workshop
+  speakers: []
+  # complexity: ""
+
+# Oficina Apps - Ctrl+Play
+-
+  id: 605
+  title: "Oficina de Criação de Aplicativos"
+  description: ""
+  subtype: workshop
+  speakers: []
+  # complexity: ""
+
+# A definir - A definir
+-
+  id: 9995
+  title: "A definir"
+  description: "A definir"
+  subtype: presentation
+  speakers: []
+  # complexity: ""
+
+
+# -
+#   id: 002
+#   title: "Building Cloud-powered wearable Apps"
+#   description: "I will speak and show how to:<br>- Respond to touch events in your views with touch feedback animations.<br>- Hide and show views with reveal effect animations.<br>- Switch between activities with custom activity transition animations.<br>- Create more natural animations with curved motion.<br>- Animate changes in one or more view properties with view state change animations.<br>- Create icon morphing transition"
+#   subtype: presentation
+#   speakers: [4, 5]
+#   language: en
+#   complexity: "Intermediate" 
+#   presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+#   video: "//www.youtube.com/embed/v3SCiUqI1yQ"
