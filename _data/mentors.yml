@@ -88,7 +88,6 @@ Como professor, lecionou em diversas disciplinas relacionadas à design e UX (IB
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/danielfurtado/"}
 
-
 # Walmyr Carvalho
 - 
   id: 9992
@@ -104,6 +103,25 @@ Como professor, lecionou em diversas disciplinas relacionadas à design e UX (IB
     - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/walmyrcarvalho/"}
+
+# Ana Paula Batista
+- 
+  id: 99922
+  name: "Ana Paula"
+  surname: "Batista"
+  company: "Sparck"
+  title: "UX/Product Designer"
+  bio: "Formada em Multimídia Digital, tem 17 anos de experiência no planejamento e projeto de produtos digitais. Uma das primeiras Google Experts em UX/UI no Brasil, teve oportunidade de participar da primeira turma de Design Sprint Master Academy, oferecido pelo Google em Mountain View - CA - USA, em 2015. Já planejou e aplicou Design Sprint para mais de 25 empresas diferentes, tendo grandes resultados que se tornaram cases em palestras internacionais.
+Teve oportunidade também em ser mentora das duas primeiras classes do programa de aceleração global do Google - o Google Launchpad Accelerator Program de 2016. Neste programa, atuou diretamente com 48 startups da Índia, Indonésia, México e Brasil. Além disto, já deu mentoria para mais de 50 startups e palestras em diferentes cidades do Brasil, em programas de comunidades independentes ou relacionados ao Google BR.
+Já teve passagens no AppProva, B2W Digital, UOL, Terraforum (atual Globant), entre outras. É também líder do capítulo local da UXPA-SP - comunidade sem fins lucrativos que tem como objetivo divulgar e fortalecer a profissão e disciplina do Design de Experiência do Usuário."
+  thumbnailUrl: AnaBatista.png
+  rockstar: false
+  mentor: true
+  ribbon: 
+    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/anabatista/"}
+
 
 
 # Matheus Candido

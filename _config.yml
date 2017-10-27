@@ -197,6 +197,19 @@ ticketsOffers:
   validThrough: "29/10/2017T00:00"
   featured: true
  -
+  name: "Kids (Sem Camiseta)"
+  price: "35,00"
+  priceCurrency: "R$"
+  ticketsNumber: "TBD"
+  # ribbon: "-20%"
+  # featured: true
+  buyButtonLink: "https://www.eventbrite.com.br/e/devfest-campinas-2017-tickets-38297336364"
+  buyButtonText: "Comprar"
+  # ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+  validFrom: "27/10/2017T00:00"
+  validThrough: "03/11/2017T00:00"
+  featured: true
+ -
   name: "Tartaruga"
   price: "135,00"
   priceCurrency: "R$"
