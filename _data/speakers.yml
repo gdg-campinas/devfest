@@ -561,6 +561,21 @@ Como professor, lecionou em diversas disciplinas relacionadas à design e UX (IB
   social: 
     - {name: "site", link: "http://dextra.com.br"}
 
+# Charles Barros
+- 
+  id: 044
+  name: "Charles"
+  surname: "Barros"
+  company: "PlayKids"
+  title: "Coordenador de desenvolvimento Mobile"
+  bio: "Charles Barros, apaixonado por jogos começou sua carreira como programador na Ubisoft trabalhando com video-games como Nintendo DS, Sony PSP e em seguida trabalhou em empresas como Glu Mobile, Mobjoy, Movile e PlayKids com desenvolvimento de jogos e apps para plataformas móveis. Entusiata na area de computação gráfica, realidade aumentada, atualmente coordeno a equipe de desenvolvimento móvel da PlayKids utilizando tecnologias nativas de iOS, Android e Unity3D, aplicativo o qual já foi nomeado 'Best of AppStore' e Google 'Editor's Choice' 
+Ao longo de quase 10 anos em experiencia profissional, reservo como realizações pessoais poder ter participado de projetos que emplacaram por meses o topo dos rankings globais de download e faturamento da PlayStore e AppStore."
+  thumbnailUrl: CharlesBarros.jpg
+  rockstar: false
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/chazbarros/"}
+    - {name: "twitter", link: "https://twitter.com/chazbarros"}
+
 # Alvaro Viebrantz
 # - 
 #   id: 032

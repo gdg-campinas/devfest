@@ -356,11 +356,11 @@ Nesse talk vamos aprender a configuração básica do Flutter, uma leve introdu�
 # Charles - AR
 -
   id: 1503
-  title: "A definir"
-  description: "A definir"
+  title: "O momento da Realidade Aumentada "
+  description: "Aproveitando o momento de destaque de realidade aumentada esta apresentação visa explicar o porque do resurgimento do AR em 2017, quais são suas principais tecnicas e tecnologias disponiveis no momento. Mais que só uma explicação tecnica, aprenderemos sobre os mandamentos do AR para criar uma boa experiencia que faça sentido e funcione. Estudaremos o estado da arte e o que temos de apps no momento se aventurando neste universo e para quais possiveis direções que o AR pode evoluir."
   subtype: presentation
-  speakers: []
-  # complexity: ""
+  speakers: [044]
+  complexity: "Intermediário"
 
 # Douglas - Android Tensorflow
 -
