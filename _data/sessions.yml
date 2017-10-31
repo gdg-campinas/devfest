@@ -168,13 +168,17 @@ Nesta talk vamos explicar conceitos básicos de código limpo aplicado ao Javasc
   speakers: [009]
   complexity: "Introdutório"
 
-# Walter Neto - Segurança
+# Fernando - Serverless Machine Learning
 -
   id: 702
-  title: "Código com Segurança Proativa"
-  description: "Gostaria de compartilhar sobre 'auditoria de segurança', nesta talk apresento a cultura de desenvolvimento de software utilizada pelo sistema operacional OpenBSD, com foco em segurança de código, e que fez com que ele fosse um sistema reconhecido pela comunidade de desenvolvimento opensource e por comunidades de peso em segurança como o BUGTRAQ."
+  title: "Serverless Machine Learning on Google Cloud"
+  description: 'Num primeiro momento, Machine Learning pode assustar qualquer um... "Isso é coisa de PhD", por exemplo, "Você precisa de uma infra gigante, uma infinidade de dados, etc etc etc", são expressões que ouvimos muitas vezes.
+Nesse talk iremos conversar sobre como ML está cada vez mais acessível e democrática. Como é possível criar aplicações muito "inteligentes" utilizando modelos sofisticados e arquiteturas altamente escaláveis se preocupando zero com gestão de infra.<br>
+Serão apresentados temas, tecnologias e live-demos envolvendo:<br>
+Serverless: Firebase, Cloud Functions, BigQuery<br>
+Aplicações práticas de ML: Text to Speech, Natural Language, entre outros.'
   subtype: presentation
-  speakers: [023]
+  speakers: [007]
   complexity: "Intermediário"
 
 # Luciano Sabença - Escalando
@@ -206,27 +210,22 @@ Nessa palestra Jeff Prestes vai mostrar porque o Google criou uma nova linguagem
   speakers: [015]
   complexity: "Introdutório"
 
-# Fernando - Serverless Machine Learning
+# Walter Neto - Segurança
 -
   id: 1202
-  title: "Serverless Machine Learning on Google Cloud"
-  description: 'Num primeiro momento, Machine Learning pode assustar qualquer um... "Isso é coisa de PhD", por exemplo, "Você precisa de uma infra gigante, uma infinidade de dados, etc etc etc", são expressões que ouvimos muitas vezes.
-Nesse talk iremos conversar sobre como ML está cada vez mais acessível e democrática. Como é possível criar aplicações muito "inteligentes" utilizando modelos sofisticados e arquiteturas altamente escaláveis se preocupando zero com gestão de infra.<br>
-Serão apresentados temas, tecnologias e live-demos envolvendo:<br>
-Serverless: Firebase, Cloud Functions, BigQuery<br>
-Aplicações práticas de ML: Text to Speech, Natural Language, entre outros.
-'
+  title: "Código com Segurança Proativa"
+  description: "Gostaria de compartilhar sobre 'auditoria de segurança', nesta talk apresento a cultura de desenvolvimento de software utilizada pelo sistema operacional OpenBSD, com foco em segurança de código, e que fez com que ele fosse um sistema reconhecido pela comunidade de desenvolvimento opensource e por comunidades de peso em segurança como o BUGTRAQ."
   subtype: presentation
-  speakers: [007]
+  speakers: [023]
   complexity: "Intermediário"
 
-# Fernando - Serverless Machine Learning
+# Walter Neto - Segurança
 -
   id: 12022
-  title: "[Continuação] Serverless Machine Learning on Google Cloud"
+  title: "[Continuação] Código com Segurança Proativa"
   description: "Continuação"
   subtype: presentation
-  speakers: [007]
+  speakers: [023]
   complexity: "Intermediário"
 
 # Eiti + Clesio - Spark
@@ -465,7 +464,7 @@ Essa palestra explora os fatores que costumam adicionar complexidade desnecessá
   description: "O primeiro uso é desproporcionalmente importante para que você tenha um aplicativo de sucesso. É aqui que os mínimos detalhes mais importam e podem criar uma ótima impressão, evitando que seu app seja um dos 70% que são desinstalados após o primeiro uso."
   subtype: presentation
   speakers: [013]
-  # complexity: ""
+  complexity: "Geral"
 
 # Google - Monetização
 -
