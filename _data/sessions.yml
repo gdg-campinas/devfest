@@ -354,14 +354,14 @@ Nesse talk vamos aprender a configuração básica do Flutter, uma leve introdu�
   speakers: [031]
   complexity: "Introdutório"
 
-# Alvaro Viebrantz - Android Things
+# Charles - AR
 -
   id: 1503
-  title: "Android Things, a plataforma IoT para todos"
-  description: "Uma introdução a nova plataforma de internet das coisas do Google, o Android Things, e como fazer dispositivos mais inteligentes e poderosos com ela, aliado de ferramentas de Machine Learning. O objetivo é cobrir o básico de como começar com a plataforma e apresentar alguns projetos que podem ser feito com a plataforma. Em especial será mostrado um projeto de máquina de doces inteligente, que utiliza o poder do Android Things, aliado com APIs de Machine Learning do Google, como a Cloud Vision API e o Tensorflow, para reconhecer imagens e que dar aos usuários doces se eles mostrarem os objetos corretos para a máquina."
+  title: "A definir"
+  description: "A definir"
   subtype: presentation
-  speakers: [032]
-  complexity: "Intermediário"
+  speakers: []
+  # complexity: ""
 
 # Douglas - Android Tensorflow
 -

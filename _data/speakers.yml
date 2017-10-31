@@ -357,23 +357,6 @@ Já teve passagens no AppProva, B2W Digital, UOL, Terraforum (atual Globant), en
     - {name: "twitter", link: "http://twitter.com/luisfmsouz"}
     - {name: "site", link: "https://medium.com/@luisfmsouza"}
 
-# Alvaro Viebrantz
-- 
-  id: 032
-  name: "Alvaro"
-  surname: "Viebrantz"
-  company: "GDG Cuiabá"
-  title: "Community Manager"
-  bio: "Organizador do grupo DevMT e do Google Developers Group Cuiabá. Já ministrou diversos cursos e palestras sobre diversos assuntos, em especial sobre desenvolvimento mobile com Ionic e React Native e também sobre Google Cloud e Internet das Coisas. Agora mantém um blog sobre sobre automação e internet das coisas. Tem experiência como desenvolvedor na startup Procurix e no Estuda.com. Formado em Ciência da Computação pela UFMT. Atualmente Analista de TI na SEFAZ-MT."
-  thumbnailUrl: AlvaroViebrantz.jpg
-  rockstar: false
-  social: 
-    - {name: "linkedin", link: "https://br.linkedin.com/in/alvaro-viebrantz-55119048"}
-    - {name: "github", link: "https://github.com/alvarowolfx"}
-    - {name: "twitter", link: "https://twitter.com/alvaroviebrantz"}
-    - {name: "facebook", link: "https://facebook.com/alvarowolfx"}
-    - {name: "site", link: "https://aviebrantz.com.br/"}
-
 # Nelson Vasconcelos
 - 
   id: 013
@@ -577,6 +560,23 @@ Como professor, lecionou em diversas disciplinas relacionadas à design e UX (IB
   rockstar: false
   social: 
     - {name: "site", link: "http://dextra.com.br"}
+
+# Alvaro Viebrantz
+# - 
+#   id: 032
+#   name: "Alvaro"
+#   surname: "Viebrantz"
+#   company: "GDG Cuiabá"
+#   title: "Community Manager"
+#   bio: "Organizador do grupo DevMT e do Google Developers Group Cuiabá. Já ministrou diversos cursos e palestras sobre diversos assuntos, em especial sobre desenvolvimento mobile com Ionic e React Native e também sobre Google Cloud e Internet das Coisas. Agora mantém um blog sobre sobre automação e internet das coisas. Tem experiência como desenvolvedor na startup Procurix e no Estuda.com. Formado em Ciência da Computação pela UFMT. Atualmente Analista de TI na SEFAZ-MT."
+#   thumbnailUrl: AlvaroViebrantz.jpg
+#   rockstar: false
+#   social: 
+#     - {name: "linkedin", link: "https://br.linkedin.com/in/alvaro-viebrantz-55119048"}
+#     - {name: "github", link: "https://github.com/alvarowolfx"}
+#     - {name: "twitter", link: "https://twitter.com/alvaroviebrantz"}
+#     - {name: "facebook", link: "https://facebook.com/alvarowolfx"}
+#     - {name: "site", link: "https://aviebrantz.com.br/"}
 
 # Nilton Kazuyuki Ueda
 # - 
