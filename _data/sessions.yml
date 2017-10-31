@@ -185,8 +185,7 @@ Aplicações práticas de ML: Text to Speech, Natural Language, entre outros.'
 -
   id: 902
   title: "Escalando Aplicações Distribuídas Usando Estruturas de Dados Probabilísticas"
-  description: "A construção de sistemas de armazenamento tem evoluido rapidamente, os data lakes tem sido uma buzz word no mercado de Dados, mas o que é ? como são feitos ? quais estruturas seu Data Lake deve ter ?
-Quais técnologias ?"
+  description: "Em sistemas distribuídos de alta-performance a latência costuma ser um fator crucial em situações onde existe a necessidade de consultar se um dado faz ou não parte de um conjunto. O armazenamento dos dados em memória garante baixa latência na consulta, porém ocasiona um grande consumo de recursos e, dependendo do volume de informação que se queira armazenar, isso passa a ser inviável. Mostraremos uma maneira de resolver essa questão usando uma estrutura de dados probabilística chamada Bloomfilter. Essa solução nos garantiu, ao mesmo tempo, baixa latência, baixo uso de memória, uma economia de mais de 100GB de memória e uma diminuição de cerca de 8 vezes no tempo de deploy da plataforma."
   subtype: presentation
   speakers: [024]
   complexity: "Avançado"
