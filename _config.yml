@@ -153,7 +153,7 @@ partnersC4sponsorsButton: "Torne-se um patrocinador"
 
 # Tickets Block
 ticketsTitle: "Ingressos"
-ticketsInfo: "Incluso: Acesso as 5 trilhas de conteúdo, estandes, sorteios, camiseta exclusiva do evento (exceto nos lotes indicados) e coffees.<br>
+ticketsInfo: "Incluso: Acesso as 5 trilhas de conteúdo, estandes, sorteios e coffees.<br>
 Membros do GDG Campinas tem desconto de 20% em todos os lotes."
 ticketsOffers:
  -
@@ -187,7 +187,7 @@ ticketsOffers:
   soldOut: true
   soldOutText: "Esgotado"
  -
-  name: "Lebre (Sem Camiseta)"
+  name: "Lebre"
   price: "75,00"
   priceCurrency: "R$"
   ticketsNumber: "TBD"
@@ -200,7 +200,7 @@ ticketsOffers:
   validThrough: "29/10/2017T00:00"
   featured: true
  -
-  name: "Kids (Sem Camiseta)"
+  name: "Kids"
   price: "38,00"
   priceCurrency: "R$"
   ticketsNumber: "TBD"
@@ -213,7 +213,7 @@ ticketsOffers:
   validThrough: "03/11/2017T00:00"
   featured: true
  -
-  name: "Tartaruga (Sem Camiseta)"
+  name: "Tartaruga"
   price: "95,00"
   priceCurrency: "R$"
   ticketsNumber: "TBD"
