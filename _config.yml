@@ -182,7 +182,10 @@ ticketsOffers:
   # ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
   validFrom: "08/10/2017T00:00"
   validThrough: "29/10/2017T00:00"
-  featured: true
+  featured: false
+  disabled: true
+  soldOut: true
+  soldOutText: "Esgotado"
  -
   name: "Lebre (Sem Camiseta)"
   price: "75,00"
@@ -210,8 +213,8 @@ ticketsOffers:
   validThrough: "03/11/2017T00:00"
   featured: true
  -
-  name: "Tartaruga"
-  price: "135,00"
+  name: "Tartaruga (Sem Camiseta)"
+  price: "95,00"
   priceCurrency: "R$"
   ticketsNumber: "TBD"
   buyButtonLink: "https://www.eventbrite.com.br/e/devfest-campinas-2017-tickets-38297336364"
@@ -220,7 +223,8 @@ ticketsOffers:
   # ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
   validFrom: "29/10/2017T00:00"
   validThrough: "30/11/2017T00:00"
-  disabled: true
+  disabled: false
+  featured: true
   # soldOut: true
   # soldOutText: "Sold Out"
 
