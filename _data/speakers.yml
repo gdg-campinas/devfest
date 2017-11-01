@@ -576,6 +576,32 @@ Ao longo de quase 10 anos em experiencia profissional, reservo como realizaçõe
     - {name: "linkedin", link: "https://www.linkedin.com/in/chazbarros/"}
     - {name: "twitter", link: "https://twitter.com/chazbarros"}
 
+# Eduardo Gonçalves
+- 
+  id: 045
+  name: "Eduardo Vicente"
+  surname: "Gonçalves"
+  company: "Operação Serenata de Amor"
+  title: "Sociólogo"
+  bio: "Cuducos é um dos fundadores da Operação Serenata de Amor e doutorando em sociologia (Universidade de Essex, Reino Unido). Ele é um geek apaixonado por código aberto, cultura e política — usa a tecnologia como voz política. Na Serenata ele atua como gestor de comunidade e desenvolvedor."
+  thumbnailUrl: EduardoGoncalves.jpg
+  rockstar: false
+  social: 
+    - {name: "site", link: "http://cuducos.me/"}
+
+# Afonso Oliveira
+- 
+  id: 046
+  name: "Afonso F"
+  surname: "Oliveira"
+  company: "gupy.io"
+  title: "Full Stack Dev e Tech Lead"
+  bio: "Desenvolvedor há 15 anos, Afonso programa por diversão e curiosidade desde que era adolescente. Já se aventurou em startups nos EUA e Canadá e recentemente voltei para o interior do Rio. Sou MBA em Gerenciamento de Projetos e graduado em Ciência da Computação."
+  thumbnailUrl: AfonsoOliveira.jpg
+  rockstar: false
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/afonsof/"}
+
 # Alvaro Viebrantz
 # - 
 #   id: 032

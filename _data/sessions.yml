@@ -56,14 +56,14 @@
   speakers: [029]
   complexity: "Intermediário"
 
-# Erick Wendel - Testes front??
+# Cuducos - ELM
 -
   id: 601
-  title: "A definir"
-  description: "A definir"
+  title: "Problemas que o Elm resolve só com o compilador, sem nada mais"
+  description: "O Elm surgiu para oferecer um ambiente robusto de desenvolvimento para frontend. Sua arquitetura inspirou o Redux, amplamente adotado pela comunidade JavaScript. Mas o Elm por si só é uma linguagem muito poderosa: tanto a tipagem quanto o próprio compilador já nos levam a resolver inúmeros problemas que poderiam passar despercebidos em outras linguagens. Esse live coding mostrará exemplos didáticos de códigos falhos que poderiam ser colocados em produção em outra linguagem, mas que nunca aconteceria se a aplicação fosse em Elm."
   subtype: presentation
-  speakers: []
-  # complexity: ""
+  speakers: [045]
+  complexity: "Introdutório"
 
 # Gabriel Ribeiro + Victor Miguez - Clean JS
 -
@@ -465,14 +465,15 @@ Essa palestra explora os fatores que costumam adicionar complexidade desnecessá
   speakers: [013]
   complexity: "Geral"
 
-# Google - Monetização
+# Afonso - Google Assistant
 -
   id: 1604
-  title: "A definir"
-  description: "A definir"
+  title: "Automatizando uma casa com baixo custo usando Google Assitant e NodeJS"
+  description: "Eu sempre quis ter um assistente como o Jarvis, o C3PO ou a Rosie dos Jetsons. Acredito que a público em geral também tem a vontade de controlar a sua casa apenas com a voz ou usando o celular. Porém hoje dispositivos IoT são muito caros e muitos deles não conversam entre si.
+A proposta é o público aprender como implementar essa automatização de forma barata e inter compatível, fazendo com o que ele tem hoje em casa ser transformado em um dispositivo IoT e ser controlado por voz. Sejam dispositivos simples como lâmpadas ou dispositivos mais complexos como smart TV's."
   subtype: presentation
-  speakers: []
-  # complexity: ""
+  speakers: [046]
+  complexity: "Intermediário"
 
 # -
 #   id: 002
