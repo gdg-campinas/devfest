@@ -19,11 +19,11 @@
     }
     - {
       startTime: "08:50",
-      endTime: "09:30",
+      endTime: "09:10",
       sessionIds: [300]
     }
     - {
-      startTime: "09:30",
+      startTime: "09:10",
       endTime: "09:50",
       sessionIds: [400]
     }
