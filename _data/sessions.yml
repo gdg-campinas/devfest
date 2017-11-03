@@ -273,7 +273,7 @@ Vamos falar também sobre o que aprendemos no Spark Summit EU 2017, e compartilh
 
 # Luiz Gustavo - Android + Machine Learning + Firebase
 -
-  id: 603
+  id: 1103
   title: "Firebase + ML = S2, O Retorno!"
   description: "Nessa palestra vou mostrar como podemos utilizar Machine learning executando em um dispositivo movel
 e integrando ferramentas existentes como Firebase e Google Cloud ML para obter bons resultados
@@ -312,7 +312,7 @@ Nesta palestra, Juliana Salgado, vai mostrar da perspectiva de um deficiente vis
 
 # Walmyr - Flutter
 -
-  id: 1103
+  id: 603
   title: "Flutter.io: Desenvolvendo aplicações pra Android e iOS com Dart"
   description: "Há um tempo o Google criou um SDK de desenvolvimento de aplicações móveis para Android e iOS, chamado Flutter.io. O objetivo do Flutter é que o desenvolvimento mobile se torne rápido e eficiente, com features como hot reload, UIs rodando a 60fps, integrações prontas com o Firebase e APIs nativas e interoperabilidade com códigos existentes em Java, Kotlin, Swift e Objective-C!
 Agora mais maduro, o projeto está ganhando bastante tração e além de ser usado pelo Google, ele foi utilizado no desenvolvimento do aplicativo oficial do musical Hamilton, um dos maiores musicais do mundo, com milhares de downloads no iOS e no Android! 
