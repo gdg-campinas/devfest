@@ -602,6 +602,19 @@ Ao longo de quase 10 anos em experiencia profissional, reservo como realizaçõe
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/afonsof/"}
 
+# Claudio Santos
+- 
+  id: 047
+  name: "Claudio Filipi Gonçalves dos"
+  surname: "Santos"
+  company: "The DAta"
+  title: "CEO, Data Scientst"
+  bio: "Formado em 2007, atualmente é pesquisador pela UNESP trabalhando com Deep Learning e outras técnicas para reconhecimento de padrões, classificação de imagens e diversos outros tipos de dados. Fundador da The Data, empresa com foco em uso de técnicas de Machine Learning, Deep Learning e Inteligência Artificial para resolver os mais diversos problemas."
+  thumbnailUrl: ClaudioSantos.jpg
+  rockstar: false
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/cfsantos85/"}
+
 # Alvaro Viebrantz
 # - 
 #   id: 032

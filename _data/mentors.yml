@@ -342,3 +342,18 @@ E é colocando o ser humano no centro de tudo e resolvendo problemas de forma in
   rockstar: false
   social: 
     - {name: "site", link: "http://cuducos.me/"}
+
+# Luis Felipe
+- 
+  id: 99925
+  name: "Luís"
+  surname: "Felipe"
+  company: "Magnetis Investimentos"
+  title: "Front-End Developer"
+  bio: "Desenvolvedor Front-end desde 2010, hoje trabalho na Magnetis e sou organizador do Meetup Design Campinas. Gosto de tudo que envolve os produtos digitais, desde UX até o código. Sou fã de comunidades!"
+  thumbnailUrl: LuisFelipe.jpg
+  rockstar: false
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/luisfmsouza/"}
+    - {name: "twitter", link: "http://twitter.com/luisfmsouz"}
+    - {name: "site", link: "https://medium.com/@luisfmsouza"}

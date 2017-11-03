@@ -56,13 +56,13 @@
   speakers: [029]
   complexity: "Intermediário"
 
-# Cuducos - ELM
+# Fabio Brolsi - Vue
 -
   id: 601
-  title: "Problemas que o Elm resolve só com o compilador, sem nada mais"
-  description: "O Elm surgiu para oferecer um ambiente robusto de desenvolvimento para frontend. Sua arquitetura inspirou o Redux, amplamente adotado pela comunidade JavaScript. Mas o Elm por si só é uma linguagem muito poderosa: tanto a tipagem quanto o próprio compilador já nos levam a resolver inúmeros problemas que poderiam passar despercebidos em outras linguagens. Esse live coding mostrará exemplos didáticos de códigos falhos que poderiam ser colocados em produção em outra linguagem, mas que nunca aconteceria se a aplicação fosse em Elm."
+  title: "SPA com VueJS"
+  description: "Mostraremos uma aplicação básica feita com VueJS, montando do zero."
   subtype: presentation
-  speakers: [045]
+  speakers: [026]
   complexity: "Introdutório"
 
 # Gabriel Ribeiro + Victor Miguez - Clean JS
@@ -128,13 +128,13 @@ Nesta talk vamos explicar conceitos básicos de código limpo aplicado ao Javasc
   speakers: [022]
   complexity: "Intermediário"
 
-# Fabio Brolsi - Vue
+# Cuducos - ELM
 -
   id: 1501
-  title: "SPA com VueJS"
-  description: "Mostraremos uma aplicação básica feita com VueJS, montando do zero."
+  title: "Problemas que o Elm resolve só com o compilador, sem nada mais"
+  description: "O Elm surgiu para oferecer um ambiente robusto de desenvolvimento para frontend. Sua arquitetura inspirou o Redux, amplamente adotado pela comunidade JavaScript. Mas o Elm por si só é uma linguagem muito poderosa: tanto a tipagem quanto o próprio compilador já nos levam a resolver inúmeros problemas que poderiam passar despercebidos em outras linguagens. Esse live coding mostrará exemplos didáticos de códigos falhos que poderiam ser colocados em produção em outra linguagem, mas que nunca aconteceria se a aplicação fosse em Elm."
   subtype: presentation
-  speakers: [026]
+  speakers: [045]
   complexity: "Introdutório"
 
 # Eduardo Matos - monolitico stack front
@@ -447,14 +447,15 @@ Essa palestra explora os fatores que costumam adicionar complexidade desnecessá
   speakers: [041, 042]
   complexity: "Geral"
 
-# Google - Ads
+# Afonso - Google Assistant
 -
   id: 1404
-  title: "A definir"
-  description: "A definir"
+  title: "Automatizando uma casa com baixo custo usando Google Assitant e NodeJS"
+  description: "Eu sempre quis ter um assistente como o Jarvis, o C3PO ou a Rosie dos Jetsons. Acredito que a público em geral também tem a vontade de controlar a sua casa apenas com a voz ou usando o celular. Porém hoje dispositivos IoT são muito caros e muitos deles não conversam entre si.
+A proposta é o público aprender como implementar essa automatização de forma barata e inter compatível, fazendo com o que ele tem hoje em casa ser transformado em um dispositivo IoT e ser controlado por voz. Sejam dispositivos simples como lâmpadas ou dispositivos mais complexos como smart TV's."
   subtype: presentation
-  speakers: []
-  # complexity: "Introdutório"
+  speakers: [046]
+  complexity: "Intermediário"
 
 # Nelson Vasconcelos - Onboarding
 -
@@ -465,15 +466,15 @@ Essa palestra explora os fatores que costumam adicionar complexidade desnecessá
   speakers: [013]
   complexity: "Geral"
 
-# Afonso - Google Assistant
+# Google - Ads
 -
   id: 1604
-  title: "Automatizando uma casa com baixo custo usando Google Assitant e NodeJS"
-  description: "Eu sempre quis ter um assistente como o Jarvis, o C3PO ou a Rosie dos Jetsons. Acredito que a público em geral também tem a vontade de controlar a sua casa apenas com a voz ou usando o celular. Porém hoje dispositivos IoT são muito caros e muitos deles não conversam entre si.
-A proposta é o público aprender como implementar essa automatização de forma barata e inter compatível, fazendo com o que ele tem hoje em casa ser transformado em um dispositivo IoT e ser controlado por voz. Sejam dispositivos simples como lâmpadas ou dispositivos mais complexos como smart TV's."
+  title: "Muito alem de Classificação com Deep Learning - Generative Adversarial Networks"
+  description: "Deep Learning é um dos temas mais abordados nos dias de hoje. A capacidade de classificação de imagens, sons e texto são bem conhecidas, conseguindo índices de acertos maiores que os de humanos em certos casos porem há poucas informações sobre o que mais é possível fazer com aprendizado profundo. Nessa palestra será demonstrada outras capacidades dessas redes neurais, como a geração de novos dados usando Generative Adversarial Networks."
   subtype: presentation
-  speakers: [046]
+  speakers: [047]
   complexity: "Intermediário"
+
 
 # -
 #   id: 002
