@@ -393,14 +393,14 @@ Essa palestra explora os fatores que costumam adicionar complexidade desnecessá
   speakers: [018]
   complexity: "Geral"
 
-# Ju - Growth Hacking
+# Claudio - GAN
 -
   id: 704
-  title: "Growth Hacking"
-  description: "A definir"
+  title: "Muito alem de Classificação com Deep Learning - Generative Adversarial Networks"
+  description: "Deep Learning é um dos temas mais abordados nos dias de hoje. A capacidade de classificação de imagens, sons e texto são bem conhecidas, conseguindo índices de acertos maiores que os de humanos em certos casos porem há poucas informações sobre o que mais é possível fazer com aprendizado profundo. Nessa palestra será demonstrada outras capacidades dessas redes neurais, como a geração de novos dados usando Generative Adversarial Networks."
   subtype: presentation
-  speakers: [035]
-  # complexity: ""
+  speakers: [047]
+  complexity: "Intermediário"
 
 # Daniel Furtado - Design centrado no usuário
 -
@@ -466,15 +466,14 @@ A proposta é o público aprender como implementar essa automatização de forma
   speakers: [013]
   complexity: "Geral"
 
-# Google - Ads
+# Ju - Growth Hacking
 -
   id: 1604
-  title: "Muito alem de Classificação com Deep Learning - Generative Adversarial Networks"
-  description: "Deep Learning é um dos temas mais abordados nos dias de hoje. A capacidade de classificação de imagens, sons e texto são bem conhecidas, conseguindo índices de acertos maiores que os de humanos em certos casos porem há poucas informações sobre o que mais é possível fazer com aprendizado profundo. Nessa palestra será demonstrada outras capacidades dessas redes neurais, como a geração de novos dados usando Generative Adversarial Networks."
+  title: "Growth Hacking"
+  description: ""
   subtype: presentation
-  speakers: [047]
-  complexity: "Intermediário"
-
+  speakers: [035]
+  complexity: "Introdutório"
 
 # -
 #   id: 002
