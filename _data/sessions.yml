@@ -282,14 +282,14 @@ a um baixo custo, de forma eficiente tanto do ponto de vista de processador quan
   speakers: [017]
   complexity: "Intermediario"
 
-# Richard - Interfaces de texto e chatbot
+# Luís Felipe - Reactive Native
 -
   id: 703
-  title: "Interfaces de texto e chatbot"
-  description: ""
+  title: "Desenvolvendo aplicativos nativos com React Native"
+  description: " Falarei sobre as principais diferenças entre o desenvolvimento de aplicativos móveis usando React Native e outros formas de desenvolver Apps. E também vou mostrar a semelhança entre React Native e o desenvolvimento web"
   subtype: presentation
-  speakers: [008]
-  complexity: "Intermediário"
+  speakers: [031]
+  complexity: "Introdutório"
 
 # Ubiratan - Architecture Components
 -
@@ -343,14 +343,14 @@ Nesse talk vamos aprender a configuração básica do Flutter, uma leve introdu�
   speakers: [020]
   complexity: "Avançado"
 
-# Luís Felipe - Reactive Native
+# Richard - Interfaces de texto e chatbot
 -
   id: 1403
-  title: "Desenvolvendo aplicativos nativos com React Native"
-  description: " Falarei sobre as principais diferenças entre o desenvolvimento de aplicativos móveis usando React Native e outros formas de desenvolver Apps. E também vou mostrar a semelhança entre React Native e o desenvolvimento web"
+  title: "Interfaces de texto e chatbot"
+  description: ""
   subtype: presentation
-  speakers: [031]
-  complexity: "Introdutório"
+  speakers: [008]
+  complexity: "Intermediário"
 
 # Charles - AR
 -
