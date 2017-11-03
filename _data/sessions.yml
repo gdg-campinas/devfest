@@ -293,7 +293,7 @@ a um baixo custo, de forma eficiente tanto do ponto de vista de processador quan
 
 # Ubiratan - Arquiteturas Reativas
 -
-  id: 903
+  id: 1403
   title: "Evoluindo Arquiteturas Reativas"
   description: "Nessa palestra serão discutidas abordagens para criação de aplicações Android usando programação reativa aplicada à arquitetura da aplicação, com base na experiência intensiva voltada à criação de apps móveis no Magazine Luiza. Serão exploradas técnicas como Model-View-Presenter e outras para ilustrar como podemos fazer uma aplicação ser 100% reativa no contexto do Android."
   subtype: presentation
@@ -341,7 +341,7 @@ Nesse talk vamos aprender a configuração básica do Flutter, uma leve introdu�
 
 # Richard - Interfaces de texto e chatbot
 -
-  id: 1403
+  id: 903
   title: "Interfaces de texto e chatbot"
   description: ""
   subtype: presentation
