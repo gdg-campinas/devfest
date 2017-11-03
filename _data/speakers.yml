@@ -615,6 +615,19 @@ Ao longo de quase 10 anos em experiencia profissional, reservo como realizaçõe
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/cfsantos85/"}
 
+# Diego Alvarez
+- 
+  id: 048
+  name: "Diego"
+  surname: "Alvarez"
+  company: "Nextel Telecomunicações"
+  title: "Chief Digital Officer"
+  bio: "Engenheiro de computação, formado pelo ITA, teve uma trajetória como developer, onde passou por experiências em empresas como Globo.com (Brasil), Google (EUA) e Microsoft (EUA). Posteriormente, decidiu entrar no mundo dos negócios em startups (CEO / Co-founder da Easyaula, CEO Airu (Rocket internet) e CPO eduk) e agora atua como Diretor de Digital da Nextel, ajudando a reinventar o mercado de telecomunicações."
+  thumbnailUrl: DiegoAlvarez.jpg
+  rockstar: false
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/dalvac"}
+
 # Alvaro Viebrantz
 # - 
 #   id: 032

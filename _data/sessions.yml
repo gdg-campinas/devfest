@@ -22,8 +22,8 @@
   place: ""
   subtype: keynote
   description: ""
-  speakers: []
-  service: true # remove when it has content
+  speakers: [048]
+  # service: true # remove when it has content
 -
   id: 800
   title: "Almoço"
