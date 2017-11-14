@@ -122,8 +122,6 @@ Já teve passagens no AppProva, B2W Digital, UOL, Terraforum (atual Globant), en
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/anabatista/"}
 
-
-
 # Matheus Candido
 - 
   id: 9993
@@ -152,7 +150,6 @@ Já teve passagens no AppProva, B2W Digital, UOL, Terraforum (atual Globant), en
   mentor: true
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/brorlandi"}
-
 
 # Yan Magalhaes
 - 
@@ -209,21 +206,6 @@ Já teve passagens no AppProva, B2W Digital, UOL, Terraforum (atual Globant), en
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/danieltakaki"}
 
-
-# Amanda Vilela
-- 
-  id: 9999
-  name: "Amanda"
-  surname: "Vilela"
-  company: "IBM"
-  title: "Desenvolvedora front-end"
-  bio: "Desenvolvedora front-end e UI designer há mais de 5 anos, adora tudo sobre tecnologia, principalmente sobre UX. Organizadora do GDG Sorocaba, SorocabaCSS, Rails Girls Sorocaba e CodePen Meetup Brazil, adora compartilhar conhecimento e se envolver em projetos que trazem mais pessoas para a área de tecnologia. "
-  thumbnailUrl: AmandaVilela.jpg
-  rockstar: false
-  social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/amanda-vilela"}
-
-
 # Marco Garcia
 - 
   id: 99910
@@ -236,19 +218,6 @@ Já teve passagens no AppProva, B2W Digital, UOL, Terraforum (atual Globant), en
   rockstar: false
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/mgarciacetax/"}
-
-# Virgílio Solano Silva Magalhães
-- 
-  id: 99911
-  name: "Virgílio"
-  surname: "Magalhães"
-  company: "CI&T"
-  title: "Engenheiro de software"
-  bio: "Engenheiro de Software na CI&T, trabalha com Android há mais de 5 anos, possui experiência em contratos nacionais e internacionais."
-  thumbnailUrl: VirgilioSolano.jpg
-  rockstar: false
-  social: 
-    - {name: "linkedin", link: "https://br.linkedin.com/in/virgiliosolano"}
 
 # Igor Luiz
 - 
@@ -315,20 +284,6 @@ Já teve passagens no AppProva, B2W Digital, UOL, Terraforum (atual Globant), en
   rockstar: false
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/thaissacandella/"}
-
-# Alex Silva
-- 
-  id: 99923
-  name: "Alex da"
-  surname: "Silva"
-  company: "Weme"
-  title: "Business and Innovation Designer"
-  bio: "Formado em Comunicação Social pela Esamc, pós graduado em Gestão de Estratégia e Empresas pela Unicamp, com extensão em Gestão de Projetos pela ESPM e Branding pelo Insper e curso em Design Thinking, Future Thinking e Abordagem Ágil Aplicada na Gestão de Projetos: Scrum, hoje me dedico a weme na aceleração de projeto​s e​ ​na aceleração de pessoas por meio de oficinas de conhecimento.
-E é colocando o ser humano no centro de tudo e resolvendo problemas de forma inovadora e empática​ que consegui​ e consigo​ fazer a diferença em projetos de design, gestão, modelagem de negócio​s​ e inovação para empresas como Bosch, Kärcher, 3M, DHL, Oba Hortifruti, Monsanto, HST, entre outras empresas."
-  thumbnailUrl: AlexSilva.jpg
-  rockstar: false
-  social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/alexdasilva1/"}
 
 # Luis Felipe
 - 
