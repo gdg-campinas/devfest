@@ -93,9 +93,9 @@ heroButtons:
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "350", specialCharacter: "+", info: "participantes", detail: "de Campinas e região"}
+ - {count: "390", specialCharacter: "", info: "participantes", detail: "de Campinas e região"}
  - {count: "9", specialCharacter: "+", info: "horas", detail: "de muito networking e conteúdo de altíssima qualidade"}
- - {count: "40", specialCharacter: "", info: "palestrantes", detail: "referências nos assuntos"}
+ - {count: "46", specialCharacter: "", info: "palestrantes", detail: "referências nos assuntos"}
  - {count: "5", specialCharacter: "", info: "trilhas", detail: "simultâneas"}
 
 # Latest News Block
