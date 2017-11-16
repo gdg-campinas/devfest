@@ -628,6 +628,19 @@ Ao longo de quase 10 anos em experiencia profissional, reservo como realizaçõe
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/dalvac"}
 
+# Beatriz Bevilaqua
+- 
+  id: 049
+  name: "Beatriz"
+  surname: "Bevilaqua"
+  company: "StartSe"
+  title: "Colaboradora e Redatora Especial"
+  bio: "Beatriz Bevilaqua é jornalista e comunicadora de empresas inovadoras e startups. Nos últimos anos fez a comunicação de grandes empresas de tecnologia como Google Apps For Work (atual G Suite), a escola de programação francesa Le Wagon e a aceleradora Startup Farm, considerada uma das mais prestigiadas aceleradoras da América Latina. É empreendedora na área de PR, consultora de comunicação e colunista do Portal Startse. Escreve sobre  empreendedorismo feminino e apoia projetos de inclusão da mulher na tecnologia."
+  thumbnailUrl: BeatrizBevilaqua.jpg
+  rockstar: false
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/beatriz-bevilaqua-a280a528"}
+
 # Alvaro Viebrantz
 # - 
 #   id: 032
