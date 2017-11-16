@@ -30,6 +30,7 @@
     - {name: "HBSIS", description: "HBSIS", link: "http://www.hbsis.com.br/", imageUrl: "hbsis.png", width: "80%"}
     - {name: "CI&T", description: "CI&T", link: "http://www.ciandt.com/br-pt", imageUrl: "ciet.png", width: "80%"}
     - {name: "Botti", description: "Botti", link: "https://www.linkedin.com/in/rodrigo-botti/", imageUrl: "botti.png"}
+    - {name: "iMaster", description: "iMasters", link: "https://imasters.com.br/", imageUrl: "imasters.png"}
 
 -
   group: "Apoio"
@@ -37,4 +38,5 @@
     - {name: "Ctrl+Play", description: "Ctrl+Play", link: "http://www.ctrlplay.com.br/", imageUrl: "ctrlplay.png"}
     - {name: "CAS", description: "CAS", link: "http://www.casbrasil.com.br/", imageUrl: "cas.svg"}
     - {name: "IoTMakers", description: "IoTMakers", link: "http://iotmakers.com.br/", imageUrl: "iotmakers.png"}
-    - {name: "Wezen", description: "Wezen", link: "http://wezen.com.br/site/", imageUrl: "wezen.png"}    
+    - {name: "Wezen", description: "Wezen", link: "http://wezen.com.br/site/", imageUrl: "wezen.png"}
+    - {name: "Novatec", description: "Novatec", link: "https://novatec.com.br/", imageUrl: "novatec.png"}

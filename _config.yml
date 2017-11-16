@@ -198,7 +198,9 @@ ticketsOffers:
   # ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
   validFrom: "08/10/2017T00:00"
   validThrough: "29/10/2017T00:00"
-  featured: true
+  featured: false
+  soldOut: true
+  soldOutText: "Esgotado"
  -
   name: "Kids"
   price: "38,00"
@@ -211,7 +213,9 @@ ticketsOffers:
   # ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
   validFrom: "27/10/2017T00:00"
   validThrough: "03/11/2017T00:00"
-  featured: true
+  featured: false
+  soldOut: true
+  soldOutText: "Esgotado"
  -
   name: "Tartaruga"
   price: "95,00"
@@ -224,9 +228,9 @@ ticketsOffers:
   validFrom: "29/10/2017T00:00"
   validThrough: "30/11/2017T00:00"
   disabled: false
-  featured: true
-  # soldOut: true
-  # soldOutText: "Sold Out"
+  featured: false
+  soldOut: true
+  soldOutText: "Esgotado"
 
 # Footer
 socialLinks:
