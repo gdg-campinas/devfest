@@ -193,3 +193,13 @@
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/eduardo-petreca-45bba1bb/"}
     - {name: "facebook", link: "https://www.facebook.com/eduardo.petreca"}
+- 
+  id: 33
+  name: "Letícia"
+  surname: "Melendez"
+  title: "Operacional"
+  thumbnailUrl: LeticiaMelendez.jpg
+  support: true
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/leticiam5/"}
+    - {name: "facebook", link: "facebook.com/leticia.m5"}
