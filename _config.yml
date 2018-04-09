@@ -262,6 +262,12 @@ footerBlocks:
    - {link: "https://chat.whatsapp.com/H7KW7cqz9pVCbw9onN48qZ", text: "Whatsapp"}
    - {link: "https://gdg-campinas.github.io/devfest/", text: "DevFest Campinas 2017"}
  -
+  title: "Eventos 2018"
+  links:
+   - {link: "https://gdg-campinas.github.io/androidfest/", text: "AndroidFest"}
+   - {link: "https://gdg-campinas.github.io/datafest/", text: "DataFest"}   
+   - {link: "https://gdg-campinas.github.io/qualityfest/", text: "QualityFest"}
+ -
   title: "Contatos"
   links:
    - {link: "mailto:contato@gdg-campinas.org", text: "contato@gdg-campinas.org"}
