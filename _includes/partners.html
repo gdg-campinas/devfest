@@ -31,8 +31,11 @@
               {% endfor %}
           </ul>
           {% endfor %}
-          <a href="{{ site.c4sponsorsUrl }}" class="btn btn-primary waves-effect waves-button waves-light waves-float" target="_blank">{{ site.partnersC4sponsorsButton }}</a>
-          <!-- <a href="{{ site.c4sponsorsUrl | prepend: site.baseurl }}" class="btn btn-primary waves-effect waves-button waves-light waves-float">{{ site.partnersC4sponsorsButton }}</a> -->
+          <a href="{{ site.c4sponsorsUrl }}" 
+            class="btn btn-primary waves-effect waves-button waves-light waves-float"
+            target="{% if site.c4sponsorsUrl contains ':' %}_top{% else %}_blank{% endif %}">
+            {{ site.partnersC4sponsorsButton }}
+          </a>
       </div>
   </div> 
 </section>

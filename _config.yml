@@ -26,7 +26,7 @@ aboutEvent:
   content: "O DevFest é uma conferência te tecnlogia voltada para interessados no assunto de Campinas e região."
 aboutGDG:
   title: "O QUE É O GDG?"
-  content: "O GDG Campinas é parte de um programa do Google (Google Developer Group) sendo atualmente 1 de mais de 675 comunidades espalhadas pelo mundo. 
+  content: "O GDG Campinas é parte de um programa do Google (Google Developer Group) sendo atualmente 1 de mais de 700 comunidades espalhadas pelo mundo. 
   <br> Possuimos o objetivo de proporcionar ambientes de compartilhamento de conhecimento sobre os mais diversos assuntos que permeiam o desenvolvimento de um produto (software), da maneira mais acessível a todos que estiverem dispostos a aprender e compartilhar."
 
 # Organizer Info
@@ -48,7 +48,7 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 c4pUrl: "https://goo.gl/forms/HZdUM2UqPVusZci12"
 c4pTitle: "Submeta um conteúdo"
 c4pDescription: "Se tiver interesse em compartilhar seu conhecimento com a comunidade submeta uma PALESTRA, se voluntarie como MENTOR e/ou solicite um estande para a sua COMUNIDADE"
-c4sponsorsUrl: "https://docs.google.com/presentation/d/1IyQCkhEZjP_dpwPdm61BaqXHdFBICdKUHq_n5xTNi-0/edit#slide=id.g35f391192_00"
+c4sponsorsUrl: "mailto:contato@gdg-campinas.org?Subject=%5BPatrocinio%5D%20Devfest%202018"
 c4mentorUrl: "https://goo.gl/forms/qIcrpQv6mXIyJ2V33"
 c4mentorTitle: "Inscreva-se para mentoria"
 c4mentorDescription: ""
@@ -57,31 +57,30 @@ c4mentorDescription: ""
 navigationLinks:
  - {permalink: "/", text: "Principal"}
 #  - {permalink: "/blog/", text: "Blog"}
- - {permalink: "/schedule/", text: "Grade"}
- - {permalink: "/speakers/", text: "Palestrantes"}
- - {permalink: "/mentors/", text: "Mentoria"}
+#  - {permalink: "/schedule/", text: "Grade"}
+#  - {permalink: "/speakers/", text: "Palestrantes"}
+#  - {permalink: "/mentors/", text: "Mentoria"}
 #  - {permalink: "/kids/", text: "Trilha Kids"}
 #  - {permalink: "/logistics/", text: "Logistics"}
 #  - {permalink: "/hackathon/", text: "Hackathon"}
- - {link: "https://goo.gl/forms/giwSyQAtqV4kUgHC3", text: "Torne-se um membro"}
+#  - {link: "https://goo.gl/forms/giwSyQAtqV4kUgHC3", text: "Torne-se um membro"}
  - {permalink: "/team/", text: "Time"}
  
 bottomNavigationLinks:
- - {link: "https://www.eventbrite.com.br/e/devfest-campinas-2017-tickets-38297336364
-", text: "Ingressos"}
+ - {link: "https://goo.gl/forms/6GA9brCAOh3v3n3k1", text: "Fique por dentro"}
 rightNavigationButtons:
- - {link: "https://www.eventbrite.com.br/e/devfest-campinas-2017-tickets-38297336364
-", text: "Ingressos"}
+ - {link: "https://goo.gl/forms/6GA9brCAOh3v3n3k1", text: "Fique por dentro"}
 
 # Hero Block
 heroImage: "hero.png"
-heroTitle: "DevFest <typeout> 2017"
-eventDate: "4 de Novembro de 2017"
+heroTitle: "DevFest <typeout> 2018"
+eventDate: "Novembro de 2018"
 typeoutTextValues: '"", "Campinas"'
 typeoutFallback: "Campinas"
+heroButtonHint: "Deixe seu email no link abaixo e receba informações sobre os ingressos assim que liberados"
 heroButtons:
 #  - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
- - {permalink: "/#tickets", text: "Ingressos"}
+ - {link: "https://goo.gl/forms/6GA9brCAOh3v3n3k1", text: "Fique por dentro"}
 
 # About Block
 # aboutTitle: "About GDG DevFest"
@@ -92,6 +91,7 @@ heroButtons:
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
+statisticBlockTitle: "Dados 2017"
 statisticBlock:
  - {count: "400", specialCharacter: "", info: "participantes", detail: "de Campinas e região"}
  - {count: "9", specialCharacter: "+", info: "horas", detail: "de muito networking e conteúdo de altíssima qualidade"}
@@ -106,7 +106,20 @@ rockstarSpeakersImage: "background-speakers.jpg"
 rockstarSpeakersCount: 4
 rockstarSpeakersTitle: "Destaques"
 rockstarLinkEnabled: true
-rockstarSpeakersButtonText: "Veja todos os palestrantes"
+rockstarSpeakersTitle: "Destaques 2017"
+rockstarSpeakersButtonText: "Seja um palestrante em 2018"
+rockstarSpeakersButtonLink: "https://goo.gl/forms/xBtrzGaVkbDhMtUN2"
+
+# Media
+media:
+  title: "Veja como foi o Devfest 2017"
+  video: "https://www.youtube.com/embed/zE_sph24Qrk"
+  photos:
+    row: 4
+    total: 16
+  button:
+    text: "Devfest 2017"
+    link: "https://gdg-campinas.github.io/devfest-2017/"
 
 # Location Block
 locationBlockTitle: "Localização"
@@ -234,10 +247,11 @@ ticketsOffers:
 
 # Footer
 socialLinks:
- - {link: "https://plus.google.com/+GDG-CampinasOrg", icon: "google-plus"}
- - {link: "https://twitter.com/gdgcampinas", icon: "twitter"}
  - {link: "https://www.facebook.com/gdgcampinas/", icon: "facebook"}
  - {link: "https://www.linkedin.com/company-beta/15240699/", icon: "linkedin"}
+ - {link: "https://twitter.com/gdgcampinas", icon: "twitter"}
+ - {link: "https://plus.google.com/+GDG-CampinasOrg", icon: "google-plus"} 
+ 
 #  - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
  -
@@ -246,7 +260,7 @@ footerBlocks:
    - {link: "https://www.meetup.com/gdgcampinas/", text: "Meetup"}
    - {link: "https://www.facebook.com/groups/gdgcampinas/", text: "Grupo Facebook"}
    - {link: "https://chat.whatsapp.com/H7KW7cqz9pVCbw9onN48qZ", text: "Whatsapp"}
-   - {link: "https://devfestcampinas.firebaseapp.com/", text: "DevFest Campinas 2016"}
+   - {link: "https://gdg-campinas.github.io/devfest/", text: "DevFest Campinas 2017"}
  -
   title: "Contatos"
   links:
@@ -269,7 +283,7 @@ showMentorSessions: false
 
 # Team Block
 teamBlockTitle: "Quem somos"
-aboutUs: "O GDG Campinas é parte de um programa do Google (Google Developer Group) sendo atualmente 1 de mais de 675 comunidades espalhadas pelo mundo. 
+aboutUs: "O GDG Campinas é parte de um programa do Google (Google Developer Group) sendo atualmente 1 de mais de 700 comunidades espalhadas pelo mundo. 
   <br> Possuimos o objetivo de proporcionar ambientes de compartilhamento de conhecimento sobre os mais diversos assuntos que permeiam o desenvolvimento de um produto (software), da maneira mais acessível a todos que estiverem dispostos a aprender e compartilhar."
 teamOrganizerTitle: "Organizadores"
 
