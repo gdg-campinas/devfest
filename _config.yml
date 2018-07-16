@@ -74,7 +74,7 @@ rightNavigationButtons:
 # Hero Block
 heroImage: "hero.png"
 heroTitle: "DevFest <typeout> 2018"
-eventDate: "Novembro de 2018"
+eventDate: "24 de Novembro de 2018"
 typeoutTextValues: '"", "Campinas"'
 typeoutFallback: "Campinas"
 heroButtonHint: "Deixe seu email no link abaixo e receba informações sobre os ingressos assim que liberados"
@@ -91,9 +91,9 @@ heroButtons:
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
-statisticBlockTitle: "Dados 2017"
+# statisticBlockTitle: "Dados"
 statisticBlock:
- - {count: "400", specialCharacter: "", info: "participantes", detail: "de Campinas e região"}
+ - {count: "450", specialCharacter: "", info: "participantes", detail: "de Campinas e região"}
  - {count: "9", specialCharacter: "+", info: "horas", detail: "de muito networking e conteúdo de altíssima qualidade"}
  - {count: "46", specialCharacter: "", info: "palestrantes", detail: "referências nos assuntos"}
  - {count: "5", specialCharacter: "", info: "trilhas", detail: "simultâneas"}
