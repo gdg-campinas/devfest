@@ -65,6 +65,7 @@ navigationLinks:
 #  - {permalink: "/hackathon/", text: "Hackathon"}
 #  - {link: "https://goo.gl/forms/giwSyQAtqV4kUgHC3", text: "Torne-se um membro"}
  - {permalink: "/team/", text: "Time"}
+ - {link: "https://github.com/gdg-campinas/devfest-code-of-conduct/blob/master/README.md", text: "Código de Conduta"} 
  
 bottomNavigationLinks:
  - {link: "https://goo.gl/forms/6GA9brCAOh3v3n3k1", text: "Fique por dentro"}
