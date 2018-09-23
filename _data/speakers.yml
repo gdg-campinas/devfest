@@ -12,3 +12,15 @@
     - { name: "linkedin", link: "http://www.linkedin.com/in/gabidavila" }
     - { name: "twitter", link: "http://www.twitter.com/gabidavila" }
 
+# Fabiano Monte
+-
+  id: 002
+  name: "Fabiano Queiroz"
+  surname: "Monte"
+  company: "IE Intercâmbio"
+  title: "Analista de Sistemas"
+  bio: "Profissional de TI formado e com mais de 20 anos de experiência. Consultor de novas tecnologias, IoT, Machine Learning, Integração Contínua, Scrum, DevOps e palestrante sobre Ferramentas Google. Sou um cara que acredita nas pessoas, gosta de aprender e ensinar. Amo e luto muito pela area de tecnologia e inovação. Incentivo a comunidade e sou líder do GDG Grande Vitória no ES. Participo e faço eventos de tecnologia entre eles o GDG, Google I/O, Tedx, Startup Weekend, Hackaton da Globo e DevES."
+  thumbnailUrl: FabianoMonte.jpg
+  rockstar: true
+  social:
+    - { name: "site", link: "http://fabianomonte.info/" }

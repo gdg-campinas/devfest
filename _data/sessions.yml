@@ -1,4 +1,4 @@
-# speaker
+# Gabriela Ferrara
 -
   id: 101
   title: "Do Zero ao Auto ML (From Zero to Auto ML)"
@@ -6,3 +6,12 @@
   subtype: presentation
   speakers: [001]
   complexity: Básico
+
+# Fabiano Monte
+-
+  id: 201
+  title: "Comunidade esse é o Espírito"
+  description: "Para entender que mesmo na adversidade quem quer ajudar os outros e fazer a diferença não fica arrumando desculpas. Arruma soluções e faz acontecer."
+  subtype: presentation
+  speakers: [002]
+  complexity: Intermediário
