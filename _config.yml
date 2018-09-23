@@ -15,7 +15,7 @@ email: "contato@gdg-campinas.org"
 description: "O DevFest é uma conferência te tecnlogia voltada para interessados no assunto de Campinas e região."
 baseurl: "/devfest"
 url: "https://gdg-campinas.github.io"
-permalink: "/blog/:title"
+# permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-43643469-5"
 googleAnalyticsSiteUrl: "gdg-campinas.github.io"
 siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
@@ -58,7 +58,7 @@ navigationLinks:
  - {permalink: "/", text: "Principal"}
 #  - {permalink: "/blog/", text: "Blog"}
 #  - {permalink: "/schedule/", text: "Grade"}
-#  - {permalink: "/speakers/", text: "Palestrantes"}
+ - {permalink: "/speakers/", text: "Palestrantes"}
 #  - {permalink: "/mentors/", text: "Mentoria"}
 #  - {permalink: "/kids/", text: "Trilha Kids"}
 #  - {permalink: "/logistics/", text: "Logistics"}
@@ -107,7 +107,6 @@ rockstarSpeakersImage: "background-speakers.jpg"
 rockstarSpeakersCount: 4
 rockstarSpeakersTitle: "Destaques"
 rockstarLinkEnabled: true
-rockstarSpeakersTitle: "Destaques 2017"
 rockstarSpeakersButtonText: "Seja um palestrante em 2018"
 rockstarSpeakersButtonLink: "https://goo.gl/forms/xBtrzGaVkbDhMtUN2"
 
