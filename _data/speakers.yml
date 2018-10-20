@@ -24,3 +24,17 @@
   rockstar: true
   social:
     - { name: "site", link: "http://fabianomonte.info/" }
+
+# Jon Bloom
+-
+  id: 003
+  name: "Jon"
+  surname: "Bloom"
+  company: "Google"
+  title: "Senior Conversation Designer"
+  bio: "Jonathan Bloom is a Senior Conversation Designer for Google, focusing on the Google Assistant. Jon was previously the UX Research Lead for the social robot Jibo, named one of Time Magazine’s 25 Best Inventions of 2017. Jon was also Senior Voice User Interface Manager for Nuance Communications, where he sat on Nuance’s Innovation Steering Committee. Over his 20-year career, Jon has designed graphic, speech, and multimodal user interfaces for robots, IVR’s, dictation software, cars, and mobile applications.  He has designed for Citibank, Verizon, Amtrak, Time Warner, Guardian, USAA, Charter Communications, Nestle Waters, eBay, Radio Shack, and many others.  Jon holds a Ph.D. in Cognitive Psychology from the New School for Social Research."
+  thumbnailUrl: JonBloom.jpg
+  rockstar: true
+  social:
+    - { name: "twitter", link: "https://twitter.com/talk2machines" }
+    - { name: "linkedin", link: "https://www.linkedin.com/in/jonathan-bloom-0293124/" }

@@ -15,3 +15,12 @@
   subtype: presentation
   speakers: [002]
   complexity: Intermediário
+
+# Jon Bloom
+-
+  id: 301
+  title: "Keynote: Designing Exceptional Conversations"
+  description: "More people are incorporating intelligent assistants into their lives every day. And as the users arrive, the playing field of available actions is becoming more crowded. One of the key differences between good actions and great actions - the kind that people return to - lies in the design. In this talk, Jon Bloom will talk to you about the design thinking, and the work, that needs to go into an action to make it not just \"good enough\", but exceptional."
+  subtype: presentation
+  speakers: [003]
+  complexity: Básico
