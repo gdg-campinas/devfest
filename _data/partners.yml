@@ -2,3 +2,7 @@
   group: "Especialista"
   elements:
     - {name: "Movile", description: "Movile", link: "https://movile.com/", imageUrl: "movile.png", width: "115%"}
+-
+  group: "Intern"
+  elements:
+    - {name: "CI&T", description: "CI&T", link: "http://www.ciandt.com/br-pt", imageUrl: "ciet.png", width: "80%"}
