@@ -24,3 +24,12 @@
   subtype: presentation
   speakers: [003]
   complexity: Básico
+
+# Maujor
+-
+  id: 401
+  title: "Keynote de Encerramento"
+  description: "Keynote de Encerramento"
+  subtype: presentation
+  speakers: [004]
+  complexity: Todos
