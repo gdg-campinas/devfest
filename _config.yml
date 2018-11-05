@@ -68,9 +68,9 @@ navigationLinks:
  - {link: "https://github.com/gdg-campinas/devfest-code-of-conduct/blob/master/README.md", text: "Código de Conduta"} 
  
 bottomNavigationLinks:
- - {link: "https://goo.gl/forms/6GA9brCAOh3v3n3k1", text: "Fique por dentro"}
+ - {link: "https://www.eventbrite.com.br/e/devfest-campinas-2018-tickets-51723447223", text: "Compre seu ingresso"}
 rightNavigationButtons:
- - {link: "https://goo.gl/forms/6GA9brCAOh3v3n3k1", text: "Fique por dentro"}
+ - {link: "https://www.eventbrite.com.br/e/devfest-campinas-2018-tickets-51723447223", text: "Compre seu ingresso"}
 
 # Hero Block
 heroImage: "hero.png"
@@ -78,10 +78,10 @@ heroTitle: "DevFest <typeout> 2018"
 eventDate: "24 de Novembro de 2018"
 typeoutTextValues: '"", "Campinas"'
 typeoutFallback: "Campinas"
-heroButtonHint: "Deixe seu email no link abaixo e receba informações sobre os ingressos assim que liberados"
+# heroButtonHint: "Deixe seu email no link abaixo e receba informações sobre os ingressos assim que liberados"
 heroButtons:
-#  - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
- - {link: "https://goo.gl/forms/6GA9brCAOh3v3n3k1", text: "Fique por dentro"}
+ - {link: "#tickets", text: "Ingressos"}
+#  - {link: "https://goo.gl/forms/6GA9brCAOh3v3n3k1", text: "Fique por dentro"}
 
 # About Block
 # aboutTitle: "About GDG DevFest"
@@ -166,83 +166,128 @@ partnersC4sponsorsButton: "Torne-se um patrocinador"
 
 # Tickets Block
 ticketsTitle: "Ingressos"
-ticketsInfo: "Incluso: Acesso as 5 trilhas de conteúdo, estandes, sorteios e coffees.<br>
-Membros do GDG Campinas tem desconto de 20% em todos os lotes."
+# ticketsInfo: "Incluso: Acesso as 5 trilhas de conteúdo, estandes, sorteios e coffees.<br>
+# Membros do GDG Campinas tem desconto de 20% em todos os lotes."
 ticketsOffers:
  -
-  name: "Ligeirinho"
-  price: "95,00"
+  name: "Early Bird (só ingresso)"
+  price: "80,00"
   priceCurrency: "R$"
   ticketsNumber: "TBD"
-  # ribbon: "-5%"
-  buyButtonLink: "https://www.eventbrite.com.br/e/devfest-campinas-2017-tickets-38297336364"
+  buyButtonLink: "https://www.eventbrite.com.br/e/devfest-campinas-2018-tickets-51723447223"
   buyButtonText: "Comprar"
-  # ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "26/09/2017T17:00"
-  validThrough: "08/10/2017T00:00"
+  validFrom: ""
+  validThrough: ""
+  disabled: true
+  featured: false  
   soldOut: true
   soldOutText: "Esgotado"
-  disabled: true
  -
-  name: "Lebre"
-  price: "115,00"
+  name: "Combo A: Ingresso + Camiseta"
+  price: "105,00"
   priceCurrency: "R$"
   ticketsNumber: "TBD"
-  # ribbon: "-20%"
-  # featured: true
-  buyButtonLink: "https://www.eventbrite.com.br/e/devfest-campinas-2017-tickets-38297336364"
+  buyButtonLink: "https://www.eventbrite.com.br/e/devfest-campinas-2018-tickets-51723447223"
   buyButtonText: "Comprar"
-  # ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "08/10/2017T00:00"
-  validThrough: "29/10/2017T00:00"
+  validFrom: ""
+  validThrough: ""
   featured: false
   disabled: true
   soldOut: true
   soldOutText: "Esgotado"
  -
-  name: "Lebre"
-  price: "75,00"
+  name: "Combo B: Ingresso + Camiseta + Almoço"
+  price: "151,50"
   priceCurrency: "R$"
   ticketsNumber: "TBD"
-  # ribbon: "-20%"
-  # featured: true
-  buyButtonLink: "https://www.eventbrite.com.br/e/devfest-campinas-2017-tickets-38297336364"
+  buyButtonLink: "https://www.eventbrite.com.br/e/devfest-campinas-2018-tickets-51723447223"
   buyButtonText: "Comprar"
-  # ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "08/10/2017T00:00"
-  validThrough: "29/10/2017T00:00"
+  validFrom: ""
+  validThrough: ""
   featured: false
   soldOut: true
   soldOutText: "Esgotado"
  -
-  name: "Kids"
-  price: "38,00"
+  name: "Ingresso Estudante (só ingresso)"
+  price: "55,00"
   priceCurrency: "R$"
   ticketsNumber: "TBD"
-  # ribbon: "-20%"
-  # featured: true
-  buyButtonLink: "https://www.eventbrite.com.br/e/devfest-campinas-2017-tickets-38297336364"
+  buyButtonLink: "https://www.eventbrite.com.br/e/devfest-campinas-2018-tickets-51723447223"
   buyButtonText: "Comprar"
-  # ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "27/10/2017T00:00"
-  validThrough: "03/11/2017T00:00"
-  featured: false
-  soldOut: true
+  validFrom: "20/10/2018T00:00"
+  validThrough: "10/11/2018T00:00"
+  featured: true
+  disabled: false
+  soldOut: false
   soldOutText: "Esgotado"
  -
-  name: "Tartaruga"
-  price: "95,00"
+  name: "Combo Estudante: Ingresso + Camiseta"
+  price: "85,00"
   priceCurrency: "R$"
   ticketsNumber: "TBD"
-  buyButtonLink: "https://www.eventbrite.com.br/e/devfest-campinas-2017-tickets-38297336364"
+  buyButtonLink: "https://www.eventbrite.com.br/e/devfest-campinas-2018-tickets-51723447223"
   buyButtonText: "Comprar"
-  # additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
-  # ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
   validFrom: "29/10/2017T00:00"
   validThrough: "30/11/2017T00:00"
   disabled: false
+  featured: true
+  soldOut: false
+  soldOutText: "Esgotado"
+
+ -
+  name: "1º Lote (só ingresso)"
+  price: "120,00"
+  priceCurrency: "R$"
+  ticketsNumber: "TBD"
+  buyButtonLink: "https://www.eventbrite.com.br/e/devfest-campinas-2018-tickets-51723447223"
+  buyButtonText: "Comprar"
+  validFrom: "31/10/2018T00:00"
+  validThrough: "14/10/2018T00:00"
+  disabled: false
+  featured: true
+  soldOut: false
+  soldOutText: "Esgotado"
+
+ -
+  name: "Combo C: 1º Lote + Camiseta"
+  price: "145,00"
+  priceCurrency: "R$"
+  ticketsNumber: "TBD"
+  buyButtonLink: "https://www.eventbrite.com.br/e/devfest-campinas-2018-tickets-51723447223"
+  buyButtonText: "Comprar"
+  validFrom: "31/10/2018T00:00"
+  validThrough: "14/10/2018T00:00"
+  disabled: false
+  featured: true
+  soldOut: false
+  soldOutText: "Esgotado"
+
+ -
+  name: "Combo D: 1º Lote + Camiseta + Almoço"
+  price: "192,00"
+  priceCurrency: "R$"
+  ticketsNumber: "TBD"
+  buyButtonLink: "https://www.eventbrite.com.br/e/devfest-campinas-2018-tickets-51723447223"
+  buyButtonText: "Comprar"
+  validFrom: "31/10/2018T00:00"
+  validThrough: "14/10/2018T00:00"
+  disabled: false
+  featured: true
+  soldOut: false
+  soldOutText: "Esgotado"
+  
+ -
+  name: "2º Lote (só ingresso)"
+  price: "190,00"
+  priceCurrency: "R$"
+  ticketsNumber: "TBD"
+  buyButtonLink: "https://www.eventbrite.com.br/e/devfest-campinas-2018-tickets-51723447223"
+  buyButtonText: "Comprar"
+  validFrom: "14/10/2018T00:00"
+  validThrough: "23/10/2018T00:00"
+  disabled: true
   featured: false
-  soldOut: true
+  soldOut: false
   soldOutText: "Esgotado"
 
 # Footer
