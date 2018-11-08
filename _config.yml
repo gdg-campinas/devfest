@@ -166,8 +166,8 @@ partnersC4sponsorsButton: "Torne-se um patrocinador"
 
 # Tickets Block
 ticketsTitle: "Ingressos"
-# ticketsInfo: "Incluso: Acesso as 5 trilhas de conteúdo, estandes, sorteios e coffees.<br>
-# Membros do GDG Campinas tem desconto de 20% em todos os lotes."
+ticketsInfo: "Incluso: Acesso as 5 trilhas de conteúdo, estandes, sorteios e coffees.<br>
+Estudantes devem mostrar comprovante."
 ticketsOffers:
  -
   name: "Early Bird (só ingresso)"
@@ -209,26 +209,26 @@ ticketsOffers:
   soldOutText: "Esgotado"
  -
   name: "Ingresso Estudante (só ingresso)"
-  price: "55,00"
+  price: "70,00"
   priceCurrency: "R$"
   ticketsNumber: "TBD"
   buyButtonLink: "https://www.eventbrite.com.br/e/devfest-campinas-2018-tickets-51723447223"
   buyButtonText: "Comprar"
   validFrom: "20/10/2018T00:00"
-  validThrough: "10/11/2018T00:00"
+  validThrough: "17/11/2018T00:00"
   featured: true
   disabled: false
   soldOut: false
   soldOutText: "Esgotado"
  -
   name: "Combo Estudante: Ingresso + Camiseta"
-  price: "85,00"
+  price: "95,00"
   priceCurrency: "R$"
   ticketsNumber: "TBD"
   buyButtonLink: "https://www.eventbrite.com.br/e/devfest-campinas-2018-tickets-51723447223"
   buyButtonText: "Comprar"
   validFrom: "29/10/2017T00:00"
-  validThrough: "30/11/2017T00:00"
+  validThrough: "17/11/2017T00:00"
   disabled: false
   featured: true
   soldOut: false
@@ -236,13 +236,13 @@ ticketsOffers:
 
  -
   name: "1º Lote (só ingresso)"
-  price: "120,00"
+  price: "100,00"
   priceCurrency: "R$"
   ticketsNumber: "TBD"
   buyButtonLink: "https://www.eventbrite.com.br/e/devfest-campinas-2018-tickets-51723447223"
   buyButtonText: "Comprar"
   validFrom: "31/10/2018T00:00"
-  validThrough: "14/10/2018T00:00"
+  validThrough: "17/10/2018T00:00"
   disabled: false
   featured: true
   soldOut: false
@@ -250,13 +250,13 @@ ticketsOffers:
 
  -
   name: "Combo C: 1º Lote + Camiseta"
-  price: "145,00"
+  price: "130,00"
   priceCurrency: "R$"
   ticketsNumber: "TBD"
   buyButtonLink: "https://www.eventbrite.com.br/e/devfest-campinas-2018-tickets-51723447223"
   buyButtonText: "Comprar"
   validFrom: "31/10/2018T00:00"
-  validThrough: "14/10/2018T00:00"
+  validThrough: "17/10/2018T00:00"
   disabled: false
   featured: true
   soldOut: false
@@ -264,13 +264,13 @@ ticketsOffers:
 
  -
   name: "Combo D: 1º Lote + Camiseta + Almoço"
-  price: "192,00"
+  price: "172,00"
   priceCurrency: "R$"
   ticketsNumber: "TBD"
   buyButtonLink: "https://www.eventbrite.com.br/e/devfest-campinas-2018-tickets-51723447223"
   buyButtonText: "Comprar"
   validFrom: "31/10/2018T00:00"
-  validThrough: "14/10/2018T00:00"
+  validThrough: "17/10/2018T00:00"
   disabled: false
   featured: true
   soldOut: false
@@ -283,7 +283,7 @@ ticketsOffers:
   ticketsNumber: "TBD"
   buyButtonLink: "https://www.eventbrite.com.br/e/devfest-campinas-2018-tickets-51723447223"
   buyButtonText: "Comprar"
-  validFrom: "14/10/2018T00:00"
+  validFrom: "17/10/2018T00:00"
   validThrough: "23/10/2018T00:00"
   disabled: true
   featured: false
