@@ -33,3 +33,12 @@
   subtype: presentation
   speakers: [004]
   complexity: Todos
+
+# Raphael Moraes
+-
+  id: 501
+  title: "Large Scale Javascript: Padrões de Design e Arquitetura"
+  description: "Apresentar Patterns e boas práticas para escalonamento e desenvolvimento de aplicações de grande porte utilizando tendências de arquitetura, tecnologia e design"
+  subtype: presentation
+  speakers: [011]
+  complexity: Intermediário
