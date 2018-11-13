@@ -1,99 +1,24 @@
 - 
-  date: "2017-11-04"
-  dateReadable: "04 de Novembro"
+  date: "2018-11-24"
+  dateReadable: "24 de Novembro"
   tracks: 
-    - {title: "Front-end", color: "#4285F4"}
-    - {title: "Back-end", color: "#EA4335"}
+    - {title: "Back-end", color: "#4285F4"}
+    - {title: "Front-end web", color: "#EA4335"}
     - {title: "Mobile", color: "#34A853"}
-    - {title: "Mentoring & Growth", color: "#FBBC05"}
+    - {title: "UI/UX", color: "#FBBC05"}
+    - {title: "Awareness", color: "#CCCCCC"}
   timeslots:
-    - {
-      startTime: "08:00",
-      endTime: "08:20",
-      sessionIds: [100]
-    }
-    - {
-      startTime: "08:20",
-      endTime: "08:50",
-      sessionIds: [200]
-    }
-    - {
-      startTime: "08:50",
-      endTime: "09:10",
-      sessionIds: [300]
-    }
-    - {
-      startTime: "09:10",
-      endTime: "09:50",
-      sessionIds: [400]
-    }
-    - {
-      startTime: "09:50",
-      endTime: "10:35",
-      sessionIds: [501, 502, 503, 504]
-    }
-    - {
-      startTime: "10:35",
-      endTime: "11:15",
-      sessionIds: [601, 602, 603, 604]
-    }
-    - {
-      startTime: "11:15",
-      endTime: "11:55",
-      sessionIds: [701, 702, 703, 704]
-    }
-    - {
-      startTime: "11:55",
-      endTime: "13:15",
-      sessionIds: [800]
-    }
-    - {
-      startTime: "13:15",
-      endTime: "14:05",
-      sessionIds: [901, 902, 903, 904]
-    }
-    - {
-      startTime: "14:05",
-      endTime: "14:45",
-      sessionIds: [1001, 1002, 1003, 1004]
-    }
-    - {
-      startTime: "14:45",
-      endTime: "15:25",
-      sessionIds: [1101, 1102, 1103, 1104]
-    }
-    - {
-      startTime: "15:25",
-      endTime: "15:45",
-      sessionIds: [1201, 1202, 1203, 1204]
-    }
-    - {
-      startTime: "15:45",
-      endTime: "16:20",
-      sessionIds: [12012, 12022, 12032, 12042]
-    }
-    - {
-      startTime: "16:20",
-      endTime: "16:45",
-      sessionIds: [1300]
-    }
-    - {
-      startTime: "16:45",
-      endTime: "17:30",
-      sessionIds: [1401, 1402, 1403, 1404]
-    }
-    - {
-      startTime: "17:30",
-      endTime: "18:20",
-      sessionIds: [1501, 1502, 1503, 1504]
-    }
-    - {
-      startTime: "18:20",
-      endTime: "19:00",
-      sessionIds: [1601, 1602, 1603, 1604]
-    }
-    - {
-      startTime: "19:00",
-      endTime: "19:20",
-      sessionIds: [1700]
-    }
+    - { startTime: "08:20", endTime: "08:50", sessionIds: [100] }
+    - { startTime: "08:50", endTime: "09:20", sessionIds: [200] }
+    - { startTime: "09:20", endTime: "10:20", sessionIds: [301] }
+    - { startTime: "10:20", endTime: "11:10", sessionIds: [0, 0, 0, 404, 405] }
+    - { startTime: "11:10", endTime: "12:00", sessionIds: [501, 502, 503, 0, 505] }
+    - { startTime: "12:00", endTime: "13:30", sessionIds: [600] }
+    - { startTime: "13:30", endTime: "14:20", sessionIds: [701, 0, 703, 704, 705] }
+    - { startTime: "14:20", endTime: "15:10", sessionIds: [801, 0, 803, 804, 805] }
+    - { startTime: "15:10", endTime: "15:25", sessionIds: [901] }
+    - { startTime: "15:25", endTime: "15:40", sessionIds: [1000] }
+    - { startTime: "15:40", endTime: "16:30", sessionIds: [0, 1102, 1103, 1104, 1105] }
+    - { startTime: "16:30", endTime: "17:20", sessionIds: [1201, 0, 0, 0, 1205] }
+    - { startTime: "17:20", endTime: "18:10", sessionIds: [1301] }
+    - { startTime: "18:10", endTime: "18:30", sessionIds: [1400] }

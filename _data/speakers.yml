@@ -260,3 +260,17 @@ Como professor, lecionou em diversas disciplinas relacionadas à design e UX (IB
   rockstar: false
   social:
     - { name: "linkedin", link: "https://www.linkedin.com/in/igor-mesquita-12848033/" }
+
+# Henrique Candella
+-
+  id: 022
+  name: "Henrique"
+  surname: "Candella"
+  company: ""
+  title: ""
+  bio: ""
+  thumbnailUrl: HenriqueCandella.jpg
+  rockstar: false
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/henrique-candella-565a93133/"}
+    - {name: "facebook", link: "https://www.facebook.com/profile.php?id=100014317275586"}

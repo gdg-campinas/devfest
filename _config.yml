@@ -57,7 +57,7 @@ c4mentorDescription: ""
 navigationLinks:
  - {permalink: "/", text: "Principal"}
 #  - {permalink: "/blog/", text: "Blog"}
-#  - {permalink: "/schedule/", text: "Grade"}
+ - {permalink: "/schedule/", text: "Grade"}
  - {permalink: "/speakers/", text: "Palestrantes"}
 #  - {permalink: "/mentors/", text: "Mentoria"}
 #  - {permalink: "/kids/", text: "Trilha Kids"}
