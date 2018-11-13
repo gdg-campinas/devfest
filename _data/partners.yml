@@ -11,3 +11,8 @@
   elements:
     - {name: "CI&T", description: "CI&T", link: "http://www.ciandt.com/br-pt", imageUrl: "ciet.png", width: "80%"}
     - {name: "idWall", description: "idWall", link: "http://idwall.co/", imageUrl: "idwall.png"}
+
+-
+  group: "Apoio"
+  elements:
+    - {name: "GoVision", description: "GoVision", link: "https://www.govision.com.br/", imageUrl: "GoVision.png", width: "80%"}
