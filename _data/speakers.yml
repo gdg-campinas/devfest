@@ -53,23 +53,6 @@
     - { name: "twitter", link: "https://twitter.com/maujor" }
     - { name: "site", link: "https://maujor.com" }
 
-# Fernando Ultremare
-- 
-  id: 005
-  name: "Fernando"
-  surname: "Ultremare"
-  company: "Dextra"
-  title: "CTO"
-  bio: "A passionate software craftsman who's worked for a wide range of industries and products. Open source developer, technical writer and conference speaker.
-At Dextra, I blend my technical and management skills to lead teams that are building awesome software products for startups, technology, media, manufacturing, financial and other types of companies.
-I live in Brazil and graduated in Computer Science at the University of Campinas, Unicamp. When my head is not on computers, I love the countryside where I really enjoy riding horses and playing guitar out loud."
-  thumbnailUrl: FernandoUltremare.jpg
-  rockstar: false
-  ribbon: 
-    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
-  social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/fernando-ultremare-7850459/"}
-
 # Daniel Cukier
 -
   id: 006
