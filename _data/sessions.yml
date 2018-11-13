@@ -42,3 +42,39 @@
   subtype: presentation
   speakers: [011]
   complexity: Intermediário
+
+# Douglas Augusto
+-
+  id: 601
+  title: "Cabeça nas Nuvens: Trabalhando com Machine Learning no Google Cloud"
+  description: "Quer aprender sobre o processo de Aprendizado de Máquina e como isso roda na nuvem? Então não deixe de participar desta palestra, irei mostrar e descrever os serviços e ferramentas de Machine Learning ofertados na plataforma do Google Cloud, e exemplificar cada uma delas mostrando seus recursos e limitações."
+  subtype: presentation
+  speakers: [012]
+  complexity: Intermediário
+
+# Denis Piaia
+-
+  id: 701
+  title: "UX do Fracasso 2.0"
+  description: "Grandes produtos, serviços ou empresas já falharam muitas vezes durante seu processo de amadurecimento e isso não impediu com que seus produtos fossem reconhecidos. O Fracasso é algo que precisamos encarar de frente pois ele uma hora ou outra vai nos assombrar. Nessa talk vamos falar um pouco sobre isso e como ele pode impactar grandes empresas pelo mundo."
+  subtype: presentation
+  speakers: [013]
+  complexity: Básico
+
+# Higor Alves
+-
+  id: 801
+  title: "Lidando com Real Time no React Native"
+  description: "Real Time no React Native, consolidando conhecimentos sobre como o RN trabalha com web socket e renderização em tempo real consumindo o mínimo possível de processamento com a atualização do DOM."
+  subtype: presentation
+  speakers: [014]
+  complexity: Intermediário
+
+# Flavio Pimenta
+-
+  id: 901
+  title: "Do zero ao deploy - cultura DevOps na prática."
+  description: "Sessão de live coding iniciando com a criação de um repositório git, codificação de uma api python com flesk, com testes unitários, pipeline no jenkins fazendo deploy em docker e finalizando com a criação de um teste de performance."
+  subtype: presentation
+  speakers: [015]
+  complexity: Intermediário

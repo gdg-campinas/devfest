@@ -140,3 +140,60 @@ Como professor, lecionou em diversas disciplinas relacionadas à design e UX (IB
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/raphael-moraes-26951821/"}
 
+# Douglas Augusto
+-
+  id: 012
+  name: "Douglas"
+  surname: "Augusto"
+  company: "Avenue Code"
+  title: "Cloud Engineer"
+  bio: "Douglas Augusto é apaixonado pelas áreas de Cloud Computing e Machine Learning, atualmente trabalha como Cloud Engineer na Avenue Code, empresa norte americana que presta consultoria em tecnologia para grandes clientes.  Na sua carreira, participou de projetos inovadores para clientes como Coca Cola, Fiat e Jeep. Possui certificado de Arquiteto Google Cloud e tem clientes particulares na área de Aprendizado Máquina. É organizador das comunidades GDG João Monlevade e a Google Cloud Developer Community Belo Horizonte. Presta mentorias de Cloud Computing e Machine Learning no Google Launchpad, programa de aceleração de startups da Google."
+  thumbnailUrl: DouglasAugusto.png
+  rockstar: false
+  social:
+    - { name: "linkedin", link: "https://www.linkedin.com/in/douglasaugusto/" }
+    - { name: "site", link: "https://douglasaugus.to/" }
+
+# Denis Piaia
+-
+  id: 013
+  name: "Denis"
+  surname: "Piaia"
+  company: "iFood"
+  title: "Senior Designer"
+  bio: "Formado em Marketing e apaixonado por tecnologia, Denis é Designer no iFood, Líder local do Interaction Design Association (IxDA) e organizador de meetups relacionados a Experiência do Usuário. Já foi líder de design da Superlógica Tecnologias e PJBank Pagamentos."
+  thumbnailUrl: DenisPiaia.jpg
+  rockstar: false
+  social:
+    - { name: "linkedin", link: "linkedin.com/in/denispiaia" }
+    - { name: "twitter", link: "twitter.com/denispiaia" }
+
+# Higor Alves
+-
+  id: 014
+  name: "Higor"
+  surname: "Alves"
+  company: "UNA/SUS Universidade Aberta do SUS"
+  title: "Desenvolvedor"
+  bio: ""
+  thumbnailUrl: HigorAlves.jpg
+  rockstar: false
+  social:
+    - { name: "linkedin", link: "https://www.linkedin.com/in/higor-alves-817810bb/" }
+    - { name: "twitter", link: "https://twitter.com/higorhaalves" }
+    - { name: "facebook", link: "https://www.facebook.com/higorhalves" }
+
+# Flavio Pimenta
+-
+  id: 015
+  name: "Flávio"
+  surname: "Pimenta"
+  company: "Assertiva Soluções"
+  title: "Arquiteto Cloud"
+  bio: "Arquiteto Cloud e Evangelista DevOps na Assertiva Soluções. Formado em Matemática pela UNICAMP, com mais de 18 anos no mercado de TI atuando como desenvolvedor Java e também com experiência em CI/CD e Cloud Computing. Sou coordenador das comunidades AWS Campinas e Qualidade de Software Campinas."
+  thumbnailUrl: FlavioPimenta.jpg
+  rockstar: false
+  social:
+    - { name: "linkedin", link: "https://www.linkedin.com/in/flaap" }
+    - { name: "twitter", link: "https://twitter.com/pimentaflavio" }
+
