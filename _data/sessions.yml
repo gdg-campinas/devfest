@@ -78,3 +78,30 @@
   subtype: presentation
   speakers: [015]
   complexity: Intermediário
+
+# Douglas Silva
+-
+  id: 1001
+  title: "Blockchain além das criptomoedas."
+  description: "Que blockchain é a nova menina dos olhos todos nós sabemos, mas como ela tem sido vista pelo mercado? Muito se fala de bockchain no mercado financeiro mas e fora dele? Esse papo vai ser sobre como o blockchain vem mudando diversas áreas como saúde, seguros, transporte entre outras e quais ferramentas de desenvolvimento estão ganhando os mercados corporativos."
+  subtype: presentation
+  speakers: [016]
+  complexity: Básico
+
+# Rodrigo Pokemon
+-
+  id: 1101
+  title: "Stand-Up - Arquitetando seus sistemas de forma (in)coerente"
+  description: "Como devs e (faz tudo) estamos acostumados a nos comunicar muito bem com toda a equipe né? Utilizamos as tecnologias corretas para fazer o que nos foi pedido... Esquematizamos corretamente todos os passos dos sistemas, entendemos o que o cliente quer. Nos é passado um prazo coerente e muito mais, correto? Vamos ver o que pode dar de ruim ou muito ruim numa arquitetura e sistemas."
+  subtype: presentation
+  speakers: [017]
+  complexity: Todos
+
+# Filipe Lopes
+-
+  id: 1201
+  title: "A importância da Acessibilidade Web"
+  description: "Se eu lhe disser que poderá alavancar seu market share com uma mudança de pensamento, você aceitaria fazer uma tentativa? Acessibilidade é muito mais do que meras tags e boas práticas, é mudança de perspectiva. E sim, ela pode mudar sua vida! Ela pode mudar uma vida!"
+  subtype: presentation
+  speakers: [018]
+  complexity: Básico
