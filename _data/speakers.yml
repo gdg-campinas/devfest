@@ -218,3 +218,45 @@ Como professor, lecionou em diversas disciplinas relacionadas à design e UX (IB
   rockstar: false
   social:
     - { name: "linkedin", link: "https://www.linkedin.com/in/filipeclopes/" }
+
+# Igor Halfeld
+-
+  id: 019
+  name: "Igor"
+  surname: "Halfeld"
+  company: "NOALVO"
+  title: "Software Consultant"
+  bio: "Software consultant, organizador do Vue.js Summit e dos meetups Vue.js SP e JSSP"
+  thumbnailUrl: IgorHalfeld.jpg
+  rockstar: false
+  social:
+    - { name: "linkedin", link: "https://www.linkedin.com/in/igorhalfeld/" }
+    - { name: "twitter", link: "https://twitter.com/igorhalfeld" }
+    - { name: "github", link: "https://github.com/igorhalfeld" }
+    - { name: "site", link: "http://igorluiz.me" }
+
+# Renato Ramos
+-
+  id: 020
+  name: "Renato"
+  surname: "Ramos"
+  company: "Appito"
+  title: "Android Senior Developer"
+  bio: "Quer entender como conseguir uma oportunidade em outro pais(Eua, Europa etc..)  Como entender se voce está realmente preparado para ir embora para outro pais, como se portar nos processos seletivos, o que fazer ? o que comer ? onde dormir ?"
+  thumbnailUrl: RenatoRamos.jpg
+  rockstar: false
+  social:
+    - { name: "linkedin", link: "https://www.linkedin.com/in/renato-ramos-95885a38/" }
+
+# Igor Ming
+-
+  id: 021
+  name: "Igor"
+  surname: "Ming"
+  company: "S2 IT"
+  title: "Especialista Frontend"
+  bio: "Apreciador de tecnologias open source, especialista Frontend e alguém realmente apaixonado pelo que faz. Seja atuando diretamente, ou compartilhando/trocando conhecimento."
+  thumbnailUrl: IgorMing.jpg
+  rockstar: false
+  social:
+    - { name: "linkedin", link: "https://www.linkedin.com/in/igor-mesquita-12848033/" }

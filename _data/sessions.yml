@@ -105,3 +105,30 @@
   subtype: presentation
   speakers: [018]
   complexity: Básico
+
+# Igor Halfeld
+-
+  id: 1301
+  title: "WTF is Vue.js Native?"
+  description: "Atualmente desenvolvimento Mobile é bizarro, a variedade de opções para se fazer apps é incrível, ainda mais quando se fala em fazer apps com javascript, a ideia aqui é mostrar o que é esse Vue.js Native (que é na real uma PoC em cima do React Native), porquê já existe o NativeScript-Vue que já a solução madura."
+  subtype: presentation
+  speakers: [019]
+  complexity: Básico
+
+# Renato Ramos
+-
+  id: 1401
+  title: "Carreiras internacionais - Mobile/"
+  description: "E ai tá afim de rapar fora do Braselll? Quer entender como conseguir uma oportunidade em outro pais(Eua, Europa etc..),  como entender se voce está realmente preparado para ir embora para outro pais, como se portar nos processos seletivos, o que fazer ? Como convencer que voce é a melhor escolha para aquela empresa, como conseguir vagas internacionais. e por ultimo meu querido: \"Quer entender o resultado do que fez no passado, pensa como está sua vida no presente; quer entender como será o seu futuro, pensa nas ações que está tomando no presente\""
+  subtype: presentation
+  speakers: [020]
+  complexity: Todos
+
+# Igor Ming
+-
+  id: 1501
+  title: "Novidades no React 16.3+"
+  description: "A versão 16.3+ do React, trouxe consigo várias novidades para os desenvolvedores. Error boundary, novos lifecycles, e também a new context api (que era fortemente aguardada, trazendo até mesmo boatos de \"substituir o famoso Redux\"). Pretendo esclarecer cada uma destas novidades, e trazer algo agregante para todos."
+  subtype: presentation
+  speakers: [021]
+  complexity: Intermediário
