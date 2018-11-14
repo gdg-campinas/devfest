@@ -130,11 +130,11 @@
 # Henrique Candella
 -
   id: 705
-  title: "Saúde Mental"
-  description: ""
+  title: "Saúde mental e como lidar com o caos"
+  description: "Assim como proposta da Google para o DevFest saúde mental é muito importante para podermos continuar evoluindo de forma ágil e eficaz."
   subtype: presentation
   speakers: [022]
-  complexity: Todos
+  complexity: Intermediário
 
 # Gabriela Ferrara
 -
