@@ -46,6 +46,33 @@
   speakers: [003]
   complexity: Básico
 
+# Flavio Pimenta
+-
+  id: 401
+  title: "Do zero ao deploy - cultura DevOps na prática."
+  description: "Sessão de live coding iniciando com a criação de um repositório git, codificação de uma api python com flesk, com testes unitários, pipeline no jenkins fazendo deploy em docker e finalizando com a criação de um teste de performance."
+  subtype: presentation
+  speakers: [015]
+  complexity: Intermediário
+
+# Raphael Moraes
+-
+  id: 402
+  title: "Large Scale Javascript: Padrões de Design e Arquitetura"
+  description: "Apresentar Patterns e boas práticas para escalonamento e desenvolvimento de aplicações de grande porte utilizando tendências de arquitetura, tecnologia e design"
+  subtype: presentation
+  speakers: [011]
+  complexity: Intermediário
+
+# Higor Alves
+-
+  id: 403
+  title: "Lidando com Real Time no React Native"
+  description: "Real Time no React Native, consolidando conhecimentos sobre como o RN trabalha com web socket e renderização em tempo real consumindo o mínimo possível de processamento com a atualização do DOM."
+  subtype: presentation
+  speakers: [014]
+  complexity: Intermediário
+
 # Richard
 -
   id: 404
@@ -63,33 +90,6 @@
   subtype: presentation
   speakers: [006]
   complexity: Todos
-
-# Flavio Pimenta
--
-  id: 501
-  title: "Do zero ao deploy - cultura DevOps na prática."
-  description: "Sessão de live coding iniciando com a criação de um repositório git, codificação de uma api python com flesk, com testes unitários, pipeline no jenkins fazendo deploy em docker e finalizando com a criação de um teste de performance."
-  subtype: presentation
-  speakers: [015]
-  complexity: Intermediário
-
-# Raphael Moraes
--
-  id: 502
-  title: "Large Scale Javascript: Padrões de Design e Arquitetura"
-  description: "Apresentar Patterns e boas práticas para escalonamento e desenvolvimento de aplicações de grande porte utilizando tendências de arquitetura, tecnologia e design"
-  subtype: presentation
-  speakers: [011]
-  complexity: Intermediário
-
-# Higor Alves
--
-  id: 503
-  title: "Lidando com Real Time no React Native"
-  description: "Real Time no React Native, consolidando conhecimentos sobre como o RN trabalha com web socket e renderização em tempo real consumindo o mínimo possível de processamento com a atualização do DOM."
-  subtype: presentation
-  speakers: [014]
-  complexity: Intermediário
 
 # WTM Roundtable
 -
@@ -112,7 +112,7 @@
 # Daniel Cukier: actions
 -
   id: 703
-  title: "Actions on Google Assistant"
+  title: "Case: Actions on Google Assistant"
   description: ""
   subtype: presentation
   speakers: [006]
@@ -229,7 +229,7 @@
 # Filipe Lopes
 -
   id: 1205
-  title: "A importância da Acessibilidade Web"
+  title: "A importância da Acessibilidade"
   description: "Se eu lhe disser que poderá alavancar seu market share com uma mudança de pensamento, você aceitaria fazer uma tentativa? Acessibilidade é muito mais do que meras tags e boas práticas, é mudança de perspectiva. E sim, ela pode mudar sua vida! Ela pode mudar uma vida!"
   subtype: presentation
   speakers: [018]
