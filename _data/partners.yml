@@ -7,6 +7,10 @@
   elements:
     - {name: "Movile", description: "Movile", link: "https://movile.com/", imageUrl: "movile.png", width: "115%"}
 -
+  group: "Senior"
+  elements:
+    - {name: "CargoX", description: "CargoX", link: "https://cargox.com.br/", imageUrl: "cargox.svg"}
+-
   group: "Intern"
   elements:
     - {name: "CI&T", description: "CI&T", link: "http://www.ciandt.com/br-pt", imageUrl: "ciet.png", width: "80%"}
