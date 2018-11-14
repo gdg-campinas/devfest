@@ -106,7 +106,7 @@
 Criou o canal UXNOW para explicar sobre UX, Design Centrado no Usuário e Arquitetura da Informação. 
 Como professor, lecionou em diversas disciplinas relacionadas à design e UX (IBTA/Metrocamp/Véris, PeopleTec, Iladec, Faculdade Impacta Tecnologia, entre outros)."
   thumbnailUrl: DanielFurtado.jpg
-  rockstar: false
+  rockstar: true
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/danielfurtado/"}
 
@@ -146,7 +146,7 @@ Como professor, lecionou em diversas disciplinas relacionadas à design e UX (IB
   title: "Senior Designer"
   bio: "Formado em Marketing e apaixonado por tecnologia, Denis é Designer no iFood, Líder local do Interaction Design Association (IxDA) e organizador de meetups relacionados a Experiência do Usuário. Já foi líder de design da Superlógica Tecnologias e PJBank Pagamentos."
   thumbnailUrl: DenisPiaia.jpg
-  rockstar: false
+  rockstar: true
   social:
     - { name: "linkedin", link: "linkedin.com/in/denispiaia" }
     - { name: "twitter", link: "twitter.com/denispiaia" }
@@ -202,7 +202,7 @@ Como professor, lecionou em diversas disciplinas relacionadas à design e UX (IB
   title: "Community Manager"
   bio: "Bacharel em Matemática Aplicada e Computacional pela Universidade Federal Rural do Rio de Janeiro, MBA em Engenharia de Software Orientada para Serviço pela Metrocamp. Community Manager no iMasters. Programador desde 1999. Evangelista PHPSP. Desenvolve sistemas desde batalhas Pokemon para mIRC até robôs automatizadores de tarefas."
   thumbnailUrl: RodrigoPokemon.jpg
-  rockstar: false
+  rockstar: true
   social:
     - { name: "linkedin", link: "https://www.linkedin.com/in/pokemaobr/" }
     
@@ -215,7 +215,7 @@ Como professor, lecionou em diversas disciplinas relacionadas à design e UX (IB
   title: "Software QA Tester"
   bio: "Filipe Lopes, vindo de tão tão distante na Amazônia para se tornar Tester de software na Ci&t. Portador de Deficiência física, idealizador do QA A11y que promover a acessibilidade na Web e capacitar pessoas com deficiência para trabalhar com qualidade de software"
   thumbnailUrl: FilipeLopes.jpg
-  rockstar: false
+  rockstar: true
   social:
     - { name: "linkedin", link: "https://www.linkedin.com/in/filipeclopes/" }
 
