@@ -112,7 +112,7 @@
 # Daniel Cukier: actions
 -
   id: 703
-  title: "Workshop: Actions on Google Assistant (Parte 1)"
+  title: "Actions on Google Assistant"
   description: ""
   subtype: presentation
   speakers: [006]
@@ -144,15 +144,6 @@
   subtype: presentation
   speakers: [001]
   complexity: Básico
-
-# Daniel Cukier: actions
--
-  id: 803
-  title: "Workshop: Actions on Google Assistant (Parte 2)"
-  description: ""
-  subtype: presentation
-  speakers: [006]
-  complexity: Todos
 
 # Daniel Furtado
 -
@@ -225,6 +216,15 @@
   subtype: presentation
   speakers: [012]
   complexity: Intermediário
+
+# Joilson Cisne
+-
+  id: 1203
+  title: "Desenvolvimento mobile multi-plataforma: por onde começar"
+  description: "Entrando agora no mundo do desenvolvimento mobile? Economize tempo e aprenda os prós e contras dos principais frameworks para desenvolvimento mobile cross-platform."
+  subtype: presentation
+  speakers: [023]
+  complexity: Básico
 
 # Filipe Lopes
 -

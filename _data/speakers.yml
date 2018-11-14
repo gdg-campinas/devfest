@@ -274,3 +274,16 @@ Como professor, lecionou em diversas disciplinas relacionadas à design e UX (IB
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/henrique-candella-565a93133/"}
     - {name: "facebook", link: "https://www.facebook.com/profile.php?id=100014317275586"}
+
+# Joilson Cisne
+-
+  id: 023
+  name: "Joilson"
+  surname: "Cisne"
+  company: "Cromossomo"
+  title: "Software Engineer"
+  bio: "Engenheiro de Computação pelo IME-RJ. Trabalhou em empresas como Peixe Urbano e Descomplica. Atualmente é Software Engineer na área de Digital HeathCare."
+  thumbnailUrl: JoilsonCisne.jpg
+  rockstar: false
+  social:
+    - { name: "linkedin", link: "https://www.linkedin.com/in/joilsoncisne/" }
