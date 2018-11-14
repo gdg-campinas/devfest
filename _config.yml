@@ -73,7 +73,7 @@ rightNavigationButtons:
  - {link: "https://www.eventbrite.com.br/e/devfest-campinas-2018-tickets-51723447223", text: "Compre seu ingresso"}
 
 # Hero Block
-heroImage: "hero.png"
+heroImage: "hero2.png"
 heroTitle: "DevFest <typeout> 2018"
 eventDate: "24 de Novembro de 2018"
 typeoutTextValues: '"", "Campinas"'
