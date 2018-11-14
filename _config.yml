@@ -215,7 +215,7 @@ ticketsOffers:
   buyButtonLink: "https://www.eventbrite.com.br/e/devfest-campinas-2018-tickets-51723447223"
   buyButtonText: "Comprar"
   validFrom: "20/10/2018T00:00"
-  validThrough: "17/11/2018T00:00"
+  validThrough: "21/11/2018T00:00"
   featured: true
   disabled: false
   soldOut: false
@@ -228,7 +228,7 @@ ticketsOffers:
   buyButtonLink: "https://www.eventbrite.com.br/e/devfest-campinas-2018-tickets-51723447223"
   buyButtonText: "Comprar"
   validFrom: "29/10/2017T00:00"
-  validThrough: "17/11/2017T00:00"
+  validThrough: "21/11/2018T00:00"
   disabled: false
   featured: true
   soldOut: false
@@ -242,7 +242,7 @@ ticketsOffers:
   buyButtonLink: "https://www.eventbrite.com.br/e/devfest-campinas-2018-tickets-51723447223"
   buyButtonText: "Comprar"
   validFrom: "31/10/2018T00:00"
-  validThrough: "17/10/2018T00:00"
+  validThrough: "19/10/2018T00:00"
   disabled: false
   featured: true
   soldOut: false
@@ -256,7 +256,7 @@ ticketsOffers:
   buyButtonLink: "https://www.eventbrite.com.br/e/devfest-campinas-2018-tickets-51723447223"
   buyButtonText: "Comprar"
   validFrom: "31/10/2018T00:00"
-  validThrough: "17/10/2018T00:00"
+  validThrough: "19/10/2018T00:00"
   disabled: false
   featured: true
   soldOut: false
@@ -270,7 +270,7 @@ ticketsOffers:
   buyButtonLink: "https://www.eventbrite.com.br/e/devfest-campinas-2018-tickets-51723447223"
   buyButtonText: "Comprar"
   validFrom: "31/10/2018T00:00"
-  validThrough: "17/10/2018T00:00"
+  validThrough: "19/10/2018T00:00"
   disabled: false
   featured: true
   soldOut: false
@@ -283,7 +283,7 @@ ticketsOffers:
   ticketsNumber: "TBD"
   buyButtonLink: "https://www.eventbrite.com.br/e/devfest-campinas-2018-tickets-51723447223"
   buyButtonText: "Comprar"
-  validFrom: "17/10/2018T00:00"
+  validFrom: "19/11/2018T00:00"
   validThrough: "23/10/2018T00:00"
   disabled: true
   featured: false
