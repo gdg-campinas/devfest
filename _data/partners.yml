@@ -15,6 +15,7 @@
   elements:
     - {name: "CI&T", description: "CI&T", link: "http://www.ciandt.com/br-pt", imageUrl: "ciet.png", width: "80%"}
     - {name: "idWall", description: "idWall", link: "http://idwall.co/", imageUrl: "idwall.png"}
+    - {name: "Botti", description: "Botti", link: "https://www.linkedin.com/in/rodrigo-botti/", imageUrl: "botti.png"}
 
 -
   group: "Apoio"
