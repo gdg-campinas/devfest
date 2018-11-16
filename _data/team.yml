@@ -34,3 +34,12 @@
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/rodrigo-botti/"}
     - {name: "facebook", link: "https://www.facebook.com/rodrigo.botti.9"} 
+
+- 
+  id: 8
+  name: "Lucas"
+  surname: "Camarotto"
+  title: "Junior"
+  thumbnailUrl: Camarotto.jpg
+  team: true
+  social: []
