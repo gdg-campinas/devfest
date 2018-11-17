@@ -62,23 +62,11 @@
   title: "CTO"
   bio: "Pai da Laura, CTO na Playax. PhD em Ciência da Computação na USP e professor de JavaScript sênior na Laboratoria. Google Developer Expert (GDE) e meditador Vipassana"
   thumbnailUrl: DanielCukier.jpg
-  rockstar: false
+  rockstar: true
   ribbon: 
     - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
   social:
     - { name: "twitter", link: "http://www.twitter.com/danicuki" }
-
-# Everton Gago
-- 
-  id: 007
-  name: "Everton"
-  surname: "Gago"
-  company: "Dextra"
-  title: "Especialista em Data Science"
-  bio: "Everton Gago é Doutorando e Mestre em Engenharia Elétrica na Unicamp. Atualmente pesquisa e desenvolve algoritmos matemáticos que reproduzem de forma artificial os aspectos biológicos de aprendizado e auto-organização. Seus principais interesses são: Aprendizado de máquina, processamento digital de sinais e computação evolutiva"
-  thumbnailUrl: EvertonGago.jpg
-  rockstar: true
-  social: []
 
 # Richard de Jesus
 - 
@@ -287,3 +275,43 @@ Como professor, lecionou em diversas disciplinas relacionadas à design e UX (IB
   rockstar: false
   social:
     - { name: "linkedin", link: "https://www.linkedin.com/in/joilsoncisne/" }
+
+# Andrew Silva
+-
+  id: 024
+  name: "Andrew"
+  surname: "Silva"
+  company: "Ingresso Rápido"
+  title: "Coordenador de Tecnologia"
+  bio: "A mais de 10 anos no grupo Movile, misturando tudo com o que trabalhou de BI, infra, backend, android e frontend na Ingresso Rápido. É casado com uma mulher muito paciente e amigão de um pequeno cãozinho."
+  thumbnailUrl: AndrewSilva.jpg
+  rockstar: false
+  social:
+    - { name: "linkedin", link: "https://www.linkedin.com/in/andrewillard/" }
+    - { name: "twitter", link: "https://twitter.com/andrewillard" }
+
+# Vinicius Perallis
+-
+  id: 025
+  name: "Vinicius"
+  surname: "Perallis"
+  company: "Perallis Security"
+  title: "CEO"
+  bio: "Bacharel em Ciências da Computação pela Universidade Estadual Paulista, Vinícius Perallis é especialista em cibersegurança e o fundador da Perallis Security. Através da Perallis Security, Vinícius pode participar de importantes projetos de defesa cibernética, como: Banco Central, Senado Federal, e  empresas de destaque do setor privado.Vinícius também é o criador do Hacker Rangers, plataforma gamificada para conscientização de usuários em cibersegurança."
+  thumbnailUrl: ViniciusPerallis.jpg
+  rockstar: false
+  social:
+    - { name: "linkedin", link: "https://www.linkedin.com/in/vperallis" }
+
+# Mateus Pinheiro
+-
+  id: 026
+  name: "Mateus"
+  surname: "Pinheiro"
+  company: "iFood"
+  title: "Design Lead"
+  bio: "Design Lead no iFood, há mais de uma década desenhando coisas clicáveis. Apaixonado por pessoas, com fome de design e sede de negócios."
+  thumbnailUrl: MateusPinheiro.jpg
+  rockstar: false
+  social:
+    - { name: "twitter", link: "https://twitter.com/mateusnroll" }

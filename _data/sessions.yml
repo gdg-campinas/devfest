@@ -85,11 +85,21 @@
 # Daniel Cukier
 -
   id: 405
-  title: "Meditação"
-  description: ""
+  title: "Programando e meditando"
+  description: "Apesar de ter que lidar com desafios técnicos, todo desenvolvedor de software passa por muitas situações em sua vida profissional onde ele precisa lidar com questões emocionais e humanas. Mostraremos nessa palestra como programar software pode algumas vezes se tornar uma atividade viciante, podendo levar até a doenças físicas e mentais. Contaminações mentais como medo, ansiedade e stress nos fazem menos produtivos e felizes.
+Através da práticas contínuas de meditação, desenvolvedores de software podem não apenas evitar essas doenças, mas também desenvolver calma, tranquilidade, aumentar seu foco, concentração e produtividade. Mais ainda, a técnica de meditação ajuda no fluxo criativo, em melhores relações humanas, habilidades de comunicação e, acima de tudo, uma vida mais feliz, boa para si mesmo e para as pessoas a volta."
   subtype: presentation
   speakers: [006]
-  complexity: Todos
+  complexity: Básico
+
+# Mateus Pinheiro
+-
+  id: 504
+  title: "Estratégia & Design: Criando produtos incríveis que as pessoas querem usar."
+  description: "O design ganha novas proporções a cada dia, e grandes poderes trazem grandes responsabilidades. Precisamos, cada vez mais, questionar o valor do trabalho de design e como podemos ser mais estratégicos. Aonde, como e quando agir? O que é prioridade? O que leva o negócio pra frente? São todas perguntas que os designers enfrentam hoje, e que vamos tentar começar a responder juntos."
+  subtype: presentation
+  speakers: [026]
+  complexity: Avançado
 
 # WTM Roundtable
 -
@@ -100,23 +110,14 @@
   speakers: []
   complexity: Todos
 
-# Gago
--
-  id: 701
-  title: "A definir"
-  description: "A definir"
-  subtype: presentation
-  speakers: [007]
-  complexity: Todos
-
 # Daniel Cukier: actions
 -
   id: 703
-  title: "Case: Actions on Google Assistant"
-  description: ""
+  title: "Actions on Google: passo a passo para publicar a sua"
+  description: "Explicaremos de ponta a ponta como publicar uma assistente no Actions on Google, usando DialogFlow, Firebase e Cloud Functions."
   subtype: presentation
   speakers: [006]
-  complexity: Todos
+  complexity: Básico
 
 # Daniel Furtado
 -
@@ -145,6 +146,15 @@
   speakers: [001]
   complexity: Básico
 
+# Andrew
+-
+  id: 802
+  title: "Servindo aplicações web dinamicamente sem backend de alta performance e baixo custo"
+  description: "Somar as soluções de ter uma aplicação web sem misturar ou precisar de um backend, mas entregar conteúdo dinâmico como versões diferentes para desktop e mobile, com alta performance para grandes volumes como varias blackfriday e sem escalar diversas maquinas mantendo o baixo custo é algo complicado, mas que não é difícil! Vou apresentar a solução que criamos para a Ingresso Rápido que está de vento em popa!"
+  subtype: presentation
+  speakers: [024]
+  complexity: Todos
+
 # Daniel Furtado
 -
   id: 804
@@ -171,6 +181,15 @@
   subtype: presentation
   speakers: [017]
   complexity: Todos
+
+# Vinicius Perallis
+-
+  id: 1101
+  title: "O que mudará em minha aplicação com a lei de proteção de dados pessoais?"
+  description: "Nesta palestra abordaremos as implicações práticas da lei 13.709, de 14 de Agosto, em relação aos cuidados que devemos ter ao desenvolvermos aplicações."
+  subtype: presentation
+  speakers: [025]
+  complexity: Básico
 
 # Igor Ming
 -
