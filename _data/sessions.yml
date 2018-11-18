@@ -73,13 +73,13 @@
   speakers: [014]
   complexity: Intermediário
 
-# Richard
+# Daniele Zandona
 -
   id: 404
-  title: "A definir"
-  description: "A definir"
+  title: "Acessibilizando - Casa Experience"
+  description: "O Casa Experience da Basf, Samsung e SIDI é um aplicativo, com acessibilidade para deficientes visuais, de visita virtual à CasaE montada em São Paulo que envolve vários sensores de presença e de conforto ambiental."
   subtype: presentation
-  speakers: [008]
+  speakers: [028]
   complexity: Todos
 
 # Daniel Cukier
@@ -108,6 +108,15 @@ Através da práticas contínuas de meditação, desenvolvedores de software pod
   description: ""
   subtype: presentation
   speakers: []
+  complexity: Todos
+
+# Igor França
+-
+  id: 701
+  title: "Node.js a todo vapor! Liberando o poder da plataforma SEM O NPM "
+  description: "Você já deve ter usado Node.js junto com npm, porém, você sabia que só com o Node, conseguimos fazer coisas incríveis? Os módulos nativos do Node pode te ajudar em uma série de tarefas muito divertidas, e até te ajudar a entender como algumas das suas bibliotecas favoritas funcionam!"
+  subtype: presentation
+  speakers: [027]
   complexity: Todos
 
 # Daniel Cukier: actions
@@ -244,6 +253,15 @@ Através da práticas contínuas de meditação, desenvolvedores de software pod
   subtype: presentation
   speakers: [023]
   complexity: Básico
+
+# Richard
+-
+  id: 1204
+  title: "A definir"
+  description: "A definir"
+  subtype: presentation
+  speakers: [008]
+  complexity: Todos
 
 # Filipe Lopes
 -

@@ -315,3 +315,30 @@ Como professor, lecionou em diversas disciplinas relacionadas à design e UX (IB
   rockstar: false
   social:
     - { name: "twitter", link: "https://twitter.com/mateusnroll" }
+
+# Igor França
+-
+  id: 027
+  name: "Igor"
+  surname: "França"
+  company: "Shawee"
+  title: "Data Engineer"
+  bio: "Maluco por back-end. Posso não saber escrever uma linha de código CSS, mas te ajudo no que precisar com Node.js! Sou fascinado por JavaScript e tudo relacionado à infraestrutura! E por ser fã de Kubernetes, tento aplicar em várias empresas a cultura DevOps, por meio das diretrizes da Engenharia de Confiabilidade do Google (ou SRE, de Site Reliability Engineering!) :D"
+  thumbnailUrl: IgorFranca.jpg
+  rockstar: false
+  social:
+    - { name: "linkedin", link: "http://linkedin.com.br/in/Igor-França" }
+    - { name: "github", link: " https://github.com/Horaddrim" }
+
+# Daniele Zandona
+-
+  id: 028
+  name: "Daniele"
+  surname: "Zandona"
+  company: "SIDI"
+  title: "Senior UX Designer"
+  bio: ""
+  thumbnailUrl: DanieleZandona.jpg
+  rockstar: false
+  social:
+    - { name: "linkedin", link: "https://www.linkedin.com/in/danielez/" }
