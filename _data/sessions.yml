@@ -92,6 +92,15 @@ Através da práticas contínuas de meditação, desenvolvedores de software pod
   speakers: [006]
   complexity: Básico
 
+# Yan Magalhães
+-
+  id: 502
+  title: "Template Literals - da interpolação de strings a renderização de templates com Lit-HTML"
+  description: "Renderização de templates é um dos quesitos mais importantes na escolha das ferramentas e bibliotecas para aplicações front end. Os frameworks e bibliotecas como React acabam impondo seu jeito próprio para solucionar este problema. Mas será que é possível obter todos os recursos destas ferramentas, utilizando recursos nativos do próprio browser? Nesta palestra, veremos um breve histórico da evolução das ferramentas de renderização de templates, conheceremos todo o poder que a feature Template Literals da ES2015 nos provê para renderizar elementos HTML, e conhecer o lit-html, uma ferramenta que traz todos os recursos modernos dos frameworks e libraries, utilizando todo o poder da plataforma nativa."
+  subtype: presentation
+  speakers: [029]
+  complexity: Intermediário
+
 # Mateus Pinheiro
 -
   id: 504
@@ -118,6 +127,15 @@ Através da práticas contínuas de meditação, desenvolvedores de software pod
   subtype: presentation
   speakers: [027]
   complexity: Todos
+
+# Mathixa
+-
+  id: 702
+  title: "Revolucionando o delivery de comida com JavaScript"
+  description: "Como o iFood, maior startup de delivery de comida da américa latina, revolucionou a experiência de seus parceiros utilizando JavaScript e seus poderes. Superando problemas na resiliência de uma aplicação desktop, otimizando a logística de entrega, trazendo visibilidade e confiabilidade para milhares de restaurantes, entregando milhões de pedidos por mês."
+  subtype: presentation
+  speakers: [030]
+  complexity: Intermediário
 
 # Daniel Cukier: actions
 -

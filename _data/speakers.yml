@@ -342,3 +342,32 @@ Como professor, lecionou em diversas disciplinas relacionadas à design e UX (IB
   rockstar: false
   social:
     - { name: "linkedin", link: "https://www.linkedin.com/in/danielez/" }
+
+# Yan Magalhães
+-
+  id: 029
+  name: "Yan"
+  surname: "Magalhães"
+  company: "Ingresso Rápido"
+  title: "Front End Developer"
+  bio: "Desenvolvedor Front-End na Ingresso Rápido, graduado em Ciências da Computação, Yan Magalhães é apaixonado pela web, está sempre acompanhando as novas tecnologias e tendências. Mineiro de coração e recém adotado por Campinas, participa sempre que pode dos eventos e encontros promovidos pela comunidade, procura contribuir em projetos open source e acredita muito no poder que as soluções desenvolvidas por nós, desenvolvedores, que podem mudar o dia-a-dia das pessoas. Adora uma boa conversa acompanhada de café e pão de queijo."
+  thumbnailUrl: YanMagalhaes.jpg
+  rockstar: false
+  social:
+    - { name: "twitter", link: "https://twitter.com/yaanmagale" }
+    - { name: "github", link: "http://github.com/yanmagale" }
+    - { name: "linkedin", link: "https://www.linkedin.com/in/yanmagalhaes/" }
+
+# Mathixa 
+-
+  id: 030
+  name: "Matheus \"Mathixa\""
+  surname: "Martins do Rego"
+  company: "iFood"
+  title: "Desenvolvedor Frontend Senior"
+  bio: "Matheus é um desenvolvedor muito agitado e apaixonado pela tecnologia, sempre imaginando onde encaixar um pedaço de código que ajudará alguém. Focado na linguagem de programação que dominará o mundo, prega e espalha o JavaScript por onde passa. Desenvolvedor a mais de 8 anos, atualmente aprendendo muito no iFood, busca sempre evoluir em suas habilidades técnicas, nunca se esquecendo do lado humano da área."
+  thumbnailUrl: Mathixa.jpg
+  rockstar: false
+  social:
+    - { name: "linkedin", link: "https://www.linkedin.com/in/matheusmr00/" }
+    - { name: "github", link: "https://github.com/matheusmr13/" }
