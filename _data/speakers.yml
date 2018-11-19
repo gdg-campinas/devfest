@@ -371,3 +371,17 @@ Como professor, lecionou em diversas disciplinas relacionadas à design e UX (IB
   social:
     - { name: "linkedin", link: "https://www.linkedin.com/in/matheusmr00/" }
     - { name: "github", link: "https://github.com/matheusmr13/" }
+
+# Vinicius Albuquerque
+-
+  id: 031
+  name: "Vinicius"
+  surname: "Albuquerque"
+  company: "Fagron Technologies Jundiaí"
+  title: "Mobile Líder Developer at Fagron Technologies "
+  bio: ""
+  thumbnailUrl: ViniciusAlbuquerque.jpg
+  rockstar: false
+  social:
+    - { name: "twitter", link: "https://twitter.com/mvalbuquerque " }
+    - { name: "linkedin", link: "https://www.linkedin.com/in/mvalbuquerque " }
