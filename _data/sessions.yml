@@ -105,9 +105,7 @@ Através da práticas contínuas de meditação, desenvolvedores de software pod
 -
   id: 503
   title: "App’s Nativo com Swift e Vapor no Back-End."
-  description: "Como construir um app nativo com Swift utilizando Vapor no Back-End? 
-Vou demostrar um app  nativo com a mais poderosa linguagem de programação da Apple Swift,
-consumindo uma API para Back-End em Vapor."
+  description: "Como construir um app nativo com Swift utilizando Vapor no Back-End? Vou demostrar um app  nativo com a mais poderosa linguagem de programação da Apple Swift, consumindo uma API para Back-End em Vapor."
   subtype: presentation
   speakers: [031]
   complexity: Todos
