@@ -398,3 +398,16 @@ Como professor, lecionou em diversas disciplinas relacionadas à design e UX (IB
   rockstar: false
   social:
     - { name: "linkedin", link: "https://www.linkedin.com/in/leticia-tiveron/" }
+
+# Noe Branagan
+-
+  id: 033
+  name: "Noe"
+  surname: "Branagan"
+  company: "Instacarro.com"
+  title: "Tech Lead"
+  bio: "Mobile Developer, consultant, and instructor with more than 10 years of experience. Mobile development evangelist, with a focus on helping teams to make things efficient."
+  thumbnailUrl: NoeBranagan.jpg
+  rockstar: false
+  social:
+    - { name: "twitter", link: "https://twitter.com/noeBranagan" }

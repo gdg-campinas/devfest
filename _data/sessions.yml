@@ -191,6 +191,15 @@ Através da práticas contínuas de meditação, desenvolvedores de software pod
   speakers: [024]
   complexity: Todos
 
+# Noe Branagan
+-
+  id: 803
+  title: "The good and the bad and the ugly of using multiplatform frameworks and targeting Android."
+  description: "Now days we want to develop and ship our Apps as soon as possible in order to reduce the time to market but in some situations our project generate a great track and gain dozens of users and there is when we notice that our number os bugs/crashes increase in a phase that our focus is mainly on support those users and dedicate must of our time in fixing bugs that get more complicated over the time. During this talk we are going to walk through strategies that you can use when you have this situation or even better when you need to decide when to use a framework and which one will be better for my needs or not use one, using real world scenarios base on my experience."
+  subtype: presentation
+  speakers: [033]
+  complexity: Intermediário
+
 # Daniel Furtado
 -
   id: 804
