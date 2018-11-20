@@ -216,9 +216,9 @@ ticketsOffers:
   buyButtonText: "Comprar"
   validFrom: "20/10/2018T00:00"
   validThrough: "21/11/2018T00:00"
-  featured: false
-  disabled: true
-  soldOut: true
+  featured: true
+  disabled: false
+  soldOut: false
   soldOutText: "Esgotado"
  -
   name: "Combo Estudante: Ingresso + Camiseta"
@@ -229,9 +229,9 @@ ticketsOffers:
   buyButtonText: "Comprar"
   validFrom: "29/10/2017T00:00"
   validThrough: "21/11/2018T00:00"
-  featured: false  
-  disabled: true
-  soldOut: true
+  featured: true  
+  disabled: false
+  soldOut: false
   soldOutText: "Esgotado"
 
  -
