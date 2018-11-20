@@ -215,7 +215,7 @@ ticketsOffers:
   buyButtonLink: "https://www.eventbrite.com.br/e/devfest-campinas-2018-tickets-51723447223"
   buyButtonText: "Comprar"
   validFrom: "20/10/2018T00:00"
-  validThrough: "21/11/2018T00:00"
+  validThrough: "23/11/2018T23:30"
   featured: true
   disabled: false
   soldOut: false
