@@ -385,3 +385,16 @@ Como professor, lecionou em diversas disciplinas relacionadas à design e UX (IB
   social:
     - { name: "twitter", link: "https://twitter.com/mvalbuquerque " }
     - { name: "linkedin", link: "https://www.linkedin.com/in/mvalbuquerque " }
+
+# Letícia Tiveron
+-
+  id: 032
+  name: "Letícia"
+  surname: "Tiveron"
+  company: "Cromossomo"
+  title: "Software Engineer"
+  bio: "Experienced full-stack developer, mostly .NET, driven by making an impact on user's life. Feminist who loves technology and strives for equality."
+  thumbnailUrl: LeticiaTiveron.jpg
+  rockstar: false
+  social:
+    - { name: "linkedin", link: "https://www.linkedin.com/in/leticia-tiveron/" }
