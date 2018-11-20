@@ -281,6 +281,17 @@ Através da práticas contínuas de meditação, desenvolvedores de software pod
   speakers: [012]
   complexity: Intermediário
 
+# Egon
+-
+  id: 1202
+  title: "Melhorando como Frontend sem aprender lib alguma"
+  description: "Trabalhando na Dentro da História, startup Campineira reconhecida pela revista época como umas das 100 startups brasileiras a se ficar de olho em 2018, aprendi de forma prática outras métodos de melhorar como um frontend olhando mais para o resultado entregue e para produto e menos para novos frameworks ou tecnologias.
+Prepare-se para escutar um pouco sobre maneiras de desenvolver skills e senso crítico de design, captar insights e ideias vendo seus clientes e sua concorrência, e propor melhores soluções olhando mais seu negócio.
+OBS: Nessa talk você não vai aprender nenhuma biblioteca nova ou feature nova de nenhum framework! Mas mesmo assim garanto que vai adicionar muita novidade na sua stack de desenvolimento"
+  subtype: presentation
+  speakers: [034]
+  complexity: level
+
 # Joilson Cisne
 -
   id: 1203

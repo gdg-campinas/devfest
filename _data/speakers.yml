@@ -411,3 +411,17 @@ Como professor, lecionou em diversas disciplinas relacionadas à design e UX (IB
   rockstar: false
   social:
     - { name: "twitter", link: "https://twitter.com/noeBranagan" }
+
+# Egon Lima
+-
+  id: 034
+  name: "Égon Yuri"
+  surname: "Costa Lima"
+  company: "Dentro da História"
+  title: "Frontend Developer"
+  bio: "Eu sou um desenvolvedor web a mais ou menos 8 anos e adora criar coisas que dão resultado e possuem algum propósito para as pessoas. Sou campineiro, trabalho no Dentro da História como frontend, proporcionando experiências incríveis aos nossos clientes.
+Curto muito viajar e acredito que a melhor forma de se aprender é conhecendo pessoas e histórias de vida diferentes."
+  thumbnailUrl: EgonLima.jpg
+  rockstar: false
+  social:
+    - { name: "twitter", link: "https://twitter.com/egonyuri" }

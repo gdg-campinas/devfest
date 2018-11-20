@@ -19,6 +19,6 @@
     - { startTime: "15:10", endTime: "15:25", sessionIds: [901] }
     - { startTime: "15:25", endTime: "15:40", sessionIds: [1000] }
     - { startTime: "15:40", endTime: "16:30", sessionIds: [1101, 1102, 1103, 1104, 1105] }
-    - { startTime: "16:30", endTime: "17:20", sessionIds: [1201, 0, 1203, 1204, 1205] }
+    - { startTime: "16:30", endTime: "17:20", sessionIds: [1201, 1202, 1203, 1204, 1205] }
     - { startTime: "17:20", endTime: "18:10", sessionIds: [1301] }
     - { startTime: "18:10", endTime: "18:30", sessionIds: [1400] }
