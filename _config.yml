@@ -12,7 +12,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 # Site Settings
 title: "DevFest Campinas"
 email: "contato@gdg-campinas.org"
-description: "O DevFest é uma conferência te tecnlogia voltada para interessados no assunto de Campinas e região."
+description: "O Devfest é uma conferência de tecnologia voltada para interessados no assunto de Campinas e região."
 baseurl: "/devfest"
 url: "https://gdg-campinas.github.io"
 # permalink: "/blog/:title"
@@ -23,7 +23,7 @@ mapsApiKey: "AIzaSyBKggjiyNZRv2LMI86wSOAu2f2yZzUXArI"
 
 aboutEvent:
   title: "SOBRE O DEVFEST"
-  content: "O DevFest é uma conferência te tecnlogia voltada para interessados no assunto de Campinas e região."
+  content: "O Devfest é uma conferência de tecnologia voltada para interessados no assunto de Campinas e região."
 aboutGDG:
   title: "O QUE É O GDG?"
   content: "O GDG Campinas é parte de um programa do Google (Google Developer Group) sendo atualmente 1 de mais de 700 comunidades espalhadas pelo mundo. 
