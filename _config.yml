@@ -107,8 +107,8 @@ rockstarSpeakersImage: "background-speakers.jpg"
 rockstarSpeakersCount: 4
 rockstarSpeakersTitle: "Destaques"
 rockstarLinkEnabled: true
-rockstarSpeakersButtonText: "Seja um palestrante em 2018"
-rockstarSpeakersButtonLink: "https://goo.gl/forms/xBtrzGaVkbDhMtUN2"
+rockstarSpeakersButtonText: "Todos palestrantes"
+# rockstarSpeakersButtonLink: "https://goo.gl/forms/xBtrzGaVkbDhMtUN2"
 
 # Media
 media:
@@ -166,7 +166,8 @@ partnersC4sponsorsButton: "Torne-se um patrocinador"
 
 # Tickets Block
 ticketsTitle: "Ingressos"
-ticketsInfo: "Incluso: Acesso as 5 trilhas de conteúdo, estandes, sorteios e coffees.<br>
+ticketsInfo: "Incluso: Acesso às trilhas de conteúdo, trilha de mentoria, estandes, sorteios e coffees.<br>
+Ingresso dá acesso à trilha Kids, estandes, sorteios e coffees.<br>
 Estudantes devem mostrar comprovante."
 ticketsOffers:
  -
@@ -284,7 +285,21 @@ ticketsOffers:
   buyButtonLink: "https://www.eventbrite.com.br/e/devfest-campinas-2018-tickets-51723447223"
   buyButtonText: "Comprar"
   validFrom: "19/11/2018T00:00"
-  validThrough: "23/10/2018T00:00"
+  validThrough: "24/10/2018T00:00"
+  disabled: false
+  featured: true
+  soldOut: false
+  soldOutText: "Esgotado"
+
+ -
+  name: "Kids"
+  price: "25,00"
+  priceCurrency: "R$"
+  ticketsNumber: "TBD"
+  buyButtonLink: "https://www.eventbrite.com.br/e/devfest-campinas-2018-tickets-51723447223"
+  buyButtonText: "Comprar"
+  validFrom: "19/11/2018T00:00"
+  validThrough: "24/10/2018T00:00"
   disabled: false
   featured: true
   soldOut: false
