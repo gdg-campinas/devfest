@@ -73,14 +73,14 @@
   speakers: [014]
   complexity: Intermediário
 
-# Daniele Zandona
+# Denis Piaia
 -
   id: 404
-  title: "Acessibilizando - Casa Experience"
-  description: "O Casa Experience da Basf, Samsung e SIDI é um aplicativo, com acessibilidade para deficientes visuais, de visita virtual à CasaE montada em São Paulo que envolve vários sensores de presença e de conforto ambiental."
+  title: "UX do Fracasso 2.0"
+  description: "Grandes produtos, serviços ou empresas já falharam muitas vezes durante seu processo de amadurecimento e isso não impediu com que seus produtos fossem reconhecidos. O Fracasso é algo que precisamos encarar de frente pois ele uma hora ou outra vai nos assombrar. Nessa talk vamos falar um pouco sobre isso e como ele pode impactar grandes empresas pelo mundo."
   subtype: presentation
-  speakers: [028]
-  complexity: Todos
+  speakers: [013]
+  complexity: Básico
 
 # Daniel Cukier
 -
@@ -254,14 +254,14 @@ Através da práticas contínuas de meditação, desenvolvedores de software pod
   speakers: [019]
   complexity: Básico
 
-# Denis Piaia
+# Daniele Zandona
 -
   id: 1104
-  title: "UX do Fracasso 2.0"
-  description: "Grandes produtos, serviços ou empresas já falharam muitas vezes durante seu processo de amadurecimento e isso não impediu com que seus produtos fossem reconhecidos. O Fracasso é algo que precisamos encarar de frente pois ele uma hora ou outra vai nos assombrar. Nessa talk vamos falar um pouco sobre isso e como ele pode impactar grandes empresas pelo mundo."
+  title: "Acessibilizando - Casa Experience"
+  description: "O Casa Experience da Basf, Samsung e SIDI é um aplicativo, com acessibilidade para deficientes visuais, de visita virtual à CasaE montada em São Paulo que envolve vários sensores de presença e de conforto ambiental."
   subtype: presentation
-  speakers: [013]
-  complexity: Básico
+  speakers: [028]
+  complexity: Todos
 
 # Renato Ramos
 -
