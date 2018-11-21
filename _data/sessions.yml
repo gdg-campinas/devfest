@@ -92,6 +92,15 @@ Através da práticas contínuas de meditação, desenvolvedores de software pod
   speakers: [006]
   complexity: Básico
 
+# Guilherme Solinscki
+-
+  id: 501
+  title: "Construindo aplicações concorrentes e distribuídas com Elixir e  poderosa OTP"
+  description: "Nessa talk iremos abordar nosso case de reescrita da plataforma de mensageria da Wavy (Movile) em Elixir e como pudemos utilizar os recursos incríveis da sua poderosa OTP (Open Telecom Platform) para construir uma aplicação web concorrente e distribuída desde a sua concepção. Você também poderá conhecer maiores detalhes sobre o modelo de concorrência do Erlang e algumas das abordagens utilzadas para resolver problemas de distribuição e tolerância a falhas."
+  subtype: presentation
+  speakers: [036]
+  complexity: Intermediário
+
 # Yan Magalhães
 -
   id: 502
@@ -334,9 +343,18 @@ OBS: Nessa talk você não vai aprender nenhuma biblioteca nova ou feature nova 
 
 # ********************************
 
+# Daniela Chieppe
+-
+  id: _998
+  title: "A definir"
+  description: "A definir"
+  subtype: presentation
+  speakers: [035]
+  complexity: Todos
+
 # Fabiano Monte
 -
-  id: 999
+  id: _999
   title: "Comunidade esse é o Espírito"
   description: "Para entender que mesmo na adversidade quem quer ajudar os outros e fazer a diferença não fica arrumando desculpas. Arruma soluções e faz acontecer."
   subtype: presentation

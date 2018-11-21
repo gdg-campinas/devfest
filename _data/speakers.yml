@@ -425,3 +425,29 @@ Curto muito viajar e acredito que a melhor forma de se aprender é conhecendo pe
   rockstar: false
   social:
     - { name: "twitter", link: "https://twitter.com/egonyuri" }
+
+# Daniela Chieppe
+-
+  id: 035
+  name: "Daniela"
+  surname: "Chieppe"
+  company: "Prosa & Co | Te Business Lab"
+  title: "Founder | Senior Executive Partner"
+  bio: ""
+  thumbnailUrl: DanielaChieppe.jpg
+  rockstar: false
+  social:
+    - { name: "linkedin", link: "https://www.linkedin.com/in/daniela-cais-chieppe-3a08ab" }
+
+# Guilherme Solinscki
+-
+  id: 036
+  name: "Guilherme"
+  surname: "Solinscki"
+  company: "Wavy"
+  title: "Developer"
+  bio: "Desenvolvedor há mais de 10 anos com vasta experiência na construção e  aprimoramento de aplicações web. Entusiasta do uso de tecnologias open source e práticas ágeis, atua como desenvolvedor do Chatclub, plataforma de mensageria da Wavy (empresa do grupo Movile). Rubysta de coração, é também apaixonado por Elixir, JavaScript e demais tecnologias que orbitam o desenvolvimento web."
+  thumbnailUrl: GuilhermeSolinscki.jpg
+  rockstar: false
+  social:
+    - { name: "linkedin", link: "https://www.linkedin.com/in/guilherme-solinscki-469b2255/" }
