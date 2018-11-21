@@ -101,14 +101,14 @@ Através da práticas contínuas de meditação, desenvolvedores de software pod
   speakers: [036]
   complexity: Intermediário
 
-# Yan Magalhães
+# Andrew
 -
   id: 502
-  title: "Template Literals - da interpolação de strings a renderização de templates com Lit-HTML"
-  description: "Renderização de templates é um dos quesitos mais importantes na escolha das ferramentas e bibliotecas para aplicações front end. Os frameworks e bibliotecas como React acabam impondo seu jeito próprio para solucionar este problema. Mas será que é possível obter todos os recursos destas ferramentas, utilizando recursos nativos do próprio browser? Nesta palestra, veremos um breve histórico da evolução das ferramentas de renderização de templates, conheceremos todo o poder que a feature Template Literals da ES2015 nos provê para renderizar elementos HTML, e conhecer o lit-html, uma ferramenta que traz todos os recursos modernos dos frameworks e libraries, utilizando todo o poder da plataforma nativa."
+  title: "Servindo aplicações web dinamicamente sem backend de alta performance e baixo custo"
+  description: "Somar as soluções de ter uma aplicação web sem misturar ou precisar de um backend, mas entregar conteúdo dinâmico como versões diferentes para desktop e mobile, com alta performance para grandes volumes como varias blackfriday e sem escalar diversas maquinas mantendo o baixo custo é algo complicado, mas que não é difícil! Vou apresentar a solução que criamos para a Ingresso Rápido que está de vento em popa!"
   subtype: presentation
-  speakers: [029]
-  complexity: Intermediário
+  speakers: [024]
+  complexity: Todos
 
 # Vinicius Albuquerque
 -
@@ -193,14 +193,14 @@ Traga seu celular, papel e lápis de cor! :)"
   speakers: [001]
   complexity: Básico
 
-# Andrew
+# Yan Magalhães
 -
   id: 802
-  title: "Servindo aplicações web dinamicamente sem backend de alta performance e baixo custo"
-  description: "Somar as soluções de ter uma aplicação web sem misturar ou precisar de um backend, mas entregar conteúdo dinâmico como versões diferentes para desktop e mobile, com alta performance para grandes volumes como varias blackfriday e sem escalar diversas maquinas mantendo o baixo custo é algo complicado, mas que não é difícil! Vou apresentar a solução que criamos para a Ingresso Rápido que está de vento em popa!"
+  title: "Template Literals - da interpolação de strings a renderização de templates com Lit-HTML"
+  description: "Renderização de templates é um dos quesitos mais importantes na escolha das ferramentas e bibliotecas para aplicações front end. Os frameworks e bibliotecas como React acabam impondo seu jeito próprio para solucionar este problema. Mas será que é possível obter todos os recursos destas ferramentas, utilizando recursos nativos do próprio browser? Nesta palestra, veremos um breve histórico da evolução das ferramentas de renderização de templates, conheceremos todo o poder que a feature Template Literals da ES2015 nos provê para renderizar elementos HTML, e conhecer o lit-html, uma ferramenta que traz todos os recursos modernos dos frameworks e libraries, utilizando todo o poder da plataforma nativa."
   subtype: presentation
-  speakers: [024]
-  complexity: Todos
+  speakers: [029]
+  complexity: Intermediário
 
 # Noe Branagan
 -
