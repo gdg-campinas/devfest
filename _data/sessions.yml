@@ -158,8 +158,10 @@ Através da práticas contínuas de meditação, desenvolvedores de software pod
 # Daniel Furtado
 -
   id: 704
-  title: "Workshop: A definir (Parte 1)"
-  description: "A definir"
+  title: "Workshop: Prototipação em Papel (Parte 1)"
+  description: "Uma forma rápida de exemplificar, discutir e validar ideias, a prototipação em papel agiliza o desenvolvimento de produtos digitais.
+Nesse workshop será construído um protótipo em papel e, de maneira interativa, serão feitos testes com usuários diretamente no celular. 
+Traga seu celular, papel e lápis de cor! :)"
   subtype: presentation
   speakers: [009]
   complexity: Todos
@@ -203,8 +205,10 @@ Através da práticas contínuas de meditação, desenvolvedores de software pod
 # Daniel Furtado
 -
   id: 804
-  title: "Workshop: A definir (Parte 2)"
-  description: "A definir"
+  title: "Workshop: Prototipação em Papel (Parte 2)"
+  description: "Uma forma rápida de exemplificar, discutir e validar ideias, a prototipação em papel agiliza o desenvolvimento de produtos digitais.
+Nesse workshop será construído um protótipo em papel e, de maneira interativa, serão feitos testes com usuários diretamente no celular. 
+Traga seu celular, papel e lápis de cor! :)"
   subtype: presentation
   speakers: [009]
   complexity: Todos
