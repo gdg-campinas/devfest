@@ -451,3 +451,44 @@ Curto muito viajar e acredito que a melhor forma de se aprender é conhecendo pe
   rockstar: false
   social:
     - { name: "linkedin", link: "https://www.linkedin.com/in/guilherme-solinscki-469b2255/" }
+
+# José William de Moraes
+-
+  id: 037
+  name: "José William"
+  surname: "de Moraes"
+  company: "CargoX"
+  title: "Desenvolvedor"
+  bio: "Apaixonado por tecnologia e empreendedorismo, trabalho com desenvolvimento há 10 anos, sempre interessado em DevOps, automatizar as coisas e criar valor a partir da tecnologia para facilitar a vida das pessoas."
+  thumbnailUrl: JoseMoraes.jpg
+  rockstar: false
+  social:
+    - { name: "linkedin", link: "https://www.linkedin.com/in/williammoraes/" }
+
+# William Grasel
+-
+  id: 038
+  name: "William"
+  surname: "Grasel"
+  company: "Itaú Unibanco"
+  title: "Tech Lead and Software Engineer"
+  bio: ""
+  thumbnailUrl: WilliamGrasel.jpg
+  rockstar: false
+  ribbon: 
+    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
+  social:
+    - { name: "linkedin", link: "https://www.linkedin.com/in/william-grasel-799146114/" }
+
+# Clarissa Loureiro
+-
+  id: 039
+  name: "Clarissa"
+  surname: "Loureiro"
+  company: "Unicamp - FEEC"
+  title: "Doutoranda de engenharia elétrica na Unicamp"
+  bio: "Clarissa Loureiro tem graduação em Engenharia Elétrica pela UFCG e pelo INSA (Institut National des Sciences Appliquées de Lyon), França (2006), mestrado em Engenharia Elétrica e Computação na área de Engenharia Biomédica pela Unicamp (2011). Atualmente é doutoranda em Engenharia Elétrica na UNICAMP, e pela George Mason University, em Washington DC, pelo programa da CAPES. Ela foi presidente do IEEE WIE (Women in Engineering) da América Latina e Caribe em 2015, é presidente da  Apogeeu (Associação dos Pós-graduandos da Unicamp). Sua área de pesquisa envolve neurociências, engenharia elétrica aplicada a novos diagnósticos e terapias de doenças como câncer, Alzheimer, Parkinson, entre outras. Já trabalhou com robótica, radiações ionizantes e eletromagnetismo. Faz projetos na área de tecnologia para a educação em escolas públicas. Participou do projeto de planejamento Smart City da secretaria de desenvolvimento de Campinas, já deu mais de 50 palestras pelo Brasil ie América, incentivando o empoderamento das mulheres nas áreas científicas e tecnológicas, participa de algumas ONGs relacionadas a educação infantil e apoio as mulheres no mercado de trabalho. É delegada do estado de São Paulo de políticas públicas e Conselheira do município de Campinas do Conselho Municipal dos Direitos da Mulher, CMDM. Pesquisa também sobre a saúde mental da mulher, e é divulgadora de projetos de empreendedorismo social."
+  thumbnailUrl: ClarissaLoureiro.jpg
+  rockstar: false
+  social:
+    - { name: "facebook", link: "https://m.facebook.com/clarissa.loureiro" }

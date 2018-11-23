@@ -31,7 +31,7 @@
   description: "Momento para networking"
 
 -
-  id: 1400
+  id: 1500
   title: "Encerramento"
   place: ""
   service: true
@@ -95,7 +95,7 @@ Através da práticas contínuas de meditação, desenvolvedores de software pod
 # Guilherme Solinscki
 -
   id: 501
-  title: "Construindo aplicações concorrentes e distribuídas com Elixir e  poderosa OTP"
+  title: "Construindo aplicações concorrentes e distribuídas com Elixir e poderosa OTP"
   description: "Nessa talk iremos abordar nosso case de reescrita da plataforma de mensageria da Wavy (Movile) em Elixir e como pudemos utilizar os recursos incríveis da sua poderosa OTP (Open Telecom Platform) para construir uma aplicação web concorrente e distribuída desde a sua concepção. Você também poderá conhecer maiores detalhes sobre o modelo de concorrência do Erlang e algumas das abordagens utilzadas para resolver problemas de distribuição e tolerância a falhas."
   subtype: presentation
   speakers: [036]
@@ -128,23 +128,32 @@ Através da práticas contínuas de meditação, desenvolvedores de software pod
   speakers: [026]
   complexity: Avançado
 
-# WTM Roundtable
+# Henrique Candella
 -
   id: 505
-  title: "Mesa Redonda WTM"
+  title: "Saúde mental e como lidar com o caos"
+  description: "Assim como proposta da Google para o DevFest saúde mental é muito importante para podermos continuar evoluindo de forma ágil e eficaz."
+  subtype: presentation
+  speakers: [022]
+  complexity: Intermediário
+
+# Daniela Chieppe
+-
+  id: 505_5
+  title: "Como melhorar a comunicação?"
   description: ""
   subtype: presentation
-  speakers: [032]
+  speakers: [035]
   complexity: Todos
 
-# Igor França
+# Gabriela Ferrara
 -
   id: 701
-  title: "Node.js a todo vapor! Liberando o poder da plataforma SEM O NPM "
-  description: "Você já deve ter usado Node.js junto com npm, porém, você sabia que só com o Node, conseguimos fazer coisas incríveis? Os módulos nativos do Node pode te ajudar em uma série de tarefas muito divertidas, e até te ajudar a entender como algumas das suas bibliotecas favoritas funcionam!"
+  title: "Do Zero ao Auto ML (From Zero to Auto ML)"
+  description: "Imagine poder usar tecnologias de aprendizagem de máquina sem ter PhD. Tudo isso é possível com apenas algumas chamadas REST para a API do Google Cloud. Com as APIs de Aprendizagem de Máquina classifique imagens, detecte sentimento em sentenças e use até seus dados para customizar e treinar modelos com o Auto ML (sem doutorado!)."
   subtype: presentation
-  speakers: [027]
-  complexity: Todos
+  speakers: [001]
+  complexity: Básico
 
 # Mathixa
 -
@@ -155,14 +164,14 @@ Através da práticas contínuas de meditação, desenvolvedores de software pod
   speakers: [030]
   complexity: Intermediário
 
-# Daniel Cukier: actions
+# Noe Branagan
 -
   id: 703
-  title: "Actions on Google: passo a passo para publicar a sua"
-  description: "Explicaremos de ponta a ponta como publicar uma assistente no Actions on Google, usando DialogFlow, Firebase e Cloud Functions."
+  title: "The good and the bad and the ugly of using multiplatform frameworks and targeting Android."
+  description: "Now days we want to develop and ship our Apps as soon as possible in order to reduce the time to market but in some situations our project generate a great track and gain dozens of users and there is when we notice that our number os bugs/crashes increase in a phase that our focus is mainly on support those users and dedicate must of our time in fixing bugs that get more complicated over the time. During this talk we are going to walk through strategies that you can use when you have this situation or even better when you need to decide when to use a framework and which one will be better for my needs or not use one, using real world scenarios base on my experience."
   subtype: presentation
-  speakers: [006]
-  complexity: Básico
+  speakers: [033]
+  complexity: Intermediário
 
 # Daniel Furtado
 -
@@ -175,41 +184,41 @@ Traga seu celular, papel e lápis de cor! :)"
   speakers: [009]
   complexity: Todos
 
-# Henrique Candella
+# Douglas Silva
 -
   id: 705
-  title: "Saúde mental e como lidar com o caos"
-  description: "Assim como proposta da Google para o DevFest saúde mental é muito importante para podermos continuar evoluindo de forma ágil e eficaz."
+  title: "Blockchain além das criptomoedas."
+  description: "Que blockchain é a nova menina dos olhos todos nós sabemos, mas como ela tem sido vista pelo mercado? Muito se fala de bockchain no mercado financeiro mas e fora dele? Esse papo vai ser sobre como o blockchain vem mudando diversas áreas como saúde, seguros, transporte entre outras e quais ferramentas de desenvolvimento estão ganhando os mercados corporativos."
   subtype: presentation
-  speakers: [022]
-  complexity: Intermediário
-
-# Gabriela Ferrara
--
-  id: 801
-  title: "Do Zero ao Auto ML (From Zero to Auto ML)"
-  description: "Imagine poder usar tecnologias de aprendizagem de máquina sem ter PhD. Tudo isso é possível com apenas algumas chamadas REST para a API do Google Cloud. Com as APIs de Aprendizagem de Máquina classifique imagens, detecte sentimento em sentenças e use até seus dados para customizar e treinar modelos com o Auto ML (sem doutorado!)."
-  subtype: presentation
-  speakers: [001]
+  speakers: [016]
   complexity: Básico
 
-# Yan Magalhães
+# Igor França
+-
+  id: 801
+  title: "Node.js a todo vapor! Liberando o poder da plataforma SEM O NPM "
+  description: "Você já deve ter usado Node.js junto com npm, porém, você sabia que só com o Node, conseguimos fazer coisas incríveis? Os módulos nativos do Node pode te ajudar em uma série de tarefas muito divertidas, e até te ajudar a entender como algumas das suas bibliotecas favoritas funcionam!"
+  subtype: presentation
+  speakers: [027]
+  complexity: Todos
+
+# William Grasel
 -
   id: 802
-  title: "Template Literals - da interpolação de strings a renderização de templates com Lit-HTML"
-  description: "Renderização de templates é um dos quesitos mais importantes na escolha das ferramentas e bibliotecas para aplicações front end. Os frameworks e bibliotecas como React acabam impondo seu jeito próprio para solucionar este problema. Mas será que é possível obter todos os recursos destas ferramentas, utilizando recursos nativos do próprio browser? Nesta palestra, veremos um breve histórico da evolução das ferramentas de renderização de templates, conheceremos todo o poder que a feature Template Literals da ES2015 nos provê para renderizar elementos HTML, e conhecer o lit-html, uma ferramenta que traz todos os recursos modernos dos frameworks e libraries, utilizando todo o poder da plataforma nativa."
+  title: "A definir"
+  description: "A definir"
   subtype: presentation
-  speakers: [029]
-  complexity: Intermediário
+  speakers: [038]
+  complexity: Todos
 
-# Noe Branagan
+# Daniel Cukier: actions
 -
   id: 803
-  title: "The good and the bad and the ugly of using multiplatform frameworks and targeting Android."
-  description: "Now days we want to develop and ship our Apps as soon as possible in order to reduce the time to market but in some situations our project generate a great track and gain dozens of users and there is when we notice that our number os bugs/crashes increase in a phase that our focus is mainly on support those users and dedicate must of our time in fixing bugs that get more complicated over the time. During this talk we are going to walk through strategies that you can use when you have this situation or even better when you need to decide when to use a framework and which one will be better for my needs or not use one, using real world scenarios base on my experience."
+  title: "Actions on Google: passo a passo para publicar a sua"
+  description: "Explicaremos de ponta a ponta como publicar uma assistente no Actions on Google, usando DialogFlow, Firebase e Cloud Functions."
   subtype: presentation
-  speakers: [033]
-  complexity: Intermediário
+  speakers: [006]
+  complexity: Básico
 
 # Daniel Furtado
 -
@@ -222,18 +231,63 @@ Traga seu celular, papel e lápis de cor! :)"
   speakers: [009]
   complexity: Todos
 
-# Douglas Silva
+# WTM Roundtable
 -
   id: 805
-  title: "Blockchain além das criptomoedas."
-  description: "Que blockchain é a nova menina dos olhos todos nós sabemos, mas como ela tem sido vista pelo mercado? Muito se fala de bockchain no mercado financeiro mas e fora dele? Esse papo vai ser sobre como o blockchain vem mudando diversas áreas como saúde, seguros, transporte entre outras e quais ferramentas de desenvolvimento estão ganhando os mercados corporativos."
+  title: "Mesa Redonda WTM"
+  description: ""
   subtype: presentation
-  speakers: [016]
-  complexity: Básico
+  speakers: [032]
+  complexity: Todos
+
+# José William de Moraes
+-
+  id: 901
+  title: "Da AWS para o GCP"
+  description: "Hoje a CargoX utiliza CI&CD full AWS. Mas como migrar de uma cloud pública para outra? O Terraform ajuda? Veremos quais os serviços equivalentes nos dois provedores, e quais os aprendizados para uma nova pipeline."
+  subtype: presentation
+  speakers: [037]
+  complexity: Intermediário
+
+# Yan Magalhães
+-
+  id: 902
+  title: "Template Literals - da interpolação de strings a renderização de templates com Lit-HTML"
+  description: "Renderização de templates é um dos quesitos mais importantes na escolha das ferramentas e bibliotecas para aplicações front end. Os frameworks e bibliotecas como React acabam impondo seu jeito próprio para solucionar este problema. Mas será que é possível obter todos os recursos destas ferramentas, utilizando recursos nativos do próprio browser? Nesta palestra, veremos um breve histórico da evolução das ferramentas de renderização de templates, conheceremos todo o poder que a feature Template Literals da ES2015 nos provê para renderizar elementos HTML, e conhecer o lit-html, uma ferramenta que traz todos os recursos modernos dos frameworks e libraries, utilizando todo o poder da plataforma nativa."
+  subtype: presentation
+  speakers: [029]
+  complexity: Intermediário
+
+# Roundtable: mobile
+-
+  id: 903
+  title: "Mesa Redonda: O mercado mobile e suas variantes"
+  description: ""
+  subtype: presentation
+  speakers: []
+  complexity: Todos
+
+# idWall
+-
+  id: 904
+  title: "A definir"
+  description: "A definir"
+  subtype: presentation
+  speakers: []
+  complexity: Todos
+
+# Clarissa Loureiro
+-
+  id: 905
+  title: "Diversidade na tecnologia para sustentabilidade mundial"
+  description: "O que faz a diversidade tecnologica se transformar em riqueza para o Brasil?"
+  subtype: presentation
+  speakers: [039]
+  complexity: Todos
 
 # Rodrigo Pokemon
 -
-  id: 901
+  id: 1101
   title: "Stand-Up - Arquitetando seus sistemas de forma (in)coerente"
   description: "Como devs e (faz tudo) estamos acostumados a nos comunicar muito bem com toda a equipe né? Utilizamos as tecnologias corretas para fazer o que nos foi pedido... Esquematizamos corretamente todos os passos dos sistemas, entendemos o que o cliente quer. Nos é passado um prazo coerente e muito mais, correto? Vamos ver o que pode dar de ruim ou muito ruim numa arquitetura e sistemas."
   subtype: presentation
@@ -242,7 +296,7 @@ Traga seu celular, papel e lápis de cor! :)"
 
 # Vinicius Perallis
 -
-  id: 1101
+  id: 1201
   title: "O que mudará em minha aplicação com a lei de proteção de dados pessoais?"
   description: "Nesta palestra abordaremos as implicações práticas da lei 13.709, de 14 de Agosto, em relação aos cuidados que devemos ter ao desenvolvermos aplicações."
   subtype: presentation
@@ -251,7 +305,7 @@ Traga seu celular, papel e lápis de cor! :)"
 
 # Igor Ming
 -
-  id: 1102
+  id: 1202
   title: "Novidades no React 16.3+"
   description: "A versão 16.3+ do React, trouxe consigo várias novidades para os desenvolvedores. Error boundary, novos lifecycles, e também a new context api (que era fortemente aguardada, trazendo até mesmo boatos de \"substituir o famoso Redux\"). Pretendo esclarecer cada uma destas novidades, e trazer algo agregante para todos."
   subtype: presentation
@@ -260,7 +314,7 @@ Traga seu celular, papel e lápis de cor! :)"
 
 # Igor Halfeld
 -
-  id: 1103
+  id: 1203
   title: "WTF is Vue.js Native?"
   description: "Atualmente desenvolvimento Mobile é bizarro, a variedade de opções para se fazer apps é incrível, ainda mais quando se fala em fazer apps com javascript, a ideia aqui é mostrar o que é esse Vue.js Native (que é na real uma PoC em cima do React Native), porquê já existe o NativeScript-Vue que já a solução madura."
   subtype: presentation
@@ -269,7 +323,7 @@ Traga seu celular, papel e lápis de cor! :)"
 
 # Daniele Zandona
 -
-  id: 1104
+  id: 1204
   title: "Acessibilizando - Casa Experience"
   description: "O Casa Experience da Basf, Samsung e SIDI é um aplicativo, com acessibilidade para deficientes visuais, de visita virtual à CasaE montada em São Paulo que envolve vários sensores de presença e de conforto ambiental."
   subtype: presentation
@@ -278,16 +332,25 @@ Traga seu celular, papel e lápis de cor! :)"
 
 # Renato Ramos
 -
-  id: 1105
+  id: 1205
   title: "Carreiras internacionais - Mobile/"
   description: "E ai tá afim de rapar fora do Braselll? Quer entender como conseguir uma oportunidade em outro pais(Eua, Europa etc..),  como entender se voce está realmente preparado para ir embora para outro pais, como se portar nos processos seletivos, o que fazer ? Como convencer que voce é a melhor escolha para aquela empresa, como conseguir vagas internacionais. e por ultimo meu querido: \"Quer entender o resultado do que fez no passado, pensa como está sua vida no presente; quer entender como será o seu futuro, pensa nas ações que está tomando no presente\""
   subtype: presentation
   speakers: [020]
   complexity: Todos
 
+# Fabiano Monte
+-
+  id: 1205_5
+  title: "Comunidade esse é o Espírito"
+  description: "Para entender que mesmo na adversidade quem quer ajudar os outros e fazer a diferença não fica arrumando desculpas. Arruma soluções e faz acontecer."
+  subtype: presentation
+  speakers: [002]
+  complexity: Intermediário
+
 # Douglas Augusto
 -
-  id: 1201
+  id: 1301
   title: "Cabeça nas Nuvens: Trabalhando com Machine Learning no Google Cloud"
   description: "Quer aprender sobre o processo de Aprendizado de Máquina e como isso roda na nuvem? Então não deixe de participar desta palestra, irei mostrar e descrever os serviços e ferramentas de Machine Learning ofertados na plataforma do Google Cloud, e exemplificar cada uma delas mostrando seus recursos e limitações."
   subtype: presentation
@@ -296,7 +359,7 @@ Traga seu celular, papel e lápis de cor! :)"
 
 # Egon
 -
-  id: 1202
+  id: 1302
   title: "Melhorando como Frontend sem aprender lib alguma"
   description: "Trabalhando na Dentro da História, startup Campineira reconhecida pela revista época como umas das 100 startups brasileiras a se ficar de olho em 2018, aprendi de forma prática outras métodos de melhorar como um frontend olhando mais para o resultado entregue e para produto e menos para novos frameworks ou tecnologias.
 Prepare-se para escutar um pouco sobre maneiras de desenvolver skills e senso crítico de design, captar insights e ideias vendo seus clientes e sua concorrência, e propor melhores soluções olhando mais seu negócio.
@@ -307,7 +370,7 @@ OBS: Nessa talk você não vai aprender nenhuma biblioteca nova ou feature nova 
 
 # Joilson Cisne
 -
-  id: 1203
+  id: 1303
   title: "Desenvolvimento mobile multi-plataforma: por onde começar"
   description: "Entrando agora no mundo do desenvolvimento mobile? Economize tempo e aprenda os prós e contras dos principais frameworks para desenvolvimento mobile cross-platform."
   subtype: presentation
@@ -316,7 +379,7 @@ OBS: Nessa talk você não vai aprender nenhuma biblioteca nova ou feature nova 
 
 # Richard
 -
-  id: 1204
+  id: 1304
   title: "UX como suporte ao usuário"
   description: "Porque muda toda a maneira de fazer UX"
   subtype: presentation
@@ -325,7 +388,7 @@ OBS: Nessa talk você não vai aprender nenhuma biblioteca nova ou feature nova 
 
 # Filipe Lopes
 -
-  id: 1205
+  id: 1305
   title: "A importância da Acessibilidade"
   description: "Se eu lhe disser que poderá alavancar seu market share com uma mudança de pensamento, você aceitaria fazer uma tentativa? Acessibilidade é muito mais do que meras tags e boas práticas, é mudança de perspectiva. E sim, ela pode mudar sua vida! Ela pode mudar uma vida!"
   subtype: presentation
@@ -334,29 +397,9 @@ OBS: Nessa talk você não vai aprender nenhuma biblioteca nova ou feature nova 
 
 # Maujor
 -
-  id: 1301
+  id: 1401
   title: "Keynote de Encerramento"
   description: "Keynote de Encerramento"
   subtype: presentation
   speakers: [004]
   complexity: Todos
-
-# ********************************
-
-# Daniela Chieppe
--
-  id: _998
-  title: "A definir"
-  description: "A definir"
-  subtype: presentation
-  speakers: [035]
-  complexity: Todos
-
-# Fabiano Monte
--
-  id: _999
-  title: "Comunidade esse é o Espírito"
-  description: "Para entender que mesmo na adversidade quem quer ajudar os outros e fazer a diferença não fica arrumando desculpas. Arruma soluções e faz acontecer."
-  subtype: presentation
-  speakers: [002]
-  complexity: Intermediário
