@@ -267,11 +267,11 @@ Traga seu celular, papel e lápis de cor! :)"
   speakers: []
   complexity: Todos
 
-# idWall
+# roundtable: UX/UI
 -
   id: 904
-  title: "A definir"
-  description: "A definir"
+  title: "Mesa Redonda"
+  description: ""
   subtype: presentation
   speakers: []
   complexity: Todos
