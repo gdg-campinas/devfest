@@ -66,7 +66,7 @@
 
 # Higor Alves
 -
-  id: 403
+  id: 1203
   title: "Lidando com Real Time no React Native"
   description: "Real Time no React Native, consolidando conhecimentos sobre como o RN trabalha com web socket e renderização em tempo real consumindo o mínimo possível de processamento com a atualização do DOM."
   subtype: presentation
@@ -314,7 +314,7 @@ Traga seu celular, papel e lápis de cor! :)"
 
 # Igor Halfeld
 -
-  id: 1203
+  id: 403
   title: "WTF is Vue.js Native?"
   description: "Atualmente desenvolvimento Mobile é bizarro, a variedade de opções para se fazer apps é incrível, ainda mais quando se fala em fazer apps com javascript, a ideia aqui é mostrar o que é esse Vue.js Native (que é na real uma PoC em cima do React Native), porquê já existe o NativeScript-Vue que já a solução madura."
   subtype: presentation
