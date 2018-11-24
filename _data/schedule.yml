@@ -1,12 +1,12 @@
 - 
   date: "2018-11-24"
   dateReadable: "24 de Novembro"
-  tracks: 
+  tracks:
     - {title: "Back-end", color: "#4285F4"}
-    - {title: "Front-end web", color: "#EA4335"}
-    - {title: "Mobile", color: "#34A853"}
-    - {title: "UI/UX", color: "#FBBC05"}
-    - {title: "Awareness", color: "#CCCCCC"}
+    - {title: "Front-end web", color: "#34A853"}
+    - {title: "Mobile", color: "#CCCCCC"}
+    - {title: "UI/UX", color: "#EA4335"}
+    - {title: "Awareness", color: "#FBBC05"}
   timeslots:
     - { startTime: "08:20", endTime: "08:50", sessionIds: [100] }
     - { startTime: "08:50", endTime: "09:20", sessionIds: [200] }
