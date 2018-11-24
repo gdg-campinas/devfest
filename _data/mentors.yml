@@ -14,6 +14,7 @@
     - { name: "twitter", link: "https://twitter.com/pimentaflavio" }
   sessions:
     - title: "11:10 - 12:00: Posso falar sobre carreira, devops, backend.. se acordo com o interesse da turma"
+    - title: "14:00: Posso falar sobre carreira, devops, backend.. se acordo com o interesse da turma"
   
 # Igor Ming
 -
@@ -111,3 +112,33 @@
   sessions:
     - title: "16h30 - 17h: php, carreira, comunidade, organização de evento, programação web"
 
+# Henrique Candella
+-
+  id: 022
+  name: "Henrique"
+  surname: "Candella"
+  company: "Instituto da Família"
+  title: "Psicanalista"
+  bio: "Psicanalista e Organizar GDG Campinas, Coordenador do Instituto da Família."
+  thumbnailUrl: HenriqueCandella.jpg
+  rockstar: false
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/henrique-candella-565a93133/"}
+    - {name: "facebook", link: "https://www.facebook.com/profile.php?id=100014317275586"}
+  sessions:
+    - title: "14h00"
+
+# Daniele Zandona
+-
+  id: 028
+  name: "Daniele"
+  surname: "Zandona"
+  company: "SIDI"
+  title: "Senior UX Designer"
+  bio: ""
+  thumbnailUrl: DanieleZandona.jpg
+  rockstar: false
+  social:
+    - { name: "linkedin", link: "https://www.linkedin.com/in/danielez/" }
+  sessions:
+    - title: "17h00"
