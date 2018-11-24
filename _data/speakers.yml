@@ -48,6 +48,7 @@
   title: "Dinossauro do CSS"
   bio: "Maurício Samy Silva também conhecido como \"Dinossauro das CSS\" ou simplesmente Maujor® é graduado em Engenharia Civil pelo Instituto Militar de Engenharia (IME). Exerceu o magistério paralelamente à Engenharia, tendo sido, ao longo de 25 anos, professor de Geometria Descritiva e Matemática. Sua experiência com desenvolvimento web iniciou-se em 1999, após se aposentar aos 56 anos e conhecer o FrontPage. Em 2002, por acaso teve seu primeiro contato com o site do W3C, começou a pesquisar e estudar os Padrões Web e não parou mais. Maujor é autor de vários livros e mantém o site https://maujor.com."
   thumbnailUrl: Maujor.jpg
+  mentor: true
   rockstar: true
   social:
     - { name: "twitter", link: "https://twitter.com/maujor" }
@@ -120,6 +121,7 @@ Como professor, lecionou em diversas disciplinas relacionadas à design e UX (IB
   title: "Cloud Engineer"
   bio: "Douglas Augusto é apaixonado pelas áreas de Cloud Computing e Machine Learning, atualmente trabalha como Cloud Engineer na Avenue Code, empresa norte americana que presta consultoria em tecnologia para grandes clientes.  Na sua carreira, participou de projetos inovadores para clientes como Coca Cola, Fiat e Jeep. Possui certificado de Arquiteto Google Cloud e tem clientes particulares na área de Aprendizado Máquina. É organizador das comunidades GDG João Monlevade e a Google Cloud Developer Community Belo Horizonte. Presta mentorias de Cloud Computing e Machine Learning no Google Launchpad, programa de aceleração de startups da Google."
   thumbnailUrl: DouglasAugusto.jpg
+  mentor: true
   rockstar: false
   social:
     - { name: "linkedin", link: "https://www.linkedin.com/in/douglasaugusto/" }
@@ -164,6 +166,7 @@ Como professor, lecionou em diversas disciplinas relacionadas à design e UX (IB
   bio: "Arquiteto Cloud e Evangelista DevOps na Assertiva Soluções. Formado em Matemática pela UNICAMP, com mais de 18 anos no mercado de TI atuando como desenvolvedor Java e também com experiência em CI/CD e Cloud Computing. Sou coordenador das comunidades AWS Campinas e Qualidade de Software Campinas."
   thumbnailUrl: FlavioPimenta.jpg
   rockstar: false
+  mentor: true
   social:
     - { name: "linkedin", link: "https://www.linkedin.com/in/flaap" }
     - { name: "twitter", link: "https://twitter.com/pimentaflavio" }
@@ -246,6 +249,7 @@ Como professor, lecionou em diversas disciplinas relacionadas à design e UX (IB
   bio: "Apreciador de tecnologias open source, especialista Frontend e alguém realmente apaixonado pelo que faz. Seja atuando diretamente, ou compartilhando/trocando conhecimento."
   thumbnailUrl: IgorMing.jpg
   rockstar: false
+  mentor: true
   social:
     - { name: "linkedin", link: "https://www.linkedin.com/in/igor-mesquita-12848033/" }
 
@@ -435,6 +439,7 @@ Curto muito viajar e acredito que a melhor forma de se aprender é conhecendo pe
   title: "Founder | Senior Executive Partner"
   bio: ""
   thumbnailUrl: DanielaChieppe.jpg
+  mentor: true
   rockstar: false
   social:
     - { name: "linkedin", link: "https://www.linkedin.com/in/daniela-cais-chieppe-3a08ab" }

@@ -1,301 +1,113 @@
-# Everton Gago
-- 
-  id: 99917
-  name: "Everton"
-  surname: "Gago"
-  company: "iFood"
-  title: "Especialista em Data Science"
-  bio: "Everton Gago é Doutorando e Mestre em Engenharia Elétrica na Unicamp. Atualmente pesquisa e desenvolve algoritmos matemáticos que reproduzem de forma artificial os aspectos biológicos de aprendizado e auto-organização. Seus principais interesses são: Aprendizado de máquina, processamento digital de sinais e computação evolutiva"
-  thumbnailUrl: EvertonGago.jpg
-  rockstar: true
-  mentor: true
-  social: 
-
-# Raphael Moraes
-- 
-  id: 99918
-  name: "Raphael"
-  surname: "Moraes"
-  company: "Movile"
-  title: "Frontend Engineer"
-  bio: "Engenheiro de Computação formado pela PUC-Campinas finalizando a bi-titulação em Engenharia de Software e Gestão, Marketing e Empreendedorismo, atualmente trabalha como Engenheiro de Frontend para a Movile Brasil tendo grande experiencia na stack de interface, sendo um evangelista do Javascript."
-  thumbnailUrl: RaphaelMoraes.jpg
-  rockstar: false
-  mentor: true
-  social:
-    - {name: "linkedin", link: "https://www.linkedin.com/in/raphael-moraes-26951821/"}
-
-# Gabriel Franco
-- 
-  id: 99919
-  name: "Gabriel"
-  surname: "Franco"
-  company: "Spotify"
-  title: "Engineering Manager (Chapter Lead)"
-  bio: "Trabalhando atualmente como Engineering Manager no Spotify em Stockholm, possui mais de 10 anos de experiência gerenciando times técnicos, focado no desenvolvimento, atração e retenção de talentos em empresas como Ci&T, Movile, iFood, Ingresso Rápido e outras. Também desenvolve em seu tempo livre e se auto descreve como 'Coder by heart, manager by fate'."
-  thumbnailUrl: GabrielFranco.jpg
-  rockstar: true
-  social:
-    - {name: "linkedin", link: "https://www.linkedin.com/in/gffranco/"}
-
-# Ubiratan Soares
+# Flavio Pimenta
 -
-  id: 99920		
-  name: "Ubiratan"		
-  surname: "Soares"		
-  company: ""		
-  title: "Consultor Independente"		
-  bio: "Software Engineer, curious guy, messing with Android development"	
-  thumbnailUrl: UbiratanSoares.jpg		
-  rockstar: true		
-  mentor: true
-  ribbon:
-    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
-  social: 		
-    - {name: "linkedin", link: "https://www.linkedin.com/in/ubiratanfsoares/"}
-    - {name: "twitter", link: "https://twitter.com/ubiratanfsoares"}
-    - {name: "github", link: "https://github.com/ubiratansoares"}    
-
-# Fellipe Caetano (Jozinho)
-- 
-  id: 99915
-  name: "Fellipe"
-  surname: "Caetano"
-  company: "Sympla"
-  title: "Desenvolvedor iOS"
-  bio: "Fellipe Caetano é um desenvolvedor iOS especializado em construir apps de forma altamente testável com código de qualidade. É entusiasta de desenvolvimento web e acredita que as comunidades de desenvolvimento nativo tem muito o que aprender com quem resolve problemas complexos de UI há muito mais tempo. Atua desde 2016 como desenvolvedor sênior na Sympla, tendo trabalhado desde 2010 em empresas como Movile e Dextra entregando soluções mobile tailor-made para finanças, mídia, eventos, gestão de projetos, esportes e negócios O2O."
-  thumbnailUrl: FellipeCaetano.jpg
-  rockstar: true
-  social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/fellipecaetano/"}
-    - {name: "github", link: "https://github.com/fellipecaetano/"}
-    - {name: "twitter", link: "https://twitter.com/fellipecaetano_"}
-    - {name: "email", link: "fellipe.caetano@sympla.com.br"}
-
-# Daniel Furtado
-- 
-  id: 9991
-  name: "Daniel"
-  surname: "Furtado"
-  company: "Wezen"
-  title: "Designer"
-  bio: "Fundador da Wezen (estúdio de design de interação e experiência do usuário) e com 20 anos de experiência em design, acredita que produtos e serviços poderiam ser bem melhores do que são. 
-Criou o canal UXNOW para explicar sobre UX, Design Centrado no Usuário e Arquitetura da Informação. 
-Como professor, lecionou em diversas disciplinas relacionadas à design e UX (IBTA/Metrocamp/Véris, PeopleTec, Iladec, Faculdade Impacta Tecnologia, entre outros)."
-  thumbnailUrl: DanielFurtado.jpg
+  id: 015
+  name: "Flávio"
+  surname: "Pimenta"
+  company: "Assertiva Soluções"
+  title: "Arquiteto Cloud"
+  bio: "Arquiteto Cloud e Evangelista DevOps na Assertiva Soluções. Formado em Matemática pela UNICAMP, com mais de 18 anos no mercado de TI atuando como desenvolvedor Java e também com experiência em CI/CD e Cloud Computing. Sou coordenador das comunidades AWS Campinas e Qualidade de Software Campinas."
+  thumbnailUrl: FlavioPimenta.jpg
   rockstar: false
   mentor: true
-  social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/danielfurtado/"}
-
-# Walmyr Carvalho
-- 
-  id: 9992
-  name: "Walmyr"
-  surname: "Carvalho"
-  company: "99"
-  title: "Desenvolvedor Android"
-  bio: "Desenvolvedor de software de origem em Brasília mas atualmente morando em São Paulo, trabalha como desenvolvedor Android há mais de 7 anos. Já trabalhou em projetos de diversos tamanhos para empresas como CI&T, Hotel Urbano e Cielo, e atualmente trabalha como desenvolvedor Android na 99. No seu tempo livre, adora estar perto da comunidade Android em geral. É um dos ex-organizadores do GDG Rio de Janeiro, organizador e administrador do Android Meetup Rio de Janeiro, Kotlin Meetup São Paulo, Android Dev BR (a maior comunidade brasileira de profissionais Android no Slack, com mais de 3500 membros) e, recentemente, foi nomeado como Google Developer Expert de Android no Brasil."
-  thumbnailUrl: WalmyrCarvalho.jpg
-  rockstar: false
-  mentor: true
-  ribbon: 
-    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
   social:
-    - {name: "linkedin", link: "https://www.linkedin.com/in/walmyrcarvalho/"}
-
-# Ana Paula Batista
-- 
-  id: 99922
-  name: "Ana Paula"
-  surname: "Batista"
-  company: "Sparck"
-  title: "UX/Product Designer"
-  bio: "Formada em Multimídia Digital, tem 17 anos de experiência no planejamento e projeto de produtos digitais. Uma das primeiras Google Experts em UX/UI no Brasil, teve oportunidade de participar da primeira turma de Design Sprint Master Academy, oferecido pelo Google em Mountain View - CA - USA, em 2015. Já planejou e aplicou Design Sprint para mais de 25 empresas diferentes, tendo grandes resultados que se tornaram cases em palestras internacionais.
-Teve oportunidade também em ser mentora das duas primeiras classes do programa de aceleração global do Google - o Google Launchpad Accelerator Program de 2016. Neste programa, atuou diretamente com 48 startups da Índia, Indonésia, México e Brasil. Além disto, já deu mentoria para mais de 50 startups e palestras em diferentes cidades do Brasil, em programas de comunidades independentes ou relacionados ao Google BR.
-Já teve passagens no AppProva, B2W Digital, UOL, Terraforum (atual Globant), entre outras. É também líder do capítulo local da UXPA-SP - comunidade sem fins lucrativos que tem como objetivo divulgar e fortalecer a profissão e disciplina do Design de Experiência do Usuário."
-  thumbnailUrl: AnaBatista.png
-  rockstar: false
-  mentor: true
-  ribbon: 
-    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
-  social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/anabatista/"}
-
-# Matheus Candido
-- 
-  id: 9993
-  name: "Matheus"
-  surname: "Candido"
-  company: "Concrete"
-  title: "Desenvolvedor Android"
-  bio: "Matheus é formado em Ciência da Computação pela PUC-MG e apaixonado por Desenvolvimento Android. Hoje trabalha fazendo apps para o robozinho verde na Concrete. Ana é mineira e formada em Ciência da Computação. Trabalha na área de TI há 6 anos e desenvolve Android e Web. Hoje em dia, também se aventura no mundo do empreendedorismo."
-  thumbnailUrl: MatheusCandido.jpg
-  rockstar: false
-  mentor: true
-  social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/matheuscassiano/"}
-
-
-# Bruno Henrique Orlandi
-- 
-  id: 9994
-  name: "Bruno Henrique"
-  surname: "Orlandi"
-  company: "UPX Technologies"
-  title: "Desenvolvedor Frontend"
-  bio: "Bruno Orlandi, é Desenvolvedor de Software, formado em Ciências de Computação. Fã de Star Wars e grande ouvinte de podcasts. Estuda sobre criatividade, inovação e empreendedorismo e relaciona isto com o seu trabalho pois a tecnologia tem sido a maior plataforma para as próximas grandes inovações da humanidade. Criou um site de Star Wars acessado por milhares de pessoas no mundo diariamente."
-  thumbnailUrl: BrunoOrlandi.jpg
-  rockstar: false
-  mentor: true
-  social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/brorlandi"}
-
-# Yan Magalhaes
-- 
-  id: 9995
-  name: "Yan"
-  surname: "Magalhães"
-  company: "4YouSee Digital Signage"
-  title: "Full Stack Web Developer"
-  bio: "Yan Magalhães é full stack developer e graduado em Ciências da Computação. Apaixonado pela web, está sempre acompanhando as novas tecnologias e tendências. Participa sempre que pode dos eventos e encontros promovidos pela comunidade, e é um dos organizadores do GDG-BH e do FEMUG-MG. Procura contribuir em projetos Open Source e acredita muito no poder que as soluções desenvolvidas por nós, desenvolvedores, que podem mudar o dia-a-dia das pessoas. Adora uma boa conversa acompanhada de café e pão de queijo."
-  thumbnailUrl: YanMagalhaes.jpg
-  rockstar: false
-  social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/yanmagalhaes/"}
-
-
-# Marcel Vitorino
-- 
-  id: 9996
-  name: "Marcel"
-  surname: "Vitorino"
-  company: "uDataTools"
-  title: "Founder da uDataTools"
-  bio: "Paulistano, formado em Administração de Empresas e cursando um MBA em Marketing com ênfase em Tendências e Inovação. 20 anos de experiência em multinacionais de bens de consumo, trilhando uma carreira nas áreas de vendas, marketing e TI. Atualmente Gerente de Desenvolvimento de negócios em uma consultoria de tecnologia e fundador da uDataTools, uma StartUp de Inteligência Cognitiva e BigData as a Service. Amante de música de boa qualidade, de praticar esportes, estar com a família e com os filhos. Devorador de conteúdo online, especialmente canais no YouTube e Podcasts, que se tornaram as maiores fontes de informação, atualização e aprendizado."
-  thumbnailUrl: MarcelVitorino.jpg
-  rockstar: false
-  social: 
-    - {name: "linkedin", link: "https://linkedin.com/in/marcelvitorino"}
-
-
-# Thiago Caserta
-- 
-  id: 9997
-  name: "Thiago"
-  surname: "Caserta"
-  company: "Ativy | High Performance Cloud"
-  title: "Diretor de Produtos e Soluções"
-  bio: "Thiago Caserta é Diretor de Produtos e Soluções da Ativy, empresa brasileira com foco em Cloud Computing e IT Outsourcing. Formado em Análise de Sistemas com especialização em Management and Leadership pela FGV e Cloud Computing pela University of Illinois, IL, USA. Possui diversas certificações focadas em SQL Server. Caserta passou por empresas como T-Systems e IBM atuando como especialista em banco de dados e entre 2011 e 2016 trabalhou na Microsoft Corporation nos Estados Unidos, atuando com clientes da plataforma de dados SQL Server na adoção das soluções em nuvem da Microsoft (Azure e SQL Azure), como JP Morgan, UPS, Intel e Cisco. Fundou a Rheeno em 2016, startup focada em serviços de banco de dados e ofertas de DevOps, empresa que foi adquirida pela Ativy em Junho de 2017, após rápido crescimento no mercado enterprise."
-  thumbnailUrl: ThiagoCaserta.jpg
-  rockstar: false
-  social: 
-    - {name: "linkedin", link: "http://linkedin.com/in/thiagocaserta"}
-
-
-# Daniel Takaki 
-- 
-  id: 9998
-  name: "Daniel"
-  surname: "Takaki"
-  company: "Grupo Nippak, Aquos Cosmeticos"
-  title: "Empreendedor"
-  bio: "Sócio e diretor do Grupo Nippak. Presidente da APRI - Associação Paulista de Relações Internacionais. Secretário do IDT-CEMA (Instituto de desenvolvimento, turismo, cultura e meio ambiente). Diretor de Marketing da CBMMA - Confederação Brasileira de MMA, diretor do Instituto Muda Vidas . Sócio de diversas empresas atuando nas áreas de comunicação, marketing e eventos, alimentação, turismo, tecnologia, economia criativa e startups. Atualmente, dedicado ao processo de auxiliar na criação de ecossistemas de empreendedorismo e inovação em diversos municípios do Brasil, através da criação de  empresas e startups. Atua como voluntário em diversas entidades e possui projetos na área de educação, desenvolvimento social, meio ambiente, esporte e Turismo."
-  thumbnailUrl: DanielTakaki.jpg
-  rockstar: false
-  social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/danieltakaki"}
-
-# Marco Garcia
-- 
-  id: 99910
-  name: "Marco"
-  surname: "Garcia"
-  company: "Cetax Consultoria"
-  title: "Arquiteto"
-  bio: "CTO e Arquiteto de Dados na Cetax Consultoria, +20 anos trabalhando com dados, +4 com BigData e Hadoop, profissional Certificado Hortonworks"
-  thumbnailUrl: MarcoGarcia.jpg
-  rockstar: false
-  social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/mgarciacetax/"}
-
-# Igor Luiz
-- 
-  id: 99912
+    - { name: "linkedin", link: "https://www.linkedin.com/in/flaap" }
+    - { name: "twitter", link: "https://twitter.com/pimentaflavio" }
+  sessions:
+    - title: "11:10 - 12:00: Posso falar sobre carreira, devops, backend.. se acordo com o interesse da turma"
+  
+# Igor Ming
+-
+  id: 021
   name: "Igor"
-  surname: "Luiz"
-  company: "Stored"
-  title: "Senior Front-end Engineer"
-  bio: "Desenvolvedor Full Stack, apesar de que a criança interior ainda permanece no front, curte muito javascript, compartilhar os paranauês que sabe e contribuir com software livre :D"
-  thumbnailUrl: IgorLuiz.jpg
+  surname: "Ming"
+  company: "S2 IT"
+  title: "Especialista Frontend"
+  bio: "Apreciador de tecnologias open source, especialista Frontend e alguém realmente apaixonado pelo que faz. Seja atuando diretamente, ou compartilhando/trocando conhecimento."
+  thumbnailUrl: IgorMing.jpg
   rockstar: false
-  social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/igorhalfeld/"}
-    - {name: "site", link: "http://igorluiz.me"}
+  mentor: true
+  social:
+    - { name: "linkedin", link: "https://www.linkedin.com/in/igor-mesquita-12848033/" }
+  sessions:
+    - title: "10h20 - 11h20: Construir seu plano de carreira, sem depender do plano de carreira de sua empresa, é um dos fatores mais importantes para um profissional de TI."
 
-# Eduardo Vicente Gonçalves
-- 
-  id: 99913
-  name: "Eduardo"
-  surname: "Cuducos"
-  company: "Operação Serenata de Amor"
-  title: "Sociólogo"
-  bio: "Cuducos é um dos fundadores da Operação Serenata de Amor e doutorando em sociologia (Universidade de Essex, Reino Unido). Ele é um geek apaixonado por código aberto, cultura e política — usa a tecnologia como voz política. Na Serenata ele atua como gestor de comunidade e desenvolvedor."
-  thumbnailUrl: Cuducos.jpeg
-  rockstar: false
-  social: 
-    - {name: "site", link: "http://cuducos.me/"}
-
-# Lucas Nascimento Arruda
-- 
-  id: 99914
-  name: "Lucas"
-  surname: "Arruda"
-  company: "CI&T"
-  title: "Software Architect"
-  bio: "Lucas é Google Developer Expert, Authorized Trainer e Certified Architect em Google Cloud Platform. Especialista no tema há cerca de 4 anos, trabalha como Arquiteto de Software na CI&T e já treinou mais de 200 developers no assunto. Atualmente lidera um projeto de Big Data e processamento de dados para fins analíticos, utilizando GCP como diferencial na arquitetura da plataforma sendo construída. Também é palestrante há alguns anos em eventos nacionais e internacionais e evangelista Open-Source."
-  thumbnailUrl: LucasArruda.jpg
-  rockstar: false
-  social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/larruda"}
-
-# Daniela Chieppe
-- 
-  id: 99916
-  name: "Daniela Cais"
+  # Daniela Chieppe
+-
+  id: 035
+  name: "Daniela"
   surname: "Chieppe"
-  company: "Omelete Inteligência"
-  title: "Communication Trainer & Business Consultant."
-  bio: "Especialista em Comunicação Interpessoal e Profissional, Mestre em Fonoaudiologia, atua como Consultora de Comunicação e Novos Negócios na Omelete Inteligência e Treinamentos em Comunicação."
+  company: "Prosa & Co | Te Business Lab"
+  title: "Founder | Senior Executive Partner"
+  bio: ""
   thumbnailUrl: DanielaChieppe.jpg
+  mentor: true
   rockstar: false
-  social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/daniela-cais-chieppe-3a08ab/detail/recent-activity/shares/"}
+  social:
+    - { name: "linkedin", link: "https://www.linkedin.com/in/daniela-cais-chieppe-3a08ab" }
+  sessions:
+    - title: "Manhã: Orientação sobre Comunicação Interpessoal - de acordo com a necessidade profissional de cada um."
 
-# Thaissa Candella
-- 
-  id: 99921
-  name: "Thaíssa"
-  surname: "Candella"
-  company: "Weme"
-  title: "IT Strategy Transformation Analyst"
-  bio: "Thaíssa Candella é IT Strategy Analyst na Weme, uma empresa de inovação e empreendedorismo. Atua também como software developer com experiência em Android, iOS nativos e nodejs (backend), participou do desenvolvimento de projetos para Google, Nextel, C&A e Marisa em sua jornada na Dextra Digital. Técnica em informática pelo Colégio Técnico da Unicamp (Cotuca) e graduanda em Matemática Aplicada Computacional na Unicamp. É lead organizer das comunidades Facebook Developer Circles, Google Women Techmakers Campinas e Google Developer Group Campinas (GDG Campinas) onde é responsável pela estratégia e logística de eventos, gestão de conteúdos, comunicação e aquisição de novos parceiros."
-  thumbnailUrl: ThaissaCandella.jpeg
-  rockstar: false
-  social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/thaissacandella/"}
+# Maujor (Maurício Samy Silva)
+-
+  id: 004
+  name: "Maujor"
+  surname: "(Maurício Samy Silva)"
+  company: ""
+  title: "Dinossauro do CSS"
+  bio: "Maurício Samy Silva também conhecido como \"Dinossauro das CSS\" ou simplesmente Maujor® é graduado em Engenharia Civil pelo Instituto Militar de Engenharia (IME). Exerceu o magistério paralelamente à Engenharia, tendo sido, ao longo de 25 anos, professor de Geometria Descritiva e Matemática. Sua experiência com desenvolvimento web iniciou-se em 1999, após se aposentar aos 56 anos e conhecer o FrontPage. Em 2002, por acaso teve seu primeiro contato com o site do W3C, começou a pesquisar e estudar os Padrões Web e não parou mais. Maujor é autor de vários livros e mantém o site https://maujor.com."
+  thumbnailUrl: Maujor.jpg
+  mentor: true
+  rockstar: true
+  social:
+    - { name: "twitter", link: "https://twitter.com/maujor" }
+    - { name: "site", link: "https://maujor.com" }
+  sessions:
+    - title: "10:00h - 11:30h: Desenvolvimento frontend"
 
-# Luis Felipe
-- 
-  id: 99925
-  name: "Luís"
-  surname: "Felipe"
-  company: "Magnetis Investimentos"
-  title: "Front-End Developer"
-  bio: "Desenvolvedor Front-end desde 2010, hoje trabalho na Magnetis e sou organizador do Meetup Design Campinas. Gosto de tudo que envolve os produtos digitais, desde UX até o código. Sou fã de comunidades!"
-  thumbnailUrl: LuisFelipe.jpg
+# Douglas Augusto
+-
+  id: 012
+  name: "Douglas"
+  surname: "Augusto"
+  company: "Avenue Code"
+  title: "Cloud Engineer"
+  bio: "Douglas Augusto é apaixonado pelas áreas de Cloud Computing e Machine Learning, atualmente trabalha como Cloud Engineer na Avenue Code, empresa norte americana que presta consultoria em tecnologia para grandes clientes.  Na sua carreira, participou de projetos inovadores para clientes como Coca Cola, Fiat e Jeep. Possui certificado de Arquiteto Google Cloud e tem clientes particulares na área de Aprendizado Máquina. É organizador das comunidades GDG João Monlevade e a Google Cloud Developer Community Belo Horizonte. Presta mentorias de Cloud Computing e Machine Learning no Google Launchpad, programa de aceleração de startups da Google."
+  thumbnailUrl: DouglasAugusto.jpg
+  mentor: true
   rockstar: false
-  social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/luisfmsouza/"}
-    - {name: "twitter", link: "http://twitter.com/luisfmsouz"}
-    - {name: "site", link: "https://medium.com/@luisfmsouza"}
+  social:
+    - { name: "linkedin", link: "https://www.linkedin.com/in/douglasaugusto/" }
+    - { name: "site", link: "https://douglasaugus.to/" }
+  sessions:
+    - title: "15h10 - 16h30: Posso mentorar nos mesmo tópicos que presto mentorias no Google Launchpad, que são: Cloud Computing e Machine Learning"
+
+# Diego Felipe Lassa
+-
+  id: 012
+  name: "Diego Felipe"
+  surname: "Lassa"
+  company: ""
+  title: ""
+  bio: ""
+  thumbnailUrl: DiegoFelipeLassa.jpg
+  mentor: true
+  rockstar: false
+  social: []
+  sessions:
+    - title: "17h: Teoria de programacao / Java / Android"
+
+# Rodrigo Pokemon
+-
+  id: 017
+  name: "Rodrigo"
+  surname: "Pokemon"
+  company: "iMasters"
+  title: "Community Manager"
+  bio: "Bacharel em Matemática Aplicada e Computacional pela Universidade Federal Rural do Rio de Janeiro, MBA em Engenharia de Software Orientada para Serviço pela Metrocamp. Community Manager no iMasters. Programador desde 1999. Evangelista PHPSP. Desenvolve sistemas desde batalhas Pokemon para mIRC até robôs automatizadores de tarefas."
+  thumbnailUrl: RodrigoPokemon.jpg
+  rockstar: true
+  social:
+    - { name: "linkedin", link: "https://www.linkedin.com/in/pokemaobr/" }
+  sessions:
+    - title: "16h30 - 17h: php, carreira, comunidade, organização de evento, programação web"
+
