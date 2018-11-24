@@ -205,11 +205,11 @@ Traga seu celular, papel e lápis de cor! :)"
 # William Grasel
 -
   id: 802
-  title: "A definir"
-  description: "A definir"
+  title: "E o Angular? Ainda vive?"
+  description: "O Angular continua sendo um dos framework mais importantes do mercado. É fortemente usado por bancos, por grandes players do mercado e até mesmo pela NASA. Entenda as novidades criadas pelo Google e o que vem por aí."
   subtype: presentation
   speakers: [038]
-  complexity: Todos
+  complexity: Básico
 
 # Daniel Cukier: actions
 -
@@ -333,7 +333,7 @@ Traga seu celular, papel e lápis de cor! :)"
 # Renato Ramos
 -
   id: 1205
-  title: "Carreiras internacionais - Mobile/"
+  title: "Carreiras internacionais - Mobile"
   description: "E ai tá afim de rapar fora do Braselll? Quer entender como conseguir uma oportunidade em outro pais(Eua, Europa etc..),  como entender se voce está realmente preparado para ir embora para outro pais, como se portar nos processos seletivos, o que fazer ? Como convencer que voce é a melhor escolha para aquela empresa, como conseguir vagas internacionais. e por ultimo meu querido: \"Quer entender o resultado do que fez no passado, pensa como está sua vida no presente; quer entender como será o seu futuro, pensa nas ações que está tomando no presente\""
   subtype: presentation
   speakers: [020]

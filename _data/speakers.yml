@@ -472,13 +472,15 @@ Curto muito viajar e acredito que a melhor forma de se aprender é conhecendo pe
   surname: "Grasel"
   company: "Itaú Unibanco"
   title: "Tech Lead and Software Engineer"
-  bio: ""
+  bio: "Desenvolvedor Web apaixonado com 15 anos de experiência na área, Google Developer Expert, especializado em FrontEnd com Single Page Apps e Progressive Web Apps, contribuidor opensource, consultor, organizador de meetups, palestrante, coordenador da comunidade AngularSP, amante de JavaScript, performance e programação funcional, sempre fascinado por novas tecnologias e de olho nesse tal de Web Assembly."
   thumbnailUrl: WilliamGrasel.jpg
   rockstar: false
   ribbon: 
     - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
   social:
     - { name: "linkedin", link: "https://www.linkedin.com/in/william-grasel-799146114/" }
+    - { name: "github", link: "https://github.com/willgm" }
+    - { name: "twitter", link: "https://twitter.com/willgmbr" }
 
 # Clarissa Loureiro
 -
